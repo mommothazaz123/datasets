@@ -1,0 +1,2538 @@
+{
+  "a": [
+    "Ranger (Revised)",
+    "Wizard",
+    "Ranger (Spell-less)",
+    "Artificer",
+    "Warlock",
+    "Bard",
+    "Paladin",
+    "Barbarian"
+  ],
+  "necromancer": [
+    "Ranger (Revised)",
+    "Sorcerer",
+    "Artificer",
+    "Ranger",
+    "Rogue"
+  ],
+  "knight": [
+    "Ranger (Revised)",
+    "Monk",
+    "Ranger",
+    "Druid",
+    "Fighter"
+  ],
+  "feat": [
+    "Artificer",
+    "Rogue",
+    "Cleric",
+    "Bard",
+    "Fighter"
+  ],
+  "list": [
+    "Cleric",
+    "Mystic",
+    "Druid",
+    "Paladin",
+    "Fighter"
+  ],
+  "gunslinger": [
+    "Rogue",
+    "Ranger",
+    "Cleric",
+    "Paladin",
+    "Fighter"
+  ],
+  "help": [
+    "Rogue",
+    "Cleric",
+    "Ranger",
+    "Paladin",
+    "Fighter"
+  ],
+  "warrior": [
+    "Wizard",
+    "Sorcerer",
+    "Artificer",
+    "Warlock",
+    "Barbarian"
+  ],
+  "elf": [
+    "Rogue",
+    "Cleric",
+    "Ranger",
+    "Paladin",
+    "Fighter"
+  ],
+  "bloodhunter": [
+    "Rogue",
+    "Ranger",
+    "Cleric",
+    "Paladin",
+    "Fighter"
+  ],
+  "mage": [
+    "Ranger (Revised)",
+    "Artificer",
+    "Ranger",
+    "Rogue",
+    "Fighter"
+  ],
+  "e": [
+    "Ranger (Revised)",
+    "Ranger (Spell-less)",
+    "Sorcerer",
+    "Artificer",
+    "Cleric"
+  ],
+  "rouge": [
+    "Druid",
+    "Rogue",
+    "Warlock",
+    "Ranger"
+  ],
+  "hunter": [
+    "Rogue",
+    "Artificer",
+    "Ranger",
+    "Cleric"
+  ],
+  "r": [
+    "Ranger (Revised)",
+    "Rogue",
+    "Ranger",
+    "Ranger (Spell-less)"
+  ],
+  "eldritch": [
+    "Druid",
+    "Artificer",
+    "Ranger",
+    "Paladin"
+  ],
+  "hexblade": [
+    "Bard",
+    "Cleric",
+    "Wizard",
+    "Paladin"
+  ],
+  "alchemist": [
+    "Warlock",
+    "Artificer",
+    "Paladin",
+    "Mystic"
+  ],
+  "samurai": [
+    "Paladin",
+    "Artificer",
+    "Barbarian",
+    "Bard"
+  ],
+  "archer": [
+    "Sorcerer",
+    "Fighter",
+    "Cleric",
+    "Ranger"
+  ],
+  "thief": [
+    "Fighter",
+    "Ranger (Revised)",
+    "Artificer",
+    "Mystic"
+  ],
+  "feature": [
+    "Fighter",
+    "Bard",
+    "Rogue",
+    "Sorcerer"
+  ],
+  "all": [
+    "Warlock",
+    "Cleric",
+    "Ranger (Spell-less)",
+    "Paladin"
+  ],
+  "pugilist": [
+    "Fighter",
+    "Paladin",
+    "Mystic"
+  ],
+  "swashbuckler": [
+    "Sorcerer",
+    "Warlock",
+    "Cleric"
+  ],
+  "rang": [
+    "Ranger (Revised)",
+    "Ranger",
+    "Ranger (Spell-less)"
+  ],
+  "ran": [
+    "Ranger (Revised)",
+    "Ranger",
+    "Ranger (Spell-less)"
+  ],
+  "i": [
+    "Druid",
+    "Cleric",
+    "Mystic"
+  ],
+  "spellcasting": [
+    "Ranger",
+    "Ranger (Spell-less)",
+    "Paladin"
+  ],
+  "bladesinger": [
+    "Fighter",
+    "Artificer",
+    "Ranger"
+  ],
+  "death": [
+    "Bard",
+    "Artificer",
+    "Cleric"
+  ],
+  "blood": [
+    "Warlock",
+    "Monk",
+    "Paladin"
+  ],
+  "gnome": [
+    "Fighter",
+    "Rogue",
+    "Ranger"
+  ],
+  "dwarf": [
+    "Bard",
+    "Wizard",
+    "Druid"
+  ],
+  "warforged": [
+    "Bard",
+    "Warlock",
+    "Wizard"
+  ],
+  "range": [
+    "Ranger (Revised)",
+    "Ranger",
+    "Ranger (Spell-less)"
+  ],
+  "spy": [
+    "Ranger (Revised)",
+    "Ranger (Spell-less)",
+    "Paladin"
+  ],
+  "ramger": [
+    "Ranger (Revised)",
+    "Rogue",
+    "Ranger"
+  ],
+  "c": [
+    "Warlock",
+    "Cleric",
+    "Mystic"
+  ],
+  "kensei": [
+    "Sorcerer",
+    "Ranger (Revised)",
+    "Cleric"
+  ],
+  "ghost": [
+    "Fighter",
+    "Rogue"
+  ],
+  "metamagic": [
+    "Artificer",
+    "Cleric"
+  ],
+  "beastmaster": [
+    "Artificer",
+    "Ranger"
+  ],
+  "spell-less": [
+    "Ranger (Revised)",
+    "Ranger (Spell-less)"
+  ],
+  "sorceror": [
+    "Sorcerer",
+    "Artificer"
+  ],
+  "n": [
+    "Ranger (Spell-less)",
+    "Paladin"
+  ],
+  "sharpshooter": [
+    "Fighter",
+    "Artificer"
+  ],
+  "ra": [
+    "Ranger (Revised)",
+    "Ranger (Spell-less)"
+  ],
+  "order": [
+    "Sorcerer",
+    "Bard"
+  ],
+  "shadow": [
+    "Sorcerer",
+    "Paladin"
+  ],
+  "psion": [
+    "Sorcerer",
+    "Mystic"
+  ],
+  "portent": [
+    "Sorcerer",
+    "Artificer"
+  ],
+  "assasin": [
+    "Ranger",
+    "Ranger (Spell-less)"
+  ],
+  "gravecleric": [
+    "Cleric",
+    "Artificer"
+  ],
+  "oathbreaker": [
+    "Artificer",
+    "Ranger"
+  ],
+  "Hexblade": [
+    "Cleric",
+    "Paladin"
+  ],
+  "sneak": [
+    "Bard",
+    "Monk"
+  ],
+  "loremaster": [
+    "Artificer",
+    "Mystic"
+  ],
+  "roguw": [
+    "Rogue",
+    "Ranger"
+  ],
+  "priest": [
+    "Cleric",
+    "Mystic"
+  ],
+  "gloom": [
+    "Rogue",
+    "Cleric"
+  ],
+  "<rogue>": [
+    "Druid",
+    "Rogue"
+  ],
+  "witch": [
+    "Cleric",
+    "Mystic"
+  ],
+  "monster": [
+    "Fighter",
+    "Mystic"
+  ],
+  "cavalier": [
+    "Fighter",
+    "Cleric"
+  ],
+  "bar": [
+    "Bard",
+    "Barbarian"
+  ],
+  "aasimar": [
+    "Bard",
+    "Artificer"
+  ],
+  "scout": [
+    "Sorcerer",
+    "Rogue"
+  ],
+  "background": [
+    "Druid",
+    "Bard"
+  ],
+  "<Ranger>": [
+    "Ranger (Revised)",
+    "Ranger"
+  ],
+  "Samurai": [
+    "Bard",
+    "Artificer"
+  ],
+  "berserker": [
+    "Artificer",
+    "Barbarian"
+  ],
+  "articifer": [
+    "Artificer",
+    "Mystic"
+  ],
+  "b": [
+    "Bard",
+    "Barbarian"
+  ],
+  "s": [
+    "Sorcerer",
+    "Mystic"
+  ],
+  "Gunslinger": [
+    "Fighter",
+    "Ranger"
+  ],
+  "mist": [
+    "Ranger (Revised)",
+    "Mystic"
+  ],
+  "o": [
+    "Rogue",
+    "Monk"
+  ],
+  "spores": [
+    "Sorcerer",
+    "Ranger (Revised)"
+  ],
+  "<warrior>": [
+    "Sorcerer",
+    "Artificer"
+  ],
+  "rage": [
+    "Fighter",
+    "Ranger"
+  ],
+  "inquisitive": [
+    "Druid",
+    "Mystic"
+  ],
+  "beast": [
+    "Barbarian",
+    "Mystic"
+  ],
+  "battle": [
+    "Fighter",
+    "Bard"
+  ],
+  "pirate": [
+    "Rogue",
+    "Artificer"
+  ],
+  "<fighter>": [
+    "Fighter",
+    "Artificer"
+  ],
+  "swords": [
+    "Bard",
+    "Wizard"
+  ],
+  "f": [
+    "Fighter",
+    "Artificer"
+  ],
+  "Bloodhunter": [
+    "Fighter",
+    "Paladin"
+  ],
+  "spore": [
+    "Sorcerer",
+    "Ranger"
+  ],
+  "swash": [
+    "Ranger (Revised)",
+    "Wizard"
+  ],
+  "<ranger>": [
+    "Ranger (Revised)",
+    "Ranger"
+  ],
+  "gladiator": [
+    "Fighter",
+    "Barbarian"
+  ],
+  "<cleric>": [
+    "Cleric",
+    "Artificer"
+  ],
+  "warlord": [
+    "Warlock",
+    "Artificer"
+  ],
+  "kensai": [
+    "Artificer",
+    "Paladin"
+  ],
+  "w": [
+    "Warlock",
+    "Wizard"
+  ],
+  "features": [
+    "Fighter",
+    "Bard"
+  ],
+  "battlemaster": [
+    "Bard",
+    "Artificer"
+  ],
+  "rangers": [
+    "Ranger (Revised)",
+    "Rogue"
+  ],
+  "assassin": [
+    "Ranger",
+    "Paladin"
+  ],
+  "rangee": [
+    "Ranger (Revised)",
+    "Ranger"
+  ],
+  "<paladin>": [
+    "Paladin",
+    "Barbarian"
+  ],
+  "cleric": [
+    "Cleric"
+  ],
+  "rogue": [
+    "Rogue"
+  ],
+  "ranger": [
+    "Ranger"
+  ],
+  "revised": [
+    "Ranger (Revised)"
+  ],
+  "bard": [
+    "Bard"
+  ],
+  "warlock": [
+    "Warlock"
+  ],
+  "monk": [
+    "Monk"
+  ],
+  "fighter": [
+    "Fighter"
+  ],
+  "ghostwise": [
+    "Mystic"
+  ],
+  "warlo": [
+    "Warlock"
+  ],
+  "druid": [
+    "Druid"
+  ],
+  "wizard": [
+    "Wizard"
+  ],
+  "barbarian": [
+    "Barbarian"
+  ],
+  "sorcerer": [
+    "Sorcerer"
+  ],
+  "Barbarian": [
+    "Barbarian"
+  ],
+  "sorc": [
+    "Sorcerer"
+  ],
+  "barf": [
+    "Bard"
+  ],
+  "barbar": [
+    "Barbarian"
+  ],
+  "paladin": [
+    "Paladin"
+  ],
+  "Sorcerer": [
+    "Sorcerer"
+  ],
+  "Fighter": [
+    "Fighter"
+  ],
+  "Ranger": [
+    "Ranger"
+  ],
+  "ranger(revised)": [
+    "Ranger (Revised)"
+  ],
+  "druids": [
+    "Druid"
+  ],
+  "pal": [
+    "Paladin"
+  ],
+  "beard": [
+    "Bard"
+  ],
+  "sor": [
+    "Sorcerer"
+  ],
+  "war": [
+    "Warlock"
+  ],
+  "Paladin": [
+    "Paladin"
+  ],
+  "artificer": [
+    "Artificer"
+  ],
+  "mystic": [
+    "Mystic"
+  ],
+  "pladib": [
+    "Paladin"
+  ],
+  "Druid": [
+    "Druid"
+  ],
+  "Warlock": [
+    "Warlock"
+  ],
+  "style": [
+    "Fighter"
+  ],
+  "Bard": [
+    "Bard"
+  ],
+  "Barb": [
+    "Barbarian"
+  ],
+  "Sorc": [
+    "Sorcerer"
+  ],
+  "Ceric": [
+    "Cleric"
+  ],
+  "p": [
+    "Paladin"
+  ],
+  "drunk": [
+    "Monk"
+  ],
+  "Wizard": [
+    "Wizard"
+  ],
+  "Eldritch": [
+    "Ranger"
+  ],
+  "sourcerer": [
+    "Sorcerer"
+  ],
+  "Cleric": [
+    "Cleric"
+  ],
+  "barb": [
+    "Barbarian"
+  ],
+  "Rogue": [
+    "Rogue"
+  ],
+  "foghter": [
+    "Fighter"
+  ],
+  "necromancy": [
+    "Ranger"
+  ],
+  "Revisedranger": [
+    "Ranger (Revised)"
+  ],
+  "barbariam": [
+    "Barbarian"
+  ],
+  "Bar": [
+    "Barbarian"
+  ],
+  "Artificer": [
+    "Artificer"
+  ],
+  "Monk": [
+    "Monk"
+  ],
+  "sorcerers": [
+    "Sorcerer"
+  ],
+  "sorcer": [
+    "Sorcerer"
+  ],
+  "figther": [
+    "Fighter"
+  ],
+  "barbarin": [
+    "Barbarian"
+  ],
+  "ranger (revised)": [
+    "Ranger (Revised)"
+  ],
+  "barbarians": [
+    "Barbarian"
+  ],
+  "revised ranger (UA)": [
+    "Ranger (Revised)"
+  ],
+  "renger": [
+    "Ranger (Revised)"
+  ],
+  "arti": [
+    "Artificer"
+  ],
+  "myatic": [
+    "Mystic"
+  ],
+  "art": [
+    "Artificer"
+  ],
+  "rogud": [
+    "Rogue"
+  ],
+  "wildshape": [
+    "Druid"
+  ],
+  "Magw": [
+    "Bard"
+  ],
+  "Vampire": [
+    "Artificer"
+  ],
+  "warlok": [
+    "Warlock"
+  ],
+  "(spell)": [
+    "Ranger (Revised)"
+  ],
+  "ranger revised": [
+    "Ranger (Revised)"
+  ],
+  "artifice": [
+    "Artificer"
+  ],
+  "cler": [
+    "Cleric"
+  ],
+  "rog": [
+    "Rogue"
+  ],
+  "h": [
+    "Fighter"
+  ],
+  "fighet": [
+    "Fighter"
+  ],
+  "pladain": [
+    "Paladin"
+  ],
+  "wizard.": [
+    "Wizard"
+  ],
+  "artigficer": [
+    "Artificer"
+  ],
+  "ki": [
+    "Monk"
+  ],
+  "abacaxi": [
+    "Bard"
+  ],
+  "wiz": [
+    "Wizard"
+  ],
+  "figter": [
+    "Fighter"
+  ],
+  "walrock": [
+    "Warlock"
+  ],
+  "atificier": [
+    "Artificer"
+  ],
+  "pryomancer": [
+    "Sorcerer"
+  ],
+  "wiza": [
+    "Wizard"
+  ],
+  "artififer": [
+    "Artificer"
+  ],
+  "bars": [
+    "Bard"
+  ],
+  "favored": [
+    "Sorcerer"
+  ],
+  "aero": [
+    "Artificer"
+  ],
+  "pala": [
+    "Paladin"
+  ],
+  "<Warlock>": [
+    "Warlock"
+  ],
+  "Berserker": [
+    "Barbarian"
+  ],
+  "rogu": [
+    "Rogue"
+  ],
+  "ranger4": [
+    "Ranger (Spell-less)"
+  ],
+  "pyromancer": [
+    "Sorcerer"
+  ],
+  "cryomancer": [
+    "Sorcerer"
+  ],
+  "revise": [
+    "Ranger (Revised)"
+  ],
+  "Reincarnate": [
+    "Artificer"
+  ],
+  "fightee": [
+    "Fighter"
+  ],
+  "figheer": [
+    "Fighter"
+  ],
+  "barabrian": [
+    "Barbarian"
+  ],
+  "Ember": [
+    "Fighter"
+  ],
+  "anti": [
+    "Paladin"
+  ],
+  "<bard>": [
+    "Bard"
+  ],
+  "ranger:UA": [
+    "Ranger (Revised)"
+  ],
+  "warkock": [
+    "Warlock"
+  ],
+  "Mystic": [
+    "Mystic"
+  ],
+  "wizar": [
+    "Wizard"
+  ],
+  "spell": [
+    "Ranger (Spell-less)"
+  ],
+  "spll": [
+    "Ranger (Spell-less)"
+  ],
+  "fighter5": [
+    "Fighter"
+  ],
+  "baRD": [
+    "Bard"
+  ],
+  "muscle": [
+    "Rogue"
+  ],
+  "druis": [
+    "Druid"
+  ],
+  "homebrew": [
+    "Cleric"
+  ],
+  "inquisative": [
+    "Druid"
+  ],
+  "fight": [
+    "Fighter"
+  ],
+  "k": [
+    "Warlock"
+  ],
+  "rranger": [
+    "Ranger (Revised)"
+  ],
+  "warlcok": [
+    "Warlock"
+  ],
+  "th": [
+    "Mystic"
+  ],
+  "expertise": [
+    "Ranger (Spell-less)"
+  ],
+  "monsterslayer": [
+    "Ranger"
+  ],
+  "murderhobo": [
+    "Artificer"
+  ],
+  "cruis": [
+    "Druid"
+  ],
+  "rangerua": [
+    "Ranger (Revised)"
+  ],
+  "Bright-Lord": [
+    "Bard"
+  ],
+  "fig": [
+    "Fighter"
+  ],
+  "defense": [
+    "Sorcerer"
+  ],
+  "patientdefense": [
+    "Ranger (Spell-less)"
+  ],
+  "artificier": [
+    "Artificer"
+  ],
+  "neko": [
+    "Rogue"
+  ],
+  "mystix": [
+    "Mystic"
+  ],
+  "madlad": [
+    "Paladin"
+  ],
+  "soulknife": [
+    "Artificer"
+  ],
+  "vampire": [
+    "Bard"
+  ],
+  "op": [
+    "Paladin"
+  ],
+  "underpowered": [
+    "Ranger (Revised)"
+  ],
+  "mage_worrior": [
+    "Artificer"
+  ],
+  "palad": [
+    "Paladin"
+  ],
+  "monki": [
+    "Monk"
+  ],
+  "gloomstalker": [
+    "Ranger"
+  ],
+  "Barbarin": [
+    "Barbarian"
+  ],
+  "druiid": [
+    "Druid"
+  ],
+  "Lizard": [
+    "Druid"
+  ],
+  "rugoe": [
+    "Rogue"
+  ],
+  "artifancer": [
+    "Artificer"
+  ],
+  "rev": [
+    "Ranger (Revised)"
+  ],
+  "cleric(death)": [
+    "Cleric"
+  ],
+  "dr": [
+    "Druid"
+  ],
+  "revisedranger": [
+    "Ranger (Revised)"
+  ],
+  "ar": [
+    "Artificer"
+  ],
+  "killmyself": [
+    "Cleric"
+  ],
+  "<paladin>[level5]": [
+    "Paladin"
+  ],
+  "ranger(Spell": [
+    "Ranger (Spell-less)"
+  ],
+  "bardic": [
+    "Bard"
+  ],
+  "wizard(lore)": [
+    "Wizard"
+  ],
+  "Ranger 4": [
+    "Ranger"
+  ],
+  "sorceree": [
+    "Sorcerer"
+  ],
+  "barbaian": [
+    "Barbarian"
+  ],
+  "charger": [
+    "Ranger"
+  ],
+  "theif": [
+    "Mystic"
+  ],
+  "woz": [
+    "Wizard"
+  ],
+  "divinesense": [
+    "Paladin"
+  ],
+  "palindin": [
+    "Paladin"
+  ],
+  "<druid>": [
+    "Druid"
+  ],
+  "Slayer": [
+    "Ranger"
+  ],
+  "barba": [
+    "Barbarian"
+  ],
+  "cav": [
+    "Mystic"
+  ],
+  "cleri": [
+    "Cleric"
+  ],
+  "Sorcrer": [
+    "Sorcerer"
+  ],
+  "wizad": [
+    "Wizard"
+  ],
+  "rube": [
+    "Rogue"
+  ],
+  "warl": [
+    "Warlock"
+  ],
+  "babarian": [
+    "Barbarian"
+  ],
+  "E": [
+    "Ranger (Revised)"
+  ],
+  "artific": [
+    "Artificer"
+  ],
+  "artif": [
+    "Artificer"
+  ],
+  "gloomstlaker": [
+    "Ranger"
+  ],
+  "gunsmith": [
+    "Fighter"
+  ],
+  "sunsoul": [
+    "Monk"
+  ],
+  "barbarain": [
+    "Barbarian"
+  ],
+  "palidan": [
+    "Paladin"
+  ],
+  "spellless": [
+    "Ranger (Spell-less)"
+  ],
+  "ndksnssw": [
+    "Monk"
+  ],
+  "rougue": [
+    "Rogue"
+  ],
+  "badfighter": [
+    "Paladin"
+  ],
+  "sorcers": [
+    "Sorcerer"
+  ],
+  "https://ddb.ac/characters/6983375/d2YeYD": [
+    "Sorcerer"
+  ],
+  "Artificier": [
+    "Artificer"
+  ],
+  "worlock": [
+    "Warlock"
+  ],
+  "walker": [
+    "Ranger"
+  ],
+  "ranger(ua)": [
+    "Ranger (Revised)"
+  ],
+  "wi": [
+    "Wizard"
+  ],
+  "barbarina": [
+    "Barbarian"
+  ],
+  "patron": [
+    "Warlock"
+  ],
+  "<spell>": [
+    "Sorcerer"
+  ],
+  "reogue": [
+    "Rogue"
+  ],
+  "barbaruan": [
+    "Barbarian"
+  ],
+  "zealot": [
+    "Bard"
+  ],
+  "cleris": [
+    "Cleric"
+  ],
+  "artifacter": [
+    "Artificer"
+  ],
+  "warlck": [
+    "Wizard"
+  ],
+  "fighte": [
+    "Fighter"
+  ],
+  "satire": [
+    "Bard"
+  ],
+  "rabger": [
+    "Ranger"
+  ],
+  "<magic>": [
+    "Mystic"
+  ],
+  "<spellcaster>": [
+    "Ranger (Spell-less)"
+  ],
+  "<Barbarian>": [
+    "Barbarian"
+  ],
+  "figher": [
+    "Fighter"
+  ],
+  "BloodHunter": [
+    "Rogue"
+  ],
+  "bread": [
+    "Bard"
+  ],
+  "warcleric": [
+    "Cleric"
+  ],
+  "tiefling": [
+    "Mystic"
+  ],
+  "protection": [
+    "Paladin"
+  ],
+  "darknight": [
+    "Warlock"
+  ],
+  "brawler": [
+    "Barbarian"
+  ],
+  "rogye": [
+    "Rogue"
+  ],
+  "besrseker": [
+    "Ranger (Spell-less)"
+  ],
+  "construct": [
+    "Cleric"
+  ],
+  "barx": [
+    "Bard"
+  ],
+  "monky": [
+    "Monk"
+  ],
+  "tranquility": [
+    "Artificer"
+  ],
+  "changeling": [
+    "Ranger"
+  ],
+  "Cumbria": [
+    "Mystic"
+  ],
+  "Rouge": [
+    "Rogue"
+  ],
+  "palidin": [
+    "Paladin"
+  ],
+  "fucker": [
+    "Fighter"
+  ],
+  "drove": [
+    "Druid"
+  ],
+  "ro": [
+    "Rogue"
+  ],
+  "wizarx": [
+    "Wizard"
+  ],
+  "boop": [
+    "Warlock"
+  ],
+  "etoy": [
+    "Ranger"
+  ],
+  "archetype": [
+    "Artificer"
+  ],
+  "palladin": [
+    "Paladin"
+  ],
+  "driud": [
+    "Druid"
+  ],
+  "champion": [
+    "Barbarian"
+  ],
+  "ranger(spell": [
+    "Ranger (Spell-less)"
+  ],
+  "monks": [
+    "Monk"
+  ],
+  "horizonwalker": [
+    "Ranger"
+  ],
+  "Sorceror": [
+    "Sorcerer"
+  ],
+  "giant": [
+    "Barbarian"
+  ],
+  "articfer": [
+    "Artificer"
+  ],
+  "dream": [
+    "Druid"
+  ],
+  "so": [
+    "Sorcerer"
+  ],
+  "must": [
+    "Rogue"
+  ],
+  "driod": [
+    "Druid"
+  ],
+  "fi": [
+    "Fighter"
+  ],
+  "ba": [
+    "Bard"
+  ],
+  "fiend": [
+    "Artificer"
+  ],
+  "wizarf": [
+    "Wizard"
+  ],
+  "cleric'": [
+    "Cleric"
+  ],
+  "bards": [
+    "Bard"
+  ],
+  "dracomalfy": [
+    "Rogue"
+  ],
+  "clearic": [
+    "Cleric"
+  ],
+  "orc": [
+    "Sorcerer"
+  ],
+  "fighter2": [
+    "Fighter"
+  ],
+  "ranher": [
+    "Ranger (Revised)"
+  ],
+  "Chad": [
+    "Bard"
+  ],
+  "Virgin": [
+    "Barbarian"
+  ],
+  "Stacey": [
+    "Artificer"
+  ],
+  "sorcere": [
+    "Sorcerer"
+  ],
+  "rogur": [
+    "Rogue"
+  ],
+  "<fighter": [
+    "Fighter"
+  ],
+  "palaein": [
+    "Paladin"
+  ],
+  "barabarian": [
+    "Barbarian"
+  ],
+  "spelless": [
+    "Ranger (Spell-less)"
+  ],
+  "prostitute": [
+    "Artificer"
+  ],
+  "conclave": [
+    "Ranger"
+  ],
+  "hero": [
+    "Rogue"
+  ],
+  "channeler": [
+    "Fighter"
+  ],
+  "arif": [
+    "Artificer"
+  ],
+  "dreams": [
+    "Druid"
+  ],
+  "ranger10": [
+    "Ranger"
+  ],
+  "Palladian": [
+    "Barbarian"
+  ],
+  "drui": [
+    "Druid"
+  ],
+  "rough": [
+    "Rogue"
+  ],
+  "paladim": [
+    "Paladin"
+  ],
+  "shepherd": [
+    "Druid"
+  ],
+  "sorcoror": [
+    "Sorcerer"
+  ],
+  "Pala": [
+    "Paladin"
+  ],
+  "mink": [
+    "Monk"
+  ],
+  "sorserer": [
+    "Sorcerer"
+  ],
+  "figh": [
+    "Fighter"
+  ],
+  "bArd": [
+    "Bard"
+  ],
+  "celestial": [
+    "Cleric"
+  ],
+  "barab": [
+    "Barbarian"
+  ],
+  "sorusurer": [
+    "Sorcerer"
+  ],
+  "soururer": [
+    "Sorcerer"
+  ],
+  "oath": [
+    "Mystic"
+  ],
+  "sourcurer": [
+    "Sorcerer"
+  ],
+  "paladidin": [
+    "Paladin"
+  ],
+  "forge": [
+    "Ranger"
+  ],
+  "Cavalier": [
+    "Fighter"
+  ],
+  "Bonus": [
+    "Bard"
+  ],
+  "Warrior": [
+    "Warlock"
+  ],
+  "artificwr": [
+    "Artificer"
+  ],
+  "uaranger": [
+    "Ranger (Revised)"
+  ],
+  "less": [
+    "Ranger (Spell-less)"
+  ],
+  "cruid": [
+    "Druid"
+  ],
+  "palafin": [
+    "Paladin"
+  ],
+  "revisedRanger": [
+    "Ranger (Revised)"
+  ],
+  "warlocks": [
+    "Warlock"
+  ],
+  "Alchemist": [
+    "Artificer"
+  ],
+  "smite": [
+    "Artificer"
+  ],
+  "sourcereers": [
+    "Sorcerer"
+  ],
+  "archfey": [
+    "Warlock"
+  ],
+  "druid.": [
+    "Druid"
+  ],
+  "gihyer": [
+    "Fighter"
+  ],
+  "berzerker": [
+    "Barbarian"
+  ],
+  "sorcoer": [
+    "Sorcerer"
+  ],
+  "wrlock": [
+    "Warlock"
+  ],
+  "paladi": [
+    "Paladin"
+  ],
+  "drduid": [
+    "Druid"
+  ],
+  "duelist": [
+    "Rogue"
+  ],
+  "infiltrator": [
+    "Artificer"
+  ],
+  "ghostwalker": [
+    "Fighter"
+  ],
+  "Dellea": [
+    "Paladin"
+  ],
+  "shifter": [
+    "Fighter"
+  ],
+  "dreadpirate": [
+    "Ranger"
+  ],
+  "vigilante": [
+    "Ranger"
+  ],
+  "luckstealer": [
+    "Fighter"
+  ],
+  "guildthief": [
+    "Rogue"
+  ],
+  "shadowdancer": [
+    "Ranger"
+  ],
+  "templar": [
+    "Paladin"
+  ],
+  "ninjaofthecrescentmoon": [
+    "Ranger (Revised)"
+  ],
+  "epic": [
+    "Druid"
+  ],
+  "ninja": [
+    "Wizard"
+  ],
+  "theworstclass": [
+    "Ranger (Spell-less)"
+  ],
+  "souleater": [
+    "Rogue"
+  ],
+  "dragondisipple": [
+    "Ranger (Revised)"
+  ],
+  "Revised": [
+    "Ranger (Revised)"
+  ],
+  "soc": [
+    "Sorcerer"
+  ],
+  "palading": [
+    "Paladin"
+  ],
+  "righe": [
+    "Rogue"
+  ],
+  "wizard'": [
+    "Wizard"
+  ],
+  "wizzard": [
+    "Wizard"
+  ],
+  "cleriic": [
+    "Cleric"
+  ],
+  "open": [
+    "Monk"
+  ],
+  "doppleganger": [
+    "Rogue"
+  ],
+  "skulk": [
+    "Rogue"
+  ],
+  "artifcer": [
+    "Artificer"
+  ],
+  "divine": [
+    "Paladin"
+  ],
+  "Longdeatg": [
+    "Monk"
+  ],
+  "fighters": [
+    "Fighter"
+  ],
+  "Christmas": [
+    "Cleric"
+  ],
+  "ranger(re": [
+    "Ranger (Revised)"
+  ],
+  "ruid": [
+    "Druid"
+  ],
+  "palm": [
+    "Monk"
+  ],
+  "mysitc": [
+    "Mystic"
+  ],
+  "warlonk": [
+    "Warlock"
+  ],
+  "Blood": [
+    "Monk"
+  ],
+  "warloc": [
+    "Warlock"
+  ],
+  "Bak": [
+    "Barbarian"
+  ],
+  "loxodon": [
+    "Monk"
+  ],
+  ",onk": [
+    "Monk"
+  ],
+  "palad\u00edn": [
+    "Paladin"
+  ],
+  "sorccerer": [
+    "Sorcerer"
+  ],
+  "sorcerer13": [
+    "Sorcerer"
+  ],
+  "bardcollegeofswords": [
+    "Bard"
+  ],
+  "monkl": [
+    "Monk"
+  ],
+  "barnarian": [
+    "Barbarian"
+  ],
+  "Roague": [
+    "Rogue"
+  ],
+  "socr": [
+    "Sorcerer"
+  ],
+  "warlokc": [
+    "Warlock"
+  ],
+  "raven": [
+    "Ranger"
+  ],
+  "revi": [
+    "Ranger (Revised)"
+  ],
+  "celeric": [
+    "Cleric"
+  ],
+  "valor": [
+    "Bard"
+  ],
+  "<ranger>[1]": [
+    "Ranger (Spell-less)"
+  ],
+  "witchdoctor": [
+    "Artificer"
+  ],
+  "omnk": [
+    "Monk"
+  ],
+  "sorcerror": [
+    "Sorcerer"
+  ],
+  "dreamweaver": [
+    "Warlock"
+  ],
+  "deities": [
+    "Druid"
+  ],
+  "rogues": [
+    "Rogue"
+  ],
+  "druidv8": [
+    "Druid"
+  ],
+  "barbian": [
+    "Barbarian"
+  ],
+  "battlerager": [
+    "Barbarian"
+  ],
+  "pali": [
+    "Paladin"
+  ],
+  "inventor": [
+    "Wizard"
+  ],
+  "artifi": [
+    "Artificer"
+  ],
+  "penguin": [
+    "Cleric"
+  ],
+  "barbaria": [
+    "Barbarian"
+  ],
+  "artifyscer": [
+    "Artificer"
+  ],
+  "paladins": [
+    "Paladin"
+  ],
+  "soldier": [
+    "Fighter"
+  ],
+  "bard*": [
+    "Bard"
+  ],
+  "Siege": [
+    "Ranger"
+  ],
+  "owo": [
+    "Warlock"
+  ],
+  "haxblade": [
+    "Paladin"
+  ],
+  "bear": [
+    "Bard"
+  ],
+  "human": [
+    "Paladin"
+  ],
+  "woo": [
+    "Warlock"
+  ],
+  "wis": [
+    "Wizard"
+  ],
+  "paladion": [
+    "Paladin"
+  ],
+  "paliden": [
+    "Paladin"
+  ],
+  "drud": [
+    "Druid"
+  ],
+  "spell-": [
+    "Ranger (Spell-less)"
+  ],
+  "spel": [
+    "Ranger (Spell-less)"
+  ],
+  "undying": [
+    "Paladin"
+  ],
+  "ranger(edited)": [
+    "Ranger"
+  ],
+  "tundra": [
+    "Barbarian"
+  ],
+  "cleirc": [
+    "Cleric"
+  ],
+  "dru": [
+    "Druid"
+  ],
+  "mastermind": [
+    "Barbarian"
+  ],
+  "blade": [
+    "Wizard"
+  ],
+  "trapper": [
+    "Ranger"
+  ],
+  "DivineSoulSorcerer": [
+    "Sorcerer"
+  ],
+  "palidian": [
+    "Paladin"
+  ],
+  "gun": [
+    "Fighter"
+  ],
+  "arcane": [
+    "Artificer"
+  ],
+  "psionic": [
+    "Mystic"
+  ],
+  "dragonborn": [
+    "Monk"
+  ],
+  "<monk>": [
+    "Monk"
+  ],
+  "bard10": [
+    "Bard"
+  ],
+  "Spellless": [
+    "Ranger (Spell-less)"
+  ],
+  "y": [
+    "Mystic"
+  ],
+  "fighter3": [
+    "Fighter"
+  ],
+  "wizaed": [
+    "Wizard"
+  ],
+  "burburan": [
+    "Barbarian"
+  ],
+  "bord": [
+    "Bard"
+  ],
+  "ranger(": [
+    "Ranger (Revised)"
+  ],
+  "Kensei": [
+    "Cleric"
+  ],
+  "storm": [
+    "Sorcerer"
+  ],
+  "ranger (rev": [
+    "Ranger (Revised)"
+  ],
+  "sorcerses": [
+    "Sorcerer"
+  ],
+  "m": [
+    "Mystic"
+  ],
+  "barbari": [
+    "Barbarian"
+  ],
+  "myst": [
+    "Mystic"
+  ],
+  "<hunter>": [
+    "Fighter"
+  ],
+  "[cleric]": [
+    "Sorcerer"
+  ],
+  "actionsurge": [
+    "Fighter"
+  ],
+  "sorcrer": [
+    "Sorcerer"
+  ],
+  "tempest": [
+    "Mystic"
+  ],
+  "Warlock:": [
+    "Warlock"
+  ],
+  "multiclass": [
+    "Cleric"
+  ],
+  "stunning": [
+    "Paladin"
+  ],
+  "wiard": [
+    "Wizard"
+  ],
+  "wqrlock": [
+    "Warlock"
+  ],
+  "Paldin": [
+    "Paladin"
+  ],
+  "psionics": [
+    "Mystic"
+  ],
+  "artififcer": [
+    "Artificer"
+  ],
+  "mon": [
+    "Monk"
+  ],
+  "warlovk": [
+    "Warlock"
+  ],
+  "ranger2": [
+    "Ranger"
+  ],
+  "sorce": [
+    "Sorcerer"
+  ],
+  "lj": [
+    "Paladin"
+  ],
+  "life": [
+    "Cleric"
+  ],
+  "barc": [
+    "Bard"
+  ],
+  "hard": [
+    "Bard"
+  ],
+  "tefling": [
+    "Fighter"
+  ],
+  "paladin'": [
+    "Paladin"
+  ],
+  "ranger(spell-less)": [
+    "Ranger (Spell-less)"
+  ],
+  "Fighters": [
+    "Fighter"
+  ],
+  "knowledge": [
+    "Cleric"
+  ],
+  "fughter": [
+    "Fighter"
+  ],
+  "furry": [
+    "Barbarian"
+  ],
+  "wizars": [
+    "Wizard"
+  ],
+  "Inquisitive": [
+    "Ranger (Revised)"
+  ],
+  "artificee": [
+    "Artificer"
+  ],
+  "scorcerer": [
+    "Sorcerer"
+  ],
+  "plaadin": [
+    "Paladin"
+  ],
+  "devotoin": [
+    "Paladin"
+  ],
+  "roge": [
+    "Rogue"
+  ],
+  "shephard": [
+    "Paladin"
+  ],
+  "Elf": [
+    "Rogue"
+  ],
+  "mart": [
+    "Bard"
+  ],
+  "feats": [
+    "Bard"
+  ],
+  "fish": [
+    "Druid"
+  ],
+  "cleric\u00a8": [
+    "Cleric"
+  ],
+  "cleeric": [
+    "Cleric"
+  ],
+  "artifacer": [
+    "Artificer"
+  ],
+  "ranger(revi)": [
+    "Ranger (Revised)"
+  ],
+  "barberian": [
+    "Barbarian"
+  ],
+  "Pal": [
+    "Paladin"
+  ],
+  "anthropoligist": [
+    "Ranger (Spell-less)"
+  ],
+  "Rang": [
+    "Ranger (Revised)"
+  ],
+  "gold": [
+    "Rogue"
+  ],
+  "warwizard": [
+    "Wizard"
+  ],
+  "socerer": [
+    "Sorcerer"
+  ],
+  "Gentleman": [
+    "Rogue"
+  ],
+  "durid": [
+    "Druid"
+  ],
+  "Skalld": [
+    "Paladin"
+  ],
+  "Battlemaster": [
+    "Mystic"
+  ],
+  "Skald": [
+    "Monk"
+  ],
+  "SwordMage": [
+    "Wizard"
+  ],
+  "artfic": [
+    "Artificer"
+  ],
+  "Spell-less": [
+    "Ranger (Spell-less)"
+  ],
+  "artificrr": [
+    "Artificer"
+  ],
+  "<Bard>": [
+    "Bard"
+  ],
+  "Knight": [
+    "Fighter"
+  ],
+  "Mage": [
+    "Rogue"
+  ],
+  "spaladin": [
+    "Paladin"
+  ],
+  "redemption": [
+    "Monk"
+  ],
+  "vard": [
+    "Bard"
+  ],
+  "paladon": [
+    "Paladin"
+  ],
+  "Fulbrand": [
+    "Bard"
+  ],
+  "drunken": [
+    "Monk"
+  ],
+  "clerig": [
+    "Cleric"
+  ],
+  "clerik": [
+    "Cleric"
+  ],
+  "mysti": [
+    "Mystic"
+  ],
+  "mpnk": [
+    "Monk"
+  ],
+  "scholar": [
+    "Mystic"
+  ],
+  "wild": [
+    "Wizard"
+  ],
+  "arcana": [
+    "Barbarian"
+  ],
+  "sorccer": [
+    "Sorcerer"
+  ],
+  "fighrer": [
+    "Fighter"
+  ],
+  "Iras": [
+    "Wizard"
+  ],
+  "artificar": [
+    "Artificer"
+  ],
+  "ghter": [
+    "Fighter"
+  ],
+  "srocer": [
+    "Sorcerer"
+  ],
+  "caval": [
+    "Warlock"
+  ],
+  "wizard/blade": [
+    "Wizard"
+  ],
+  "fishery": [
+    "Fighter"
+  ],
+  "highelf": [
+    "Artificer"
+  ],
+  "warloack": [
+    "Warlock"
+  ],
+  "sniper": [
+    "Artificer"
+  ],
+  "Oaladin": [
+    "Paladin"
+  ],
+  "rgue": [
+    "Rogue"
+  ],
+  "d": [
+    "Druid"
+  ],
+  "mong": [
+    "Monk"
+  ],
+  "sb": [
+    "Bard"
+  ],
+  "abomination": [
+    "Artificer"
+  ],
+  "BattleMaster": [
+    "Mystic"
+  ],
+  "varb": [
+    "Barbarian"
+  ],
+  "valkyrie": [
+    "Cleric"
+  ],
+  "rangrr": [
+    "Ranger (Revised)"
+  ],
+  "nature": [
+    "Rogue"
+  ],
+  "abrd": [
+    "Bard"
+  ],
+  "Ranger Revised": [
+    "Ranger (Revised)"
+  ],
+  "barr": [
+    "Bard"
+  ],
+  "Artificir": [
+    "Artificer"
+  ],
+  "artificirr": [
+    "Artificer"
+  ],
+  "banisher": [
+    "Ranger"
+  ],
+  "arfifacer": [
+    "Artificer"
+  ],
+  "<Paladin>": [
+    "Paladin"
+  ],
+  "backgrounds": [
+    "Ranger"
+  ],
+  "magus": [
+    "Mystic"
+  ],
+  "high": [
+    "Druid"
+  ],
+  "reliabe": [
+    "Ranger"
+  ],
+  "socererer": [
+    "Sorcerer"
+  ],
+  "Lorekeeper": [
+    "Warlock"
+  ],
+  "wizatf": [
+    "Wizard"
+  ],
+  "Fightee": [
+    "Fighter"
+  ],
+  "ranver(revised)": [
+    "Ranger (Revised)"
+  ],
+  "rangerrevised": [
+    "Ranger (Revised)"
+  ],
+  "monl": [
+    "Monk"
+  ],
+  "elementalist": [
+    "Ranger (Revised)"
+  ],
+  "roguew": [
+    "Rogue"
+  ],
+  "colossusbslayer": [
+    "Ranger"
+  ],
+  "fighter1": [
+    "Fighter"
+  ],
+  "claeric": [
+    "Cleric"
+  ],
+  "barbatian": [
+    "Barbarian"
+  ],
+  "cle": [
+    "Cleric"
+  ],
+  "hexer": [
+    "Cleric"
+  ],
+  "librarian.": [
+    "Ranger"
+  ],
+  "mo": [
+    "Monk"
+  ],
+  "revised ranger": [
+    "Ranger (Revised)"
+  ],
+  "warloxk": [
+    "Warlock"
+  ],
+  "spellles": [
+    "Ranger (Spell-less)"
+  ],
+  "revisedbeastmaste": [
+    "Ranger (Revised)"
+  ],
+  "moneyhungryjewboy": [
+    "Sorcerer"
+  ],
+  "elf(wood)": [
+    "Wizard"
+  ],
+  "magic": [
+    "Artificer"
+  ],
+  "ranfwr": [
+    "Ranger"
+  ],
+  "Palaidn": [
+    "Paladin"
+  ],
+  "paldian": [
+    "Paladin"
+  ],
+  "warlook": [
+    "Warlock"
+  ],
+  "sorcery": [
+    "Sorcerer"
+  ],
+  "wizard5": [
+    "Wizard"
+  ],
+  "moneygrubbingpactmaker": [
+    "Artificer"
+  ],
+  "spec": [
+    "Sorcerer"
+  ],
+  "trickery": [
+    "Cleric"
+  ],
+  "AT": [
+    "Mystic"
+  ],
+  "glamour": [
+    "Bard"
+  ],
+  "warlc": [
+    "Warlock"
+  ],
+  "proficiency": [
+    "Rogue"
+  ],
+  "Gay": [
+    "Bard"
+  ],
+  "fightert": [
+    "Fighter"
+  ],
+  "b2": [
+    "Bard"
+  ],
+  "abjurer": [
+    "Sorcerer"
+  ],
+  "warlocj": [
+    "Warlock"
+  ],
+  "renver": [
+    "Ranger (Revised)"
+  ],
+  "walrlak": [
+    "Warlock"
+  ],
+  "warlcko": [
+    "Warlock"
+  ],
+  "gambler": [
+    "Barbarian"
+  ],
+  "wiZard": [
+    "Wizard"
+  ],
+  "channel": [
+    "Ranger"
+  ],
+  "harbinger": [
+    "Fighter"
+  ],
+  "barbairian": [
+    "Barbarian"
+  ],
+  "ranger(Revised)": [
+    "Ranger (Revised)"
+  ],
+  "barbara": [
+    "Barbarian"
+  ],
+  "cyromancer": [
+    "Sorcerer"
+  ],
+  "mys": [
+    "Mystic"
+  ],
+  "Ranger(Revised)": [
+    "Ranger (Revised)"
+  ],
+  "Msytic": [
+    "Mystic"
+  ],
+  "ROgue": [
+    "Rogue"
+  ],
+  "Soceror": [
+    "Sorcerer"
+  ],
+  "Assassin": [
+    "Ranger"
+  ],
+  "brad": [
+    "Bard"
+  ],
+  "figjter": [
+    "Fighter"
+  ],
+  "aar": [
+    "Bard"
+  ],
+  "mistic": [
+    "Artificer"
+  ],
+  "Zealot": [
+    "Warlock"
+  ],
+  "fighetr": [
+    "Fighter"
+  ],
+  "feet": [
+    "Fighter"
+  ],
+  "novice": [
+    "Sorcerer"
+  ],
+  "magnus": [
+    "Paladin"
+  ],
+  "artifer": [
+    "Artificer"
+  ],
+  "rofue": [
+    "Rogue"
+  ],
+  "disease": [
+    "Wizard"
+  ],
+  "warlpck": [
+    "Warlock"
+  ],
+  "halforce": [
+    "Warlock"
+  ],
+  "halforc": [
+    "Warlock"
+  ],
+  "Vapennel": [
+    "Paladin"
+  ],
+  "mystoc": [
+    "Mystic"
+  ],
+  "spellblade": [
+    "Sorcerer"
+  ],
+  "spelling": [
+    "Ranger"
+  ],
+  "ogue": [
+    "Rogue"
+  ],
+  "level": [
+    "Sorcerer"
+  ],
+  "primal": [
+    "Barbarian"
+  ],
+  "pally": [
+    "Paladin"
+  ],
+  "espadachim": [
+    "Paladin"
+  ],
+  "Psionic": [
+    "Mystic"
+  ],
+  "tinker": [
+    "Artificer"
+  ],
+  "prim": [
+    "Paladin"
+  ],
+  "EldritchKnight": [
+    "Fighter"
+  ],
+  "papadin": [
+    "Paladin"
+  ],
+  "paladdin": [
+    "Paladin"
+  ],
+  "seven": [
+    "Monk"
+  ],
+  "barbrian": [
+    "Barbarian"
+  ],
+  "witcher": [
+    "Artificer"
+  ],
+  "farlock": [
+    "Warlock"
+  ],
+  "aegis": [
+    "Artificer"
+  ],
+  "tank": [
+    "Warlock"
+  ],
+  "Divine": [
+    "Paladin"
+  ],
+  "ravenwueen": [
+    "Ranger (Spell-less)"
+  ],
+  "inquisitor": [
+    "Mystic"
+  ],
+  "babar": [
+    "Barbarian"
+  ],
+  "warden": [
+    "Artificer"
+  ],
+  "soccer": [
+    "Sorcerer"
+  ],
+  "fangeey": [
+    "Ranger"
+  ],
+  "revived": [
+    "Ranger (Revised)"
+  ],
+  "barrbarian": [
+    "Barbarian"
+  ],
+  "monk1": [
+    "Monk"
+  ],
+  "trickster": [
+    "Cleric"
+  ],
+  "Thief": [
+    "Artificer"
+  ],
+  "zeal": [
+    "Wizard"
+  ],
+  "giantsoul": [
+    "Ranger (Spell-less)"
+  ],
+  "soul": [
+    "Rogue"
+  ],
+  "wizrd": [
+    "Wizard"
+  ],
+  "<rangre>": [
+    "Ranger"
+  ],
+  "tortle": [
+    "Sorcerer"
+  ],
+  "ranger(spelless": [
+    "Ranger (Spell-less)"
+  ],
+  "conquest": [
+    "Ranger"
+  ],
+  "ua:ranger": [
+    "Ranger (Revised)"
+  ],
+  "gloomstalk": [
+    "Mystic"
+  ],
+  "Pugilist": [
+    "Mystic"
+  ],
+  "Palidin": [
+    "Paladin"
+  ],
+  "roguue": [
+    "Rogue"
+  ],
+  "flighter": [
+    "Fighter"
+  ],
+  "Arti": [
+    "Artificer"
+  ],
+  "clerix": [
+    "Cleric"
+  ],
+  "warlockn": [
+    "Warlock"
+  ],
+  "aritifcer": [
+    "Artificer"
+  ],
+  "fightwe": [
+    "Fighter"
+  ],
+  "wildshap": [
+    "Druid"
+  ],
+  "aftficier": [
+    "Artificer"
+  ],
+  "fither": [
+    "Fighter"
+  ],
+  "bararaian": [
+    "Barbarian"
+  ],
+  "sourceror": [
+    "Sorcerer"
+  ],
+  "fightet": [
+    "Fighter"
+  ],
+  "artficer": [
+    "Artificer"
+  ],
+  "artfi": [
+    "Artificer"
+  ],
+  "evolutionist": [
+    "Ranger (Revised)"
+  ],
+  "trait": [
+    "Ranger"
+  ],
+  "clerics": [
+    "Cleric"
+  ],
+  "Paladins": [
+    "Paladin"
+  ]
+}

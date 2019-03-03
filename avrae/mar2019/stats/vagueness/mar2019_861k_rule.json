@@ -1,0 +1,4690 @@
+{
+  "action": [
+    "Action: Disarm",
+    "Ammunition",
+    "Action: Mark",
+    "Action: Use an Object",
+    "Action: Cast a Spell",
+    "Action: Dash",
+    "Action: Tumble",
+    "Action: Help",
+    "Readying an Action",
+    "Action: Search",
+    "Action: Attack",
+    "Action: Overrun",
+    "Action: Dodge"
+  ],
+  "crit": [
+    "3/4 Cover",
+    "Action: Tumble",
+    "Concentration",
+    "Light",
+    "Action: Attack"
+  ],
+  "attunement": [
+    "Ammunition",
+    "Air Requirements",
+    "Action: Tumble",
+    "Food Requirements",
+    "Action: Overrun"
+  ],
+  "death": [
+    "Death Saving Throws",
+    "Versatile",
+    "Reach",
+    "Stealth",
+    "Instant Death"
+  ],
+  "underwater": [
+    "Action: Disengage",
+    "Versatile",
+    "Concentration",
+    "Stealth",
+    "Instant Death"
+  ],
+  "jump": [
+    "Air Requirements",
+    "Improvising Damage",
+    "Action: Tumble",
+    "Food Requirements",
+    "Grapple"
+  ],
+  "opportunity attack": [
+    "Short Rest",
+    "Action: Mark",
+    "Food Requirements",
+    "Action: Attack",
+    "Instant Death"
+  ],
+  "reaction": [
+    "Action: Mark",
+    "Action: Dash",
+    "Reach",
+    "Action: Help",
+    "Readying an Action"
+  ],
+  "bonus action": [
+    "Action: Mark",
+    "Action: Dash",
+    "Action: Help",
+    "Concentration",
+    "Readying an Action"
+  ],
+  "movement": [
+    "Shove",
+    "Ammunition",
+    "Air Requirements",
+    "Concentration",
+    "Food Requirements"
+  ],
+  "combat": [
+    "Action: Mark",
+    "Action: Dash",
+    "Action: Tumble",
+    "Concentration",
+    "Action: Attack"
+  ],
+  "opportunity": [
+    "Short Rest",
+    "Ammunition",
+    "Food Requirements",
+    "Concentration",
+    "Action: Overrun"
+  ],
+  "advantage": [
+    "Loading",
+    "Action: Disengage",
+    "Improvising Damage",
+    "Versatile",
+    "Readying an Action"
+  ],
+  "travel": [
+    "Short Rest",
+    "Half Cover",
+    "Versatile",
+    "Grapple",
+    "Stealth"
+  ],
+  "prone": [
+    "Long Rest",
+    "Shove",
+    "Improvising Damage",
+    "Reach",
+    "Thrown"
+  ],
+  "surprise": [
+    "Short Rest",
+    "Improvising Damage",
+    "Versatile",
+    "Grapple",
+    "Finesse"
+  ],
+  "inspiration": [
+    "Ammunition",
+    "Action: Dash",
+    "Action: Help",
+    "Concentration",
+    "Readying an Action"
+  ],
+  "poison": [
+    "Loading",
+    "Shove",
+    "Ammunition",
+    "Improvising Damage",
+    "Concentration"
+  ],
+  "ritual casting": [
+    "Loading",
+    "Short Rest",
+    "Readying an Action",
+    "Instant Death",
+    "Action: Dodge"
+  ],
+  "a": [
+    "Action: Mark",
+    "Heavily Obscured",
+    "Improvising Damage",
+    "Action: Overrun",
+    "Instant Death"
+  ],
+  "cover": [
+    "3/4 Cover",
+    "Action: Overrun",
+    "Half Cover",
+    "Full Cover"
+  ],
+  "rest": [
+    "Stealth",
+    "Short Rest",
+    "Long Rest",
+    "Versatile"
+  ],
+  "actions": [
+    "Action: Help",
+    "Action: Mark",
+    "Action: Dash",
+    "Action: Disarm"
+  ],
+  "hide": [
+    "Shove",
+    "Finesse",
+    "Heavy",
+    "Action: Dodge"
+  ],
+  "dim": [
+    "Action: Disarm",
+    "Food Requirements",
+    "Light",
+    "Action: Mark"
+  ],
+  "ac": [
+    "Half Cover",
+    "Action: Attack",
+    "Action: Overrun",
+    "Action: Tumble"
+  ],
+  "armor": [
+    "Action: Mark",
+    "Action: Search",
+    "Half Cover",
+    "Ammunition"
+  ],
+  "speed": [
+    "Shove",
+    "Stealth",
+    "Lightly Obscured",
+    "Finesse"
+  ],
+  "melee": [
+    "Grapple",
+    "Exhaustion Levels",
+    "Finesse",
+    "Versatile"
+  ],
+  "encumbrance": [
+    "Heavily Obscured",
+    "Concentration",
+    "Action: Tumble",
+    "Versatile"
+  ],
+  "initiative": [
+    "Concentration",
+    "Action: Overrun",
+    "Instant Death",
+    "Versatile"
+  ],
+  "attack of opportunity": [
+    "Action: Use an Object",
+    "Food Requirements",
+    "Action: Attack",
+    "Action: Overrun"
+  ],
+  "size": [
+    "Versatile",
+    "Stealth",
+    "Shove",
+    "Stabilizing a Creature"
+  ],
+  "encumberance": [
+    "Action: Use an Object",
+    "Air Requirements",
+    "Concentration",
+    "Versatile"
+  ],
+  "blindsight": [
+    "Loading",
+    "Action: Dash",
+    "Light",
+    "Stabilizing a Creature"
+  ],
+  "environment": [
+    "Air Requirements",
+    "Food Requirements",
+    "Concentration",
+    "Improvising Damage"
+  ],
+  "sleep": [
+    "Stealth",
+    "Shove",
+    "Exhaustion Levels",
+    "Versatile"
+  ],
+  "spellcasting": [
+    "Stealth",
+    "Concentration",
+    "Exhaustion Levels",
+    "Loading"
+  ],
+  "two-weapon fighting": [
+    "Action: Use an Object",
+    "Action: Disengage",
+    "Two-Handed",
+    "Ammunition"
+  ],
+  "two weapon": [
+    "Action: Help",
+    "Two-Handed",
+    "Action: Search",
+    "Thrown"
+  ],
+  "darkvision": [
+    "Ammunition",
+    "Thrown",
+    "Exhaustion Levels",
+    "Improvising Damage"
+  ],
+  "weapon": [
+    "Concentration",
+    "Two-Handed",
+    "Ammunition",
+    "Heavy"
+  ],
+  "hit points": [
+    "Air Requirements",
+    "Short Rest",
+    "Lightly Obscured",
+    "Death Saving Throws"
+  ],
+  "jumping": [
+    "Loading",
+    "Light",
+    "Improvising Damage",
+    "Action: Dodge"
+  ],
+  "action:": [
+    "Action: Mark",
+    "Action: Disarm",
+    "Action: Search",
+    "Action: Overrun"
+  ],
+  "downtime": [
+    "Concentration",
+    "Thrown",
+    "Long Rest",
+    "Action: Tumble"
+  ],
+  "disadvantage": [
+    "Loading",
+    "Action: Disengage",
+    "Improvising Damage",
+    "Death Saving Throws"
+  ],
+  "dual wielding": [
+    "Loading",
+    "Action: Disengage",
+    "Half Cover",
+    "Death Saving Throws"
+  ],
+  "Action": [
+    "Action: Help",
+    "Action: Mark",
+    "Readying an Action"
+  ],
+  "unarmed": [
+    "Air Requirements",
+    "Action: Disarm",
+    "Long Rest"
+  ],
+  "offhand": [
+    "Loading",
+    "Two-Handed",
+    "Thrown"
+  ],
+  "throw": [
+    "Shove",
+    "Thrown",
+    "Death Saving Throws"
+  ],
+  "falling damage": [
+    "Action: Disarm",
+    "Improvising Damage",
+    "Stabilizing a Creature"
+  ],
+  "carry": [
+    "Action: Disarm",
+    "Action: Overrun",
+    "Heavy"
+  ],
+  "resistance": [
+    "Readying an Action",
+    "Instant Death",
+    "Finesse"
+  ],
+  "sight": [
+    "Light",
+    "Stealth",
+    "Lightly Obscured"
+  ],
+  "perception": [
+    "Action: Mark",
+    "Concentration",
+    "Action: Dodge"
+  ],
+  "dual": [
+    "Full Cover",
+    "Grapple",
+    "Versatile"
+  ],
+  "underwater combat": [
+    "Versatile",
+    "Instant Death",
+    "Death Saving Throws"
+  ],
+  "fall damage": [
+    "Action: Disarm",
+    "Improvising Damage",
+    "Full Cover"
+  ],
+  "Cover": [
+    "3/4 Cover",
+    "Half Cover",
+    "Full Cover"
+  ],
+  "flank": [
+    "Loading",
+    "Action: Mark",
+    "Action: Attack"
+  ],
+  "drowning": [
+    "Loading",
+    "Concentration",
+    "Improvising Damage"
+  ],
+  "focus": [
+    "Food Requirements",
+    "Lightly Obscured",
+    "Finesse"
+  ],
+  "improvised weapon": [
+    "Action: Use an Object",
+    "Air Requirements",
+    "Improvising Damage"
+  ],
+  "ritual": [
+    "Stealth",
+    "Action: Tumble",
+    "Versatile"
+  ],
+  "familiar": [
+    "Action: Disarm",
+    "Action: Search",
+    "Stabilizing a Creature"
+  ],
+  "madness": [
+    "Loading",
+    "Two-Handed",
+    "Exhaustion Levels"
+  ],
+  "restrained": [
+    "Concentration",
+    "Exhaustion Levels",
+    "Instant Death"
+  ],
+  "critical": [
+    "Action: Mark",
+    "Action: Cast a Spell",
+    "Action: Dash"
+  ],
+  "incapacitated": [
+    "Action: Cast a Spell",
+    "Concentration",
+    "Instant Death"
+  ],
+  "trip": [
+    "Action: Help",
+    "Grapple",
+    "Versatile"
+  ],
+  "improvised weapons": [
+    "Food Requirements",
+    "Readying an Action",
+    "Improvising Damage"
+  ],
+  "sneak attack": [
+    "Stealth",
+    "Action: Attack",
+    "Instant Death"
+  ],
+  "stunned": [
+    "Two-Handed",
+    "Stealth",
+    "Instant Death"
+  ],
+  "fighting": [
+    "Loading",
+    "Light",
+    "Action: Dodge"
+  ],
+  "escape": [
+    "Heavily Obscured",
+    "Shove",
+    "Grapple"
+  ],
+  "stun": [
+    "Thrown",
+    "Action: Overrun",
+    "Instant Death"
+  ],
+  "bullrush": [
+    "Long Rest",
+    "Shove",
+    "Full Cover"
+  ],
+  "flanking": [
+    "Action: Disengage",
+    "Light",
+    "Finesse"
+  ],
+  "disease": [
+    "Action: Disengage",
+    "Action: Search",
+    "Instant Death"
+  ],
+  "charge": [
+    "Heavily Obscured",
+    "Short Rest",
+    "Shove"
+  ],
+  "variant": [
+    "Air Requirements",
+    "Readying an Action",
+    "Instant Death"
+  ],
+  "pick": [
+    "Action: Mark",
+    "Action: Search",
+    "Reach"
+  ],
+  "shield": [
+    "Two-Handed",
+    "Shove",
+    "Versatile"
+  ],
+  "attack roll": [
+    "Action: Help",
+    "Action: Cast a Spell",
+    "Action: Attack"
+  ],
+  "swim": [
+    "Action: Mark",
+    "Action: Disarm",
+    "Improvising Damage"
+  ],
+  "passive perception": [
+    "Action: Help",
+    "Air Requirements",
+    "Ammunition"
+  ],
+  "gay": [
+    "Lightly Obscured",
+    "Reach",
+    "Grapple"
+  ],
+  "i": [
+    "Loading",
+    "Action: Use an Object",
+    "Action: Tumble"
+  ],
+  "disguise": [
+    "Loading",
+    "Action: Disengage",
+    "Finesse"
+  ],
+  "list": [
+    "Loading",
+    "Light",
+    "Stealth"
+  ],
+  "ranged attack": [
+    "Readying an Action",
+    "Action: Attack",
+    "Reach"
+  ],
+  "multiclass": [
+    "Action: Cast a Spell",
+    "Action: Dash",
+    "Ammunition"
+  ],
+  "bonus": [
+    "Loading",
+    "Action: Dash",
+    "Thrown"
+  ],
+  "heav": [
+    "Heavily Obscured",
+    "Reach",
+    "Heavy"
+  ],
+  "hiding": [
+    "Action: Disengage",
+    "Light",
+    "Readying an Action"
+  ],
+  "parry": [
+    "Short Rest",
+    "Action: Overrun",
+    "Heavy"
+  ],
+  "proficiency": [
+    "Improvising Damage",
+    "Readying an Action",
+    "Reach"
+  ],
+  "condition": [
+    "Loading",
+    "Action: Dash",
+    "Concentration"
+  ],
+  "extra attack": [
+    "Action: Attack",
+    "Instant Death",
+    "Versatile"
+  ],
+  "obscured": [
+    "Heavily Obscured",
+    "Lightly Obscured"
+  ],
+  "rage": [
+    "Improvising Damage",
+    "Grapple"
+  ],
+  "death save": [
+    "Instant Death",
+    "Death Saving Throws"
+  ],
+  "experience": [
+    "Concentration",
+    "Exhaustion Levels"
+  ],
+  "breathing": [
+    "Loading",
+    "Death Saving Throws"
+  ],
+  "improvised": [
+    "Shove",
+    "Improvising Damage"
+  ],
+  "dim light": [
+    "Light",
+    "Lightly Obscured"
+  ],
+  "two weapon fighting": [
+    "Action: Use an Object",
+    "Two-Handed"
+  ],
+  "two weapons": [
+    "Action: Help",
+    "Two-Handed"
+  ],
+  "off hand": [
+    "Loading",
+    "Two-Handed"
+  ],
+  "don": [
+    "Two-Handed",
+    "Long Rest"
+  ],
+  "extreme": [
+    "Food Requirements",
+    "Exhaustion Levels"
+  ],
+  "con": [
+    "Concentration",
+    "Falling Unconscious"
+  ],
+  "push": [
+    "Stealth",
+    "Shove"
+  ],
+  "resting": [
+    "Short Rest",
+    "Long Rest"
+  ],
+  "shortrest": [
+    "Food Requirements",
+    "Short Rest"
+  ],
+  "casting": [
+    "Loading",
+    "Concentration"
+  ],
+  "attune": [
+    "Action: Search",
+    "Action: Tumble"
+  ],
+  "dodge action": [
+    "Action: Dash",
+    "Readying an Action"
+  ],
+  "natural weapon": [
+    "Concentration",
+    "Thrown"
+  ],
+  "feat": [
+    "Stealth",
+    "Finesse"
+  ],
+  "darkness": [
+    "Two-Handed",
+    "Finesse"
+  ],
+  "trance": [
+    "Thrown",
+    "Reach"
+  ],
+  "hit dice": [
+    "Short Rest",
+    "Instant Death"
+  ],
+  "obscure": [
+    "Heavily Obscured",
+    "Lightly Obscured"
+  ],
+  "critical hit": [
+    "Stealth",
+    "Action: Attack"
+  ],
+  "melee spell attack": [
+    "Action: Cast a Spell",
+    "Action: Search"
+  ],
+  "mounted combat": [
+    "Climbing Onto a Bigger Creature",
+    "Action: Mark"
+  ],
+  "Prone": [
+    "Shove",
+    "Thrown"
+  ],
+  "defend": [
+    "Loading",
+    "Air Requirements"
+  ],
+  "conditions": [
+    "Concentration",
+    "Action: Disarm"
+  ],
+  "Critical Hit": [
+    "Action: Attack",
+    "Instant Death"
+  ],
+  "trinkets": [
+    "Air Requirements",
+    "Thrown"
+  ],
+  "insight": [
+    "Action: Dash",
+    "Light"
+  ],
+  "dual wield": [
+    "Action: Help",
+    "Half Cover"
+  ],
+  "cold weather": [
+    "Action: Mark",
+    "Action: Search"
+  ],
+  "spellcasting focus": [
+    "Exhaustion Levels",
+    "Action: Overrun"
+  ],
+  "suffocation": [
+    "Loading",
+    "Concentration"
+  ],
+  "cr": [
+    "Climbing Onto a Bigger Creature",
+    "Stabilizing a Creature"
+  ],
+  "chase": [
+    "Shove",
+    "Half Cover"
+  ],
+  "cover 3": [
+    "Action: Overrun",
+    "Full Cover"
+  ],
+  "turn": [
+    "Concentration",
+    "Action: Overrun"
+  ],
+  "truesight": [
+    "Light",
+    "Stealth"
+  ],
+  "quarter cover": [
+    "3/4 Cover",
+    "Half Cover"
+  ],
+  "react": [
+    "Readying an Action",
+    "Stealth"
+  ],
+  "attacks": [
+    "Action: Cast a Spell",
+    "Action: Attack"
+  ],
+  "unarmed damage": [
+    "Improvising Damage",
+    "Instant Death"
+  ],
+  "attunment": [
+    "Action: Use an Object",
+    "Air Requirements"
+  ],
+  "improvise": [
+    "Shove",
+    "Improvising Damage"
+  ],
+  "water": [
+    "Action: Overrun",
+    "Versatile"
+  ],
+  "move": [
+    "Shove",
+    "Improvising Damage"
+  ],
+  "multi": [
+    "Light",
+    "Stealth"
+  ],
+  "blind": [
+    "Loading",
+    "Light"
+  ],
+  "obs": [
+    "Heavily Obscured",
+    "Lightly Obscured"
+  ],
+  "spell slots": [
+    "Short Rest",
+    "Stealth"
+  ],
+  "off-hand": [
+    "Action: Help",
+    "Two-Handed"
+  ],
+  "lighting": [
+    "Light",
+    "Lightly Obscured"
+  ],
+  "ritual spell": [
+    "Action: Cast a Spell",
+    "Instant Death"
+  ],
+  "medicine": [
+    "Action: Help",
+    "Readying an Action"
+  ],
+  "challenge rating": [
+    "Readying an Action",
+    "Stabilizing a Creature"
+  ],
+  "ranged": [
+    "Two-Handed",
+    "Grapple"
+  ],
+  "oppurtunity attack": [
+    "Action: Mark",
+    "Action: Attack"
+  ],
+  "difficult terrain": [
+    "Climbing Onto a Bigger Creature",
+    "Readying an Action"
+  ],
+  "attack of oppertunity": [
+    "Concentration",
+    "Action: Overrun"
+  ],
+  "Opportunity": [
+    "Food Requirements",
+    "Ammunition"
+  ],
+  "oppertunity attack": [
+    "Action: Attack",
+    "Instant Death"
+  ],
+  "character": [
+    "Action: Search",
+    "Action: Overrun"
+  ],
+  "strength": [
+    "Stealth",
+    "Thrown"
+  ],
+  "heal": [
+    "Shove",
+    "Heavy"
+  ],
+  "frightened": [
+    "Food Requirements",
+    "Lightly Obscured"
+  ],
+  "status": [
+    "Instant Death",
+    "Stabilizing a Creature"
+  ],
+  "natural": [
+    "Action: Attack",
+    "Instant Death"
+  ],
+  "punch": [
+    "Reach",
+    "Full Cover"
+  ],
+  "1/3 cover": [
+    "Half Cover",
+    "Action: Overrun"
+  ],
+  "arcana": [
+    "Action: Mark",
+    "Action: Disarm"
+  ],
+  "encumbered": [
+    "Heavily Obscured",
+    "Concentration"
+  ],
+  "enc": [
+    "Concentration",
+    "Reach"
+  ],
+  "unseen": [
+    "Air Requirements",
+    "Finesse"
+  ],
+  "archery": [
+    "Half Cover",
+    "Reach"
+  ],
+  "vision": [
+    "Ammunition",
+    "Versatile"
+  ],
+  "obsc": [
+    "Heavily Obscured",
+    "Lightly Obscured"
+  ],
+  "expertise": [
+    "Improvising Damage",
+    "Versatile"
+  ],
+  "forced march": [
+    "Action: Search",
+    "Half Cover"
+  ],
+  "magic items": [
+    "Air Requirements",
+    "Action: Tumble"
+  ],
+  "suffocating": [
+    "Concentration",
+    "Action: Dodge"
+  ],
+  "hit die": [
+    "Two-Handed",
+    "Short Rest"
+  ],
+  "charm": [
+    "Action: Disarm",
+    "Heavy"
+  ],
+  "melee attack": [
+    "Readying an Action",
+    "Action: Attack"
+  ],
+  "standard array": [
+    "Action: Attack",
+    "Stabilizing a Creature"
+  ],
+  "opportunity attacks": [
+    "Food Requirements",
+    "Short Rest"
+  ],
+  "Jump": [
+    "Improvising Damage",
+    "Action: Tumble"
+  ],
+  "flying": [
+    "Falling Unconscious",
+    "Finesse"
+  ],
+  "persuasion": [
+    "Concentration",
+    "Ammunition"
+  ],
+  "injury": [
+    "Loading",
+    "Action: Disarm"
+  ],
+  "invisible": [
+    "Action: Disengage",
+    "Finesse"
+  ],
+  "healing": [
+    "Concentration",
+    "Heavy"
+  ],
+  "training": [
+    "Concentration",
+    "Readying an Action"
+  ],
+  "hireling": [
+    "Air Requirements",
+    "Readying an Action"
+  ],
+  "obscur": [
+    "Heavily Obscured",
+    "Lightly Obscured"
+  ],
+  "high jump": [
+    "Air Requirements",
+    "Light"
+  ],
+  "long jump": [
+    "Action: Mark",
+    "Action: Tumble"
+  ],
+  "two-weapon": [
+    "Action: Help",
+    "Two-Handed"
+  ],
+  "special": [
+    "Shove",
+    "Versatile"
+  ],
+  "crafting": [
+    "Ammunition",
+    "Versatile"
+  ],
+  "Two-Weapon Fighting": [
+    "Two-Handed",
+    "Ammunition"
+  ],
+  "charmed": [
+    "Action: Disarm",
+    "Two-Handed"
+  ],
+  "hp": [
+    "Action: Help",
+    "Light"
+  ],
+  "lifting": [
+    "Loading",
+    "Light"
+  ],
+  "spell attack": [
+    "Action: Attack",
+    "Reach"
+  ],
+  "potion": [
+    "Loading",
+    "Action: Dash"
+  ],
+  "tackle": [
+    "Action: Tumble",
+    "Grapple"
+  ],
+  "range": [
+    "Versatile",
+    "Grapple"
+  ],
+  "lair": [
+    "Loading",
+    "Light"
+  ],
+  "carry weight": [
+    "Air Requirements",
+    "Light"
+  ],
+  "multiattack": [
+    "Stealth",
+    "Action: Attack"
+  ],
+  "touch": [
+    "Action: Search",
+    "Thrown"
+  ],
+  "ob": [
+    "Heavily Obscured",
+    "Lightly Obscured"
+  ],
+  "bonus attack": [
+    "Action: Use an Object",
+    "Action: Attack"
+  ],
+  "wield": [
+    "Two-Handed",
+    "Finesse"
+  ],
+  "fly": [
+    "Heavily Obscured",
+    "Light"
+  ],
+  "seduction": [
+    "Readying an Action",
+    "Ammunition"
+  ],
+  "cantrip": [
+    "Action: Help",
+    "Ammunition"
+  ],
+  "Advantage": [
+    "Loading",
+    "Versatile"
+  ],
+  "point buy": [
+    "Lightly Obscured",
+    "Action: Tumble"
+  ],
+  "martial arts": [
+    "Action: Mark",
+    "Action: Attack"
+  ],
+  "armor class": [
+    "Action: Cast a Spell",
+    "Exhaustion Levels"
+  ],
+  "vulnerable": [
+    "Concentration",
+    "Versatile"
+  ],
+  "mounts": [
+    "Food Requirements",
+    "Long Rest"
+  ],
+  "acrobatics": [
+    "Action: Dash",
+    "Action: Disarm"
+  ],
+  "wildshape": [
+    "Two-Handed",
+    "Shove"
+  ],
+  "terrain": [
+    "Stealth",
+    "Action: Overrun"
+  ],
+  "<death save>": [
+    "Exhaustion Levels",
+    "Death Saving Throws"
+  ],
+  "spell slot": [
+    "Short Rest",
+    "Long Rest"
+  ],
+  "radius": [
+    "Air Requirements",
+    "Action: Disarm"
+  ],
+  "warlock": [
+    "Heavily Obscured",
+    "Action: Attack"
+  ],
+  "stand up": [
+    "Action: Help",
+    "Instant Death"
+  ],
+  "dimlight": [
+    "Light",
+    "Lightly Obscured"
+  ],
+  "running jump": [
+    "Action: Mark",
+    "Action: Tumble"
+  ],
+  "leap": [
+    "Loading",
+    "Heavy"
+  ],
+  "offhabd": [
+    "Loading",
+    "Two-Handed"
+  ],
+  "swarm": [
+    "Stealth",
+    "Versatile"
+  ],
+  "moving in water": [
+    "Climbing Onto a Bigger Creature",
+    "Improvising Damage"
+  ],
+  "weight": [
+    "Light",
+    "Readying an Action"
+  ],
+  "conver": [
+    "3/4 Cover",
+    "Half Cover"
+  ],
+  "falling": [
+    "Falling Unconscious"
+  ],
+  "damage": [
+    "Improvising Damage"
+  ],
+  "fall": [
+    "Falling Unconscious"
+  ],
+  "recklessattack": [
+    "Action: Attack"
+  ],
+  "reach": [
+    "Reach"
+  ],
+  "exhaustion": [
+    "Exhaustion Levels"
+  ],
+  "exhausted": [
+    "Exhaustion Levels"
+  ],
+  "exhau": [
+    "Exhaustion Levels"
+  ],
+  "search": [
+    "Action: Search"
+  ],
+  "stealth": [
+    "Stealth"
+  ],
+  "halfcover": [
+    "Half Cover"
+  ],
+  "two": [
+    "Two-Handed"
+  ],
+  "concentration": [
+    "Concentration"
+  ],
+  "grapple": [
+    "Grapple"
+  ],
+  "disarm": [
+    "Action: Disarm"
+  ],
+  "shove": [
+    "Shove"
+  ],
+  "dodge": [
+    "Action: Dodge"
+  ],
+  "total cover": [
+    "Full Cover"
+  ],
+  "co": [
+    "Falling Unconscious"
+  ],
+  "exh": [
+    "Exhaustion Levels"
+  ],
+  "mark": [
+    "Action: Mark"
+  ],
+  "help": [
+    "Action: Help"
+  ],
+  "ovject": [
+    "3/4 Cover"
+  ],
+  "death saves": [
+    "Death Saving Throws"
+  ],
+  "starvation": [
+    "Concentration"
+  ],
+  "long rest": [
+    "Long Rest"
+  ],
+  "water pressure": [
+    "Air Requirements"
+  ],
+  "instant death": [
+    "Instant Death"
+  ],
+  "stabilize": [
+    "Stabilizing a Creature"
+  ],
+  "3/4 cover": [
+    "3/4 Cover"
+  ],
+  "attack": [
+    "Action: Attack"
+  ],
+  "use an object": [
+    "Action: Use an Object"
+  ],
+  "exp": [
+    "Heavy"
+  ],
+  "versitile": [
+    "Versatile"
+  ],
+  "reload": [
+    "Loading"
+  ],
+  "constitution": [
+    "Action: Mark"
+  ],
+  "cutting wordss": [
+    "Action: Dash"
+  ],
+  "Cutting Words": [
+    "Action: Dash"
+  ],
+  "climbing onto a bigger creature": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "grap": [
+    "Grapple"
+  ],
+  "concentra": [
+    "Concentration"
+  ],
+  "loading": [
+    "Loading"
+  ],
+  "concent": [
+    "Concentration"
+  ],
+  "grpaple": [
+    "Grapple"
+  ],
+  "death saving throw": [
+    "Death Saving Throws"
+  ],
+  "climbing": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "half cover": [
+    "Half Cover"
+  ],
+  "Ranged Attack": [
+    "Action: Attack"
+  ],
+  "Attack": [
+    "Action: Attack"
+  ],
+  "Dying": [
+    "Readying an Action"
+  ],
+  "Stabilizing": [
+    "Stabilizing a Creature"
+  ],
+  "Death Saving throw": [
+    "Death Saving Throws"
+  ],
+  "Multiattack": [
+    "Action: Mark"
+  ],
+  "disarming": [
+    "Action: Disarm"
+  ],
+  "Stealth": [
+    "Stealth"
+  ],
+  "grappling": [
+    "Grapple"
+  ],
+  "loyalty": [
+    "Stealth"
+  ],
+  "exhaust": [
+    "Exhaustion Levels"
+  ],
+  "unconscious": [
+    "Falling Unconscious"
+  ],
+  "deathsave": [
+    "Death Saving Throws"
+  ],
+  "exha": [
+    "Exhaustion Levels"
+  ],
+  "throwing": [
+    "Thrown"
+  ],
+  "dasj": [
+    "Action: Dash"
+  ],
+  "aop": [
+    "Action: Help"
+  ],
+  "heavily obscured": [
+    "Heavily Obscured"
+  ],
+  "Mark": [
+    "Action: Mark"
+  ],
+  "disengage": [
+    "Action: Disengage"
+  ],
+  "improvising": [
+    "Improvising Damage"
+  ],
+  "grappled": [
+    "Grapple"
+  ],
+  "Two-Weapon": [
+    "Action: Search"
+  ],
+  "exhaus": [
+    "Exhaustion Levels"
+  ],
+  "dash": [
+    "Action: Dash"
+  ],
+  "long": [
+    "Long Rest"
+  ],
+  "climb": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "heavy": [
+    "Heavy"
+  ],
+  "object": [
+    "Action: Use an Object"
+  ],
+  "Heavy ARmor": [
+    "Heavy"
+  ],
+  "unc": [
+    "Falling Unconscious"
+  ],
+  "full cover": [
+    "Full Cover"
+  ],
+  "light": [
+    "Light"
+  ],
+  "lightly obscured": [
+    "Lightly Obscured"
+  ],
+  "starting wealth": [
+    "Stealth"
+  ],
+  "ready": [
+    "Readying an Action"
+  ],
+  "stabilizing": [
+    "Stabilizing a Creature"
+  ],
+  "das": [
+    "Action: Dash"
+  ],
+  "passive wisdom": [
+    "Action: Disarm"
+  ],
+  "foo": [
+    "Food Requirements"
+  ],
+  "larger creatures": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "Exhaustion": [
+    "Exhaustion Levels"
+  ],
+  "travel speed": [
+    "Grapple"
+  ],
+  "difficult terreign": [
+    "Action: Overrun"
+  ],
+  "finesse": [
+    "Finesse"
+  ],
+  "incap": [
+    "Action: Help"
+  ],
+  "bloodied": [
+    "Action: Dodge"
+  ],
+  "attack bonus": [
+    "Action: Attack"
+  ],
+  "air": [
+    "Air Requirements"
+  ],
+  "thrown": [
+    "Thrown"
+  ],
+  "stack": [
+    "Action: Mark"
+  ],
+  "tumble": [
+    "Action: Tumble"
+  ],
+  "3/4": [
+    "3/4 Cover"
+  ],
+  "help ac": [
+    "Action: Help"
+  ],
+  "ubs": [
+    "Heavily Obscured"
+  ],
+  "fine": [
+    "Finesse"
+  ],
+  "star": [
+    "Thrown"
+  ],
+  "starting": [
+    "Action: Dodge"
+  ],
+  "stable": [
+    "Stabilizing a Creature"
+  ],
+  "grappel": [
+    "Grapple"
+  ],
+  "ex": [
+    "Exhaustion Levels"
+  ],
+  "disarm]": [
+    "Action: Disarm"
+  ],
+  "sho": [
+    "Shove"
+  ],
+  "legendary": [
+    "Action: Disarm"
+  ],
+  "reactions": [
+    "Readying an Action"
+  ],
+  "dodging": [
+    "Action: Dodge"
+  ],
+  "saving throw": [
+    "Death Saving Throws"
+  ],
+  "temp hp": [
+    "Two-Handed"
+  ],
+  "Grapple": [
+    "Grapple"
+  ],
+  "readying": [
+    "Readying an Action"
+  ],
+  "shoving": [
+    "Shove"
+  ],
+  "drag": [
+    "Grapple"
+  ],
+  "proficency": [
+    "Loading"
+  ],
+  "para": [
+    "Grapple"
+  ],
+  "spell": [
+    "Action: Cast a Spell"
+  ],
+  "Finesse": [
+    "Finesse"
+  ],
+  "suprise": [
+    "Heavily Obscured"
+  ],
+  "concentraton": [
+    "Concentration"
+  ],
+  "concen": [
+    "Concentration"
+  ],
+  "short rest": [
+    "Short Rest"
+  ],
+  "dtp": [
+    "Instant Death"
+  ],
+  "34": [
+    "3/4 Cover"
+  ],
+  "sove": [
+    "Shove"
+  ],
+  "short": [
+    "Short Rest"
+  ],
+  "pls": [
+    "Light"
+  ],
+  "short rst": [
+    "Short Rest"
+  ],
+  "Concentration": [
+    "Concentration"
+  ],
+  "ammunition": [
+    "Ammunition"
+  ],
+  "exhas": [
+    "Exhaustion Levels"
+  ],
+  "travel pace": [
+    "Reach"
+  ],
+  "pace": [
+    "Half Cover"
+  ],
+  "stablize": [
+    "Stabilizing a Creature"
+  ],
+  "Full C": [
+    "Full Cover"
+  ],
+  "\u201cclimb onto bigger creature\u201d": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "versatile": [
+    "Versatile"
+  ],
+  "legendary save": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "elf age": [
+    "Loading"
+  ],
+  "attacking": [
+    "Action: Attack"
+  ],
+  "Sickle": [
+    "Versatile"
+  ],
+  "full": [
+    "Full Cover"
+  ],
+  "hold action": [
+    "Readying an Action"
+  ],
+  "lifestyle expenses": [
+    "Exhaustion Levels"
+  ],
+  "hitpoints": [
+    "Food Requirements"
+  ],
+  "uncon": [
+    "Falling Unconscious"
+  ],
+  "inca": [
+    "Action: Mark"
+  ],
+  "improvising damage": [
+    "Improvising Damage"
+  ],
+  "heavily ob": [
+    "Heavily Obscured"
+  ],
+  "overrun": [
+    "Action: Overrun"
+  ],
+  "action: attack": [
+    "Action: Attack"
+  ],
+  "melee weapon attack": [
+    "Action: Attack"
+  ],
+  "tunnel fighter#": [
+    "Full Cover"
+  ],
+  "sho e": [
+    "Shove"
+  ],
+  "Ready": [
+    "Readying an Action"
+  ],
+  "Disengage": [
+    "Action: Disengage"
+  ],
+  "Dash": [
+    "Action: Dash"
+  ],
+  "tiny": [
+    "Action: Help"
+  ],
+  "stabilise": [
+    "Stabilizing a Creature"
+  ],
+  "exhasution": [
+    "Exhaustion Levels"
+  ],
+  "moving around other creatures": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "natural 20": [
+    "Action: Attack"
+  ],
+  "use": [
+    "Action: Use an Object"
+  ],
+  "fuckkin twat": [
+    "Action: Attack"
+  ],
+  "half": [
+    "Half Cover"
+  ],
+  "Help": [
+    "Action: Help"
+  ],
+  "level": [
+    "Exhaustion Levels"
+  ],
+  "carrying": [
+    "Loading"
+  ],
+  "Half-cover": [
+    "Half Cover"
+  ],
+  "Heavily": [
+    "Heavily Obscured"
+  ],
+  "help actuion": [
+    "Action: Help"
+  ],
+  "help action": [
+    "Action: Help"
+  ],
+  "two handed": [
+    "Two-Handed"
+  ],
+  "exhasust": [
+    "Exhaustion Levels"
+  ],
+  "heavy obscure": [
+    "Heavily Obscured"
+  ],
+  "init": [
+    "Finesse"
+  ],
+  "Disarm": [
+    "Action: Disarm"
+  ],
+  "spells": [
+    "Action: Cast a Spell"
+  ],
+  "maneuver": [
+    "Action: Overrun"
+  ],
+  "maneuvers": [
+    "Full Cover"
+  ],
+  "overun": [
+    "Action: Overrun"
+  ],
+  "choak": [
+    "Reach"
+  ],
+  "heavily": [
+    "Heavily Obscured"
+  ],
+  "Casting": [
+    "Exhaustion Levels"
+  ],
+  "point but": [
+    "Instant Death"
+  ],
+  "drownijg": [
+    "Improvising Damage"
+  ],
+  "ready weapon": [
+    "Readying an Action"
+  ],
+  "trinket": [
+    "Action: Help"
+  ],
+  "trinket cos": [
+    "Action: Dodge"
+  ],
+  "improvising fall damage": [
+    "Improvising Damage"
+  ],
+  "stabilized": [
+    "Stabilizing a Creature"
+  ],
+  "fallingdamage": [
+    "Improvising Damage"
+  ],
+  "thro": [
+    "Thrown"
+  ],
+  "disen": [
+    "Action: Disengage"
+  ],
+  "lightly": [
+    "Lightly Obscured"
+  ],
+  "reach weapons": [
+    "Reach"
+  ],
+  "second attack": [
+    "Action: Mark"
+  ],
+  "stablized": [
+    "Stabilizing a Creature"
+  ],
+  "Mounted combat": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "death and dying": [
+    "Death Saving Throws"
+  ],
+  "longjump": [
+    "Action: Tumble"
+  ],
+  "instadeath": [
+    "Instant Death"
+  ],
+  "fully_obscured": [
+    "Heavily Obscured"
+  ],
+  "use an opject": [
+    "Action: Use an Object"
+  ],
+  "action: disarm": [
+    "Action: Disarm"
+  ],
+  "action:disarm": [
+    "Action: Disarm"
+  ],
+  "food and water": [
+    "Food Requirements"
+  ],
+  "hit": [
+    "Short Rest"
+  ],
+  "prepared action": [
+    "Readying an Action"
+  ],
+  "death roll": [
+    "Death Saving Throws"
+  ],
+  "aim": [
+    "Action: Mark"
+  ],
+  "bigger creature": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "food": [
+    "Food Requirements"
+  ],
+  "drink": [
+    "Food Requirements"
+  ],
+  "Falling": [
+    "Falling Unconscious"
+  ],
+  "readying an action": [
+    "Readying an Action"
+  ],
+  "reloading": [
+    "Loading"
+  ],
+  "Dodge": [
+    "Action: Dodge"
+  ],
+  "dual weilding": [
+    "Loading"
+  ],
+  "action grapple": [
+    "Grapple"
+  ],
+  "improvised attack": [
+    "Action: Use an Object"
+  ],
+  "short sword": [
+    "Two-Handed"
+  ],
+  "conc": [
+    "Concentration"
+  ],
+  "stealth attack": [
+    "Instant Death"
+  ],
+  "gra": [
+    "Grapple"
+  ],
+  "magic item": [
+    "Air Requirements"
+  ],
+  "visibility": [
+    "Lightly Obscured"
+  ],
+  "opp": [
+    "Grapple"
+  ],
+  "blessed": [
+    "Versatile"
+  ],
+  "cast": [
+    "Action: Cast a Spell"
+  ],
+  "insrant death": [
+    "Instant Death"
+  ],
+  "environmental damage": [
+    "Improvising Damage"
+  ],
+  "block": [
+    "Action: Attack"
+  ],
+  "deflect missle": [
+    "Action: Search"
+  ],
+  "bardic Inspiration": [
+    "Action: Help"
+  ],
+  "held action": [
+    "Readying an Action"
+  ],
+  "Grappel": [
+    "Grapple"
+  ],
+  "legendary action": [
+    "Readying an Action"
+  ],
+  "proficient": [
+    "Food Requirements"
+  ],
+  "murder": [
+    "Air Requirements"
+  ],
+  "Overrun": [
+    "Action: Overrun"
+  ],
+  "Tumble": [
+    "Action: Tumble"
+  ],
+  "invisibility": [
+    "Stealth"
+  ],
+  "grappl": [
+    "Grapple"
+  ],
+  "Shove": [
+    "Shove"
+  ],
+  "death saving throws": [
+    "Death Saving Throws"
+  ],
+  "exhaution": [
+    "Exhaustion Levels"
+  ],
+  "outright death": [
+    "Instant Death"
+  ],
+  "ability": [
+    "Air Requirements"
+  ],
+  "Attack of opportunity": [
+    "Action: Attack"
+  ],
+  "critical failure": [
+    "Stabilizing a Creature"
+  ],
+  "Search": [
+    "Action: Search"
+  ],
+  "cunning action": [
+    "Action: Dash"
+  ],
+  "spell slits": [
+    "Falling Unconscious"
+  ],
+  "graple": [
+    "Grapple"
+  ],
+  "traps": [
+    "Action: Dash"
+  ],
+  "saving throws": [
+    "Death Saving Throws"
+  ],
+  "equip": [
+    "Versatile"
+  ],
+  "ranged attacks": [
+    "Action: Attack"
+  ],
+  "pull": [
+    "Action: Tumble"
+  ],
+  "Exaustion": [
+    "Exhaustion Levels"
+  ],
+  "dadh": [
+    "Action: Dash"
+  ],
+  "dark vision": [
+    "Air Requirements"
+  ],
+  "Knocking a Creature Out": [
+    "Stabilizing a Creature"
+  ],
+  "mo": [
+    "Improvising Damage"
+  ],
+  "spell level": [
+    "Shove"
+  ],
+  "spell component": [
+    "Long Rest"
+  ],
+  "tumblr": [
+    "Action: Tumble"
+  ],
+  "pr": [
+    "Improvising Damage"
+  ],
+  "dis": [
+    "Action: Disengage"
+  ],
+  "air requirement": [
+    "Air Requirements"
+  ],
+  "moving through spaces": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "salad": [
+    "Instant Death"
+  ],
+  "action: hide": [
+    "Action: Dash"
+  ],
+  "cleave": [
+    "Heavy"
+  ],
+  "off hand attack": [
+    "Two-Handed"
+  ],
+  "two-handed": [
+    "Two-Handed"
+  ],
+  "action attack": [
+    "Action: Attack"
+  ],
+  "readied action": [
+    "Readying an Action"
+  ],
+  "exhaustio": [
+    "Exhaustion Levels"
+  ],
+  "falling below 0": [
+    "Death Saving Throws"
+  ],
+  "falling uncon": [
+    "Falling Unconscious"
+  ],
+  "jump distance": [
+    "Instant Death"
+  ],
+  "readying actions": [
+    "Readying an Action"
+  ],
+  "improvis": [
+    "Improvising Damage"
+  ],
+  "ready an action": [
+    "Readying an Action"
+  ],
+  "reac": [
+    "Reach"
+  ],
+  "break": [
+    "Heavy"
+  ],
+  "concncetration": [
+    "Concentration"
+  ],
+  "dama": [
+    "Improvising Damage"
+  ],
+  "disengag": [
+    "Action: Disengage"
+  ],
+  "falldamige": [
+    "Loading"
+  ],
+  "height": [
+    "Shove"
+  ],
+  "Short rest": [
+    "Short Rest"
+  ],
+  "ready action": [
+    "Readying an Action"
+  ],
+  "rogue": [
+    "Improvising Damage"
+  ],
+  "\"sneak attack\"": [
+    "Stealth"
+  ],
+  "heavy obs": [
+    "Heavily Obscured"
+  ],
+  "Thrown": [
+    "Thrown"
+  ],
+  "action: tumble": [
+    "Action: Tumble"
+  ],
+  "use item": [
+    "Action: Use an Object"
+  ],
+  "bonus spell": [
+    "Action: Cast a Spell"
+  ],
+  "shoiv": [
+    "Shove"
+  ],
+  "prayer": [
+    "Half Cover"
+  ],
+  "running": [
+    "Air Requirements"
+  ],
+  "animal": [
+    "Action: Tumble"
+  ],
+  "diseng": [
+    "Action: Disengage"
+  ],
+  "unconcious": [
+    "Falling Unconscious"
+  ],
+  "exhuast": [
+    "Exhaustion Levels"
+  ],
+  "exhastion": [
+    "Exhaustion Levels"
+  ],
+  "diaginal": [
+    "Loading"
+  ],
+  "diagonal": [
+    "Action: Dash"
+  ],
+  "stabalizing a creature": [
+    "Stabilizing a Creature"
+  ],
+  "acid": [
+    "Reach"
+  ],
+  "patron": [
+    "Action: Help"
+  ],
+  "dwath": [
+    "Action: Dash"
+  ],
+  "death save throw": [
+    "Death Saving Throws"
+  ],
+  "improvised damage": [
+    "Improvising Damage"
+  ],
+  "kevin is a bitch": [
+    "Instant Death"
+  ],
+  "rests": [
+    "Long Rest"
+  ],
+  "action dodge": [
+    "Action: Dodge"
+  ],
+  "attack action": [
+    "Concentration"
+  ],
+  "Hide": [
+    "Shove"
+  ],
+  "diarm": [
+    "Action: Disarm"
+  ],
+  "skills": [
+    "Stealth"
+  ],
+  "modifiers": [
+    "Improvising Damage"
+  ],
+  "gnome cunn": [
+    "Action: Overrun"
+  ],
+  "Melee attacks": [
+    "Action: Attack"
+  ],
+  "vampirism": [
+    "Air Requirements"
+  ],
+  "quick action": [
+    "Ammunition"
+  ],
+  "fin": [
+    "Finesse"
+  ],
+  "enchantment": [
+    "Action: Tumble"
+  ],
+  "vision and light": [
+    "Light"
+  ],
+  "bash": [
+    "Shove"
+  ],
+  "pick up": [
+    "Grapple"
+  ],
+  "standing up": [
+    "Stabilizing a Creature"
+  ],
+  "grapple condition": [
+    "Grapple"
+  ],
+  "feature": [
+    "Food Requirements"
+  ],
+  "all": [
+    "Falling Unconscious"
+  ],
+  "Climb Onto a Bigger Creature": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "Climb_Onto_a_Bigger_Creature": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "Climbing onto a bigger creature": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "Shove Aside": [
+    "Shove"
+  ],
+  "Equipment Sizes": [
+    "Air Requirements"
+  ],
+  "Air Requirements": [
+    "Air Requirements"
+  ],
+  "Hitting Combat": [
+    "Stabilizing a Creature"
+  ],
+  "Healer\u2019s Kit Dependency": [
+    "Heavily Obscured"
+  ],
+  "Injuries": [
+    "Long Rest"
+  ],
+  "run": [
+    "Action: Overrun"
+  ],
+  "invisibil": [
+    "Improvising Damage"
+  ],
+  "gender": [
+    "Concentration"
+  ],
+  "disadvan": [
+    "Readying an Action"
+  ],
+  "weapon fighting": [
+    "Two-Handed"
+  ],
+  "exhu": [
+    "Exhaustion Levels"
+  ],
+  "action:mark": [
+    "Action: Mark"
+  ],
+  "34 toy story": [
+    "Long Rest"
+  ],
+  "savin": [
+    "Death Saving Throws"
+  ],
+  "squeeze": [
+    "Shove"
+  ],
+  "battle": [
+    "Exhaustion Levels"
+  ],
+  "concentraiton": [
+    "Concentration"
+  ],
+  "Short Rest": [
+    "Short Rest"
+  ],
+  "two hand": [
+    "Two-Handed"
+  ],
+  "flankig": [
+    "Loading"
+  ],
+  "gritty realism": [
+    "Air Requirements"
+  ],
+  "three-quarters": [
+    "Food Requirements"
+  ],
+  "three quarters cover": [
+    "3/4 Cover"
+  ],
+  "unconsc": [
+    "Falling Unconscious"
+  ],
+  "Death Save": [
+    "Death Saving Throws"
+  ],
+  "Heavily Obscured": [
+    "Heavily Obscured"
+  ],
+  "Two": [
+    "Two-Handed"
+  ],
+  "SHove": [
+    "Shove"
+  ],
+  "fuck": [
+    "Action: Mark"
+  ],
+  "sneak": [
+    "Stealth"
+  ],
+  "metamagic": [
+    "Improvising Damage"
+  ],
+  "quicken spell": [
+    "Action: Help"
+  ],
+  "maintain concentration": [
+    "Concentration"
+  ],
+  "Food and Drink": [
+    "Food Requirements"
+  ],
+  "grapp": [
+    "Grapple"
+  ],
+  "exaustion": [
+    "Exhaustion Levels"
+  ],
+  "heavy obscurement": [
+    "Heavily Obscured"
+  ],
+  "Reach.": [
+    "Reach"
+  ],
+  "scribing": [
+    "Concentration"
+  ],
+  "long reat": [
+    "Long Rest"
+  ],
+  "Carry": [
+    "Heavy"
+  ],
+  "blindfightingg": [
+    "Action: Disengage"
+  ],
+  "rouge": [
+    "Improvising Damage"
+  ],
+  "echastion": [
+    "Exhaustion Levels"
+  ],
+  "Action: Attack": [
+    "Action: Attack"
+  ],
+  "Two-weapon fighting": [
+    "Two-Handed"
+  ],
+  "use object": [
+    "Action: Use an Object"
+  ],
+  "o": [
+    "Falling Unconscious"
+  ],
+  "drawing": [
+    "Loading"
+  ],
+  "action block": [
+    "Action: Dodge"
+  ],
+  "unco": [
+    "Falling Unconscious"
+  ],
+  "Graple": [
+    "Grapple"
+  ],
+  "sorcery ponts": [
+    "Air Requirements"
+  ],
+  "read y": [
+    "Readying an Action"
+  ],
+  "mounted": [
+    "Action: Tumble"
+  ],
+  "action hold ground": [
+    "Action: Overrun"
+  ],
+  "suprised": [
+    "Finesse"
+  ],
+  "two handed weapons": [
+    "Two-Handed"
+  ],
+  "steel": [
+    "Exhaustion Levels"
+  ],
+  "sr": [
+    "Short Rest"
+  ],
+  "improvized": [
+    "Improvising Damage"
+  ],
+  "carry capacity": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "aggressive": [
+    "Air Requirements"
+  ],
+  "improvising damag": [
+    "Improvising Damage"
+  ],
+  "wand": [
+    "Loading"
+  ],
+  "oscured": [
+    "Lightly Obscured"
+  ],
+  "lycanthropy": [
+    "Thrown"
+  ],
+  "carrying capacity": [
+    "Improvising Damage"
+  ],
+  "Attack of Opportunity": [
+    "Action: Attack"
+  ],
+  "partially obscured": [
+    "Action: Use an Object"
+  ],
+  "action: overrun": [
+    "Action: Overrun"
+  ],
+  "climb onto bigger": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "shove \u00f1": [
+    "Shove"
+  ],
+  "silver": [
+    "Shove"
+  ],
+  "stabl": [
+    "Stabilizing a Creature"
+  ],
+  "improv": [
+    "Improvising Damage"
+  ],
+  "imprivised": [
+    "Improvising Damage"
+  ],
+  "single target spell": [
+    "Instant Death"
+  ],
+  "unarmed strike": [
+    "Air Requirements"
+  ],
+  "dim li": [
+    "Light"
+  ],
+  "climbing on bigger": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "instant": [
+    "Instant Death"
+  ],
+  "encomberance": [
+    "Versatile"
+  ],
+  "attack shove": [
+    "Shove"
+  ],
+  "death saving": [
+    "Death Saving Throws"
+  ],
+  "1/2 cover": [
+    "Half Cover"
+  ],
+  "action Use an Object": [
+    "Action: Use an Object"
+  ],
+  "Lightly Obscured": [
+    "Lightly Obscured"
+  ],
+  "lycan": [
+    "Loading"
+  ],
+  "imrpovised": [
+    "Improvising Damage"
+  ],
+  "love": [
+    "Shove"
+  ],
+  "long rst": [
+    "Long Rest"
+  ],
+  "Spot": [
+    "Stealth"
+  ],
+  "yeet": [
+    "Air Requirements"
+  ],
+  "action search": [
+    "Action: Search"
+  ],
+  "over": [
+    "Action: Overrun"
+  ],
+  "hel": [
+    "Action: Help"
+  ],
+  "shov": [
+    "Shove"
+  ],
+  "weapon improvised": [
+    "Improvising Damage"
+  ],
+  "weapon light": [
+    "Light"
+  ],
+  "unseen attackers": [
+    "Air Requirements"
+  ],
+  "shove aside": [
+    "Shove"
+  ],
+  "survival": [
+    "Exhaustion Levels"
+  ],
+  "Exhaustion Levels": [
+    "Exhaustion Levels"
+  ],
+  "Use an Object": [
+    "Action: Use an Object"
+  ],
+  "Standard array": [
+    "Action: Mark"
+  ],
+  "suffa": [
+    "Instant Death"
+  ],
+  "light obscurity": [
+    "Lightly Obscured"
+  ],
+  "holding action": [
+    "Readying an Action"
+  ],
+  "air requirements": [
+    "Air Requirements"
+  ],
+  "activity": [
+    "Action: Attack"
+  ],
+  "draw a map": [
+    "Action: Mark"
+  ],
+  "cp": [
+    "Grapple"
+  ],
+  "heavy armor": [
+    "Heavy"
+  ],
+  "surprise_attack": [
+    "Stealth"
+  ],
+  "heavily obcurred": [
+    "Heavily Obscured"
+  ],
+  "melee weapon": [
+    "Readying an Action"
+  ],
+  "action attack of opportunity": [
+    "Action: Attack"
+  ],
+  "climb on creature": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "dying": [
+    "Readying an Action"
+  ],
+  "hitting cover": [
+    "Half Cover"
+  ],
+  "feapppe": [
+    "Grapple"
+  ],
+  "doublethink": [
+    "Ammunition"
+  ],
+  "blindsense": [
+    "Action: Disengage"
+  ],
+  "fear": [
+    "Half Cover"
+  ],
+  "gelp": [
+    "Action: Help"
+  ],
+  "exhastuion": [
+    "Exhaustion Levels"
+  ],
+  "help actiong": [
+    "Action: Help"
+  ],
+  "bonus action spell": [
+    "Action: Cast a Spell"
+  ],
+  "tabletop simulator": [
+    "Action: Search"
+  ],
+  "cover full": [
+    "Full Cover"
+  ],
+  "currency": [
+    "Reach"
+  ],
+  "prepare an action": [
+    "Readying an Action"
+  ],
+  "lingering": [
+    "Action: Overrun"
+  ],
+  "magic": [
+    "Heavily Obscured"
+  ],
+  "dodgr": [
+    "Action: Dodge"
+  ],
+  "poi": [
+    "Concentration"
+  ],
+  "bow": [
+    "Thrown"
+  ],
+  "covrr": [
+    "Half Cover"
+  ],
+  "Exceptions": [
+    "Exhaustion Levels"
+  ],
+  "arson and property damage": [
+    "Improvising Damage"
+  ],
+  "true communism": [
+    "Food Requirements"
+  ],
+  "creating magic item": [
+    "Improvising Damage"
+  ],
+  "shoe": [
+    "Shove"
+  ],
+  "spell melee": [
+    "Action: Cast a Spell"
+  ],
+  "arcane focus": [
+    "Action: Dodge"
+  ],
+  "simple": [
+    "Shove"
+  ],
+  "vitality": [
+    "Stealth"
+  ],
+  "dogde": [
+    "Action: Dodge"
+  ],
+  "climbing speed": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "heavily obscu": [
+    "Heavily Obscured"
+  ],
+  "hold": [
+    "Shove"
+  ],
+  "recharge": [
+    "Air Requirements"
+  ],
+  "short rest wizard": [
+    "Short Rest"
+  ],
+  "gnome namesw": [
+    "Action: Disengage"
+  ],
+  "fal": [
+    "Falling Unconscious"
+  ],
+  "insant death": [
+    "Instant Death"
+  ],
+  "take 20": [
+    "Stealth"
+  ],
+  "take 10": [
+    "Stealth"
+  ],
+  "rush": [
+    "Shove"
+  ],
+  "quarter": [
+    "Half Cover"
+  ],
+  "grapplle": [
+    "Long Rest"
+  ],
+  "projectile recovery": [
+    "Action: Overrun"
+  ],
+  "opportunity of attack": [
+    "Action: Attack"
+  ],
+  "cube": [
+    "Action: Tumble"
+  ],
+  "emcumbrance": [
+    "Action: Tumble"
+  ],
+  "roll": [
+    "Full Cover"
+  ],
+  "instakill": [
+    "Instant Death"
+  ],
+  "exaughstion": [
+    "Exhaustion Levels"
+  ],
+  "stab": [
+    "Stabilizing a Creature"
+  ],
+  "attack of": [
+    "Action: Dodge"
+  ],
+  "tra": [
+    "Concentration"
+  ],
+  "peircing": [
+    "Improvising Damage"
+  ],
+  "pushing": [
+    "Shove"
+  ],
+  "armour": [
+    "Air Requirements"
+  ],
+  "death savw": [
+    "Death Saving Throws"
+  ],
+  "casting spell": [
+    "Action: Cast a Spell"
+  ],
+  "massive damage": [
+    "Improvising Damage"
+  ],
+  "dioxide emissions": [
+    "Food Requirements"
+  ],
+  "short_rest": [
+    "Short Rest"
+  ],
+  "long_rest": [
+    "Long Rest"
+  ],
+  "damage type": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "bardic": [
+    "Action: Attack"
+  ],
+  "duel weilding": [
+    "Loading"
+  ],
+  "exaust": [
+    "Exhaustion Levels"
+  ],
+  "five foot step": [
+    "Short Rest"
+  ],
+  "half damage": [
+    "Improvising Damage"
+  ],
+  "exhaustian": [
+    "Exhaustion Levels"
+  ],
+  "stabalize": [
+    "Stabilizing a Creature"
+  ],
+  "use an item": [
+    "Action: Use an Object"
+  ],
+  "optional": [
+    "Action: Mark"
+  ],
+  "<DC>": [
+    "Reach"
+  ],
+  "<saving throw>": [
+    "Death Saving Throws"
+  ],
+  "versa": [
+    "Versatile"
+  ],
+  "strengh": [
+    "Reach"
+  ],
+  "Shadowfell": [
+    "Thrown"
+  ],
+  "large": [
+    "Reach"
+  ],
+  "lightly ob": [
+    "Lightly Obscured"
+  ],
+  "Loading": [
+    "Loading"
+  ],
+  "concentration check": [
+    "Concentration"
+  ],
+  "craft": [
+    "Stealth"
+  ],
+  "longrest": [
+    "Long Rest"
+  ],
+  "ini": [
+    "Finesse"
+  ],
+  "dual weapon": [
+    "Readying an Action"
+  ],
+  "points of exhaustion": [
+    "Exhaustion Levels"
+  ],
+  "bonus action spells": [
+    "Action: Cast a Spell"
+  ],
+  "grapple]": [
+    "Grapple"
+  ],
+  "learning": [
+    "Ammunition"
+  ],
+  "srealth": [
+    "Stealth"
+  ],
+  "movment": [
+    "Food Requirements"
+  ],
+  "Half Cover": [
+    "Half Cover"
+  ],
+  "exploration": [
+    "Exhaustion Levels"
+  ],
+  "inventory": [
+    "Instant Death"
+  ],
+  "Combat": [
+    "Concentration"
+  ],
+  "Climbing": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "Difficult Terrain": [
+    "Full Cover"
+  ],
+  "small": [
+    "Stealth"
+  ],
+  "elven accuracy": [
+    "Heavily Obscured"
+  ],
+  "insp": [
+    "Instant Death"
+  ],
+  "Improvising damage": [
+    "Improvising Damage"
+  ],
+  "climate": [
+    "Instant Death"
+  ],
+  "barding": [
+    "Action: Disengage"
+  ],
+  "penis": [
+    "Air Requirements"
+  ],
+  "grapple4": [
+    "Grapple"
+  ],
+  "imp": [
+    "Improvising Damage"
+  ],
+  "web": [
+    "Shove"
+  ],
+  "throws": [
+    "Death Saving Throws"
+  ],
+  "deck": [
+    "Action: Dodge"
+  ],
+  "climbing onto": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "scrolls": [
+    "Exhaustion Levels"
+  ],
+  "wilderness": [
+    "Long Rest"
+  ],
+  "exaution": [
+    "Exhaustion Levels"
+  ],
+  "rituals": [
+    "Action: Tumble"
+  ],
+  "crawl": [
+    "Grapple"
+  ],
+  "incapac": [
+    "Action: Cast a Spell"
+  ],
+  "exhuastion": [
+    "Exhaustion Levels"
+  ],
+  "damage object": [
+    "Improvising Damage"
+  ],
+  "statistics for objects": [
+    "Instant Death"
+  ],
+  "breath": [
+    "Instant Death"
+  ],
+  "grab": [
+    "Grapple"
+  ],
+  "truesi": [
+    "Reach"
+  ],
+  "tremor": [
+    "Action: Mark"
+  ],
+  "upkeep": [
+    "Food Requirements"
+  ],
+  "reaction attack": [
+    "Action: Attack"
+  ],
+  "climbing on a bigger": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "feint": [
+    "Air Requirements"
+  ],
+  "oversized": [
+    "3/4 Cover"
+  ],
+  "grappper": [
+    "Grapple"
+  ],
+  "grapplijg": [
+    "Grapple"
+  ],
+  "att": [
+    "Action: Attack"
+  ],
+  "healing surge": [
+    "Heavily Obscured"
+  ],
+  "ranged spell attack": [
+    "Action: Cast a Spell"
+  ],
+  "dc": [
+    "Readying an Action"
+  ],
+  "undead fortitude": [
+    "Action: Tumble"
+  ],
+  "brawling": [
+    "Grapple"
+  ],
+  "vuln": [
+    "Full Cover"
+  ],
+  "Action:Hide": [
+    "Action: Disengage"
+  ],
+  "reliable talent": [
+    "Air Requirements"
+  ],
+  "Grappling": [
+    "Grapple"
+  ],
+  "dASH": [
+    "Action: Dash"
+  ],
+  "finn": [
+    "Finesse"
+  ],
+  "ammo": [
+    "Ammunition"
+  ],
+  "action help": [
+    "Action: Help"
+  ],
+  "blind fighting": [
+    "Light"
+  ],
+  "verbal": [
+    "3/4 Cover"
+  ],
+  "heavily obs": [
+    "Heavily Obscured"
+  ],
+  "climb onto": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "action mark": [
+    "Action: Mark"
+  ],
+  "paralyze": [
+    "Half Cover"
+  ],
+  "Trample": [
+    "Action: Tumble"
+  ],
+  "partial": [
+    "Stealth"
+  ],
+  "concentracion": [
+    "Concentration"
+  ],
+  "imporvised weapon": [
+    "Improvising Damage"
+  ],
+  "\"bonus action\"": [
+    "Readying an Action"
+  ],
+  "TWo": [
+    "Two-Handed"
+  ],
+  "BA spell": [
+    "Action: Cast a Spell"
+  ],
+  "conce": [
+    "Concentration"
+  ],
+  "occupied": [
+    "Shove"
+  ],
+  "<cover>": [
+    "Half Cover"
+  ],
+  "rst": [
+    "Versatile"
+  ],
+  "spellcastin": [
+    "Stealth"
+  ],
+  "<contest>": [
+    "Action: Tumble"
+  ],
+  "crafting magic items": [
+    "Improvising Damage"
+  ],
+  "overwhelm": [
+    "Shove"
+  ],
+  "unarmed attack": [
+    "Action: Attack"
+  ],
+  "blade flourish": [
+    "Air Requirements"
+  ],
+  "bright light": [
+    "Light"
+  ],
+  "nat 1 on attack": [
+    "Action: Attack"
+  ],
+  "skill check": [
+    "Lightly Obscured"
+  ],
+  "performance": [
+    "Improvising Damage"
+  ],
+  "action e": [
+    "Action: Tumble"
+  ],
+  "attack of oppourtunity": [
+    "Action: Overrun"
+  ],
+  "Exhaus": [
+    "Exhaustion Levels"
+  ],
+  "excalibur": [
+    "Air Requirements"
+  ],
+  "touch spell": [
+    "Action: Cast a Spell"
+  ],
+  "weapon switch": [
+    "Action: Search"
+  ],
+  "saving": [
+    "Death Saving Throws"
+  ],
+  "readied attack": [
+    "Readying an Action"
+  ],
+  "full cober": [
+    "Full Cover"
+  ],
+  "holding": [
+    "Loading"
+  ],
+  "holding breath": [
+    "Instant Death"
+  ],
+  "impro": [
+    "Improvising Damage"
+  ],
+  "dismiss": [
+    "Finesse"
+  ],
+  "dismiss spell": [
+    "Action: Cast a Spell"
+  ],
+  "scroll": [
+    "Thrown"
+  ],
+  "read": [
+    "Readying an Action"
+  ],
+  "temporary hit points": [
+    "Concentration"
+  ],
+  "combat actions": [
+    "Readying an Action"
+  ],
+  "climb onto creature": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "fighting with two weapons": [
+    "Action: Overrun"
+  ],
+  "move through enemy": [
+    "Food Requirements"
+  ],
+  "space": [
+    "Action: Help"
+  ],
+  "oa": [
+    "Loading"
+  ],
+  "attack opportunity": [
+    "Action: Attack"
+  ],
+  "stand": [
+    "Thrown"
+  ],
+  "Medicine": [
+    "Action: Help"
+  ],
+  "versitale": [
+    "Versatile"
+  ],
+  "three quarter cover": [
+    "3/4 Cover"
+  ],
+  "Multiclass": [
+    "Action: Cast a Spell"
+  ],
+  "-basic": [
+    "Reach"
+  ],
+  "-Action: Search": [
+    "Action: Search"
+  ],
+  "attack of opporunity": [
+    "Action: Attack"
+  ],
+  "thaumaturgy": [
+    "Stealth"
+  ],
+  "heavily onsc": [
+    "Heavily Obscured"
+  ],
+  "full rest": [
+    "Long Rest"
+  ],
+  "defense": [
+    "Food Requirements"
+  ],
+  "spells per day": [
+    "Heavy"
+  ],
+  "attacks of opportunity": [
+    "Action: Use an Object"
+  ],
+  "grappl;e": [
+    "Grapple"
+  ],
+  "half-cover": [
+    "Half Cover"
+  ],
+  "dualweild": [
+    "Grapple"
+  ],
+  "light weapon": [
+    "Light"
+  ],
+  "making an attack": [
+    "Action: Attack"
+  ],
+  "two weapon light": [
+    "Light"
+  ],
+  "great weapon fighter": [
+    "Death Saving Throws"
+  ],
+  "action over": [
+    "Action: Overrun"
+  ],
+  "spell save dc": [
+    "Heavily Obscured"
+  ],
+  "spell dc": [
+    "Action: Cast a Spell"
+  ],
+  "concentr": [
+    "Concentration"
+  ],
+  "disengange": [
+    "Action: Disengage"
+  ],
+  "surprise round": [
+    "Action: Overrun"
+  ],
+  "Imrprove": [
+    "Improvising Damage"
+  ],
+  "Action: Dodge": [
+    "Action: Dodge"
+  ],
+  "offhand attack": [
+    "Two-Handed"
+  ],
+  "Xanthar's": [
+    "Exhaustion Levels"
+  ],
+  "deatgh": [
+    "Instant Death"
+  ],
+  "attackroll": [
+    "Action: Attack"
+  ],
+  "accuracy": [
+    "Concentration"
+  ],
+  "q": [
+    "Air Requirements"
+  ],
+  "lochie sux": [
+    "Heavily Obscured"
+  ],
+  "licantrop": [
+    "Stabilizing a Creature"
+  ],
+  "Ritual": [
+    "Stealth"
+  ],
+  "push attack": [
+    "Action: Attack"
+  ],
+  "action tumble": [
+    "Action: Tumble"
+  ],
+  "st": [
+    "Stabilizing a Creature"
+  ],
+  "incapitated": [
+    "Instant Death"
+  ],
+  "psychic": [
+    "Stealth"
+  ],
+  "afd": [
+    "Action: Dodge"
+  ],
+  "afadf": [
+    "Half Cover"
+  ],
+  "domain": [
+    "Action: Dash"
+  ],
+  "restr": [
+    "Long Rest"
+  ],
+  "exhaistion": [
+    "Exhaustion Levels"
+  ],
+  "spel": [
+    "Action: Cast a Spell"
+  ],
+  "afdkla": [
+    "Stealth"
+  ],
+  "df": [
+    "Two-Handed"
+  ],
+  "suicide": [
+    "Action: Disengage"
+  ],
+  "double movement": [
+    "Action: Overrun"
+  ],
+  "climb on": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "go fuck yourself": [
+    "Lightly Obscured"
+  ],
+  "action: dodge": [
+    "Action: Dodge"
+  ],
+  "feats": [
+    "Reach"
+  ],
+  "Advantage and Disadvantage": [
+    "Instant Death"
+  ],
+  "Instant Death": [
+    "Instant Death"
+  ],
+  "bigger": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "climb onto bigger creature": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "duel wielding": [
+    "Loading"
+  ],
+  "two hand combat": [
+    "Two-Handed"
+  ],
+  "two weapons combat": [
+    "Action: Attack"
+  ],
+  "holding an action": [
+    "Readying an Action"
+  ],
+  "sling": [
+    "Improvising Damage"
+  ],
+  "Hexblade's curse": [
+    "Heavily Obscured"
+  ],
+  "stabolize": [
+    "Stabilizing a Creature"
+  ],
+  "dim lighting": [
+    "Light"
+  ],
+  "enviroment": [
+    "Air Requirements"
+  ],
+  "somatic": [
+    "Concentration"
+  ],
+  "hardness": [
+    "Finesse"
+  ],
+  "Tiefling": [
+    "Loading"
+  ],
+  "load": [
+    "Loading"
+  ],
+  "ability modifier": [
+    "Half Cover"
+  ],
+  "weapon damage": [
+    "Improvising Damage"
+  ],
+  "death asve": [
+    "Death Saving Throws"
+  ],
+  "fun": [
+    "Food Requirements"
+  ],
+  "three quarter": [
+    "Short Rest"
+  ],
+  "non-lethal damage": [
+    "Improvising Damage"
+  ],
+  "dazed": [
+    "Heavily Obscured"
+  ],
+  "friends": [
+    "Air Requirements"
+  ],
+  "combat help": [
+    "Action: Help"
+  ],
+  "impr": [
+    "Improvising Damage"
+  ],
+  "arcane focuss": [
+    "Action: Cast a Spell"
+  ],
+  "tw handed": [
+    "Two-Handed"
+  ],
+  "vulnerable to piercing": [
+    "Versatile"
+  ],
+  "dim ligjt": [
+    "Air Requirements"
+  ],
+  "drown": [
+    "Concentration"
+  ],
+  "carryweight": [
+    "Light"
+  ],
+  "kill alex": [
+    "Grapple"
+  ],
+  "optional:flanking": [
+    "Action: Mark"
+  ],
+  "t": [
+    "Action: Overrun"
+  ],
+  "permanent damage": [
+    "Improvising Damage"
+  ],
+  "Light": [
+    "Light"
+  ],
+  "sylvan": [
+    "Loading"
+  ],
+  "dismount": [
+    "Loading"
+  ],
+  "3/4 co": [
+    "3/4 Cover"
+  ],
+  "full co": [
+    "Full Cover"
+  ],
+  "exau": [
+    "Exhaustion Levels"
+  ],
+  "obscurement": [
+    "Heavily Obscured"
+  ],
+  "three-quaters cover": [
+    "3/4 Cover"
+  ],
+  "unconsi": [
+    "Falling Unconscious"
+  ],
+  "stabili": [
+    "Stabilizing a Creature"
+  ],
+  "monk unarmed strike": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "alignment": [
+    "Light"
+  ],
+  "Called Shot": [
+    "Falling Unconscious"
+  ],
+  "consentration": [
+    "Concentration"
+  ],
+  "Object": [
+    "Action: Use an Object"
+  ],
+  "4": [
+    "3/4 Cover"
+  ],
+  "1/4": [
+    "Long Rest"
+  ],
+  "3/3": [
+    "3/4 Cover"
+  ],
+  "dice": [
+    "Loading"
+  ],
+  "Blindsight": [
+    "Light"
+  ],
+  "allignment": [
+    "Long Rest"
+  ],
+  "Dim": [
+    "Light"
+  ],
+  "heavily encumbered": [
+    "Heavily Obscured"
+  ],
+  "Fall": [
+    "Falling Unconscious"
+  ],
+  "Adventuring": [
+    "Ammunition"
+  ],
+  "action: search": [
+    "Action: Search"
+  ],
+  "rite of the flame": [
+    "Two-Handed"
+  ],
+  "smithing": [
+    "Stealth"
+  ],
+  "magic weapons": [
+    "Concentration"
+  ],
+  "silvered": [
+    "Versatile"
+  ],
+  "multclassing": [
+    "Light"
+  ],
+  "animal handling": [
+    "Action: Disengage"
+  ],
+  "pet": [
+    "Versatile"
+  ],
+  "paralyzed": [
+    "Grapple"
+  ],
+  "burst": [
+    "Air Requirements"
+  ],
+  "challenge raging": [
+    "Long Rest"
+  ],
+  "revive": [
+    "Heavy"
+  ],
+  "time": [
+    "Action: Mark"
+  ],
+  "1st level spell and cantrip": [
+    "Action: Cast a Spell"
+  ],
+  "exhaustion levels": [
+    "Exhaustion Levels"
+  ],
+  "action:help": [
+    "Action: Help"
+  ],
+  "attacks of opp": [
+    "Action: Attack"
+  ],
+  "opprutunity attacks": [
+    "Short Rest"
+  ],
+  "doffing": [
+    "Action: Disengage"
+  ],
+  "horde": [
+    "Half Cover"
+  ],
+  "concentration spells": [
+    "Concentration"
+  ],
+  "Stabilising a creature": [
+    "Stabilizing a Creature"
+  ],
+  "traveling": [
+    "Loading"
+  ],
+  "journey": [
+    "Long Rest"
+  ],
+  "grappble": [
+    "Grapple"
+  ],
+  "Double Attack": [
+    "Action: Attack"
+  ],
+  "structure damage": [
+    "Improvising Damage"
+  ],
+  "h": [
+    "Death Saving Throws"
+  ],
+  "\"Channel Divinity\"": [
+    "Half Cover"
+  ],
+  "axhaustion": [
+    "Exhaustion Levels"
+  ],
+  "actions in combat": [
+    "Action: Mark"
+  ],
+  "aid": [
+    "Loading"
+  ],
+  "concentation": [
+    "Concentration"
+  ],
+  "crush damage": [
+    "Improvising Damage"
+  ],
+  "stow": [
+    "Thrown"
+  ],
+  "free action": [
+    "Readying an Action"
+  ],
+  "item": [
+    "Instant Death"
+  ],
+  "party stealth": [
+    "Instant Death"
+  ],
+  "armor stealth": [
+    "Action: Search"
+  ],
+  "point of corruption": [
+    "Action: Overrun"
+  ],
+  "temp": [
+    "Action: Help"
+  ],
+  "difficult": [
+    "Action: Tumble"
+  ],
+  "athletics": [
+    "Stealth"
+  ],
+  "surprise attack": [
+    "Stealth"
+  ],
+  "proned": [
+    "Thrown"
+  ],
+  "initivie": [
+    "Action: Overrun"
+  ],
+  "inititive": [
+    "Action: Attack"
+  ],
+  "sleeping armor": [
+    "Long Rest"
+  ],
+  "grapplw": [
+    "Grapple"
+  ],
+  "finese": [
+    "Finesse"
+  ],
+  "Suprise": [
+    "Improvising Damage"
+  ],
+  "capacity": [
+    "Light"
+  ],
+  "starting gear": [
+    "Action: Mark"
+  ],
+  "concentration save": [
+    "Concentration"
+  ],
+  "Pushing": [
+    "Shove"
+  ],
+  "atack": [
+    "Action: Attack"
+  ],
+  "How to train": [
+    "Concentration"
+  ],
+  "cpver": [
+    "3/4 Cover"
+  ],
+  "action readyu": [
+    "Action: Mark"
+  ],
+  "rady": [
+    "Readying an Action"
+  ],
+  "radiant": [
+    "Action: Attack"
+  ],
+  "intelligence": [
+    "Falling Unconscious"
+  ],
+  "picking up weapon": [
+    "Action: Use an Object"
+  ],
+  "ood": [
+    "Food Requirements"
+  ],
+  "selena please make character im dyin": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "unarmed strikes": [
+    "Versatile"
+  ],
+  "healing spirit": [
+    "Stabilizing a Creature"
+  ],
+  "sorcery points": [
+    "Readying an Action"
+  ],
+  "creature size": [
+    "Versatile"
+  ],
+  "category": [
+    "3/4 Cover"
+  ],
+  "lightly obscur": [
+    "Lightly Obscured"
+  ],
+  "bright": [
+    "Lightly Obscured"
+  ],
+  "dod": [
+    "Action: Dodge"
+  ],
+  "Damage resistance": [
+    "Death Saving Throws"
+  ],
+  "savingthrow": [
+    "Thrown"
+  ],
+  "saves": [
+    "Shove"
+  ],
+  "spell save": [
+    "Full Cover"
+  ],
+  "called shots": [
+    "Falling Unconscious"
+  ],
+  "restrain": [
+    "Short Rest"
+  ],
+  "lightning": [
+    "Light"
+  ],
+  "TPK": [
+    "Light"
+  ],
+  "tempera": [
+    "Heavy"
+  ],
+  "concentrate": [
+    "Concentration"
+  ],
+  "Prepared": [
+    "Air Requirements"
+  ],
+  "Grappled": [
+    "Grapple"
+  ],
+  "paraliz": [
+    "Grapple"
+  ],
+  "concetration": [
+    "Concentration"
+  ],
+  "overurn": [
+    "Action: Overrun"
+  ],
+  "rolling": [
+    "Loading"
+  ],
+  "natural 1": [
+    "Instant Death"
+  ],
+  "con spell": [
+    "Action: Cast a Spell"
+  ],
+  "Consultation": [
+    "Concentration"
+  ],
+  "hirelings": [
+    "Loading"
+  ],
+  "main action": [
+    "Readying an Action"
+  ],
+  "blinded": [
+    "Action: Dodge"
+  ],
+  "<grapple>": [
+    "Grapple"
+  ],
+  "covver": [
+    "Half Cover"
+  ],
+  "powerful build": [
+    "Heavily Obscured"
+  ],
+  "language": [
+    "Action: Dodge"
+  ],
+  "shirt rest": [
+    "Long Rest"
+  ],
+  "Evasion": [
+    "Action: Dash"
+  ],
+  "melee attacks": [
+    "Action: Attack"
+  ],
+  "Action help": [
+    "Action: Help"
+  ],
+  "strengthMod": [
+    "Stealth"
+  ],
+  "oppertunity": [
+    "Action: Overrun"
+  ],
+  "hexblade": [
+    "Loading"
+  ],
+  "pact of the blade": [
+    "Action: Tumble"
+  ],
+  "How To Anal Snakes": [
+    "Exhaustion Levels"
+  ],
+  "levels": [
+    "Exhaustion Levels"
+  ],
+  "1/4 cover": [
+    "Half Cover"
+  ],
+  "leaping": [
+    "Light"
+  ],
+  "standing long jump": [
+    "Action: Tumble"
+  ],
+  "dismissing spells": [
+    "Action: Cast a Spell"
+  ],
+  "uncommon": [
+    "Ammunition"
+  ],
+  "\"long rest\"": [
+    "Long Rest"
+  ],
+  "combar": [
+    "Action: Disarm"
+  ],
+  "critical role": [
+    "Action: Tumble"
+  ],
+  "dark": [
+    "Action: Mark"
+  ],
+  "two-weapon combat": [
+    "Action: Use an Object"
+  ],
+  "twoweapon": [
+    "Thrown"
+  ],
+  "heavily obscur": [
+    "Heavily Obscured"
+  ],
+  "level up": [
+    "Heavily Obscured"
+  ],
+  "clim": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "improvise weapon": [
+    "Improvising Damage"
+  ],
+  "\"Death saves\"": [
+    "Death Saving Throws"
+  ],
+  "true sight": [
+    "Light"
+  ],
+  "uncouncious": [
+    "Falling Unconscious"
+  ],
+  "autoerotic asphyxiation": [
+    "Ammunition"
+  ],
+  "fuck dakota /dance": [
+    "Action: Attack"
+  ],
+  "dancing": [
+    "Action: Dash"
+  ],
+  "tumbling": [
+    "Action: Tumble"
+  ],
+  "Heavy": [
+    "Heavy"
+  ],
+  "Two-Handed": [
+    "Two-Handed"
+  ],
+  "disenga": [
+    "Action: Disengage"
+  ],
+  "dice roll": [
+    "Versatile"
+  ],
+  "\"bonus actio\"": [
+    "Action: Help"
+  ],
+  "stabalis": [
+    "Stabilizing a Creature"
+  ],
+  "\"short rest\"": [
+    "Short Rest"
+  ],
+  "<melee>": [
+    "Grapple"
+  ],
+  "improv weapon": [
+    "Thrown"
+  ],
+  "shive": [
+    "Shove"
+  ],
+  "Paralysed": [
+    "Grapple"
+  ],
+  "knocked down": [
+    "Action: Dodge"
+  ],
+  "light obscure": [
+    "Lightly Obscured"
+  ],
+  "Action: Hide": [
+    "Action: Dodge"
+  ],
+  "exhausr": [
+    "Exhaustion Levels"
+  ],
+  "Action: Aid": [
+    "Action: Mark"
+  ],
+  "conentration": [
+    "Concentration"
+  ],
+  "Alterations to magic": [
+    "Action: Mark"
+  ],
+  "improving damage": [
+    "Improvising Damage"
+  ],
+  "climbing on larger creature": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "coup": [
+    "Action: Help"
+  ],
+  "improvised attacks": [
+    "Improvising Damage"
+  ],
+  "off": [
+    "3/4 Cover"
+  ],
+  "exertion": [
+    "Exhaustion Levels"
+  ],
+  "improvised rule": [
+    "Improvising Damage"
+  ],
+  "readying a spell": [
+    "Readying an Action"
+  ],
+  "climbing on to larger creature": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "Action: Trip": [
+    "Action: Disarm"
+  ],
+  "grapeled": [
+    "Grapple"
+  ],
+  "dropping to 0 hp": [
+    "Death Saving Throws"
+  ],
+  "critical strike": [
+    "Action: Attack"
+  ],
+  "vore": [
+    "Shove"
+  ],
+  "prepareing": [
+    "Readying an Action"
+  ],
+  "lightly obsucre": [
+    "Lightly Obscured"
+  ],
+  "doge": [
+    "Action: Dodge"
+  ],
+  "trues": [
+    "Air Requirements"
+  ],
+  "stabil": [
+    "Stabilizing a Creature"
+  ],
+  "melew": [
+    "Finesse"
+  ],
+  "Long Rest": [
+    "Long Rest"
+  ],
+  "do": [
+    "Action: Dodge"
+  ],
+  "kill": [
+    "Versatile"
+  ],
+  "climbing a larg": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "foraging": [
+    "Food Requirements"
+  ],
+  "three fourth cover": [
+    "3/4 Cover"
+  ],
+  "interact object": [
+    "Action: Use an Object"
+  ],
+  "light rest": [
+    "Short Rest"
+  ],
+  "climbing onto large creature": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "graplled": [
+    "Grapple"
+  ],
+  "overrune": [
+    "Action: Overrun"
+  ],
+  "Run": [
+    "Action: Overrun"
+  ],
+  "spell slot recovery": [
+    "Short Rest"
+  ],
+  "swimming": [
+    "Stabilizing a Creature"
+  ],
+  "action: swimming": [
+    "Action: Mark"
+  ],
+  "knock": [
+    "Falling Unconscious"
+  ],
+  "natural healing": [
+    "Loading"
+  ],
+  "natural regeneration": [
+    "Air Requirements"
+  ],
+  "blindnes": [
+    "Action: Dash"
+  ],
+  "soft cover": [
+    "Half Cover"
+  ],
+  "exhaustiin": [
+    "Exhaustion Levels"
+  ],
+  "weild": [
+    "Versatile"
+  ],
+  "action disarm": [
+    "Action: Mark"
+  ],
+  "short  rest": [
+    "Short Rest"
+  ],
+  "appraise": [
+    "Finesse"
+  ],
+  "Find Creature": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "health": [
+    "Instant Death"
+  ],
+  "death savoring": [
+    "Death Saving Throws"
+  ],
+  "3/5": [
+    "3/4 Cover"
+  ],
+  "running a buisnes": [
+    "Action: Use an Object"
+  ],
+  "action: mark": [
+    "Action: Mark"
+  ],
+  "cpvee": [
+    "Full Cover"
+  ],
+  "sprint": [
+    "Air Requirements"
+  ],
+  "components": [
+    "Concentration"
+  ],
+  "luck": [
+    "Half Cover"
+  ],
+  "tying knots": [
+    "Death Saving Throws"
+  ],
+  "light obscured": [
+    "Lightly Obscured"
+  ],
+  "intimidation": [
+    "Instant Death"
+  ],
+  "Ready Action": [
+    "Readying an Action"
+  ],
+  "deathward": [
+    "Instant Death"
+  ],
+  "mounted attack": [
+    "Action: Mark"
+  ],
+  "fitness": [
+    "Finesse"
+  ],
+  "Arrow": [
+    "Death Saving Throws"
+  ],
+  "recovery": [
+    "Shove"
+  ],
+  "fall damahs": [
+    "Falling Unconscious"
+  ],
+  "1/2": [
+    "Half Cover"
+  ],
+  "preparing": [
+    "Readying an Action"
+  ],
+  "tubmle": [
+    "Action: Tumble"
+  ],
+  "climbing bigger creature": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "climbing onto bigger": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "weave": [
+    "Shove"
+  ],
+  "duck": [
+    "Food Requirements"
+  ],
+  "move pass": [
+    "Improvising Damage"
+  ],
+  "domains": [
+    "Loading"
+  ],
+  "profiency bonus": [
+    "Readying an Action"
+  ],
+  "truesigt": [
+    "Stealth"
+  ],
+  "<jump>": [
+    "Grapple"
+  ],
+  "<jumping>": [
+    "Action: Dodge"
+  ],
+  "<mount>": [
+    "Concentration"
+  ],
+  "<high jump>": [
+    "Action: Tumble"
+  ],
+  "<mounted combat>": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "Ammunition": [
+    "Ammunition"
+  ],
+  "starting gold": [
+    "Instant Death"
+  ],
+  "falling time": [
+    "Action: Tumble"
+  ],
+  "cli": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "disarmin": [
+    "Action: Disarm"
+  ],
+  "Mounted Combat": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "oppurtunity attacks": [
+    "Instant Death"
+  ],
+  "amm": [
+    "Ammunition"
+  ],
+  "exahustion": [
+    "Exhaustion Levels"
+  ],
+  "apportunity attack": [
+    "Action: Attack"
+  ],
+  "Death": [
+    "Death Saving Throws"
+  ],
+  "expeditious retreat": [
+    "Air Requirements"
+  ],
+  "cast a spell": [
+    "Action: Cast a Spell"
+  ],
+  "actio": [
+    "Readying an Action"
+  ],
+  "attac": [
+    "Action: Attack"
+  ],
+  "use an": [
+    "Action: Use an Object"
+  ],
+  "Legendary Action": [
+    "Readying an Action"
+  ],
+  "sizes": [
+    "Shove"
+  ],
+  "sidekick": [
+    "Improvising Damage"
+  ],
+  "Hit Points": [
+    "Air Requirements"
+  ],
+  "lava": [
+    "Loading"
+  ],
+  "improvised thrown weapon": [
+    "Improvising Damage"
+  ],
+  "contact poison": [
+    "Action: Mark"
+  ],
+  "panache": [
+    "Reach"
+  ],
+  "improvise damage": [
+    "Improvising Damage"
+  ],
+  "unconscous": [
+    "Falling Unconscious"
+  ],
+  "limited usage": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "frostbite": [
+    "Improvising Damage"
+  ],
+  "name": [
+    "Instant Death"
+  ],
+  "resurrection": [
+    "Readying an Action"
+  ],
+  "multicast": [
+    "Action: Cast a Spell"
+  ],
+  "Initiative": [
+    "Instant Death"
+  ],
+  "Obscured": [
+    "Lightly Obscured"
+  ],
+  "opportunity_attack": [
+    "Concentration"
+  ],
+  "tumbke": [
+    "Action: Tumble"
+  ],
+  "ov": [
+    "Action: Overrun"
+  ],
+  "Disengage'": [
+    "Action: Disengage"
+  ],
+  "improvising dama": [
+    "Improvising Damage"
+  ],
+  "reacti": [
+    "Readying an Action"
+  ],
+  "fright": [
+    "Readying an Action"
+  ],
+  "AC": [
+    "Action: Attack"
+  ],
+  "half cov": [
+    "Half Cover"
+  ],
+  "bardic inspiration": [
+    "Readying an Action"
+  ],
+  "listy": [
+    "Instant Death"
+  ],
+  "Actions": [
+    "Action: Disarm"
+  ],
+  "rolling a 20": [
+    "Falling Unconscious"
+  ],
+  "deathsaves": [
+    "Death Saving Throws"
+  ],
+  "gr": [
+    "Grapple"
+  ],
+  "magic weapon": [
+    "Action: Help"
+  ],
+  "fire damage": [
+    "Improvising Damage"
+  ],
+  "<Stabilizing a Creature>": [
+    "Stabilizing a Creature"
+  ],
+  "casting time": [
+    "Action: Tumble"
+  ],
+  "casting a spell": [
+    "Action: Cast a Spell"
+  ],
+  "cocwe": [
+    "3/4 Cover"
+  ],
+  "short re": [
+    "Short Rest"
+  ],
+  "two fighting": [
+    "Light"
+  ],
+  "multiclassing": [
+    "Improvising Damage"
+  ],
+  "incapcitated": [
+    "Stabilizing a Creature"
+  ],
+  "34 zoe": [
+    "3/4 Cover"
+  ],
+  "p": [
+    "Improvising Damage"
+  ],
+  "-": [
+    "Two-Handed"
+  ],
+  "stygian": [
+    "Instant Death"
+  ],
+  "lightly obsc": [
+    "Lightly Obscured"
+  ],
+  "ammuntion": [
+    "Ammunition"
+  ],
+  "Divine": [
+    "Finesse"
+  ],
+  "suplex": [
+    "Shove"
+  ],
+  "passive check": [
+    "Action: Help"
+  ],
+  "passive": [
+    "Action: Overrun"
+  ],
+  "Invisibility": [
+    "Stealth"
+  ],
+  "climbi": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "civer": [
+    "3/4 Cover"
+  ],
+  "ross": [
+    "Short Rest"
+  ],
+  "mass damage": [
+    "Improvising Damage"
+  ],
+  "readying action": [
+    "Readying an Action"
+  ],
+  "check": [
+    "Shove"
+  ],
+  "ability score": [
+    "Stabilizing a Creature"
+  ],
+  "ammunation": [
+    "Ammunition"
+  ],
+  "diffic": [
+    "Full Cover"
+  ],
+  "attack of op": [
+    "Action: Overrun"
+  ],
+  "oppurtunity": [
+    "Action: Overrun"
+  ],
+  "rogue table": [
+    "Action: Tumble"
+  ],
+  "obscurity": [
+    "Heavily Obscured"
+  ],
+  "helping": [
+    "Action: Help"
+  ],
+  "at": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "base ac": [
+    "Reach"
+  ],
+  "Poisoned": [
+    "Improvising Damage"
+  ],
+  "climbing into bigger": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "provoke": [
+    "Full Cover"
+  ],
+  "longsword": [
+    "Heavily Obscured"
+  ],
+  "attack of o": [
+    "Action: Attack"
+  ],
+  "obscutr": [
+    "Lightly Obscured"
+  ],
+  "paladin": [
+    "Loading"
+  ],
+  "ability:divine sense": [
+    "Action: Disengage"
+  ],
+  "stablizie": [
+    "Stabilizing a Creature"
+  ],
+  "climbing on": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "telepathy": [
+    "Heavy"
+  ],
+  "no sleep": [
+    "Exhaustion Levels"
+  ],
+  "drop": [
+    "Action: Help"
+  ],
+  "lodging": [
+    "Loading"
+  ],
+  "action:dash": [
+    "Action: Dash"
+  ],
+  "concentratino": [
+    "Concentration"
+  ],
+  "concenteation": [
+    "Concentration"
+  ],
+  "cuckold": [
+    "Action: Help"
+  ],
+  "thrown weapon": [
+    "Thrown"
+  ],
+  "concentraition": [
+    "Concentration"
+  ],
+  "light obsc": [
+    "Lightly Obscured"
+  ],
+  "ca": [
+    "Action: Cast a Spell"
+  ],
+  "pro": [
+    "Improvising Damage"
+  ],
+  "taking off armor": [
+    "Action: Disarm"
+  ],
+  "long res": [
+    "Long Rest"
+  ],
+  "tumbl": [
+    "Action: Tumble"
+  ],
+  "disengage\\": [
+    "Action: Disengage"
+  ],
+  "ambush": [
+    "Stealth"
+  ],
+  "Sleep": [
+    "Stealth"
+  ],
+  "counter": [
+    "Concentration"
+  ],
+  "race": [
+    "Action: Help"
+  ],
+  "low light": [
+    "Light"
+  ],
+  "ressurection": [
+    "Air Requirements"
+  ],
+  "trap": [
+    "Stealth"
+  ],
+  "overencumbered": [
+    "Food Requirements"
+  ],
+  "Climb": [
+    "Climbing Onto a Bigger Creature"
+  ],
+  "shoveaside": [
+    "Shove"
+  ],
+  "magic ammo": [
+    "Ammunition"
+  ],
+  "deatg": [
+    "Death Saving Throws"
+  ],
+  "extreme heat": [
+    "Air Requirements"
+  ],
+  "proficiencies": [
+    "Action: Disarm"
+  ],
+  "falling unconscious": [
+    "Falling Unconscious"
+  ],
+  "attack of oppurtunity": [
+    "Action: Overrun"
+  ],
+  "interact with object": [
+    "Action: Use an Object"
+  ],
+  "acrobatic": [
+    "Reach"
+  ],
+  "acro": [
+    "Reach"
+  ],
+  "Hold Action": [
+    "Readying an Action"
+  ],
+  "fighting style": [
+    "Action: Tumble"
+  ],
+  "on hit": [
+    "Long Rest"
+  ],
+  "crossbow": [
+    "Concentration"
+  ],
+  "rang": [
+    "Reach"
+  ],
+  "short resy": [
+    "Short Rest"
+  ],
+  "perceiving spells": [
+    "Action: Cast a Spell"
+  ],
+  "expanded spell": [
+    "Action: Cast a Spell"
+  ],
+  "disarmed": [
+    "Action: Disarm"
+  ],
+  "train": [
+    "Versatile"
+  ],
+  "prepared spell": [
+    "Action: Cast a Spell"
+  ],
+  "consumable": [
+    "Action: Mark"
+  ],
+  "no light": [
+    "Lightly Obscured"
+  ],
+  "surprised": [
+    "Grapple"
+  ],
+  "<attack>": [
+    "Action: Attack"
+  ],
+  "medicine check": [
+    "Action: Use an Object"
+  ],
+  "reviving": [
+    "Death Saving Throws"
+  ],
+  "ammu": [
+    "Ammunition"
+  ],
+  "priority": [
+    "Food Requirements"
+  ],
+  "crot": [
+    "Thrown"
+  ],
+  "exhauation": [
+    "Exhaustion Levels"
+  ],
+  "incapa": [
+    "Action: Help"
+  ],
+  "ability check": [
+    "Lightly Obscured"
+  ],
+  "two-hand fighting": [
+    "Two-Handed"
+  ],
+  "passive ability": [
+    "Stealth"
+  ],
+  "interaction": [
+    "Readying an Action"
+  ],
+  "short res": [
+    "Short Rest"
+  ],
+  "<vision>": [
+    "Shove"
+  ],
+  "<obscurement>": [
+    "Heavily Obscured"
+  ],
+  "stablis": [
+    "Stabilizing a Creature"
+  ],
+  "horse": [
+    "Half Cover"
+  ],
+  "follower": [
+    "Action: Overrun"
+  ],
+  "weapon improv": [
+    "Action: Mark"
+  ],
+  "action jump": [
+    "Action: Tumble"
+  ],
+  "action assist": [
+    "Action: Mark"
+  ]
+}

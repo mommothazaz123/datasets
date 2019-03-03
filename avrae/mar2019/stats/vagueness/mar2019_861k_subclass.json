@@ -1,0 +1,5498 @@
+{
+  "ranger": [
+    "Ranger (Spell-less): Gloom Stalker",
+    "Ranger: Gloom Stalker",
+    "Ranger: Hunter",
+    "Ranger: Horizon Walker (UA)",
+    "Ranger (Revised): Monster Slayer (UA)",
+    "Ranger (Revised): Beast Conclave",
+    "Ranger (Revised): Monster Slayer",
+    "Ranger: Primeval Guardian (UA)",
+    "Ranger (Spell-less): Primeval Guardian (UA)",
+    "Ranger (Revised): Horizon Walker",
+    "Ranger (Spell-less): Deep Stalker (UA)",
+    "Ranger: Deep Stalker (UA)",
+    "Ranger (Revised): Primeval Guardian (UA)",
+    "Ranger: Horizon Walker",
+    "Ranger: Monster Slayer (UA)",
+    "Ranger (Spell-less): Horizon Walker",
+    "Ranger (Revised): Horizon Walker (UA)",
+    "Ranger (Revised): Hunter Conclave",
+    "Ranger (Spell-less): Monster Slayer (UA)",
+    "Ranger (Spell-less): Horizon Walker (UA)",
+    "Ranger: Monster Slayer",
+    "Ranger (Spell-less): Beast Master",
+    "Ranger (Revised): Hunter Conclave (UA)",
+    "Ranger (Spell-less): Monster Slayer",
+    "Ranger (Revised): Gloom Stalker",
+    "Ranger (Spell-less): Hunter",
+    "Ranger (Revised): Deep Stalker Conclave",
+    "Ranger: Beast Master"
+  ],
+  "cleric": [
+    "Cleric: City Domain (UA)",
+    "Cleric: Arcana Domain",
+    "Cleric: War Domain",
+    "Cleric: Death Domain",
+    "Cleric: Tempest Domain",
+    "Cleric: Life Domain",
+    "Cleric: Order Domain",
+    "Cleric: Grave Domain",
+    "Cleric: Forge Domain (UA)",
+    "Cleric: Zeal Domain (PSA)",
+    "Cleric: Destruction Domain (Twitter)",
+    "Cleric: Order Domain (UA)",
+    "Cleric: Forge Domain",
+    "Cleric: Nature Domain",
+    "Cleric: Darkness Domain (Twitter)",
+    "Cleric: Light Domain",
+    "Cleric: Knowledge Domain (PSA)",
+    "Cleric: Ambition Domain (PSA)",
+    "Cleric: Knowledge Domain",
+    "Cleric: Protection Domain (UA)",
+    "Cleric: Trickery Domain",
+    "Cleric: Beauty Domain (Twitter)",
+    "Cleric: Grave Domain (UA)",
+    "Cleric: Solidarity Domain (PSA)",
+    "Cleric: Strength Domain (PSA)"
+  ],
+  "domain": [
+    "Cleric: City Domain (UA)",
+    "Cleric: Arcana Domain",
+    "Cleric: War Domain",
+    "Cleric: Death Domain",
+    "Cleric: Tempest Domain",
+    "Cleric: Life Domain",
+    "Cleric: Order Domain",
+    "Cleric: Grave Domain",
+    "Cleric: Forge Domain (UA)",
+    "Cleric: Destruction Domain (Twitter)",
+    "Cleric: Zeal Domain (PSA)",
+    "Cleric: Order Domain (UA)",
+    "Cleric: Nature Domain",
+    "Cleric: Forge Domain",
+    "Cleric: Darkness Domain (Twitter)",
+    "Cleric: Light Domain",
+    "Cleric: Knowledge Domain (PSA)",
+    "Cleric: Ambition Domain (PSA)",
+    "Cleric: Knowledge Domain",
+    "Cleric: Protection Domain (UA)",
+    "Cleric: Trickery Domain",
+    "Cleric: Beauty Domain (Twitter)",
+    "Cleric: Grave Domain (UA)",
+    "Cleric: Solidarity Domain (PSA)",
+    "Cleric: Strength Domain (PSA)"
+  ],
+  "Cleric": [
+    "Cleric: City Domain (UA)",
+    "Cleric: Trickery Domain",
+    "Cleric: Beauty Domain (Twitter)",
+    "Cleric: Ambition Domain (PSA)",
+    "Cleric: Death Domain",
+    "Cleric: Zeal Domain (PSA)",
+    "Cleric: Destruction Domain (Twitter)",
+    "Cleric: Tempest Domain",
+    "Cleric: Order Domain (UA)",
+    "Cleric: Protection Domain (UA)",
+    "Cleric: Nature Domain",
+    "Cleric: Forge Domain",
+    "Cleric: War Domain",
+    "Cleric: Life Domain",
+    "Cleric: Order Domain",
+    "Cleric: Arcana Domain",
+    "Cleric: Darkness Domain (Twitter)",
+    "Cleric: Knowledge Domain (PSA)",
+    "Cleric: Knowledge Domain"
+  ],
+  "wizard": [
+    "Wizard: Bladesinger",
+    "Wizard: Theurgy (UA)",
+    "Wizard: Lore Mastery (UA)",
+    "Wizard: Technomancy (UA)",
+    "Wizard: School of Evocation",
+    "Wizard: School of Conjuration",
+    "Wizard: School of Divination",
+    "Wizard: School of Transmutation",
+    "Wizard: School of Invention (UA)",
+    "Wizard: Bladesinging",
+    "Wizard: School of Abjuration",
+    "Wizard: School of Necromancy",
+    "Wizard: Artificer (UA)",
+    "Wizard: School of Illusion",
+    "Wizard: School of Enchantment",
+    "Wizard: War Magic",
+    "Wizard: War Magic (UA)"
+  ],
+  "fighter": [
+    "Fighter: Monster Hunter (UA)",
+    "Fighter: Cavalier",
+    "Fighter: Eldritch Knight",
+    "Fighter: Samurai (UA)",
+    "Fighter: Arcane Archer (UA)",
+    "Fighter: Arcane Archer v2 (UA)",
+    "Fighter: Battle Master",
+    "Fighter: Cavalier v2 (UA)",
+    "Fighter: Cavalier (UA)",
+    "Fighter: Champion",
+    "Fighter: Purple Dragon Knight (Banneret)",
+    "Fighter: Scout (UA)",
+    "Fighter: Samurai",
+    "Fighter: Brute (UA)",
+    "Fighter: Arcane Archer",
+    "Fighter: Knight (UA)",
+    "Fighter: Sharpshooter (UA)"
+  ],
+  "sorcerer": [
+    "Sorcerer: Storm Sorcery",
+    "Sorcerer: Draconic Bloodline",
+    "Sorcerer: Favored Soul (UA)",
+    "Sorcerer: Stone Sorcery (UA)",
+    "Sorcerer: Shadow (UA)",
+    "Sorcerer: Sea Sorcery (UA)",
+    "Sorcerer: Wild Magic",
+    "Sorcerer: Divine Soul",
+    "Sorcerer: Favored Soul v3 (UA)",
+    "Sorcerer: Shadow Magic",
+    "Sorcerer: Favored Soul v2 (UA)",
+    "Sorcerer: Pyromancer (PSK)",
+    "Sorcerer: Phoenix Sorcery (UA)",
+    "Sorcerer: Giant Soul (UA)"
+  ],
+  "the": [
+    "Warlock: The Celestial (UA)",
+    "Warlock: The Archfey",
+    "Warlock: The Hexblade",
+    "Wizard: Theurgy (UA)",
+    "Warlock: The Celestial",
+    "Warlock: The Raven Queen (UA)",
+    "Warlock: The Great Old One",
+    "Warlock: The Seeker (UA)",
+    "Warlock: The Undying",
+    "Warlock: The Fiend",
+    "Paladin: Oath of the Crown",
+    "Paladin: Oath of the Ancients",
+    "Warlock: The Undying Light (UA)",
+    "Barbarian: Path of the Ancestral Guardian v2 (UA)"
+  ],
+  "Fighter": [
+    "Fighter: Monster Hunter (UA)",
+    "Fighter: Cavalier",
+    "Fighter: Eldritch Knight",
+    "Fighter: Samurai (UA)",
+    "Fighter: Arcane Archer v2 (UA)",
+    "Fighter: Battle Master",
+    "Fighter: Purple Dragon Knight (Banneret)",
+    "Fighter: Champion",
+    "Fighter: Samurai",
+    "Fighter: Scout (UA)",
+    "Fighter: Brute (UA)",
+    "Fighter: Arcane Archer",
+    "Fighter: Knight (UA)",
+    "Fighter: Sharpshooter (UA)"
+  ],
+  "Ranger": [
+    "Ranger (Revised): Beast Conclave",
+    "Ranger (Revised): Monster Slayer",
+    "Ranger: Horizon Walker",
+    "Ranger: Gloom Stalker",
+    "Ranger: Beast Master",
+    "Ranger (Revised): Horizon Walker",
+    "Ranger (Revised): Gloom Stalker",
+    "Ranger (Revised): Hunter Conclave",
+    "Ranger: Hunter",
+    "Ranger: Horizon Walker (UA)",
+    "Ranger (Revised): Horizon Walker (UA)",
+    "Ranger (Revised): Deep Stalker Conclave",
+    "Ranger: Deep Stalker (UA)",
+    "Ranger: Monster Slayer"
+  ],
+  "sorc": [
+    "Sorcerer: Draconic Bloodline",
+    "Sorcerer: Storm Sorcery",
+    "Sorcerer: Favored Soul (UA)",
+    "Sorcerer: Stone Sorcery (UA)",
+    "Sorcerer: Shadow (UA)",
+    "Sorcerer: Sea Sorcery (UA)",
+    "Sorcerer: Wild Magic",
+    "Sorcerer: Divine Soul",
+    "Sorcerer: Favored Soul v3 (UA)",
+    "Sorcerer: Shadow Magic",
+    "Sorcerer: Favored Soul v2 (UA)",
+    "Sorcerer: Pyromancer (PSK)",
+    "Sorcerer: Phoenix Sorcery (UA)",
+    "Sorcerer: Giant Soul (UA)"
+  ],
+  "warlock": [
+    "Warlock: The Celestial (UA)",
+    "Warlock: The Archfey",
+    "Warlock: The Hexblade",
+    "Warlock: The Raven Queen (UA)",
+    "Warlock: The Celestial",
+    "Warlock: The Great Old One",
+    "Warlock: The Seeker (UA)",
+    "Warlock: The Undying",
+    "Warlock: The Fiend",
+    "Warlock: Lolth (Twitter)",
+    "Warlock: The Hexblade (UA)",
+    "Warlock: Ghost in the Machine (UA)",
+    "Warlock: The Undying Light (UA)"
+  ],
+  "oath": [
+    "Paladin: Oath of Redemption",
+    "Rogue: Mastermind",
+    "Rogue: Thief",
+    "Paladin: Oath of Conquest",
+    "Paladin: Oathbreaker",
+    "Paladin: Oath of Conquest (UA)",
+    "Paladin: Oath of the Crown",
+    "Paladin: Oath of Vengeance",
+    "Paladin: Oath of Redemption (UA)",
+    "Paladin: Oath of Conquest v2 (UA)",
+    "Paladin: Oath of Treachery (UA)",
+    "Paladin: Oath of Devotion",
+    "Paladin: Oath of the Ancients"
+  ],
+  "way": [
+    "Monk: Way of the Kensei",
+    "Monk: Way of the Kensei (UA)",
+    "Monk: Way of the Drunken Master (UA)",
+    "Wizard: Theurgy (UA)",
+    "Monk: Way of the Open Hand",
+    "Monk: Way of Shadow",
+    "Monk: Way of Tranquility (UA)",
+    "Monk: Way of the Four Elements",
+    "Monk: Way of the Drunken Master",
+    "Warlock: The Undying",
+    "Monk: Way of the Sun Soul",
+    "Monk: Way of the Kensei v2 (UA)",
+    "Monk: Way of the Long Death"
+  ],
+  "Paladin": [
+    "Paladin: Oath of Redemption",
+    "Paladin: Oath of Conquest",
+    "Paladin: Oathbreaker",
+    "Paladin: Oath of Conquest (UA)",
+    "Wizard: Bladesinging",
+    "Paladin: Oath of the Crown",
+    "Paladin: Oath of Vengeance",
+    "Paladin: Oath of Redemption (UA)",
+    "Paladin: Oath of Conquest v2 (UA)",
+    "Paladin: Oath of Treachery (UA)",
+    "Paladin: Oath of Devotion",
+    "Paladin: Oath of the Ancients"
+  ],
+  "paladin": [
+    "Paladin: Oath of Redemption",
+    "Paladin: Oath of Conquest",
+    "Paladin: Oathbreaker",
+    "Paladin: Oath of Conquest (UA)",
+    "Wizard: Bladesinging",
+    "Paladin: Oath of the Crown",
+    "Paladin: Oath of Vengeance",
+    "Paladin: Oath of Redemption (UA)",
+    "Paladin: Oath of Conquest v2 (UA)",
+    "Paladin: Oath of Treachery (UA)",
+    "Paladin: Oath of Devotion",
+    "Paladin: Oath of the Ancients"
+  ],
+  "monk": [
+    "Monk: Way of the Kensei",
+    "Monk: Way of the Kensei (UA)",
+    "Monk: Way of the Drunken Master (UA)",
+    "Monk: Way of the Open Hand",
+    "Monk: Way of Tranquility (UA)",
+    "Monk: Way of Shadow",
+    "Monk: Way of the Four Elements",
+    "Monk: Way of the Drunken Master",
+    "Fighter: Champion",
+    "Monk: Way of the Sun Soul",
+    "Monk: Way of the Kensei v2 (UA)",
+    "Monk: Way of the Long Death"
+  ],
+  "druid": [
+    "Druid: Circle of Spores (UA)",
+    "Druid: Circle of the Shepherd (UA)",
+    "Rogue: Thief",
+    "Druid: Circle of the Land",
+    "Rogue: Mastermind",
+    "Druid: Circle of Dreams (UA)",
+    "Druid: Circle of Twilight (UA)",
+    "Druid: Circle of Dreams",
+    "Druid: Circle of Spores",
+    "Druid: Circle of the Moon",
+    "Druid: Circle of the Shepherd",
+    "Druid: Circle of the Shepherd v2 (UA)"
+  ],
+  "Domain": [
+    "Cleric: Grave Domain",
+    "Cleric: City Domain (UA)",
+    "Cleric: Death Domain",
+    "Cleric: Protection Domain (UA)",
+    "Cleric: Nature Domain",
+    "Cleric: Arcana Domain",
+    "Cleric: Life Domain",
+    "Cleric: Darkness Domain (Twitter)",
+    "Cleric: Order Domain",
+    "Cleric: Light Domain",
+    "Cleric: Knowledge Domain"
+  ],
+  "circle": [
+    "Druid: Circle of Spores (UA)",
+    "Druid: Circle of the Shepherd (UA)",
+    "Druid: Circle of the Land",
+    "Druid: Circle of Dreams (UA)",
+    "Druid: Circle of Twilight (UA)",
+    "Druid: Circle of Dreams",
+    "Druid: Circle of Spores",
+    "Druid: Circle of the Moon",
+    "Cleric: Life Domain",
+    "Druid: Circle of the Shepherd",
+    "Druid: Circle of the Shepherd v2 (UA)"
+  ],
+  "bard": [
+    "Bard: College of Whispers",
+    "Rogue: Mastermind",
+    "Bard: College of Satire (UA)",
+    "Bard: College of Glamour (UA)",
+    "Bard: College of Swords (UA)",
+    "Bard: College of Valor",
+    "Bard: College of Glamour",
+    "Bard: College of Lore",
+    "Bard: College of Whispers (UA)",
+    "Bard: College of Swords",
+    "Bard: College of Swords v2 (UA)"
+  ],
+  "path": [
+    "Barbarian: Path of the Totem Warrior",
+    "Paladin: Oathbreaker",
+    "Barbarian: Path of the Ancestral Guardian",
+    "Barbarian: Path of the Berserker",
+    "Barbarian: Path of the Storm Herald",
+    "Barbarian: Path of the Zealot (UA)",
+    "Paladin: Oath of Devotion",
+    "Barbarian: Path of the Battlerager",
+    "Barbarian: Path of the Zealot",
+    "Barbarian: Path of the Ancestral Guardian (UA)",
+    "Barbarian: Path of the Ancestral Guardian v2 (UA)"
+  ],
+  "Warlock": [
+    "Warlock: The Archfey",
+    "Warlock: The Hexblade",
+    "Warlock: The Raven Queen (UA)",
+    "Warlock: The Celestial",
+    "Warlock: The Great Old One",
+    "Warlock: The Seeker (UA)",
+    "Warlock: The Undying",
+    "Warlock: The Fiend",
+    "Warlock: Lolth (Twitter)",
+    "Warlock: Ghost in the Machine (UA)",
+    "Warlock: The Undying Light (UA)"
+  ],
+  "Monk": [
+    "Monk: Way of the Kensei",
+    "Monk: Way of the Kensei (UA)",
+    "Monk: Way of the Drunken Master (UA)",
+    "Monk: Way of the Open Hand",
+    "Monk: Way of Tranquility (UA)",
+    "Monk: Way of Shadow",
+    "Monk: Way of the Four Elements",
+    "Monk: Way of the Drunken Master",
+    "Monk: Way of the Sun Soul",
+    "Monk: Way of the Kensei v2 (UA)",
+    "Monk: Way of the Long Death"
+  ],
+  "revised": [
+    "Ranger (Revised): Primeval Guardian (UA)",
+    "Ranger (Revised): Beast Conclave",
+    "Rogue: Mastermind",
+    "Ranger (Revised): Monster Slayer",
+    "Ranger (Revised): Hunter Conclave (UA)",
+    "Ranger (Revised): Deep Stalker Conclave (UA)",
+    "Ranger (Revised): Horizon Walker",
+    "Ranger (Revised): Gloom Stalker",
+    "Ranger (Revised): Hunter Conclave",
+    "Ranger (Revised): Deep Stalker Conclave"
+  ],
+  "college": [
+    "Bard: College of Whispers",
+    "Bard: College of Satire (UA)",
+    "Bard: College of Glamour (UA)",
+    "Bard: College of Swords (UA)",
+    "Bard: College of Valor",
+    "Bard: College of Glamour",
+    "Bard: College of Lore",
+    "Bard: College of Whispers (UA)",
+    "Bard: College of Swords",
+    "Bard: College of Swords v2 (UA)"
+  ],
+  "barbarian": [
+    "Barbarian: Path of the Totem Warrior",
+    "Barbarian: Path of the Storm Herald (UA)",
+    "Barbarian: Path of the Ancestral Guardian",
+    "Barbarian: Path of the Berserker",
+    "Barbarian: Path of the Storm Herald",
+    "Barbarian: Path of the Zealot (UA)",
+    "Barbarian: Path of the Battlerager",
+    "Barbarian: Path of the Zealot",
+    "Barbarian: Path of the Ancestral Guardian (UA)",
+    "Barbarian: Path of the Ancestral Guardian v2 (UA)"
+  ],
+  "cleric:": [
+    "Cleric: Beauty Domain (Twitter)",
+    "Cleric: Trickery Domain",
+    "Cleric: Death Domain",
+    "Cleric: Nature Domain",
+    "Cleric: Forge Domain",
+    "Cleric: Protection Domain (UA)",
+    "Cleric: Darkness Domain (Twitter)",
+    "Cleric: Arcana Domain",
+    "Cleric: Order Domain",
+    "Cleric: Knowledge Domain"
+  ],
+  "barb": [
+    "Barbarian: Path of the Totem Warrior",
+    "Barbarian: Path of the Storm Herald (UA)",
+    "Paladin: Oathbreaker",
+    "Barbarian: Path of the Ancestral Guardian",
+    "Barbarian: Path of the Berserker",
+    "Barbarian: Path of the Storm Herald",
+    "Barbarian: Path of the Zealot (UA)",
+    "Barbarian: Path of the Battlerager",
+    "Barbarian: Path of the Zealot",
+    "Barbarian: Path of the Ancestral Guardian (UA)"
+  ],
+  "Sorcerer": [
+    "Sorcerer: Draconic Bloodline",
+    "Sorcerer: Storm Sorcery",
+    "Sorcerer: Favored Soul (UA)",
+    "Sorcerer: Shadow (UA)",
+    "Sorcerer: Sea Sorcery (UA)",
+    "Sorcerer: Wild Magic",
+    "Sorcerer: Favored Soul v3 (UA)",
+    "Sorcerer: Divine Soul",
+    "Sorcerer: Shadow Magic",
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "war": [
+    "Barbarian: Path of the Totem Warrior",
+    "Warlock: The Archfey",
+    "Warlock: The Raven Queen (UA)",
+    "Warlock: The Great Old One",
+    "Warlock: The Undying",
+    "Warlock: The Fiend",
+    "Cleric: War Domain",
+    "Wizard: War Magic",
+    "Wizard: War Magic (UA)"
+  ],
+  "Barbarian": [
+    "Barbarian: Path of the Totem Warrior",
+    "Barbarian: Path of the Storm Herald (UA)",
+    "Barbarian: Path of the Ancestral Guardian",
+    "Barbarian: Path of the Berserker",
+    "Barbarian: Path of the Storm Herald",
+    "Barbarian: Path of the Zealot (UA)",
+    "Barbarian: Path of the Battlerager",
+    "Barbarian: Path of the Zealot",
+    "Barbarian: Path of the Ancestral Guardian v2 (UA)"
+  ],
+  "rogue": [
+    "Rogue: Mastermind",
+    "Rogue: Thief",
+    "Rogue: Assassin",
+    "Rogue: Scout (UA)",
+    "Rogue: Swashbuckler",
+    "Rogue: Scout",
+    "Rogue: Arcane Trickster",
+    "Rogue: Inquisitive (UA)",
+    "Rogue: Inquisitive"
+  ],
+  "order": [
+    "Mystic: Order of the Nomad",
+    "Wizard: Theurgy (UA)",
+    "Cleric: Order Domain (UA)",
+    "Mystic: Order of the Wu Jen",
+    "Cleric: Order Domain",
+    "Mystic: Order of the Avatar",
+    "Mystic: Order of the Soul Knife",
+    "Mystic: Order of the Awakened",
+    "Mystic: Order of the Immortal"
+  ],
+  "College": [
+    "Bard: College of Whispers",
+    "Bard: College of Satire (UA)",
+    "Bard: College of Glamour (UA)",
+    "Bard: College of Swords (UA)",
+    "Bard: College of Valor",
+    "Bard: College of Glamour",
+    "Bard: College of Lore",
+    "Bard: College of Whispers (UA)",
+    "Bard: College of Swords"
+  ],
+  "Oath": [
+    "Paladin: Oath of Redemption",
+    "Paladin: Oath of Conquest",
+    "Paladin: Oathbreaker",
+    "Paladin: Oath of the Crown",
+    "Paladin: Oath of Vengeance",
+    "Paladin: Oath of Redemption (UA)",
+    "Paladin: Oath of Treachery (UA)",
+    "Paladin: Oath of Devotion",
+    "Paladin: Oath of the Ancients"
+  ],
+  "school": [
+    "Wizard: School of Divination",
+    "Wizard: School of Evocation",
+    "Wizard: School of Conjuration",
+    "Wizard: School of Invention (UA)",
+    "Wizard: School of Transmutation",
+    "Wizard: School of Abjuration",
+    "Wizard: School of Necromancy",
+    "Wizard: School of Illusion",
+    "Wizard: School of Enchantment"
+  ],
+  "Druid": [
+    "Druid: Circle of the Shepherd (UA)",
+    "Druid: Circle of the Land",
+    "Druid: Circle of Twilight (UA)",
+    "Druid: Circle of Dreams (UA)",
+    "Druid: Circle of Dreams",
+    "Druid: Circle of Spores",
+    "Druid: Circle of the Moon",
+    "Druid: Circle of the Shepherd",
+    "Druid: Circle of the Shepherd v2 (UA)"
+  ],
+  "Rogue": [
+    "Rogue: Mastermind",
+    "Rogue: Thief",
+    "Rogue: Assassin",
+    "Rogue: Swashbuckler",
+    "Rogue: Scout",
+    "Rogue: Arcane Trickster",
+    "Rogue: Inquisitive (UA)",
+    "Rogue: Inquisitive"
+  ],
+  "wiz": [
+    "Wizard: School of Divination",
+    "Wizard: Technomancy (UA)",
+    "Wizard: Theurgy (UA)",
+    "Wizard: Bladesinging",
+    "Wizard: School of Abjuration",
+    "Wizard: Artificer (UA)",
+    "Wizard: School of Enchantment",
+    "Wizard: War Magic"
+  ],
+  "Wizard": [
+    "Wizard: School of Divination",
+    "Wizard: Lore Mastery (UA)",
+    "Wizard: Bladesinging",
+    "Wizard: School of Transmutation",
+    "Wizard: Artificer (UA)",
+    "Wizard: School of Illusion",
+    "Wizard: School of Enchantment",
+    "Wizard: War Magic"
+  ],
+  "School": [
+    "Wizard: School of Divination",
+    "Wizard: School of Evocation",
+    "Wizard: School of Invention (UA)",
+    "Wizard: School of Transmutation",
+    "Wizard: School of Abjuration",
+    "Wizard: School of Necromancy",
+    "Wizard: School of Illusion",
+    "Wizard: School of Enchantment"
+  ],
+  "horizon": [
+    "Ranger: Horizon Walker",
+    "Ranger (Spell-less): Horizon Walker",
+    "Ranger (Revised): Horizon Walker (UA)",
+    "Ranger (Revised): Horizon Walker",
+    "Ranger: Horizon Walker (UA)",
+    "Ranger (Spell-less): Horizon Walker (UA)"
+  ],
+  "Circle": [
+    "Druid: Circle of the Land",
+    "Druid: Circle of Dreams",
+    "Druid: Circle of Spores",
+    "Druid: Circle of the Moon",
+    "Druid: Circle of the Shepherd v2 (UA)",
+    "Druid: Circle of the Shepherd"
+  ],
+  "Way": [
+    "Monk: Way of the Open Hand",
+    "Monk: Way of Tranquility (UA)",
+    "Monk: Way of Shadow",
+    "Monk: Way of the Four Elements",
+    "Monk: Way of the Sun Soul",
+    "Monk: Way of the Long Death"
+  ],
+  "mystic": [
+    "Mystic: Order of the Nomad",
+    "Mystic: Order of the Wu Jen",
+    "Mystic: Order of the Avatar",
+    "Mystic: Order of the Soul Knife",
+    "Mystic: Order of the Awakened",
+    "Mystic: Order of the Immortal"
+  ],
+  "monster": [
+    "Fighter: Monster Hunter (UA)",
+    "Ranger (Revised): Monster Slayer",
+    "Ranger (Spell-less): Monster Slayer",
+    "Ranger: Monster Slayer (UA)",
+    "Ranger: Monster Slayer",
+    "Ranger (Revised): Monster Slayer (UA)"
+  ],
+  "pala": [
+    "Paladin: Oath of Redemption",
+    "Paladin: Oath of Conquest",
+    "Paladin: Oath of Vengeance",
+    "Paladin: Oath of Treachery (UA)",
+    "Paladin: Oath of Devotion",
+    "Paladin: Oath of the Ancients"
+  ],
+  "wizard:": [
+    "Wizard: Theurgy (UA)",
+    "Wizard: Lore Mastery (UA)",
+    "Wizard: School of Conjuration",
+    "Wizard: School of Transmutation",
+    "Wizard: School of Necromancy",
+    "Wizard: War Magic"
+  ],
+  "a": [
+    "Cleric: Beauty Domain (Twitter)",
+    "Rogue: Scout (UA)",
+    "Ranger: Hunter",
+    "Warlock: Lolth (Twitter)",
+    "Fighter: Samurai",
+    "Wizard: War Magic"
+  ],
+  "Fighter:": [
+    "Fighter: Monster Hunter (UA)",
+    "Fighter: Eldritch Knight",
+    "Fighter: Battle Master",
+    "Fighter: Purple Dragon Knight (Banneret)",
+    "Fighter: Samurai",
+    "Fighter: Arcane Archer"
+  ],
+  "spell": [
+    "Ranger (Spell-less): Beast Master",
+    "Ranger (Spell-less): Gloom Stalker",
+    "Ranger (Spell-less): Monster Slayer",
+    "Ranger (Spell-less): Horizon Walker",
+    "Ranger (Spell-less): Hunter",
+    "Ranger (Spell-less): Horizon Walker (UA)"
+  ],
+  "sorcer": [
+    "Sorcerer: Storm Sorcery",
+    "Sorcerer: Draconic Bloodline",
+    "Sorcerer: Wild Magic",
+    "Sorcerer: Shadow Magic",
+    "Sorcerer: Pyromancer (PSK)",
+    "Sorcerer: Phoenix Sorcery (UA)"
+  ],
+  "Path": [
+    "Barbarian: Path of the Totem Warrior",
+    "Paladin: Oathbreaker",
+    "Barbarian: Path of the Ancestral Guardian",
+    "Barbarian: Path of the Storm Herald",
+    "Barbarian: Path of the Battlerager",
+    "Barbarian: Path of the Zealot"
+  ],
+  "warlock:": [
+    "Warlock: The Archfey",
+    "Warlock: The Hexblade",
+    "Warlock: The Celestial",
+    "Warlock: The Great Old One",
+    "Warlock: The Fiend",
+    "Warlock: Lolth (Twitter)"
+  ],
+  "Monk:": [
+    "Monk: Way of the Kensei",
+    "Monk: Way of the Open Hand",
+    "Monk: Way of Shadow",
+    "Monk: Way of the Four Elements",
+    "Monk: Way of the Drunken Master",
+    "Monk: Way of the Sun Soul"
+  ],
+  "hunter": [
+    "Fighter: Monster Hunter (UA)",
+    "Ranger (Revised): Hunter Conclave (UA)",
+    "Ranger: Hunter",
+    "Ranger (Spell-less): Hunter",
+    "Ranger (Revised): Hunter Conclave"
+  ],
+  "arcane": [
+    "Fighter: Arcane Archer (UA)",
+    "Fighter: Arcane Archer v2 (UA)",
+    "Artificer: Alchemist",
+    "Rogue: Arcane Trickster",
+    "Fighter: Arcane Archer"
+  ],
+  "figther": [
+    "Fighter: Cavalier",
+    "Fighter: Champion",
+    "Fighter: Scout (UA)",
+    "Fighter: Samurai",
+    "Fighter: Arcane Archer"
+  ],
+  "rouge": [
+    "Rogue: Mastermind",
+    "Rogue: Thief",
+    "Rogue: Assassin",
+    "Rogue: Scout (UA)",
+    "Rogue: Scout"
+  ],
+  "soul": [
+    "Sorcerer: Favored Soul (UA)",
+    "Sorcerer: Divine Soul",
+    "Sorcerer: Favored Soul v3 (UA)",
+    "Monk: Way of the Sun Soul",
+    "Mystic: Order of the Soul Knife"
+  ],
+  "gloomstalker": [
+    "Ranger (Spell-less): Gloom Stalker",
+    "Ranger: Horizon Walker",
+    "Ranger: Gloom Stalker",
+    "Paladin: Oathbreaker",
+    "Ranger (Revised): Gloom Stalker"
+  ],
+  "Bard": [
+    "Bard: College of Satire (UA)",
+    "Bard: College of Glamour",
+    "Bard: College of Lore",
+    "Bard: College of Swords",
+    "Bard: College of Swords v2 (UA)"
+  ],
+  "sorcerer:": [
+    "Sorcerer: Draconic Bloodline",
+    "Sorcerer: Storm Sorcery",
+    "Sorcerer: Stone Sorcery (UA)",
+    "Sorcerer: Wild Magic",
+    "Sorcerer: Shadow Magic"
+  ],
+  "Warlock:": [
+    "Warlock: The Raven Queen (UA)",
+    "Warlock: The Great Old One",
+    "Warlock: The Seeker (UA)",
+    "Warlock: The Undying",
+    "Warlock: The Fiend"
+  ],
+  "celric": [
+    "Cleric: Death Domain",
+    "Cleric: Forge Domain",
+    "Cleric: War Domain",
+    "Cleric: Life Domain",
+    "Cleric: Light Domain"
+  ],
+  "monk:": [
+    "Monk: Way of the Kensei",
+    "Monk: Way of the Open Hand",
+    "Monk: Way of the Four Elements",
+    "Monk: Way of the Drunken Master",
+    "Monk: Way of the Long Death"
+  ],
+  "(UA)": [
+    "Sorcerer: Favored Soul (UA)",
+    "Wizard: Technomancy (UA)",
+    "Fighter: Knight (UA)",
+    "Sorcerer: Giant Soul (UA)",
+    "Warlock: Ghost in the Machine (UA)"
+  ],
+  "scout": [
+    "Fighter: Scout (UA)",
+    "Rogue: Scout (UA)",
+    "Rogue: Thief",
+    "Rogue: Scout"
+  ],
+  "master": [
+    "Fighter: Battle Master",
+    "Rogue: Mastermind",
+    "Monk: Way of the Drunken Master",
+    "Monk: Way of the Drunken Master (UA)"
+  ],
+  "sun": [
+    "Ranger: Hunter",
+    "Fighter: Samurai",
+    "Rogue: Scout",
+    "Monk: Way of the Sun Soul"
+  ],
+  "hexblade": [
+    "Warlock: The Hexblade (UA)",
+    "Fighter: Cavalier",
+    "Wizard: Bladesinging",
+    "Warlock: The Hexblade"
+  ],
+  "gloom": [
+    "Ranger (Spell-less): Gloom Stalker",
+    "Ranger: Gloom Stalker",
+    "Cleric: Order Domain",
+    "Ranger (Revised): Gloom Stalker"
+  ],
+  "Arcane": [
+    "Fighter: Arcane Archer",
+    "Fighter: Arcane Archer (UA)",
+    "Rogue: Arcane Trickster",
+    "Fighter: Arcane Archer v2 (UA)"
+  ],
+  "lore": [
+    "Wizard: Lore Mastery (UA)",
+    "Cleric: Forge Domain",
+    "Bard: College of Lore",
+    "Warlock: The Archfey"
+  ],
+  "cler": [
+    "Cleric: Light Domain",
+    "Cleric: Death Domain",
+    "Cleric: Arcana Domain",
+    "Cleric: Knowledge Domain"
+  ],
+  "slayer": [
+    "Ranger: Monster Slayer (UA)",
+    "Ranger (Revised): Monster Slayer",
+    "Ranger: Monster Slayer",
+    "Ranger (Revised): Monster Slayer (UA)"
+  ],
+  "gunslinger": [
+    "Ranger: Hunter",
+    "Rogue: Swashbuckler",
+    "Rogue: Assassin",
+    "Rogue: Inquisitive"
+  ],
+  "knight": [
+    "Fighter: Knight (UA)",
+    "Fighter: Purple Dragon Knight (Banneret)",
+    "Fighter: Eldritch Knight",
+    "Fighter: Samurai"
+  ],
+  "artificer": [
+    "Artificer: Alchemist",
+    "Wizard: Artificer (UA)",
+    "Artificer: Gunsmith",
+    "Rogue: Arcane Trickster"
+  ],
+  "Horizon": [
+    "Ranger: Horizon Walker (UA)",
+    "Ranger (Revised): Horizon Walker",
+    "Ranger: Horizon Walker",
+    "Ranger (Revised): Horizon Walker (UA)"
+  ],
+  "Storm": [
+    "Sorcerer: Storm Sorcery",
+    "Barbarian: Path of the Storm Herald (UA)",
+    "Barbarian: Path of the Storm Herald",
+    "Mystic: Order of the Nomad"
+  ],
+  "guardian": [
+    "Barbarian: Path of the Ancestral Guardian",
+    "Ranger (Revised): Primeval Guardian (UA)",
+    "Barbarian: Path of the Ancestral Guardian (UA)",
+    "Ranger: Primeval Guardian (UA)"
+  ],
+  "twitter": [
+    "Cleric: Beauty Domain (Twitter)",
+    "Warlock: Lolth (Twitter)",
+    "Cleric: Destruction Domain (Twitter)",
+    "Cleric: Darkness Domain (Twitter)"
+  ],
+  "Twitter": [
+    "Cleric: Beauty Domain (Twitter)",
+    "Warlock: Lolth (Twitter)",
+    "Cleric: Destruction Domain (Twitter)",
+    "Cleric: Darkness Domain (Twitter)"
+  ],
+  "pact": [
+    "Paladin: Oathbreaker",
+    "Warlock: The Fiend",
+    "Paladin: Oath of Conquest",
+    "Artificer: Gunsmith"
+  ],
+  "feat": [
+    "Fighter: Battle Master",
+    "Fighter: Champion",
+    "Fighter: Samurai",
+    "Artificer: Alchemist"
+  ],
+  "Order": [
+    "Mystic: Order of the Awakened",
+    "Mystic: Order of the Immortal",
+    "Cleric: Order Domain",
+    "Cleric: Order Domain (UA)"
+  ],
+  "clerig": [
+    "Cleric: Forge Domain",
+    "Cleric: Light Domain",
+    "Cleric: War Domain",
+    "Cleric: Grave Domain"
+  ],
+  "Cleric:": [
+    "Cleric: Forge Domain",
+    "Cleric: Death Domain",
+    "Cleric: Grave Domain",
+    "Cleric: Knowledge Domain"
+  ],
+  "bard:": [
+    "Bard: College of Glamour",
+    "Bard: College of Lore",
+    "Bard: College of Swords",
+    "Bard: College of Valor"
+  ],
+  "fight": [
+    "Fighter: Samurai",
+    "Fighter: Battle Master",
+    "Fighter: Champion",
+    "Fighter: Purple Dragon Knight (Banneret)"
+  ],
+  "The": [
+    "Warlock: The Undying",
+    "Warlock: The Fiend",
+    "Warlock: The Celestial",
+    "Warlock: The Archfey"
+  ],
+  "fighter:": [
+    "Fighter: Battle Master",
+    "Fighter: Cavalier",
+    "Fighter: Champion",
+    "Fighter: Eldritch Knight"
+  ],
+  "paladin:": [
+    "Paladin: Oathbreaker",
+    "Paladin: Oath of Vengeance",
+    "Paladin: Oath of the Ancients",
+    "Paladin: Oath of Treachery (UA)"
+  ],
+  "range": [
+    "Ranger: Hunter",
+    "Ranger (Revised): Beast Conclave",
+    "Ranger: Monster Slayer",
+    "Ranger: Primeval Guardian (UA)"
+  ],
+  "ua": [
+    "Bard: College of Satire (UA)",
+    "Wizard: Technomancy (UA)",
+    "Warlock: The Seeker (UA)",
+    "Warlock: Ghost in the Machine (UA)"
+  ],
+  "shadow": [
+    "Monk: Way of Shadow",
+    "Sorcerer: Shadow (UA)",
+    "Sorcerer: Shadow Magic"
+  ],
+  "whisper": [
+    "Bard: College of Whispers",
+    "Warlock: Lolth (Twitter)",
+    "Bard: College of Whispers (UA)"
+  ],
+  "trick": [
+    "Cleric: Trickery Domain",
+    "Rogue: Arcane Trickster",
+    "Cleric: Knowledge Domain"
+  ],
+  "death": [
+    "Rogue: Thief",
+    "Monk: Way of the Long Death",
+    "Cleric: Death Domain"
+  ],
+  "storm": [
+    "Barbarian: Path of the Storm Herald",
+    "Barbarian: Path of the Storm Herald (UA)",
+    "Sorcerer: Storm Sorcery"
+  ],
+  "beast": [
+    "Ranger (Revised): Beast Conclave",
+    "Ranger (Spell-less): Beast Master",
+    "Ranger: Beast Master"
+  ],
+  "Samurai": [
+    "Sorcerer: Shadow Magic",
+    "Fighter: Samurai",
+    "Fighter: Samurai (UA)"
+  ],
+  "Monster": [
+    "Fighter: Monster Hunter (UA)",
+    "Ranger (Revised): Monster Slayer",
+    "Ranger: Monster Slayer"
+  ],
+  "kensei": [
+    "Monk: Way of the Kensei",
+    "Monk: Way of the Kensei v2 (UA)",
+    "Monk: Way of the Kensei (UA)"
+  ],
+  "blade": [
+    "Warlock: The Hexblade",
+    "Wizard: Bladesinger",
+    "Wizard: Bladesinging"
+  ],
+  "zealot": [
+    "Barbarian: Path of the Zealot (UA)",
+    "Barbarian: Path of the Zealot",
+    "Cleric: Zeal Domain (PSA)"
+  ],
+  "shepherd": [
+    "Druid: Circle of the Shepherd v2 (UA)",
+    "Druid: Circle of the Shepherd (UA)",
+    "Druid: Circle of the Shepherd"
+  ],
+  "grave": [
+    "Cleric: Grave Domain (UA)",
+    "Fighter: Cavalier",
+    "Cleric: Grave Domain"
+  ],
+  "swords": [
+    "Bard: College of Swords (UA)",
+    "Bard: College of Swords",
+    "Bard: College of Swords v2 (UA)"
+  ],
+  "warl": [
+    "Warlock: The Undying",
+    "Warlock: The Great Old One",
+    "Warlock: The Archfey"
+  ],
+  "ancestral": [
+    "Barbarian: Path of the Ancestral Guardian",
+    "Barbarian: Path of the Ancestral Guardian (UA)",
+    "Barbarian: Path of the Ancestral Guardian v2 (UA)"
+  ],
+  "inquisitive": [
+    "Rogue: Inquisitive",
+    "Cleric: Darkness Domain (Twitter)",
+    "Rogue: Inquisitive (UA)"
+  ],
+  "conquest": [
+    "Paladin: Oath of Conquest (UA)",
+    "Paladin: Oath of Conquest",
+    "Paladin: Oath of Conquest v2 (UA)"
+  ],
+  "zeal": [
+    "Barbarian: Path of the Zealot (UA)",
+    "Cleric: Zeal Domain (PSA)",
+    "Barbarian: Path of the Zealot"
+  ],
+  "Knight": [
+    "Fighter: Knight (UA)",
+    "Fighter: Eldritch Knight",
+    "Fighter: Samurai"
+  ],
+  "cavalier": [
+    "Fighter: Cavalier",
+    "Fighter: Cavalier v2 (UA)",
+    "Fighter: Cavalier (UA)"
+  ],
+  "bladesinger": [
+    "Wizard: Bladesinger",
+    "Wizard: Bladesinging",
+    "Bard: College of Swords"
+  ],
+  "cava": [
+    "Fighter: Cavalier",
+    "Fighter: Cavalier v2 (UA)",
+    "Fighter: Cavalier (UA)"
+  ],
+  "spore": [
+    "Druid: Circle of Spores (UA)",
+    "Sorcerer: Shadow Magic",
+    "Druid: Circle of Spores"
+  ],
+  "conclave": [
+    "Ranger (Revised): Hunter Conclave",
+    "Ranger (Revised): Beast Conclave",
+    "Warlock: The Hexblade"
+  ],
+  "primeval": [
+    "Ranger (Revised): Primeval Guardian (UA)",
+    "Ranger (Spell-less): Primeval Guardian (UA)",
+    "Ranger: Primeval Guardian (UA)"
+  ],
+  "sword": [
+    "Bard: College of Swords (UA)",
+    "Bard: College of Swords",
+    "Bard: College of Swords v2 (UA)"
+  ],
+  "druid:": [
+    "Druid: Circle of the Moon",
+    "Druid: Circle of Twilight (UA)",
+    "Druid: Circle of the Shepherd"
+  ],
+  "con": [
+    "Wizard: School of Conjuration",
+    "Paladin: Oath of Conquest",
+    "Paladin: Oath of Conquest v2 (UA)"
+  ],
+  "list": [
+    "Rogue: Inquisitive",
+    "Artificer: Alchemist",
+    "Cleric: Tempest Domain"
+  ],
+  "art": [
+    "Artificer: Gunsmith",
+    "Wizard: Artificer (UA)",
+    "Artificer: Alchemist"
+  ],
+  "Hunter": [
+    "Ranger: Hunter",
+    "Fighter: Monster Hunter (UA)",
+    "Ranger (Revised): Hunter Conclave"
+  ],
+  "Gloom": [
+    "Ranger (Spell-less): Gloom Stalker",
+    "Ranger: Gloom Stalker",
+    "Ranger (Revised): Gloom Stalker"
+  ],
+  "favoured": [
+    "Sorcerer: Favored Soul v3 (UA)",
+    "Sorcerer: Favored Soul v2 (UA)",
+    "Sorcerer: Favored Soul (UA)"
+  ],
+  "Cavalier": [
+    "Fighter: Cavalier",
+    "Fighter: Cavalier v2 (UA)",
+    "Fighter: Cavalier (UA)"
+  ],
+  "Beast": [
+    "Ranger (Spell-less): Beast Master",
+    "Ranger: Beast Master",
+    "Ranger (Revised): Beast Conclave"
+  ],
+  "help": [
+    "Rogue: Thief",
+    "Fighter: Champion",
+    "Fighter: Cavalier (UA)"
+  ],
+  "e": [
+    "Ranger (Spell-less): Beast Master",
+    "Rogue: Thief",
+    "Druid: Circle of Spores"
+  ],
+  "sorcery": [
+    "Sorcerer: Phoenix Sorcery (UA)",
+    "Sorcerer: Storm Sorcery",
+    "Sorcerer: Stone Sorcery (UA)"
+  ],
+  "Slayer": [
+    "Ranger (Spell-less): Monster Slayer",
+    "Ranger (Revised): Monster Slayer",
+    "Ranger: Monster Slayer"
+  ],
+  "arcan": [
+    "Fighter: Arcane Archer",
+    "Cleric: Arcana Domain",
+    "Rogue: Arcane Trickster"
+  ],
+  "stalker": [
+    "Ranger: Deep Stalker (UA)",
+    "Ranger: Gloom Stalker",
+    "Ranger (Revised): Gloom Stalker"
+  ],
+  "favored": [
+    "Sorcerer: Favored Soul v3 (UA)",
+    "Sorcerer: Favored Soul v2 (UA)",
+    "Sorcerer: Favored Soul (UA)"
+  ],
+  "Artificer": [
+    "Artificer: Gunsmith",
+    "Wizard: Artificer (UA)",
+    "Artificer: Alchemist"
+  ],
+  "deep": [
+    "Ranger (Spell-less): Deep Stalker (UA)",
+    "Ranger: Deep Stalker (UA)",
+    "Ranger (Revised): Deep Stalker Conclave"
+  ],
+  "divin": [
+    "Paladin: Oath of Devotion",
+    "Sorcerer: Divine Soul",
+    "Wizard: School of Divination"
+  ],
+  "Primeval": [
+    "Ranger (Revised): Primeval Guardian (UA)",
+    "Ranger: Primeval Guardian (UA)",
+    "Ranger (Spell-less): Primeval Guardian (UA)"
+  ],
+  "spellless": [
+    "Ranger (Spell-less): Beast Master",
+    "Ranger (Spell-less): Monster Slayer",
+    "Ranger (Spell-less): Hunter"
+  ],
+  "warloc": [
+    "Warlock: The Celestial",
+    "Warlock: The Seeker (UA)",
+    "Warlock: The Hexblade"
+  ],
+  "sw": [
+    "Monk: Way of Shadow",
+    "Rogue: Swashbuckler",
+    "Bard: College of Swords v2 (UA)"
+  ],
+  "s": [
+    "Sorcerer: Storm Sorcery",
+    "Rogue: Scout",
+    "Sorcerer: Wild Magic"
+  ],
+  "hor": [
+    "Ranger: Horizon Walker",
+    "Ranger (Spell-less): Horizon Walker",
+    "Ranger (Revised): Horizon Walker (UA)"
+  ],
+  "Barb": [
+    "Barbarian: Path of the Totem Warrior",
+    "Barbarian: Path of the Ancestral Guardian",
+    "Barbarian: Path of the Zealot"
+  ],
+  "arc": [
+    "Fighter: Arcane Archer",
+    "Warlock: The Archfey",
+    "Rogue: Arcane Trickster"
+  ],
+  "dragonborn": [
+    "Sorcerer: Draconic Bloodline",
+    "Ranger: Horizon Walker",
+    "Ranger: Monster Slayer"
+  ],
+  "collage": [
+    "Bard: College of Whispers",
+    "Bard: College of Lore",
+    "Bard: College of Swords"
+  ],
+  "all": [
+    "Warlock: The Celestial",
+    "Warlock: The Hexblade",
+    "Bard: College of Lore"
+  ],
+  "shadows": [
+    "Bard: College of Whispers",
+    "Monk: Way of Shadow",
+    "Sorcerer: Shadow Magic"
+  ],
+  "Mystic": [
+    "Mystic: Order of the Soul Knife",
+    "Mystic: Order of the Immortal",
+    "Mystic: Order of the Nomad"
+  ],
+  "forge": [
+    "Cleric: Forge Domain (UA)",
+    "Cleric: Forge Domain"
+  ],
+  "necromancer": [
+    "Wizard: School of Necromancy",
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "Bladesinger": [
+    "Wizard: Bladesinger",
+    "Wizard: Bladesinging"
+  ],
+  "swashbuckler": [
+    "Rogue: Swashbuckler",
+    "Warlock: Lolth (Twitter)"
+  ],
+  "beastmaster": [
+    "Ranger: Beast Master",
+    "Ranger (Spell-less): Beast Master"
+  ],
+  "samurai": [
+    "Fighter: Samurai",
+    "Fighter: Samurai (UA)"
+  ],
+  "celestial": [
+    "Warlock: The Celestial (UA)",
+    "Warlock: The Celestial"
+  ],
+  "aracane": [
+    "Fighter: Arcane Archer",
+    "Rogue: Arcane Trickster"
+  ],
+  "battle": [
+    "Fighter: Battle Master",
+    "Barbarian: Path of the Battlerager"
+  ],
+  "Ancestral": [
+    "Barbarian: Path of the Ancestral Guardian",
+    "Barbarian: Path of the Ancestral Guardian v2 (UA)"
+  ],
+  "Drunken": [
+    "Monk: Way of the Drunken Master",
+    "Monk: Way of the Drunken Master (UA)"
+  ],
+  "kensi": [
+    "Monk: Way of the Kensei",
+    "Monk: Way of the Kensei (UA)"
+  ],
+  "Kensei": [
+    "Monk: Way of the Kensei",
+    "Monk: Way of the Kensei v2 (UA)"
+  ],
+  "glamour": [
+    "Bard: College of Glamour",
+    "Bard: College of Glamour (UA)"
+  ],
+  "redemption": [
+    "Paladin: Oath of Redemption",
+    "Paladin: Oath of Redemption (UA)"
+  ],
+  "sam": [
+    "Fighter: Samurai",
+    "Fighter: Samurai (UA)"
+  ],
+  "kensai": [
+    "Monk: Way of the Kensei",
+    "Fighter: Samurai"
+  ],
+  "drunken": [
+    "Monk: Way of the Drunken Master",
+    "Monk: Way of the Drunken Master (UA)"
+  ],
+  "herald": [
+    "Barbarian: Path of the Storm Herald",
+    "Barbarian: Path of the Storm Herald (UA)"
+  ],
+  "undying": [
+    "Warlock: The Undying",
+    "Warlock: The Undying Light (UA)"
+  ],
+  "hexblad": [
+    "Warlock: The Hexblade (UA)",
+    "Warlock: The Hexblade"
+  ],
+  "Gloomstalker": [
+    "Ranger: Gloom Stalker",
+    "Ranger (Revised): Gloom Stalker"
+  ],
+  "Hexblade": [
+    "Warlock: The Hexblade (UA)",
+    "Warlock: The Hexblade"
+  ],
+  "2": [
+    "Fighter: Arcane Archer v2 (UA)",
+    "Barbarian: Path of the Ancestral Guardian v2 (UA)"
+  ],
+  "Celestial": [
+    "Warlock: The Celestial (UA)",
+    "Warlock: The Celestial"
+  ],
+  "Shadow": [
+    "Monk: Way of Shadow",
+    "Sorcerer: Shadow Magic"
+  ],
+  "slay": [
+    "Ranger: Monster Slayer (UA)",
+    "Ranger: Monster Slayer"
+  ],
+  "drunk": [
+    "Monk: Way of the Drunken Master",
+    "Monk: Way of the Drunken Master (UA)"
+  ],
+  "Swashbuckler": [
+    "Rogue: Swashbuckler",
+    "Warlock: Lolth (Twitter)"
+  ],
+  "mastermind": [
+    "Rogue: Mastermind",
+    "Artificer: Gunsmith"
+  ],
+  "whispers": [
+    "Bard: College of Whispers",
+    "Bard: College of Whispers (UA)"
+  ],
+  "hex": [
+    "Warlock: The Hexblade (UA)",
+    "Warlock: The Hexblade"
+  ],
+  "blades": [
+    "Wizard: Bladesinger",
+    "Wizard: Bladesinging"
+  ],
+  "knowledge": [
+    "Cleric: Knowledge Domain (PSA)",
+    "Cleric: Knowledge Domain"
+  ],
+  "dreams": [
+    "Druid: Circle of Dreams",
+    "Druid: Circle of Dreams (UA)"
+  ],
+  "Lore": [
+    "Wizard: Lore Mastery (UA)",
+    "Bard: College of Lore"
+  ],
+  "blad": [
+    "Wizard: Bladesinger",
+    "Wizard: Bladesinging"
+  ],
+  "spellsinger": [
+    "Ranger (Spell-less): Hunter",
+    "Wizard: Bladesinger"
+  ],
+  "bladesong": [
+    "Wizard: Bladesinger",
+    "Wizard: Bladesinging"
+  ],
+  "hill": [
+    "Rogue: Thief",
+    "Druid: Circle of the Land"
+  ],
+  "samu": [
+    "Fighter: Samurai",
+    "Fighter: Samurai (UA)"
+  ],
+  "bladesing": [
+    "Wizard: Bladesinger",
+    "Wizard: Bladesinging"
+  ],
+  "sunsoul": [
+    "Sorcerer: Divine Soul",
+    "Monk: Way of the Sun Soul"
+  ],
+  "spores": [
+    "Druid: Circle of Spores (UA)",
+    "Druid: Circle of Spores"
+  ],
+  "caval": [
+    "Fighter: Cavalier",
+    "Fighter: Cavalier v2 (UA)"
+  ],
+  "deepstalker": [
+    "Ranger: Deep Stalker (UA)",
+    "Ranger (Revised): Deep Stalker Conclave"
+  ],
+  "Grave": [
+    "Cleric: Grave Domain (UA)",
+    "Cleric: Grave Domain"
+  ],
+  "inq": [
+    "Rogue: Inquisitive",
+    "Rogue: Inquisitive (UA)"
+  ],
+  "sorceror": [
+    "Sorcerer: Sea Sorcery (UA)",
+    "Sorcerer: Wild Magic"
+  ],
+  "Zealot": [
+    "Barbarian: Path of the Zealot (UA)",
+    "Barbarian: Path of the Zealot"
+  ],
+  "know": [
+    "Cleric: Knowledge Domain (PSA)",
+    "Cleric: Knowledge Domain"
+  ],
+  "asssassin": [
+    "Rogue: Mastermind",
+    "Rogue: Assassin"
+  ],
+  "Shepherd": [
+    "Druid: Circle of the Shepherd v2 (UA)",
+    "Druid: Circle of the Shepherd"
+  ],
+  "inquisit": [
+    "Rogue: Inquisitive",
+    "Rogue: Inquisitive (UA)"
+  ],
+  "Inquisitive": [
+    "Rogue: Inquisitive",
+    "Rogue: Inquisitive (UA)"
+  ],
+  "monl": [
+    "Fighter: Champion",
+    "Monk: Way of the Sun Soul"
+  ],
+  "sheperd": [
+    "Druid: Circle of the Shepherd (UA)",
+    "Druid: Circle of the Shepherd"
+  ],
+  "Forge": [
+    "Cleric: Forge Domain (UA)",
+    "Cleric: Forge Domain"
+  ],
+  "magical": [
+    "Wizard: War Magic (UA)",
+    "Artificer: Alchemist"
+  ],
+  "Scout": [
+    "Fighter: Scout (UA)",
+    "Rogue: Scout"
+  ],
+  "diviner": [
+    "Sorcerer: Divine Soul",
+    "Wizard: Artificer (UA)"
+  ],
+  "colledge": [
+    "Bard: College of Swords",
+    "Bard: College of Valor"
+  ],
+  "cav": [
+    "Fighter: Cavalier",
+    "Fighter: Cavalier (UA)"
+  ],
+  "UA": [
+    "Sorcerer: Shadow (UA)",
+    "Bard: College of Glamour (UA)"
+  ],
+  "inquisitor": [
+    "Rogue: Inquisitive",
+    "Rogue: Inquisitive (UA)"
+  ],
+  "War": [
+    "Wizard: War Magic",
+    "Cleric: War Domain"
+  ],
+  "primal": [
+    "Cleric: Death Domain",
+    "Artificer: Alchemist"
+  ],
+  "elemental": [
+    "Warlock: The Celestial",
+    "Monk: Way of the Four Elements"
+  ],
+  "glam": [
+    "Bard: College of Glamour",
+    "Fighter: Samurai"
+  ],
+  "earth": [
+    "Artificer: Gunsmith",
+    "Wizard: Theurgy (UA)"
+  ],
+  "warlord": [
+    "Warlock: The Great Old One",
+    "Warlock: The Hexblade"
+  ],
+  "monkey": [
+    "Monk: Way of the Kensei",
+    "Monk: Way of the Sun Soul"
+  ],
+  "chain": [
+    "Warlock: The Fiend",
+    "Cleric: Death Domain"
+  ],
+  "zea": [
+    "Barbarian: Path of the Zealot",
+    "Wizard: Theurgy (UA)"
+  ],
+  "kens": [
+    "Monk: Way of the Kensei",
+    "Monk: Way of the Kensei (UA)"
+  ],
+  "inquis": [
+    "Rogue: Inquisitive",
+    "Rogue: Inquisitive (UA)"
+  ],
+  "inqui": [
+    "Rogue: Inquisitive",
+    "Rogue: Inquisitive (UA)"
+  ],
+  "knowl": [
+    "Cleric: Knowledge Domain (PSA)",
+    "Cleric: Knowledge Domain"
+  ],
+  "hexb": [
+    "Warlock: The Hexblade (UA)",
+    "Warlock: The Hexblade"
+  ],
+  "law": [
+    "Cleric: Beauty Domain (Twitter)",
+    "Paladin: Oath of the Crown"
+  ],
+  "<rogue>": [
+    "Rogue: Mastermind",
+    "Rogue: Thief"
+  ],
+  "divi": [
+    "Sorcerer: Divine Soul",
+    "Wizard: School of Divination"
+  ],
+  "redem": [
+    "Paladin: Oath of Redemption",
+    "Paladin: Oath of Redemption (UA)"
+  ],
+  "rogue:": [
+    "Rogue: Scout",
+    "Rogue: Arcane Trickster"
+  ],
+  "rede": [
+    "Paladin: Oath of Redemption",
+    "Paladin: Oath of Redemption (UA)"
+  ],
+  "spelless": [
+    "Ranger (Spell-less): Beast Master",
+    "Ranger (Spell-less): Hunter"
+  ],
+  "Beastmaster": [
+    "Fighter: Battle Master",
+    "Ranger: Beast Master"
+  ],
+  "hexbl": [
+    "Warlock: The Hexblade (UA)",
+    "Warlock: The Hexblade"
+  ],
+  "mage": [
+    "Rogue: Mastermind",
+    "Monk: Way of the Long Death"
+  ],
+  "Sunsoul": [
+    "Sorcerer: Divine Soul",
+    "Monk: Way of the Sun Soul"
+  ],
+  "PSA": [
+    "Cleric: Knowledge Domain (PSA)",
+    "Cleric: Ambition Domain (PSA)"
+  ],
+  "Sorcerer:": [
+    "Sorcerer: Storm Sorcery",
+    "Sorcerer: Shadow Magic"
+  ],
+  "dying": [
+    "Warlock: The Undying",
+    "Warlock: The Undying Light (UA)"
+  ],
+  "arti": [
+    "Wizard: Artificer (UA)",
+    "Artificer: Alchemist"
+  ],
+  "paladon": [
+    "Paladin: Oath of the Crown",
+    "Paladin: Oath of Devotion"
+  ],
+  "sorce": [
+    "Sorcerer: Favored Soul v3 (UA)",
+    "Sorcerer: Shadow Magic"
+  ],
+  "Ranger:": [
+    "Ranger: Gloom Stalker",
+    "Ranger: Monster Slayer"
+  ],
+  "wiza": [
+    "Wizard: War Magic",
+    "Wizard: School of Enchantment"
+  ],
+  "feature": [
+    "Fighter: Battle Master",
+    "Cleric: Nature Domain"
+  ],
+  "bounty": [
+    "Ranger: Hunter",
+    "Rogue: Inquisitive"
+  ],
+  "love": [
+    "Paladin: Oath of Vengeance",
+    "Cleric: Grave Domain"
+  ],
+  "anc": [
+    "Paladin: Oath of Vengeance",
+    "Paladin: Oath of the Ancients"
+  ],
+  "b": [
+    "Bard: College of Lore",
+    "Bard: College of Valor"
+  ],
+  "mon": [
+    "Monk: Way of the Drunken Master (UA)",
+    "Monk: Way of the Four Elements"
+  ],
+  "bladedancer": [
+    "Paladin: Oathbreaker",
+    "Paladin: Oath of Vengeance"
+  ],
+  "walker": [
+    "Ranger: Horizon Walker",
+    "Ranger (Revised): Horizon Walker"
+  ],
+  "redemp": [
+    "Paladin: Oath of Redemption",
+    "Paladin: Oath of Redemption (UA)"
+  ],
+  "Paladin:": [
+    "Paladin: Oath of Devotion",
+    "Paladin: Oath of Conquest"
+  ],
+  "Conquest": [
+    "Paladin: Oath of Conquest (UA)",
+    "Paladin: Oath of Conquest"
+  ],
+  "<paladin>": [
+    "Paladin: Oath of Devotion",
+    "Paladin: Oath of Conquest"
+  ],
+  "artificier": [
+    "Artificer: Alchemist",
+    "Artificer: Gunsmith"
+  ],
+  "divinity": [
+    "Sorcerer: Divine Soul",
+    "Wizard: School of Divination"
+  ],
+  "sorcecer": [
+    "Sorcerer: Sea Sorcery (UA)",
+    "Sorcerer: Wild Magic"
+  ],
+  "spell-less": [
+    "Ranger (Spell-less): Monster Slayer",
+    "Ranger (Spell-less): Gloom Stalker"
+  ],
+  "hunt": [
+    "Ranger: Hunter",
+    "Ranger (Revised): Hunter Conclave"
+  ],
+  "lock": [
+    "Warlock: The Celestial (UA)",
+    "Warlock: The Undying"
+  ],
+  "paladi": [
+    "Paladin: Oath of the Crown",
+    "Paladin: Oath of Vengeance"
+  ],
+  "tran": [
+    "Monk: Way of Tranquility (UA)",
+    "Wizard: School of Transmutation"
+  ],
+  "Rogue:": [
+    "Rogue: Assassin",
+    "Rogue: Scout"
+  ],
+  "favor": [
+    "Sorcerer: Favored Soul v2 (UA)",
+    "Sorcerer: Favored Soul (UA)"
+  ],
+  "prim": [
+    "Ranger (Revised): Primeval Guardian (UA)",
+    "Ranger: Primeval Guardian (UA)"
+  ],
+  "Wizard:": [
+    "Wizard: School of Abjuration",
+    "Wizard: School of Necromancy"
+  ],
+  "Barbarian:": [
+    "Barbarian: Path of the Ancestral Guardian",
+    "Barbarian: Path of the Ancestral Guardian v2 (UA)"
+  ],
+  "barbarian:": [
+    "Barbarian: Path of the Ancestral Guardian",
+    "Barbarian: Path of the Zealot"
+  ],
+  "Bard:": [
+    "Bard: College of Lore",
+    "Bard: College of Swords"
+  ],
+  "gloo": [
+    "Ranger: Gloom Stalker",
+    "Ranger (Revised): Gloom Stalker"
+  ],
+  "ke": [
+    "Paladin: Oathbreaker",
+    "Monk: Way of the Kensei"
+  ],
+  "Druid:": [
+    "Druid: Circle of Dreams",
+    "Druid: Circle of the Shepherd"
+  ],
+  "theif": [
+    "Rogue: Thief"
+  ],
+  "transmutation": [
+    "Wizard: School of Transmutation"
+  ],
+  "berse": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "trickster": [
+    "Rogue: Arcane Trickster"
+  ],
+  "tempest": [
+    "Cleric: Tempest Domain"
+  ],
+  "oathbreaker": [
+    "Paladin: Oathbreaker"
+  ],
+  "assassin": [
+    "Rogue: Assassin"
+  ],
+  "satire": [
+    "Bard: College of Satire (UA)"
+  ],
+  "long": [
+    "Monk: Way of the Long Death"
+  ],
+  "Crown": [
+    "Paladin: Oath of the Crown"
+  ],
+  "draconic": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "Gunslinger": [
+    "Ranger: Hunter"
+  ],
+  "Pheonix": [
+    "Sorcerer: Phoenix Sorcery (UA)"
+  ],
+  "Phoenix": [
+    "Sorcerer: Phoenix Sorcery (UA)"
+  ],
+  "phoenix": [
+    "Sorcerer: Phoenix Sorcery (UA)"
+  ],
+  "divine": [
+    "Sorcerer: Divine Soul"
+  ],
+  "open": [
+    "Monk: Way of the Open Hand"
+  ],
+  "life": [
+    "Cleric: Life Domain"
+  ],
+  "raven": [
+    "Warlock: The Raven Queen (UA)"
+  ],
+  "seeker": [
+    "Warlock: The Seeker (UA)"
+  ],
+  "ancients": [
+    "Paladin: Oath of the Ancients"
+  ],
+  "necro": [
+    "Wizard: School of Necromancy"
+  ],
+  "enchantm": [
+    "Wizard: School of Enchantment"
+  ],
+  "eldritch": [
+    "Fighter: Eldritch Knight"
+  ],
+  "city": [
+    "Cleric: City Domain (UA)"
+  ],
+  "Ancients": [
+    "Paladin: Oath of the Ancients"
+  ],
+  "great": [
+    "Warlock: The Great Old One"
+  ],
+  "conjuration": [
+    "Wizard: School of Conjuration"
+  ],
+  "zeolot": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "fungi": [
+    "Artificer: Gunsmith"
+  ],
+  "berserker": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "battlerage": [
+    "Barbarian: Path of the Battlerager"
+  ],
+  "devotion": [
+    "Paladin: Oath of Devotion"
+  ],
+  "samur": [
+    "Fighter: Samurai"
+  ],
+  "mastery": [
+    "Wizard: Lore Mastery (UA)"
+  ],
+  "Undying": [
+    "Warlock: The Undying"
+  ],
+  "eldri": [
+    "Fighter: Eldritch Knight"
+  ],
+  "alchemist": [
+    "Artificer: Alchemist"
+  ],
+  "Ghost": [
+    "Warlock: Ghost in the Machine (UA)"
+  ],
+  "nature": [
+    "Cleric: Nature Domain"
+  ],
+  "dtunk": [
+    "Mystic: Order of the Wu Jen"
+  ],
+  "vengeance": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "archfey": [
+    "Warlock: The Archfey"
+  ],
+  "wild": [
+    "Sorcerer: Wild Magic"
+  ],
+  "stone": [
+    "Sorcerer: Stone Sorcery (UA)"
+  ],
+  "divination": [
+    "Wizard: School of Divination"
+  ],
+  "tranq": [
+    "Monk: Way of Tranquility (UA)"
+  ],
+  "champion": [
+    "Fighter: Champion"
+  ],
+  "purple": [
+    "Fighter: Purple Dragon Knight (Banneret)"
+  ],
+  "sea": [
+    "Sorcerer: Sea Sorcery (UA)"
+  ],
+  "wizz": [
+    "Wizard: War Magic (UA)"
+  ],
+  "swash": [
+    "Rogue: Swashbuckler"
+  ],
+  "fey": [
+    "Warlock: The Archfey"
+  ],
+  "Theurgy": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "illusion": [
+    "Wizard: School of Illusion"
+  ],
+  "trickery": [
+    "Cleric: Trickery Domain"
+  ],
+  "thief": [
+    "Rogue: Thief"
+  ],
+  "Eldritch": [
+    "Fighter: Eldritch Knight"
+  ],
+  "Life": [
+    "Cleric: Life Domain"
+  ],
+  "Tempest": [
+    "Cleric: Tempest Domain"
+  ],
+  "hexbla": [
+    "Warlock: The Hexblade"
+  ],
+  "dream": [
+    "Druid: Circle of Dreams"
+  ],
+  "sharpsh": [
+    "Fighter: Sharpshooter (UA)"
+  ],
+  "Draconic": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "sorcorer": [
+    "Sorcerer: Storm Sorcery"
+  ],
+  "Edlritch": [
+    "Fighter: Eldritch Knight"
+  ],
+  "Death": [
+    "Cleric: Death Domain"
+  ],
+  "thieg": [
+    "Rogue: Thief"
+  ],
+  "phinix": [
+    "Sorcerer: Phoenix Sorcery (UA)"
+  ],
+  "battlerager": [
+    "Barbarian: Path of the Battlerager"
+  ],
+  "protection": [
+    "Cleric: Protection Domain (UA)"
+  ],
+  "moon": [
+    "Druid: Circle of the Moon"
+  ],
+  "pyromancer": [
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "assasin": [
+    "Rogue: Assassin"
+  ],
+  "crown": [
+    "Paladin: Oath of the Crown"
+  ],
+  "abjuration": [
+    "Wizard: School of Abjuration"
+  ],
+  "gunsmith": [
+    "Artificer: Gunsmith"
+  ],
+  "oathbreak": [
+    "Paladin: Oathbreaker"
+  ],
+  "loremaster": [
+    "Wizard: Lore Mastery (UA)"
+  ],
+  "fiend": [
+    "Warlock: The Fiend"
+  ],
+  "technomancy": [
+    "Wizard: Technomancy (UA)"
+  ],
+  "theu": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "theurgy": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "Knowledge": [
+    "Cleric: Knowledge Domain"
+  ],
+  "deat": [
+    "Cleric: Death Domain"
+  ],
+  "paldin": [
+    "Paladin: Oath of Conquest"
+  ],
+  "totem": [
+    "Barbarian: Path of the Totem Warrior"
+  ],
+  "Knigt": [
+    "Fighter: Knight (UA)"
+  ],
+  "cavalie": [
+    "Fighter: Cavalier"
+  ],
+  "Glamour": [
+    "Bard: College of Glamour"
+  ],
+  "Kensai": [
+    "Monk: Way of the Kensei"
+  ],
+  "insquisitive": [
+    "Rogue: Inquisitive"
+  ],
+  "devotiom": [
+    "Paladin: Oath of Devotion"
+  ],
+  "ances": [
+    "Barbarian: Path of the Ancestral Guardian"
+  ],
+  "arcane.": [
+    "Fighter: Arcane Archer"
+  ],
+  "cham": [
+    "Fighter: Champion"
+  ],
+  "shepard": [
+    "Druid: Circle of the Shepherd"
+  ],
+  "Divination": [
+    "Wizard: School of Divination"
+  ],
+  "evocation": [
+    "Wizard: School of Evocation"
+  ],
+  "abjur": [
+    "Wizard: School of Abjuration"
+  ],
+  "cavilier": [
+    "Fighter: Cavalier"
+  ],
+  "gun": [
+    "Artificer: Gunsmith"
+  ],
+  "champi": [
+    "Fighter: Champion"
+  ],
+  "battlemaster": [
+    "Fighter: Battle Master"
+  ],
+  "arcanetrickster": [
+    "Rogue: Arcane Trickster"
+  ],
+  "necroma": [
+    "Wizard: School of Necromancy"
+  ],
+  "Beserker": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "champ": [
+    "Fighter: Champion"
+  ],
+  "treachery": [
+    "Paladin: Oath of Treachery (UA)"
+  ],
+  "inqu": [
+    "Rogue: Inquisitive"
+  ],
+  "enchanter": [
+    "Wizard: School of Enchantment"
+  ],
+  "conjur": [
+    "Wizard: School of Conjuration"
+  ],
+  "dragonic": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "wizardsubclass": [
+    "Wizard: School of Evocation"
+  ],
+  "cele": [
+    "Warlock: The Celestial"
+  ],
+  "techno": [
+    "Wizard: Technomancy (UA)"
+  ],
+  "ghost": [
+    "Warlock: Ghost in the Machine (UA)"
+  ],
+  "seek": [
+    "Warlock: The Seeker (UA)"
+  ],
+  "valor": [
+    "Bard: College of Valor"
+  ],
+  "third": [
+    "Rogue: Thief"
+  ],
+  "blood": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "arch": [
+    "Warlock: The Archfey"
+  ],
+  "light": [
+    "Cleric: Light Domain"
+  ],
+  "gay": [
+    "Fighter: Samurai"
+  ],
+  "illusionist": [
+    "Wizard: School of Illusion"
+  ],
+  "Thief": [
+    "Rogue: Thief"
+  ],
+  "barbariam": [
+    "Barbarian: Path of the Totem Warrior"
+  ],
+  "necromancy": [
+    "Wizard: School of Necromancy"
+  ],
+  "rager": [
+    "Barbarian: Path of the Battlerager"
+  ],
+  "dtuid": [
+    "Rogue: Mastermind"
+  ],
+  "glamor": [
+    "Bard: College of Glamour"
+  ],
+  "transmuation": [
+    "Wizard: School of Transmutation"
+  ],
+  "arch-fey": [
+    "Warlock: The Archfey"
+  ],
+  "Swash": [
+    "Rogue: Swashbuckler"
+  ],
+  "vengeacne": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "Master": [
+    "Rogue: Mastermind"
+  ],
+  "old": [
+    "Warlock: The Great Old One"
+  ],
+  "sharpshooter": [
+    "Fighter: Sharpshooter (UA)"
+  ],
+  "land": [
+    "Druid: Circle of the Land"
+  ],
+  "div": [
+    "Wizard: School of Divination"
+  ],
+  "scour": [
+    "Rogue: Scout"
+  ],
+  "ethereal": [
+    "Mystic: Order of the Immortal"
+  ],
+  "x": [
+    "Warlock: The Hexblade"
+  ],
+  "hexbladde": [
+    "Warlock: The Hexblade (UA)"
+  ],
+  "haxbl": [
+    "Warlock: The Hexblade (UA)"
+  ],
+  "awake": [
+    "Mystic: Order of the Awakened"
+  ],
+  "nomad": [
+    "Mystic: Order of the Nomad"
+  ],
+  "wu": [
+    "Mystic: Order of the Wu Jen"
+  ],
+  "bladeweaver": [
+    "Wizard: Bladesinger"
+  ],
+  "sacred": [
+    "Sorcerer: Wild Magic"
+  ],
+  "pheonix": [
+    "Sorcerer: Phoenix Sorcery (UA)"
+  ],
+  "four": [
+    "Monk: Way of the Four Elements"
+  ],
+  "avatar": [
+    "Mystic: Order of the Avatar"
+  ],
+  "devot": [
+    "Paladin: Oath of Devotion"
+  ],
+  "strength": [
+    "Cleric: Strength Domain (PSA)"
+  ],
+  "solidarity": [
+    "Cleric: Solidarity Domain (PSA)"
+  ],
+  "bers": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "wizards": [
+    "Wizard: War Magic"
+  ],
+  "Archfey": [
+    "Warlock: The Archfey"
+  ],
+  "undyi": [
+    "Warlock: The Undying"
+  ],
+  "arcana": [
+    "Cleric: Arcana Domain"
+  ],
+  "Protection": [
+    "Cleric: Protection Domain (UA)"
+  ],
+  "eldrich": [
+    "Fighter: Eldritch Knight"
+  ],
+  "Valor": [
+    "Bard: College of Valor"
+  ],
+  "twilight": [
+    "Druid: Circle of Twilight (UA)"
+  ],
+  "vengance": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "transmut": [
+    "Wizard: School of Transmutation"
+  ],
+  "sporrs": [
+    "Druid: Circle of Spores"
+  ],
+  "brute": [
+    "Fighter: Brute (UA)"
+  ],
+  "Land": [
+    "Druid: Circle of the Land"
+  ],
+  "pryomancer": [
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "undead": [
+    "Cleric: Death Domain"
+  ],
+  "zelot": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "Lolth": [
+    "Warlock: Lolth (Twitter)"
+  ],
+  "Brute": [
+    "Fighter: Brute (UA)"
+  ],
+  "lolth": [
+    "Warlock: Lolth (Twitter)"
+  ],
+  "beauty": [
+    "Cleric: Beauty Domain (Twitter)"
+  ],
+  "abj": [
+    "Wizard: School of Abjuration"
+  ],
+  "Dreams": [
+    "Druid: Circle of Dreams"
+  ],
+  "Raven": [
+    "Warlock: The Raven Queen (UA)"
+  ],
+  "ambition": [
+    "Cleric: Ambition Domain (PSA)"
+  ],
+  "of": [
+    "Bard: College of Valor"
+  ],
+  "Divine": [
+    "Sorcerer: Divine Soul"
+  ],
+  "enchantment": [
+    "Wizard: School of Enchantment"
+  ],
+  "Ravenqueen": [
+    "Warlock: The Raven Queen (UA)"
+  ],
+  "ass": [
+    "Rogue: Assassin"
+  ],
+  "brut": [
+    "Fighter: Brute (UA)"
+  ],
+  "invent": [
+    "Wizard: School of Invention (UA)"
+  ],
+  "element": [
+    "Monk: Way of the Four Elements"
+  ],
+  "bladeslinger": [
+    "Wizard: Bladesinging"
+  ],
+  "hexbladd": [
+    "Warlock: The Hexblade (UA)"
+  ],
+  "hand": [
+    "Monk: Way of the Open Hand"
+  ],
+  "transm": [
+    "Wizard: School of Transmutation"
+  ],
+  "enchantmen": [
+    "Wizard: School of Enchantment"
+  ],
+  "tranquility": [
+    "Monk: Way of Tranquility (UA)"
+  ],
+  "Great": [
+    "Warlock: The Great Old One"
+  ],
+  "Wild": [
+    "Sorcerer: Wild Magic"
+  ],
+  "Redemption": [
+    "Paladin: Oath of Redemption"
+  ],
+  "Devotion": [
+    "Paladin: Oath of Devotion"
+  ],
+  "walock": [
+    "Warlock: The Undying"
+  ],
+  "Diviner": [
+    "Wizard: Artificer (UA)"
+  ],
+  "berser": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "Trickery": [
+    "Cleric: Trickery Domain"
+  ],
+  "evo": [
+    "Wizard: School of Evocation"
+  ],
+  "dragon": [
+    "Fighter: Purple Dragon Knight (Banneret)"
+  ],
+  "Stone": [
+    "Sorcerer: Stone Sorcery (UA)"
+  ],
+  "transmu": [
+    "Wizard: School of Transmutation"
+  ],
+  "abju": [
+    "Wizard: School of Abjuration"
+  ],
+  "dark": [
+    "Cleric: Darkness Domain (Twitter)"
+  ],
+  "urban": [
+    "Ranger: Hunter"
+  ],
+  "cirlce": [
+    "Druid: Circle of Dreams"
+  ],
+  "am": [
+    "Fighter: Samurai"
+  ],
+  "chavalier": [
+    "Fighter: Cavalier"
+  ],
+  "conj": [
+    "Wizard: School of Conjuration"
+  ],
+  "evoc": [
+    "Wizard: School of Evocation"
+  ],
+  "Technomancer": [
+    "Wizard: Technomancy (UA)"
+  ],
+  "valour": [
+    "Bard: College of Valor"
+  ],
+  "antipaladin": [
+    "Paladin: Oathbreaker"
+  ],
+  "wash": [
+    "Rogue: Swashbuckler"
+  ],
+  "rcane": [
+    "Rogue: Arcane Trickster"
+  ],
+  "Axid": [
+    "Paladin: Oath of Devotion"
+  ],
+  "Shepard": [
+    "Druid: Circle of the Shepherd"
+  ],
+  "fighte": [
+    "Fighter: Purple Dragon Knight (Banneret)"
+  ],
+  "drunkenmater": [
+    "Monk: Way of the Drunken Master"
+  ],
+  "Swords": [
+    "Bard: College of Swords"
+  ],
+  "psk": [
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "Ken": [
+    "Monk: Way of the Kensei"
+  ],
+  "tech": [
+    "Wizard: Technomancy (UA)"
+  ],
+  "Spore": [
+    "Druid: Circle of Spores"
+  ],
+  "Rnager": [
+    "Ranger: Horizon Walker"
+  ],
+  "gloomlurker": [
+    "Ranger: Gloom Stalker"
+  ],
+  "eld": [
+    "Fighter: Eldritch Knight"
+  ],
+  "shoot": [
+    "Fighter: Sharpshooter (UA)"
+  ],
+  "archer": [
+    "Fighter: Arcane Archer"
+  ],
+  "Enchantment": [
+    "Wizard: School of Enchantment"
+  ],
+  "CELESTIAL": [
+    "Warlock: The Celestial"
+  ],
+  "Four": [
+    "Monk: Way of the Four Elements"
+  ],
+  "bladesinging": [
+    "Wizard: Bladesinging"
+  ],
+  "Totem": [
+    "Barbarian: Path of the Totem Warrior"
+  ],
+  "giant": [
+    "Sorcerer: Giant Soul (UA)"
+  ],
+  "Sun": [
+    "Monk: Way of the Sun Soul"
+  ],
+  "treach": [
+    "Paladin: Oath of Treachery (UA)"
+  ],
+  "sorcere": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "cavalry": [
+    "Fighter: Cavalier"
+  ],
+  "protect": [
+    "Cleric: Protection Domain (UA)"
+  ],
+  "fighter&": [
+    "Fighter: Cavalier"
+  ],
+  "Illusion": [
+    "Wizard: School of Illusion"
+  ],
+  "Guardian": [
+    "Barbarian: Path of the Ancestral Guardian v2 (UA)"
+  ],
+  "Celesatial": [
+    "Warlock: The Celestial"
+  ],
+  "moo": [
+    "Druid: Circle of the Moon"
+  ],
+  "smaurai": [
+    "Fighter: Samurai"
+  ],
+  "th": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "shepe": [
+    "Druid: Circle of the Shepherd"
+  ],
+  "Purple": [
+    "Fighter: Purple Dragon Knight (Banneret)"
+  ],
+  "hexbladee": [
+    "Warlock: The Hexblade"
+  ],
+  "knesie": [
+    "Rogue: Thief"
+  ],
+  "swashbucker": [
+    "Rogue: Swashbuckler"
+  ],
+  "beathide": [
+    "Rogue: Mastermind"
+  ],
+  "Conjuration": [
+    "Wizard: School of Conjuration"
+  ],
+  "Abjuration": [
+    "Wizard: School of Abjuration"
+  ],
+  "Mastermind": [
+    "Rogue: Mastermind"
+  ],
+  "Aa": [
+    "Rogue: Assassin"
+  ],
+  "illu": [
+    "Wizard: School of Illusion"
+  ],
+  "immortal": [
+    "Mystic: Order of the Immortal"
+  ],
+  "Treachery": [
+    "Paladin: Oath of Treachery (UA)"
+  ],
+  "Pyro": [
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "phoen": [
+    "Sorcerer: Phoenix Sorcery (UA)"
+  ],
+  "pyr": [
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "shephard": [
+    "Druid: Circle of the Shepherd"
+  ],
+  "celestisl": [
+    "Warlock: The Celestial"
+  ],
+  "trans": [
+    "Wizard: School of Transmutation"
+  ],
+  "illision": [
+    "Wizard: School of Illusion"
+  ],
+  "Necromancer": [
+    "Wizard: School of Necromancy"
+  ],
+  "twillight": [
+    "Druid: Circle of Twilight (UA)"
+  ],
+  "Evocation": [
+    "Wizard: School of Evocation"
+  ],
+  "pyro": [
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "celes": [
+    "Warlock: The Celestial"
+  ],
+  "battlemas": [
+    "Fighter: Battle Master"
+  ],
+  "hexblades": [
+    "Warlock: The Hexblade"
+  ],
+  "invest": [
+    "Rogue: Inquisitive"
+  ],
+  "Baridc": [
+    "Bard: College of Valor"
+  ],
+  "Evo": [
+    "Wizard: School of Evocation"
+  ],
+  "forgotten": [
+    "Rogue: Mastermind"
+  ],
+  "ancient": [
+    "Paladin: Oath of the Ancients"
+  ],
+  "longdeath": [
+    "Monk: Way of the Long Death"
+  ],
+  "Vengeance": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "devo": [
+    "Paladin: Oath of Devotion"
+  ],
+  "conq": [
+    "Paladin: Oath of Conquest"
+  ],
+  "Redem": [
+    "Paladin: Oath of Redemption"
+  ],
+  "invention": [
+    "Wizard: School of Invention (UA)"
+  ],
+  "draco": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "phoneix": [
+    "Sorcerer: Phoenix Sorcery (UA)"
+  ],
+  "giants": [
+    "Sorcerer: Giant Soul (UA)"
+  ],
+  "Giant": [
+    "Sorcerer: Giant Soul (UA)"
+  ],
+  "pyromacner": [
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "dreadlord": [
+    "Bard: College of Swords"
+  ],
+  "theurg": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "abjuratiob": [
+    "Wizard: School of Abjuration"
+  ],
+  "theurge": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "redempt": [
+    "Paladin: Oath of Redemption"
+  ],
+  "conqu": [
+    "Paladin: Oath of Conquest"
+  ],
+  "monks": [
+    "Monk: Way of the Sun Soul"
+  ],
+  "veng": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "ber": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "Blade": [
+    "Wizard: Bladesinging"
+  ],
+  "swas": [
+    "Rogue: Swashbuckler"
+  ],
+  "enchant": [
+    "Wizard: School of Enchantment"
+  ],
+  "Champion": [
+    "Fighter: Champion"
+  ],
+  "sheppard": [
+    "Druid: Circle of the Shepherd"
+  ],
+  "Nature": [
+    "Cleric: Nature Domain"
+  ],
+  "theourgy": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "Glam": [
+    "Bard: College of Glamour"
+  ],
+  "artific": [
+    "Wizard: Artificer (UA)"
+  ],
+  "Fiend": [
+    "Warlock: The Fiend"
+  ],
+  "Technomancy": [
+    "Wizard: Technomancy (UA)"
+  ],
+  "Ances": [
+    "Barbarian: Path of the Ancestral Guardian"
+  ],
+  "Dream": [
+    "Druid: Circle of Dreams"
+  ],
+  "tome": [
+    "Cleric: Death Domain"
+  ],
+  "ken": [
+    "Monk: Way of the Kensei"
+  ],
+  "ELdritch": [
+    "Fighter: Eldritch Knight"
+  ],
+  "disc": [
+    "Fighter: Scout (UA)"
+  ],
+  "lich": [
+    "Cleric: Death Domain"
+  ],
+  "whipsers": [
+    "Bard: College of Whispers"
+  ],
+  "stre": [
+    "Cleric: Strength Domain (PSA)"
+  ],
+  "weird": [
+    "Wizard: War Magic"
+  ],
+  "easy": [
+    "Wizard: Lore Mastery (UA)"
+  ],
+  "wow": [
+    "Warlock: Lolth (Twitter)"
+  ],
+  "dude": [
+    "Druid: Circle of Spores"
+  ],
+  "wonderfully": [
+    "Mystic: Order of the Wu Jen"
+  ],
+  "you": [
+    "Rogue: Thief"
+  ],
+  "looking": [
+    "Warlock: The Undying"
+  ],
+  "templar": [
+    "Cleric: Tempest Domain"
+  ],
+  "cavelier": [
+    "Fighter: Cavalier"
+  ],
+  "ar": [
+    "Artificer: Alchemist"
+  ],
+  "destruct": [
+    "Cleric: Destruction Domain (Twitter)"
+  ],
+  "banneret": [
+    "Fighter: Purple Dragon Knight (Banneret)"
+  ],
+  "bloodline": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "cleric:Life": [
+    "Cleric: Life Domain"
+  ],
+  "twit": [
+    "Cleric: Destruction Domain (Twitter)"
+  ],
+  "Arcana": [
+    "Cleric: Arcana Domain"
+  ],
+  "awakened": [
+    "Mystic: Order of the Awakened"
+  ],
+  "Veng": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "Battle": [
+    "Fighter: Battle Master"
+  ],
+  "arrificer": [
+    "Artificer: Gunsmith"
+  ],
+  "conques": [
+    "Paladin: Oath of Conquest"
+  ],
+  "Peace": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "rogue=": [
+    "Rogue: Mastermind"
+  ],
+  "Berzerker": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "Celestigay": [
+    "Warlock: The Celestial"
+  ],
+  "Transmutation": [
+    "Wizard: School of Transmutation"
+  ],
+  "assassian": [
+    "Rogue: Assassin"
+  ],
+  "ancest": [
+    "Barbarian: Path of the Ancestral Guardian"
+  ],
+  "Gun": [
+    "Artificer: Gunsmith"
+  ],
+  "redeption": [
+    "Paladin: Oath of Redemption"
+  ],
+  "assass": [
+    "Rogue: Assassin"
+  ],
+  "Satire": [
+    "Bard: College of Satire (UA)"
+  ],
+  "Whispers": [
+    "Bard: College of Whispers"
+  ],
+  "Paladin.": [
+    "Paladin: Oath of Devotion"
+  ],
+  "drac": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "calvalier": [
+    "Fighter: Cavalier"
+  ],
+  "zealo": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "enchnater": [
+    "Ranger: Hunter"
+  ],
+  "oathb": [
+    "Paladin: Oathbreaker"
+  ],
+  "Pyromancy": [
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "phoe": [
+    "Sorcerer: Phoenix Sorcery (UA)"
+  ],
+  "undyin": [
+    "Warlock: The Undying"
+  ],
+  "Strength": [
+    "Cleric: Strength Domain (PSA)"
+  ],
+  "inquisition": [
+    "Rogue: Inquisitive"
+  ],
+  "hunte4": [
+    "Ranger: Hunter"
+  ],
+  "conju": [
+    "Wizard: School of Conjuration"
+  ],
+  "battl": [
+    "Fighter: Battle Master"
+  ],
+  "eldtich": [
+    "Fighter: Eldritch Knight"
+  ],
+  "masterm": [
+    "Rogue: Mastermind"
+  ],
+  "beserker": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "celest": [
+    "Warlock: The Celestial"
+  ],
+  "Sorc": [
+    "Sorcerer: Wild Magic"
+  ],
+  "berseker": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "gian": [
+    "Sorcerer: Giant Soul (UA)"
+  ],
+  "oder": [
+    "Cleric: Order Domain"
+  ],
+  "gayfuckler": [
+    "Rogue: Swashbuckler"
+  ],
+  "ench": [
+    "Wizard: School of Enchantment"
+  ],
+  "mantle": [
+    "Ranger: Hunter"
+  ],
+  "Bladesunging": [
+    "Cleric: Destruction Domain (Twitter)"
+  ],
+  "druis": [
+    "Druid: Circle of Dreams"
+  ],
+  "elements": [
+    "Monk: Way of the Four Elements"
+  ],
+  "kensie": [
+    "Monk: Way of the Kensei"
+  ],
+  "vengence": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "Theif": [
+    "Rogue: Thief"
+  ],
+  "Moon": [
+    "Druid: Circle of the Moon"
+  ],
+  "City": [
+    "Cleric: City Domain (UA)"
+  ],
+  "sheaperd": [
+    "Druid: Circle of the Shepherd"
+  ],
+  "Rouge": [
+    "Rogue: Thief"
+  ],
+  "edlrtich": [
+    "Fighter: Eldritch Knight"
+  ],
+  "whatever": [
+    "Fighter: Battle Master"
+  ],
+  "samaurai": [
+    "Fighter: Samurai"
+  ],
+  "eldarin": [
+    "Rogue: Mastermind"
+  ],
+  "Bladesong": [
+    "Wizard: Bladesinging"
+  ],
+  "protec": [
+    "Cleric: Protection Domain (UA)"
+  ],
+  "Eldrich": [
+    "Fighter: Eldritch Knight"
+  ],
+  "inquistor": [
+    "Rogue: Inquisitive"
+  ],
+  "archf": [
+    "Warlock: The Archfey"
+  ],
+  "enchanting": [
+    "Wizard: School of Enchantment"
+  ],
+  "vegence": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "enchan": [
+    "Wizard: School of Enchantment"
+  ],
+  "treacher": [
+    "Paladin: Oath of Treachery (UA)"
+  ],
+  "abjura": [
+    "Wizard: School of Abjuration"
+  ],
+  "Warsmith": [
+    "Artificer: Gunsmith"
+  ],
+  "zealoy": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "rage": [
+    "Barbarian: Path of the Battlerager"
+  ],
+  "titan": [
+    "Cleric: Death Domain"
+  ],
+  "edge": [
+    "Cleric: Knowledge Domain"
+  ],
+  "Open": [
+    "Monk: Way of the Open Hand"
+  ],
+  "Whisper": [
+    "Bard: College of Whispers"
+  ],
+  "Knowle": [
+    "Cleric: Knowledge Domain"
+  ],
+  "subsoul": [
+    "Monk: Way of the Sun Soul"
+  ],
+  "kinsei": [
+    "Monk: Way of the Kensei"
+  ],
+  "dev": [
+    "Paladin: Oath of Devotion"
+  ],
+  "unding": [
+    "Warlock: The Undying"
+  ],
+  "Long": [
+    "Monk: Way of the Long Death"
+  ],
+  "Hex": [
+    "Warlock: The Hexblade"
+  ],
+  "ilkusion": [
+    "Wizard: School of Illusion"
+  ],
+  "shep": [
+    "Druid: Circle of the Shepherd"
+  ],
+  "draocnic": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "frenzy": [
+    "Cleric: Forge Domain"
+  ],
+  "eldr": [
+    "Fighter: Eldritch Knight"
+  ],
+  "Assassin": [
+    "Rogue: Assassin"
+  ],
+  "concl": [
+    "Ranger (Revised): Beast Conclave"
+  ],
+  "garve": [
+    "Cleric: Grave Domain"
+  ],
+  "assassination": [
+    "Rogue: Assassin"
+  ],
+  "techn": [
+    "Wizard: Technomancy (UA)"
+  ],
+  "oathrbe": [
+    "Paladin: Oathbreaker"
+  ],
+  "understalker": [
+    "Ranger: Deep Stalker (UA)"
+  ],
+  "warmage": [
+    "Wizard: War Magic"
+  ],
+  "mok": [
+    "Monk: Way of the Kensei"
+  ],
+  "hutner": [
+    "Ranger: Hunter"
+  ],
+  "lor": [
+    "Bard: College of Lore"
+  ],
+  "dw": [
+    "Monk: Way of Shadow"
+  ],
+  "dra": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "gllom": [
+    "Ranger: Gloom Stalker"
+  ],
+  "figher": [
+    "Fighter: Scout (UA)"
+  ],
+  "clave": [
+    "Ranger (Revised): Hunter Conclave"
+  ],
+  "shephards": [
+    "Druid: Circle of the Shepherd"
+  ],
+  "abjurist": [
+    "Wizard: School of Abjuration"
+  ],
+  "<Barbarian:": [
+    "Barbarian: Path of the Storm Herald"
+  ],
+  "glmaour": [
+    "Bard: College of Glamour"
+  ],
+  "Alchemist": [
+    "Artificer: Alchemist"
+  ],
+  "celesta": [
+    "Warlock: The Celestial"
+  ],
+  "Warcleric": [
+    "Cleric: War Domain"
+  ],
+  "blandesinger": [
+    "Wizard: Bladesinging"
+  ],
+  "trechery": [
+    "Paladin: Oath of Treachery (UA)"
+  ],
+  "prime": [
+    "Ranger (Revised): Primeval Guardian (UA)"
+  ],
+  "palladin": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "necromanc": [
+    "Wizard: School of Necromancy"
+  ],
+  "breaker": [
+    "Paladin: Oathbreaker"
+  ],
+  "abji": [
+    "Wizard: School of Abjuration"
+  ],
+  "machine": [
+    "Warlock: Ghost in the Machine (UA)"
+  ],
+  "inquisitve": [
+    "Rogue: Inquisitive"
+  ],
+  "arcarna": [
+    "Cleric: Arcana Domain"
+  ],
+  "clestial": [
+    "Warlock: The Celestial"
+  ],
+  "race": [
+    "Warlock: The Archfey"
+  ],
+  "battlemast": [
+    "Fighter: Battle Master"
+  ],
+  "Seeker": [
+    "Warlock: The Seeker (UA)"
+  ],
+  "Oathbreaker": [
+    "Paladin: Oathbreaker"
+  ],
+  "Sam": [
+    "Fighter: Samurai"
+  ],
+  "ph": [
+    "Sorcerer: Phoenix Sorcery (UA)"
+  ],
+  "Primevil": [
+    "Ranger: Primeval Guardian (UA)"
+  ],
+  "ramger": [
+    "Ranger: Hunter"
+  ],
+  "drago": [
+    "Fighter: Purple Dragon Knight (Banneret)"
+  ],
+  "Swashbucler": [
+    "Rogue: Swashbuckler"
+  ],
+  "smith": [
+    "Artificer: Gunsmith"
+  ],
+  "ek": [
+    "Warlock: The Seeker (UA)"
+  ],
+  "lasagna": [
+    "Cleric: Arcana Domain"
+  ],
+  "shado": [
+    "Monk: Way of Shadow"
+  ],
+  "knowle": [
+    "Cleric: Knowledge Domain"
+  ],
+  "trickert": [
+    "Cleric: Trickery Domain"
+  ],
+  "banner": [
+    "Fighter: Purple Dragon Knight (Banneret)"
+  ],
+  "batt": [
+    "Fighter: Battle Master"
+  ],
+  "el": [
+    "Fighter: Eldritch Knight"
+  ],
+  "whsiper": [
+    "Bard: College of Whispers"
+  ],
+  "sharp": [
+    "Fighter: Sharpshooter (UA)"
+  ],
+  "Battlemaster": [
+    "Fighter: Battle Master"
+  ],
+  "SCAG": [
+    "Sorcerer: Wild Magic"
+  ],
+  "openhand": [
+    "Monk: Way of the Open Hand"
+  ],
+  "darkness": [
+    "Cleric: Darkness Domain (Twitter)"
+  ],
+  "elderitch": [
+    "Fighter: Eldritch Knight"
+  ],
+  "lolith": [
+    "Warlock: Lolth (Twitter)"
+  ],
+  "debot": [
+    "Paladin: Oath of Devotion"
+  ],
+  "otem": [
+    "Barbarian: Path of the Totem Warrior"
+  ],
+  "bladesl": [
+    "Wizard: Bladesinging"
+  ],
+  "Inquistive": [
+    "Rogue: Inquisitive"
+  ],
+  "des": [
+    "Cleric: Destruction Domain (Twitter)"
+  ],
+  "anceints": [
+    "Paladin: Oath of the Ancients"
+  ],
+  "darconic": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "samari": [
+    "Fighter: Samurai (UA)"
+  ],
+  "oathbreakee": [
+    "Paladin: Oathbreaker"
+  ],
+  "purp": [
+    "Fighter: Purple Dragon Knight (Banneret)"
+  ],
+  "assas": [
+    "Rogue: Assassin"
+  ],
+  "pugilist": [
+    "Rogue: Inquisitive (UA)"
+  ],
+  "awash": [
+    "Rogue: Swashbuckler"
+  ],
+  "conjurer": [
+    "Ranger: Hunter"
+  ],
+  "zealog": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "samuari": [
+    "Fighter: Samurai"
+  ],
+  "Berserker": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "hexbalde": [
+    "Warlock: The Hexblade"
+  ],
+  "witch": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "conjugation": [
+    "Wizard: School of Conjuration"
+  ],
+  "cavlier": [
+    "Fighter: Cavalier"
+  ],
+  "spor": [
+    "Druid: Circle of Spores"
+  ],
+  "celstial": [
+    "Warlock: The Celestial"
+  ],
+  "encha": [
+    "Wizard: School of Enchantment"
+  ],
+  "dracon": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "oathbrea": [
+    "Paladin: Oathbreaker"
+  ],
+  "theur": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "thir": [
+    "Rogue: Thief"
+  ],
+  "Chad": [
+    "Druid: Circle of the Land"
+  ],
+  "Virgin": [
+    "Cleric: Forge Domain"
+  ],
+  "Stacy": [
+    "Ranger: Monster Slayer"
+  ],
+  "glamourbard": [
+    "Bard: College of Glamour"
+  ],
+  "stormcaller": [
+    "Fighter: Cavalier (UA)"
+  ],
+  "hunter's": [
+    "Ranger: Hunter"
+  ],
+  "hexblde": [
+    "Warlock: The Hexblade"
+  ],
+  "bear": [
+    "Bard: College of Valor"
+  ],
+  "pqla": [
+    "Paladin: Oath of Devotion"
+  ],
+  "brite": [
+    "Fighter: Brute (UA)"
+  ],
+  "swashbuc": [
+    "Rogue: Swashbuckler"
+  ],
+  "clavalier": [
+    "Fighter: Cavalier"
+  ],
+  "natural": [
+    "Cleric: Nature Domain"
+  ],
+  "Knowlesge": [
+    "Cleric: Knowledge Domain"
+  ],
+  "Time": [
+    "Rogue: Thief"
+  ],
+  "sunso": [
+    "Monk: Way of the Sun Soul"
+  ],
+  "inven": [
+    "Wizard: School of Invention (UA)"
+  ],
+  "circls": [
+    "Druid: Circle of Spores (UA)"
+  ],
+  "sotmr": [
+    "Sorcerer: Storm Sorcery"
+  ],
+  "otherworldly": [
+    "Warlock: The Archfey"
+  ],
+  "guns": [
+    "Artificer: Gunsmith"
+  ],
+  "beat": [
+    "Ranger: Beast Master"
+  ],
+  "spires": [
+    "Druid: Circle of Spores"
+  ],
+  "technomancer": [
+    "Wizard: Technomancy (UA)"
+  ],
+  "chronomancy": [
+    "Wizard: School of Necromancy"
+  ],
+  "kensia": [
+    "Monk: Way of the Kensei"
+  ],
+  "twighlight": [
+    "Druid: Circle of Twilight (UA)"
+  ],
+  "drui": [
+    "Druid: Circle of the Land"
+  ],
+  "phoenic": [
+    "Sorcerer: Phoenix Sorcery (UA)"
+  ],
+  "samuria": [
+    "Fighter: Samurai"
+  ],
+  "bladesin": [
+    "Wizard: Bladesinging"
+  ],
+  "Kensie": [
+    "Monk: Way of the Kensei"
+  ],
+  "whore": [
+    "Monk: Way of the Four Elements"
+  ],
+  "theuryg": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "crow": [
+    "Paladin: Oath of the Crown"
+  ],
+  "battlerag": [
+    "Barbarian: Path of the Battlerager"
+  ],
+  "berserk": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "dragon-blooded": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "Razi": [
+    "Fighter: Champion"
+  ],
+  "druidic": [
+    "Druid: Circle of the Land"
+  ],
+  "destruction": [
+    "Cleric: Destruction Domain (Twitter)"
+  ],
+  "hexbladr": [
+    "Warlock: The Hexblade"
+  ],
+  "brawl": [
+    "Fighter: Brute (UA)"
+  ],
+  "bat": [
+    "Fighter: Battle Master"
+  ],
+  "heck": [
+    "Fighter: Champion"
+  ],
+  "mar": [
+    "Fighter: Battle Master"
+  ],
+  "conque": [
+    "Paladin: Oath of Conquest"
+  ],
+  "bladesi": [
+    "Wizard: Bladesinging"
+  ],
+  "draconis": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "twilighy": [
+    "Druid: Circle of Twilight (UA)"
+  ],
+  "war magic": [
+    "Wizard: War Magic (UA)"
+  ],
+  "war mag": [
+    "Wizard: War Magic"
+  ],
+  "Trickey": [
+    "Cleric: Trickery Domain"
+  ],
+  "dueling": [
+    "Rogue: Mastermind"
+  ],
+  "shadoe": [
+    "Monk: Way of Shadow"
+  ],
+  "cavl": [
+    "Fighter: Cavalier"
+  ],
+  "Spell-less": [
+    "Ranger (Spell-less): Horizon Walker (UA)"
+  ],
+  "forgr": [
+    "Cleric: Forge Domain"
+  ],
+  "shepar": [
+    "Fighter: Cavalier"
+  ],
+  "shepp": [
+    "Druid: Circle of the Shepherd"
+  ],
+  "mystc": [
+    "Mystic: Order of the Immortal"
+  ],
+  "revise": [
+    "Ranger (Revised): Hunter Conclave"
+  ],
+  "Sharpshooter": [
+    "Fighter: Sharpshooter (UA)"
+  ],
+  "treachury": [
+    "Paladin: Oath of Treachery (UA)"
+  ],
+  "ebchantent": [
+    "Wizard: School of Enchantment"
+  ],
+  "asassian": [
+    "Rogue: Assassin"
+  ],
+  "tranquil": [
+    "Monk: Way of Tranquility (UA)"
+  ],
+  "inquistive": [
+    "Rogue: Inquisitive"
+  ],
+  "assasain": [
+    "Rogue: Assassin"
+  ],
+  "ruler": [
+    "Rogue: Swashbuckler"
+  ],
+  "alchem": [
+    "Artificer: Alchemist"
+  ],
+  "dance": [
+    "Ranger: Hunter"
+  ],
+  "assassins": [
+    "Rogue: Assassin"
+  ],
+  "warrior": [
+    "Barbarian: Path of the Totem Warrior"
+  ],
+  "necroman": [
+    "Wizard: School of Necromancy"
+  ],
+  "venge": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "Solidarity": [
+    "Cleric: Solidarity Domain (PSA)"
+  ],
+  "Spores": [
+    "Druid: Circle of Spores"
+  ],
+  "wildmage": [
+    "Sorcerer: Wild Magic"
+  ],
+  "temmpest": [
+    "Cleric: Tempest Domain"
+  ],
+  "conjorasjon": [
+    "Wizard: School of Conjuration"
+  ],
+  "ilusjon": [
+    "Wizard: School of Illusion"
+  ],
+  "tm": [
+    "Wizard: School of Enchantment"
+  ],
+  "ravenqueen": [
+    "Warlock: The Raven Queen (UA)"
+  ],
+  "monste": [
+    "Ranger: Monster Slayer"
+  ],
+  "beastmast": [
+    "Ranger: Beast Master"
+  ],
+  "articifer": [
+    "Artificer: Gunsmith"
+  ],
+  "enclave": [
+    "Ranger (Revised): Beast Conclave"
+  ],
+  "swahbuckler": [
+    "Rogue: Swashbuckler"
+  ],
+  "forage": [
+    "Cleric: Forge Domain"
+  ],
+  "warlcok": [
+    "Warlock: The Undying"
+  ],
+  "Claric": [
+    "Cleric: Forge Domain"
+  ],
+  "devoti": [
+    "Paladin: Oath of Devotion"
+  ],
+  "berserke": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "Fey": [
+    "Warlock: The Archfey"
+  ],
+  "Battleranger": [
+    "Barbarian: Path of the Battlerager"
+  ],
+  "arcance": [
+    "Fighter: Arcane Archer"
+  ],
+  "wildmagic": [
+    "Sorcerer: Wild Magic"
+  ],
+  "venga": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "fav": [
+    "Sorcerer: Favored Soul (UA)"
+  ],
+  "trea": [
+    "Paladin: Oath of Treachery (UA)"
+  ],
+  "loe": [
+    "Cleric: Order Domain"
+  ],
+  "bladesingler": [
+    "Wizard: Bladesinging"
+  ],
+  "oathbr": [
+    "Paladin: Oathbreaker"
+  ],
+  "necrom": [
+    "Wizard: School of Necromancy"
+  ],
+  "ravnica": [
+    "Fighter: Cavalier"
+  ],
+  "treac": [
+    "Paladin: Oath of Treachery (UA)"
+  ],
+  "vengean": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "whis": [
+    "Bard: College of Whispers"
+  ],
+  "Hor": [
+    "Ranger: Horizon Walker"
+  ],
+  "tempe": [
+    "Cleric: Tempest Domain"
+  ],
+  "shadow(UA)": [
+    "Sorcerer: Shadow (UA)"
+  ],
+  "monky": [
+    "Monk: Way of Shadow"
+  ],
+  "FIghter": [
+    "Fighter: Monster Hunter (UA)"
+  ],
+  "Arch-fey": [
+    "Warlock: The Archfey"
+  ],
+  "warlonk": [
+    "Warlock: The Undying"
+  ],
+  "tempes": [
+    "Cleric: Tempest Domain"
+  ],
+  "warlo": [
+    "Warlock: The Celestial"
+  ],
+  "thieve": [
+    "Rogue: Thief"
+  ],
+  "collegenof": [
+    "Bard: College of Glamour"
+  ],
+  "paladib": [
+    "Paladin: Oath of Devotion"
+  ],
+  "Christmas": [
+    "Cleric: Tempest Domain"
+  ],
+  "assasssin": [
+    "Rogue: Assassin"
+  ],
+  "asssin": [
+    "Rogue: Assassin"
+  ],
+  "celrstial": [
+    "Warlock: The Celestial (UA)"
+  ],
+  "necromanncer": [
+    "Wizard: School of Necromancy"
+  ],
+  "battlera": [
+    "Barbarian: Path of the Battlerager"
+  ],
+  "twiligh": [
+    "Druid: Circle of Twilight (UA)"
+  ],
+  "theugy": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "sheph": [
+    "Druid: Circle of the Shepherd"
+  ],
+  "monster's": [
+    "Ranger: Monster Slayer"
+  ],
+  "Sameri": [
+    "Fighter: Samurai"
+  ],
+  "spirit": [
+    "Artificer: Gunsmith"
+  ],
+  "Inquisitor": [
+    "Rogue: Inquisitive"
+  ],
+  "cavilled": [
+    "Fighter: Cavalier"
+  ],
+  "<swashbuckler>": [
+    "Rogue: Swashbuckler"
+  ],
+  "dab": [
+    "Paladin: Oathbreaker"
+  ],
+  "Alcor": [
+    "Warlock: Lolth (Twitter)"
+  ],
+  "edlritch": [
+    "Fighter: Eldritch Knight"
+  ],
+  "purpl": [
+    "Fighter: Purple Dragon Knight (Banneret)"
+  ],
+  "draconian": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "galmour": [
+    "Bard: College of Glamour"
+  ],
+  "thife": [
+    "Rogue: Thief"
+  ],
+  "Pyromancer": [
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "Necromancy": [
+    "Wizard: School of Necromancy"
+  ],
+  "collegeofswords": [
+    "Bard: College of Swords"
+  ],
+  "thi": [
+    "Rogue: Thief"
+  ],
+  "knowledgee": [
+    "Cleric: Knowledge Domain"
+  ],
+  "evocative": [
+    "Wizard: School of Evocation"
+  ],
+  "Darkness": [
+    "Cleric: Darkness Domain (Twitter)"
+  ],
+  "tranquiity": [
+    "Monk: Way of Tranquility (UA)"
+  ],
+  "bersekee": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "natu": [
+    "Cleric: Nature Domain"
+  ],
+  "devotio": [
+    "Paladin: Oath of Devotion"
+  ],
+  "illus": [
+    "Wizard: School of Illusion"
+  ],
+  "battlemasster": [
+    "Fighter: Battle Master"
+  ],
+  "Seekee": [
+    "Mystic: Order of the Awakened"
+  ],
+  "l": [
+    "Cleric: Light Domain"
+  ],
+  "halfling": [
+    "Wizard: School of Illusion"
+  ],
+  "palad\u00edn": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "swashb": [
+    "Rogue: Swashbuckler"
+  ],
+  "Draco": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "ligh": [
+    "Cleric: Light Domain"
+  ],
+  "berzerker": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "spy": [
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "animal": [
+    "Ranger: Gloom Stalker"
+  ],
+  "archetype": [
+    "Ranger: Hunter"
+  ],
+  "Battlerager": [
+    "Barbarian: Path of the Battlerager"
+  ],
+  "hell": [
+    "Fighter: Cavalier"
+  ],
+  "inquesitor": [
+    "Rogue: Inquisitive"
+  ],
+  "rogie": [
+    "Rogue: Inquisitive"
+  ],
+  "chanp": [
+    "Fighter: Champion"
+  ],
+  "Darkbess": [
+    "Cleric: Darkness Domain (Twitter)"
+  ],
+  "kenei": [
+    "Monk: Way of the Kensei"
+  ],
+  "zelo": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "Cavilier": [
+    "Fighter: Cavalier"
+  ],
+  "fighter:eldritch": [
+    "Fighter: Eldritch Knight"
+  ],
+  "inventor": [
+    "Wizard: School of Invention (UA)"
+  ],
+  "nec": [
+    "Wizard: School of Necromancy"
+  ],
+  "momster": [
+    "Ranger: Monster Slayer"
+  ],
+  "zel": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "(Twitter)": [
+    "Warlock: Lolth (Twitter)"
+  ],
+  "sumarai": [
+    "Fighter: Samurai"
+  ],
+  "oathbre": [
+    "Paladin: Oathbreaker"
+  ],
+  "mnowledge": [
+    "Cleric: Knowledge Domain"
+  ],
+  "shepherds": [
+    "Druid: Circle of the Shepherd"
+  ],
+  "planewalker": [
+    "Ranger: Horizon Walker (UA)"
+  ],
+  "kense": [
+    "Monk: Way of the Kensei"
+  ],
+  "inqusitive": [
+    "Rogue: Inquisitive"
+  ],
+  "skulker": [
+    "Ranger: Deep Stalker (UA)"
+  ],
+  "archfet": [
+    "Warlock: The Archfey"
+  ],
+  "Water": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "ven": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "oathbreake": [
+    "Paladin: Oathbreaker"
+  ],
+  "artifiicer": [
+    "Artificer: Alchemist"
+  ],
+  "Glamor": [
+    "Bard: College of Glamour"
+  ],
+  "pyromancy": [
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "death domain": [
+    "Cleric: Death Domain"
+  ],
+  "tempest domain": [
+    "Cleric: Tempest Domain"
+  ],
+  "transmutatiob": [
+    "Wizard: School of Transmutation"
+  ],
+  "transsmutation": [
+    "Wizard: School of Transmutation"
+  ],
+  "ancien": [
+    "Paladin: Oath of the Ancients"
+  ],
+  "unjilding": [
+    "Warlock: The Undying"
+  ],
+  "sory": [
+    "Sorcerer: Stone Sorcery (UA)"
+  ],
+  "swasj": [
+    "Rogue: Swashbuckler"
+  ],
+  "gloom\u2019s": [
+    "Ranger (Revised): Gloom Stalker"
+  ],
+  "championi": [
+    "Fighter: Champion"
+  ],
+  "twilighr": [
+    "Druid: Circle of Twilight (UA)"
+  ],
+  "bezerker": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "suns": [
+    "Monk: Way of the Sun Soul"
+  ],
+  "swashbuck": [
+    "Rogue: Swashbuckler"
+  ],
+  "swordsage": [
+    "Bard: College of Swords (UA)"
+  ],
+  "cavities": [
+    "Fighter: Cavalier"
+  ],
+  "monsterhunter": [
+    "Fighter: Monster Hunter (UA)"
+  ],
+  "<cleric>": [
+    "Cleric: Life Domain"
+  ],
+  "spore1": [
+    "Druid: Circle of Spores"
+  ],
+  "archfe": [
+    "Warlock: The Archfey"
+  ],
+  "<wizard>": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "grace": [
+    "Fighter: Arcane Archer"
+  ],
+  "whsipers": [
+    "Bard: College of Whispers"
+  ],
+  "conqueror": [
+    "Paladin: Oath of Conquest"
+  ],
+  "abjurationw": [
+    "Wizard: School of Abjuration"
+  ],
+  "hexvlade": [
+    "Warlock: The Hexblade"
+  ],
+  "awaken": [
+    "Mystic: Order of the Awakened"
+  ],
+  "aco": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "broken": [
+    "Rogue: Assassin"
+  ],
+  "Vengence": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "tric": [
+    "Cleric: Trickery Domain"
+  ],
+  "tickster": [
+    "Rogue: Arcane Trickster"
+  ],
+  "diviniation": [
+    "Wizard: School of Divination"
+  ],
+  "specialist": [
+    "Artificer: Alchemist"
+  ],
+  "hexbald": [
+    "Warlock: The Hexblade"
+  ],
+  "figter": [
+    "Fighter: Scout (UA)"
+  ],
+  "thunder": [
+    "Ranger: Hunter"
+  ],
+  "protector": [
+    "Cleric: Protection Domain (UA)"
+  ],
+  "vengeancr": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "beastm": [
+    "Ranger: Beast Master"
+  ],
+  "aj": [
+    "Wizard: School of Abjuration"
+  ],
+  "scou": [
+    "Rogue: Scout"
+  ],
+  "magic": [
+    "Wizard: War Magic"
+  ],
+  "archgay": [
+    "Warlock: The Archfey"
+  ],
+  "temp": [
+    "Cleric: Tempest Domain"
+  ],
+  "vengace": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "anci": [
+    "Paladin: Oath of the Ancients"
+  ],
+  "evocat": [
+    "Wizard: School of Evocation"
+  ],
+  "blase": [
+    "Wizard: Bladesinging"
+  ],
+  "venegeance": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "penis": [
+    "Rogue: Inquisitive"
+  ],
+  "Banneret": [
+    "Fighter: Purple Dragon Knight (Banneret)"
+  ],
+  "eldertich": [
+    "Fighter: Eldritch Knight"
+  ],
+  "gunsmity": [
+    "Artificer: Gunsmith"
+  ],
+  "inquiz": [
+    "Rogue: Inquisitive"
+  ],
+  "ancestra": [
+    "Barbarian: Path of the Ancestral Guardian"
+  ],
+  "edemption": [
+    "Paladin: Oath of Redemption"
+  ],
+  "liht": [
+    "Cleric: Light Domain"
+  ],
+  "arhcfey": [
+    "Warlock: The Archfey"
+  ],
+  "huner": [
+    "Ranger: Hunter"
+  ],
+  "golgari": [
+    "Rogue: Mastermind"
+  ],
+  "therugy": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "queen": [
+    "Warlock: The Raven Queen (UA)"
+  ],
+  "celesti": [
+    "Warlock: The Celestial"
+  ],
+  "ston": [
+    "Sorcerer: Stone Sorcery (UA)"
+  ],
+  "claric": [
+    "Cleric: Death Domain"
+  ],
+  "celestoallial": [
+    "Warlock: The Celestial"
+  ],
+  "shepher": [
+    "Druid: Circle of the Shepherd"
+  ],
+  "fightwr": [
+    "Fighter: Brute (UA)"
+  ],
+  "barbian": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "SCa": [
+    "Rogue: Scout (UA)"
+  ],
+  "Zeal": [
+    "Cleric: Zeal Domain (PSA)"
+  ],
+  "be": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "roguye": [
+    "Rogue: Scout"
+  ],
+  "Bladesinging": [
+    "Wizard: Bladesinging"
+  ],
+  "psionic": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "stonr": [
+    "Sorcerer: Stone Sorcery (UA)"
+  ],
+  "barbariab": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "glooms": [
+    "Ranger: Gloom Stalker"
+  ],
+  "baldesinger": [
+    "Wizard: Bladesinging"
+  ],
+  "Destruction": [
+    "Cleric: Destruction Domain (Twitter)"
+  ],
+  "swashbucklet": [
+    "Rogue: Swashbuckler"
+  ],
+  "arcanearcher": [
+    "Fighter: Arcane Archer"
+  ],
+  "temptest": [
+    "Cleric: Tempest Domain"
+  ],
+  "Zeolot": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "BEast": [
+    "Ranger (Revised): Beast Conclave"
+  ],
+  "whispets": [
+    "Bard: College of Whispers"
+  ],
+  "samurari": [
+    "Fighter: Samurai"
+  ],
+  "battleragee": [
+    "Barbarian: Path of the Battlerager"
+  ],
+  "owern": [
+    "Rogue: Mastermind"
+  ],
+  "rotue": [
+    "Rogue: Scout"
+  ],
+  "bjj": [
+    "Fighter: Brute (UA)"
+  ],
+  "conquer": [
+    "Paladin: Oath of Conquest (UA)"
+  ],
+  "horizonwalker": [
+    "Ranger: Horizon Walker"
+  ],
+  "monsterslayer": [
+    "Ranger: Monster Slayer"
+  ],
+  "Faith": [
+    "Fighter: Champion"
+  ],
+  "pyromamcer": [
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "eldtritch": [
+    "Fighter: Eldritch Knight"
+  ],
+  "Evoc": [
+    "Wizard: School of Evocation"
+  ],
+  "roguew": [
+    "Rogue: Scout"
+  ],
+  "drun": [
+    "Monk: Way of the Drunken Master"
+  ],
+  "coast": [
+    "Rogue: Scout"
+  ],
+  "mpnk": [
+    "Monk: Way of Shadow"
+  ],
+  "trickter": [
+    "Cleric: Trickery Domain"
+  ],
+  "retribution": [
+    "Rogue: Mastermind"
+  ],
+  "feat:leap": [
+    "Fighter: Battle Master"
+  ],
+  "glooom": [
+    "Ranger: Gloom Stalker"
+  ],
+  "eldrit": [
+    "Fighter: Eldritch Knight"
+  ],
+  "monter": [
+    "Fighter: Monster Hunter (UA)"
+  ],
+  "samuri": [
+    "Fighter: Samurai"
+  ],
+  "artiticer": [
+    "Wizard: Artificer (UA)"
+  ],
+  "berswrk": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "Ancient": [
+    "Paladin: Oath of the Ancients"
+  ],
+  "Inquisition": [
+    "Rogue: Inquisitive"
+  ],
+  "<arcane": [
+    "Rogue: Arcane Trickster"
+  ],
+  "battler": [
+    "Barbarian: Path of the Battlerager"
+  ],
+  "wujen": [
+    "Mystic: Order of the Wu Jen"
+  ],
+  "necomancy": [
+    "Wizard: School of Necromancy"
+  ],
+  "zenalot": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "assassin'": [
+    "Rogue: Assassin"
+  ],
+  "dramaturgy": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "celestia": [
+    "Warlock: The Celestial"
+  ],
+  "rakis": [
+    "Artificer: Alchemist"
+  ],
+  "battle master": [
+    "Fighter: Battle Master"
+  ],
+  "endrich": [
+    "Fighter: Eldritch Knight"
+  ],
+  "ledritch": [
+    "Fighter: Eldritch Knight"
+  ],
+  "wind": [
+    "Warlock: The Fiend"
+  ],
+  "evocatoin": [
+    "Wizard: School of Evocation"
+  ],
+  "Masterm": [
+    "Rogue: Mastermind"
+  ],
+  "theift": [
+    "Rogue: Thief"
+  ],
+  "flavored": [
+    "Sorcerer: Favored Soul v3 (UA)"
+  ],
+  "conquestr": [
+    "Paladin: Oath of Conquest"
+  ],
+  "tone": [
+    "Sorcerer: Stone Sorcery (UA)"
+  ],
+  "pen": [
+    "Monk: Way of the Open Hand"
+  ],
+  "sei": [
+    "Monk: Way of the Kensei"
+  ],
+  "cavilieer": [
+    "Fighter: Cavalier"
+  ],
+  "horizen": [
+    "Ranger: Horizon Walker"
+  ],
+  "sotrm": [
+    "Sorcerer: Storm Sorcery"
+  ],
+  "colege": [
+    "Bard: College of Lore"
+  ],
+  "thuergy": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "wizarsd": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "evoca": [
+    "Wizard: School of Evocation"
+  ],
+  "elidritch": [
+    "Fighter: Eldritch Knight"
+  ],
+  "archfry": [
+    "Warlock: The Archfey"
+  ],
+  "technomanc": [
+    "Wizard: Technomancy (UA)"
+  ],
+  "Inquisit": [
+    "Rogue: Inquisitive"
+  ],
+  "tricke": [
+    "Cleric: Trickery Domain"
+  ],
+  "Tranquility": [
+    "Monk: Way of Tranquility (UA)"
+  ],
+  "Assasin": [
+    "Rogue: Assassin"
+  ],
+  "fei": [
+    "Fighter: Champion"
+  ],
+  "cavalieer": [
+    "Fighter: Cavalier"
+  ],
+  "ord": [
+    "Cleric: Order Domain (UA)"
+  ],
+  "monsteer": [
+    "Ranger: Monster Slayer"
+  ],
+  "devine": [
+    "Sorcerer: Divine Soul"
+  ],
+  "warforged": [
+    "Cleric: Forge Domain (UA)"
+  ],
+  "stormherald": [
+    "Barbarian: Path of the Storm Herald"
+  ],
+  "beastmater": [
+    "Ranger: Beast Master"
+  ],
+  "divinations": [
+    "Wizard: School of Divination"
+  ],
+  "conquet": [
+    "Paladin: Oath of Conquest"
+  ],
+  "shadwo": [
+    "Monk: Way of Shadow"
+  ],
+  "pro": [
+    "Cleric: Protection Domain (UA)"
+  ],
+  "Sea": [
+    "Sorcerer: Sea Sorcery (UA)"
+  ],
+  "conqurst": [
+    "Paladin: Oath of Conquest"
+  ],
+  "KNight": [
+    "Fighter: Knight (UA)"
+  ],
+  "illlusion": [
+    "Wizard: School of Illusion"
+  ],
+  "fun": [
+    "Artificer: Gunsmith"
+  ],
+  "Light": [
+    "Cleric: Light Domain"
+  ],
+  "ancestr": [
+    "Barbarian: Path of the Ancestral Guardian"
+  ],
+  "twili": [
+    "Druid: Circle of Twilight (UA)"
+  ],
+  "tranqui": [
+    "Monk: Way of Tranquility (UA)"
+  ],
+  "whisp": [
+    "Bard: College of Whispers"
+  ],
+  "bord": [
+    "Bard: College of Swords"
+  ],
+  "inqus": [
+    "Rogue: Inquisitive"
+  ],
+  "dimension": [
+    "Wizard: School of Invention (UA)"
+  ],
+  "their": [
+    "Rogue: Thief"
+  ],
+  "illusions": [
+    "Wizard: School of Illusion"
+  ],
+  "Mystic:": [
+    "Mystic: Order of the Awakened"
+  ],
+  "enchanment": [
+    "Wizard: School of Enchantment"
+  ],
+  "mancer": [
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "<kensei>": [
+    "Monk: Way of the Kensei"
+  ],
+  "<open": [
+    "Monk: Way of the Open Hand"
+  ],
+  "acrana": [
+    "Cleric: Arcana Domain"
+  ],
+  "shad": [
+    "Monk: Way of Shadow"
+  ],
+  "temo": [
+    "Cleric: Tempest Domain"
+  ],
+  "conjuraction": [
+    "Wizard: School of Conjuration"
+  ],
+  "bsttlemaster": [
+    "Fighter: Battle Master"
+  ],
+  "pyroman": [
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "ambush": [
+    "Cleric: Ambition Domain (PSA)"
+  ],
+  "lifedomain": [
+    "Cleric: Life Domain"
+  ],
+  "cha,p": [
+    "Fighter: Champion"
+  ],
+  "mark": [
+    "Warlock: The Fiend"
+  ],
+  "buckler": [
+    "Rogue: Swashbuckler"
+  ],
+  "swa": [
+    "Rogue: Swashbuckler"
+  ],
+  "zealt": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "mastering": [
+    "Rogue: Mastermind"
+  ],
+  "bladesonge": [
+    "Wizard: Bladesinging"
+  ],
+  "roug": [
+    "Rogue: Assassin"
+  ],
+  "thied": [
+    "Rogue: Thief"
+  ],
+  "eldrtitch": [
+    "Fighter: Eldritch Knight"
+  ],
+  "Mastermibd": [
+    "Rogue: Mastermind"
+  ],
+  "pact of the chain": [
+    "Warlock: The Archfey"
+  ],
+  "cavaliar": [
+    "Fighter: Cavalier"
+  ],
+  "wizard/blade": [
+    "Wizard: Bladesinging"
+  ],
+  "abjuation": [
+    "Wizard: School of Abjuration"
+  ],
+  "butcher": [
+    "Rogue: Thief"
+  ],
+  "divinatio": [
+    "Wizard: School of Divination"
+  ],
+  "mom": [
+    "Rogue: Mastermind"
+  ],
+  "tiefling": [
+    "Fighter: Eldritch Knight"
+  ],
+  "creation": [
+    "Cleric: Life Domain"
+  ],
+  "domination": [
+    "Wizard: School of Divination"
+  ],
+  "veg": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "barbarina": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "warlovk": [
+    "Warlock: The Undying"
+  ],
+  "waloc": [
+    "Warlock: The Archfey"
+  ],
+  "masterming": [
+    "Rogue: Mastermind"
+  ],
+  "generalist": [
+    "Rogue: Inquisitive"
+  ],
+  "cvleric": [
+    "Cleric: Forge Domain"
+  ],
+  "forest": [
+    "Rogue: Scout (UA)"
+  ],
+  "battlem": [
+    "Fighter: Battle Master"
+  ],
+  "caviler": [
+    "Fighter: Cavalier"
+  ],
+  "ancester": [
+    "Ranger: Monster Slayer"
+  ],
+  "ancestor": [
+    "Ranger: Monster Slayer"
+  ],
+  "sch": [
+    "Wizard: School of Evocation"
+  ],
+  "Walrock": [
+    "Warlock: The Archfey"
+  ],
+  "favo": [
+    "Sorcerer: Favored Soul (UA)"
+  ],
+  "redemtion": [
+    "Paladin: Oath of Redemption"
+  ],
+  "samura": [
+    "Fighter: Samurai"
+  ],
+  "ranger:gloom": [
+    "Ranger: Gloom Stalker"
+  ],
+  "Rogue:arcane": [
+    "Rogue: Arcane Trickster"
+  ],
+  "arcen": [
+    "Artificer: Gunsmith"
+  ],
+  "theuge": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "ggr": [
+    "Fighter: Samurai"
+  ],
+  "Assassian": [
+    "Rogue: Assassin"
+  ],
+  "defiler": [
+    "Wizard: Artificer (UA)"
+  ],
+  "hori": [
+    "Ranger (Revised): Horizon Walker"
+  ],
+  "sourcerer": [
+    "Sorcerer: Divine Soul"
+  ],
+  "glamur": [
+    "Bard: College of Glamour"
+  ],
+  "gloomst": [
+    "Ranger: Gloom Stalker"
+  ],
+  "expertise": [
+    "Rogue: Thief"
+  ],
+  "trickety": [
+    "Cleric: Trickery Domain"
+  ],
+  "cleri": [
+    "Cleric: Beauty Domain (Twitter)"
+  ],
+  "Oathbroken": [
+    "Paladin: Oathbreaker"
+  ],
+  "Trickster": [
+    "Rogue: Arcane Trickster"
+  ],
+  "sxout": [
+    "Rogue: Scout"
+  ],
+  "kenshi": [
+    "Monk: Way of the Kensei"
+  ],
+  "elem": [
+    "Monk: Way of the Four Elements"
+  ],
+  "xonquest": [
+    "Paladin: Oath of Conquest"
+  ],
+  "elsritch": [
+    "Fighter: Eldritch Knight"
+  ],
+  "planarwarrior": [
+    "Ranger: Horizon Walker"
+  ],
+  "assasian": [
+    "Rogue: Assassin"
+  ],
+  "artifice": [
+    "Artificer: Alchemist"
+  ],
+  "warmagic": [
+    "Wizard: War Magic"
+  ],
+  "arfifacer": [
+    "Artificer: Gunsmith"
+  ],
+  "artifacer": [
+    "Artificer: Gunsmith"
+  ],
+  "conqeust": [
+    "Paladin: Oath of Conquest (UA)"
+  ],
+  "necromance": [
+    "Wizard: School of Necromancy"
+  ],
+  "inquisi": [
+    "Rogue: Inquisitive"
+  ],
+  "transumtation": [
+    "Wizard: School of Transmutation"
+  ],
+  "swashbuckl": [
+    "Rogue: Swashbuckler"
+  ],
+  "Old": [
+    "Warlock: The Great Old One"
+  ],
+  "fist": [
+    "Fighter: Scout (UA)"
+  ],
+  "vwngeance": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "skulk": [
+    "Ranger: Gloom Stalker"
+  ],
+  "eleritch": [
+    "Fighter: Eldritch Knight"
+  ],
+  "spre": [
+    "Druid: Circle of Spores"
+  ],
+  "arca": [
+    "Rogue: Arcane Trickster"
+  ],
+  "Ass": [
+    "Rogue: Assassin"
+  ],
+  "soldier": [
+    "Fighter: Cavalier"
+  ],
+  "warcaster": [
+    "Wizard: Lore Mastery (UA)"
+  ],
+  "palandin": [
+    "Paladin: Oathbreaker"
+  ],
+  "tranquility.": [
+    "Monk: Way of Tranquility (UA)"
+  ],
+  "Kensington": [
+    "Cleric: Light Domain"
+  ],
+  "ranger:": [
+    "Ranger: Beast Master"
+  ],
+  "vore": [
+    "Sorcerer: Favored Soul (UA)"
+  ],
+  "gorge": [
+    "Cleric: Forge Domain"
+  ],
+  "evokation": [
+    "Wizard: School of Evocation"
+  ],
+  "evocatiob": [
+    "Wizard: School of Evocation"
+  ],
+  "archyfay": [
+    "Warlock: The Archfey"
+  ],
+  "acients": [
+    "Paladin: Oath of the Ancients"
+  ],
+  "guard": [
+    "Barbarian: Path of the Ancestral Guardian (UA)"
+  ],
+  "Pact": [
+    "Warlock: The Fiend"
+  ],
+  "barbarain": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "wizrd": [
+    "Wizard: War Magic"
+  ],
+  "Vengance": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "thuef": [
+    "Rogue: Thief"
+  ],
+  "sama": [
+    "Fighter: Samurai"
+  ],
+  "Stalkers": [
+    "Ranger: Gloom Stalker"
+  ],
+  "sharpshoo": [
+    "Fighter: Sharpshooter (UA)"
+  ],
+  "giangt": [
+    "Sorcerer: Giant Soul (UA)"
+  ],
+  "dragonblood": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "flight": [
+    "Fighter: Champion"
+  ],
+  "alche": [
+    "Artificer: Alchemist"
+  ],
+  "eldritcg": [
+    "Fighter: Eldritch Knight"
+  ],
+  "hunget": [
+    "Ranger: Hunter"
+  ],
+  "Necro": [
+    "Wizard: School of Necromancy"
+  ],
+  "engineer": [
+    "Ranger: Horizon Walker"
+  ],
+  "ancientd": [
+    "Paladin: Oath of the Ancients"
+  ],
+  "Fighter: Samurai": [
+    "Fighter: Samurai"
+  ],
+  "as": [
+    "Wizard: Lore Mastery (UA)"
+  ],
+  "one": [
+    "Warlock: The Great Old One"
+  ],
+  "thrif": [
+    "Rogue: Thief"
+  ],
+  "Ab": [
+    "Wizard: School of Abjuration"
+  ],
+  "chronomant": [
+    "Cleric: Arcana Domain"
+  ],
+  "solid": [
+    "Cleric: Solidarity Domain (PSA)"
+  ],
+  "paladick": [
+    "Paladin: Oath of the Ancients"
+  ],
+  "oathbree": [
+    "Paladin: Oathbreaker"
+  ],
+  "kenksei": [
+    "Monk: Way of the Kensei"
+  ],
+  "conjurg": [
+    "Wizard: School of Conjuration"
+  ],
+  "warlocl": [
+    "Warlock: Lolth (Twitter)"
+  ],
+  "swor": [
+    "Bard: College of Swords"
+  ],
+  "Blood": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "alchemis": [
+    "Artificer: Alchemist"
+  ],
+  "channel": [
+    "Cleric: Light Domain"
+  ],
+  "evocatio": [
+    "Wizard: School of Evocation"
+  ],
+  "swashbucjler": [
+    "Rogue: Swashbuckler"
+  ],
+  "hexblda": [
+    "Warlock: The Hexblade"
+  ],
+  "masterind": [
+    "Rogue: Mastermind"
+  ],
+  "swashbuclker": [
+    "Rogue: Swashbuckler"
+  ],
+  "shadwos": [
+    "Monk: Way of Shadow"
+  ],
+  "theurgist": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "seeke": [
+    "Warlock: The Seeker (UA)"
+  ],
+  "alch": [
+    "Artificer: Alchemist"
+  ],
+  "ilusion": [
+    "Wizard: School of Illusion"
+  ],
+  "Shepards": [
+    "Druid: Circle of the Shepherd"
+  ],
+  "envocation": [
+    "Wizard: School of Evocation"
+  ],
+  "Drgon": [
+    "Cleric: Light Domain"
+  ],
+  "Dragon": [
+    "Fighter: Purple Dragon Knight (Banneret)"
+  ],
+  "ze": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "Trick": [
+    "Cleric: Trickery Domain"
+  ],
+  "blafesinger": [
+    "Wizard: Bladesinging"
+  ],
+  "Sorcerous": [
+    "Sorcerer: Storm Sorcery"
+  ],
+  "horizan": [
+    "Ranger: Horizon Walker (UA)"
+  ],
+  "eldritchknight": [
+    "Fighter: Eldritch Knight"
+  ],
+  "bladsinging": [
+    "Wizard: Bladesinging"
+  ],
+  "kenasi": [
+    "Monk: Way of the Kensei"
+  ],
+  "conjuring": [
+    "Wizard: School of Conjuration"
+  ],
+  "Immortal": [
+    "Mystic: Order of the Immortal"
+  ],
+  "cavali": [
+    "Fighter: Cavalier"
+  ],
+  "cavalir": [
+    "Fighter: Cavalier"
+  ],
+  "wixard": [
+    "Wizard: War Magic (UA)"
+  ],
+  "theuegy": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "soulknife": [
+    "Mystic: Order of the Soul Knife"
+  ],
+  "oathbraker": [
+    "Paladin: Oathbreaker"
+  ],
+  "<Primeval>": [
+    "Ranger (Revised): Primeval Guardian (UA)"
+  ],
+  "devotin": [
+    "Paladin: Oath of Devotion"
+  ],
+  "rickster": [
+    "Rogue: Arcane Trickster"
+  ],
+  "folk": [
+    "Ranger: Gloom Stalker"
+  ],
+  "Arcan": [
+    "Fighter: Arcane Archer"
+  ],
+  "red": [
+    "Paladin: Oath of Redemption (UA)"
+  ],
+  "f": [
+    "Rogue: Thief"
+  ],
+  "aclh": [
+    "Artificer: Alchemist"
+  ],
+  "primitive": [
+    "Rogue: Inquisitive (UA)"
+  ],
+  "fiens": [
+    "Warlock: The Fiend"
+  ],
+  "vengeanece": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "swachbucklar": [
+    "Rogue: Swashbuckler"
+  ],
+  "Scoundrel": [
+    "Rogue: Scout"
+  ],
+  "Sword": [
+    "Bard: College of Swords"
+  ],
+  "vegeance": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "Grace": [
+    "Fighter: Arcane Archer"
+  ],
+  "evocatin": [
+    "Wizard: School of Evocation"
+  ],
+  "invocation": [
+    "Wizard: School of Evocation"
+  ],
+  "solidar": [
+    "Cleric: Solidarity Domain (PSA)"
+  ],
+  "gloomer": [
+    "Ranger: Gloom Stalker"
+  ],
+  "roguw": [
+    "Rogue: Thief"
+  ],
+  "prot": [
+    "Cleric: Protection Domain (UA)"
+  ],
+  "bartender": [
+    "Bard: College of Lore"
+  ],
+  "assa": [
+    "Rogue: Assassin"
+  ],
+  "adjuration": [
+    "Wizard: School of Abjuration"
+  ],
+  "ilusionist": [
+    "Wizard: School of Illusion"
+  ],
+  "water": [
+    "Rogue: Mastermind"
+  ],
+  "radiant": [
+    "Cleric: War Domain"
+  ],
+  "3": [
+    "Sorcerer: Favored Soul v3 (UA)"
+  ],
+  "Venveance": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "desert": [
+    "Wizard: Lore Mastery (UA)"
+  ],
+  "conjure": [
+    "Wizard: School of Conjuration"
+  ],
+  "Circle of the Moon": [
+    "Druid: Circle of the Moon"
+  ],
+  "vengena": [
+    "Paladin: Oath of Vengeance"
+  ],
+  "peepee": [
+    "Cleric: Tempest Domain"
+  ],
+  "furry": [
+    "Fighter: Samurai"
+  ],
+  "Chi": [
+    "Warlock: Ghost in the Machine (UA)"
+  ],
+  "eat": [
+    "Rogue: Mastermind"
+  ],
+  "sped": [
+    "Rogue: Mastermind"
+  ],
+  "Tip": [
+    "Rogue: Thief"
+  ],
+  "primevil": [
+    "Ranger: Primeval Guardian (UA)"
+  ],
+  "bladsinger": [
+    "Wizard: Bladesinging"
+  ],
+  "enchanchment": [
+    "Wizard: School of Enchantment"
+  ],
+  "oopen": [
+    "Monk: Way of the Open Hand"
+  ],
+  "bladedinger": [
+    "Wizard: Bladesinging"
+  ],
+  "mit": [
+    "Artificer: Gunsmith"
+  ],
+  "Archer": [
+    "Fighter: Arcane Archer"
+  ],
+  "Kenzie": [
+    "Rogue: Thief"
+  ],
+  "investiagor": [
+    "Rogue: Inquisitive (UA)"
+  ],
+  "inqusition": [
+    "Rogue: Inquisitive"
+  ],
+  "disease": [
+    "Druid: Circle of Spores"
+  ],
+  "bloodhunter": [
+    "Ranger: Gloom Stalker"
+  ],
+  "Tranq": [
+    "Monk: Way of Tranquility (UA)"
+  ],
+  "shepheed": [
+    "Druid: Circle of the Shepherd"
+  ],
+  "WILD": [
+    "Sorcerer: Wild Magic"
+  ],
+  "monk:way": [
+    "Monk: Way of the Sun Soul"
+  ],
+  "wild magic": [
+    "Sorcerer: Wild Magic"
+  ],
+  "Paladins:": [
+    "Paladin: Oathbreaker"
+  ],
+  "cavialier": [
+    "Fighter: Cavalier"
+  ],
+  "thie": [
+    "Rogue: Thief"
+  ],
+  "sowrd": [
+    "Bard: College of Swords"
+  ],
+  "Div": [
+    "Wizard: School of Divination"
+  ],
+  "secrets": [
+    "Sorcerer: Shadow (UA)"
+  ],
+  "mariner": [
+    "Artificer: Gunsmith"
+  ],
+  "beserk": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "rougue": [
+    "Rogue: Scout"
+  ],
+  "assasi": [
+    "Rogue: Assassin"
+  ],
+  "shap": [
+    "Fighter: Sharpshooter (UA)"
+  ],
+  "tot": [
+    "Barbarian: Path of the Totem Warrior"
+  ],
+  "samauri": [
+    "Fighter: Samurai"
+  ],
+  "horizon'": [
+    "Ranger: Horizon Walker"
+  ],
+  "raner": [
+    "Ranger: Hunter"
+  ],
+  "necromancwe": [
+    "Wizard: School of Necromancy"
+  ],
+  "twulight": [
+    "Druid: Circle of Twilight (UA)"
+  ],
+  "cavier": [
+    "Fighter: Cavalier"
+  ],
+  "k": [
+    "Warlock: The Fiend"
+  ],
+  "Favored": [
+    "Sorcerer: Favored Soul (UA)"
+  ],
+  "cuckold": [
+    "Druid: Circle of the Land"
+  ],
+  "cat": [
+    "Wizard: School of Evocation"
+  ],
+  "king": [
+    "Warlock: The Undying Light (UA)"
+  ],
+  "jojo": [
+    "Cleric: Forge Domain"
+  ],
+  "drow": [
+    "Paladin: Oath of the Crown"
+  ],
+  "Drunk": [
+    "Monk: Way of the Drunken Master"
+  ],
+  "sorceer": [
+    "Sorcerer: Wild Magic"
+  ],
+  "barbar": [
+    "Barbarian: Path of the Storm Herald"
+  ],
+  "baldesong": [
+    "Wizard: Bladesinging"
+  ],
+  "g": [
+    "Rogue: Thief"
+  ],
+  "il": [
+    "Wizard: School of Illusion"
+  ],
+  "drunkard": [
+    "Monk: Way of the Drunken Master"
+  ],
+  "swashbu": [
+    "Rogue: Swashbuckler"
+  ],
+  "gravy": [
+    "Cleric: Grave Domain"
+  ],
+  "arm": [
+    "Artificer: Gunsmith"
+  ],
+  "b\u00e1rbarian": [
+    "Barbarian: Path of the Zealot"
+  ],
+  "EldritchKnight": [
+    "Fighter: Eldritch Knight"
+  ],
+  "seven": [
+    "Sorcerer: Giant Soul (UA)"
+  ],
+  "transmute": [
+    "Ranger: Gloom Stalker"
+  ],
+  "insightful": [
+    "Fighter: Knight (UA)"
+  ],
+  "I": [
+    "Fighter: Samurai"
+  ],
+  "warr": [
+    "Barbarian: Path of the Totem Warrior"
+  ],
+  "horiz": [
+    "Ranger: Horizon Walker"
+  ],
+  "beautt": [
+    "Cleric: Beauty Domain (Twitter)"
+  ],
+  "assassin.": [
+    "Rogue: Assassin"
+  ],
+  "shadowmonk": [
+    "Monk: Way of Shadow"
+  ],
+  "inquisitiv": [
+    "Rogue: Inquisitive"
+  ],
+  "tempesr": [
+    "Cleric: Tempest Domain"
+  ],
+  "fighting": [
+    "Fighter: Champion"
+  ],
+  "GloomS": [
+    "Ranger: Gloom Stalker"
+  ],
+  "kensej": [
+    "Monk: Way of the Kensei"
+  ],
+  "assaaain": [
+    "Rogue: Assassin"
+  ],
+  "astral": [
+    "Warlock: The Celestial"
+  ],
+  "trecheary": [
+    "Paladin: Oath of Treachery (UA)"
+  ],
+  "Loremaster": [
+    "Wizard: Lore Mastery (UA)"
+  ],
+  "berz": [
+    "Paladin: Oathbreaker"
+  ],
+  "Shephard": [
+    "Druid: Circle of the Shepherd"
+  ],
+  "Thuergy": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "ambiton": [
+    "Cleric: Ambition Domain (PSA)"
+  ],
+  "draconicbloodline": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "<Brute>": [
+    "Fighter: Brute (UA)"
+  ],
+  "Ambition": [
+    "Cleric: Ambition Domain (PSA)"
+  ],
+  "ance": [
+    "Barbarian: Path of the Ancestral Guardian"
+  ],
+  "pyromancer]": [
+    "Sorcerer: Pyromancer (PSK)"
+  ],
+  "p": [
+    "Monk: Way of the Open Hand"
+  ],
+  "gamer": [
+    "Fighter: Cavalier"
+  ],
+  "mosnter": [
+    "Fighter: Monster Hunter (UA)"
+  ],
+  "giantsoul": [
+    "Sorcerer: Giant Soul (UA)"
+  ],
+  "sorx": [
+    "Sorcerer: Phoenix Sorcery (UA)"
+  ],
+  "sherherd": [
+    "Sorcerer: Shadow (UA)"
+  ],
+  "avat": [
+    "Mystic: Order of the Avatar"
+  ],
+  "eleme": [
+    "Monk: Way of the Four Elements"
+  ],
+  "illunsionist": [
+    "Wizard: School of Illusion"
+  ],
+  "college_of_the_sword": [
+    "Bard: College of Swords"
+  ],
+  "thaumaturgist": [
+    "Fighter: Samurai"
+  ],
+  "thaumaturgy": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "soliditary": [
+    "Cleric: Solidarity Domain (PSA)"
+  ],
+  "phenoix": [
+    "Sorcerer: Phoenix Sorcery (UA)"
+  ],
+  "sha": [
+    "Fighter: Sharpshooter (UA)"
+  ],
+  "trickeryh": [
+    "Cleric: Trickery Domain"
+  ],
+  "undy": [
+    "Warlock: The Undying"
+  ],
+  "avata": [
+    "Mystic: Order of the Avatar"
+  ],
+  "arcane_trickster": [
+    "Rogue: Arcane Trickster"
+  ],
+  "fencer": [
+    "Fighter: Cavalier"
+  ],
+  "knife": [
+    "Mystic: Order of the Soul Knife"
+  ],
+  "swasbuckler": [
+    "Rogue: Swashbuckler"
+  ],
+  "myst": [
+    "Mystic: Order of the Immortal"
+  ],
+  "battlemasters": [
+    "Fighter: Battle Master"
+  ],
+  "Berserk": [
+    "Barbarian: Path of the Berserker"
+  ],
+  "brte": [
+    "Fighter: Brute (UA)"
+  ],
+  "divinw": [
+    "Sorcerer: Divine Soul"
+  ],
+  "glamou": [
+    "Bard: College of Glamour"
+  ],
+  "berzer": [
+    "Paladin: Oathbreaker"
+  ],
+  "Champ": [
+    "Fighter: Champion"
+  ],
+  "Banner": [
+    "Fighter: Purple Dragon Knight (Banneret)"
+  ],
+  "ab": [
+    "Wizard: School of Abjuration"
+  ],
+  "Dragonborn": [
+    "Sorcerer: Draconic Bloodline"
+  ],
+  "scoit": [
+    "Rogue: Scout"
+  ],
+  "clerics": [
+    "Cleric: Tempest Domain"
+  ],
+  "kenseo": [
+    "Monk: Way of the Kensei"
+  ],
+  "Revised": [
+    "Ranger (Revised): Beast Conclave"
+  ],
+  "rangee": [
+    "Ranger: Gloom Stalker"
+  ],
+  "wompwomp": [
+    "Cleric: Knowledge Domain"
+  ],
+  "conjurstion": [
+    "Wizard: School of Conjuration"
+  ],
+  "Spor": [
+    "Druid: Circle of Spores"
+  ],
+  "Gunsmith": [
+    "Artificer: Gunsmith"
+  ],
+  "warloxk": [
+    "Warlock: The Fiend"
+  ],
+  "artill": [
+    "Artificer: Gunsmith"
+  ],
+  "alchemistt": [
+    "Artificer: Gunsmith"
+  ],
+  "sorceree": [
+    "Sorcerer: Shadow (UA)"
+  ],
+  "lycan": [
+    "Cleric: Forge Domain"
+  ],
+  "Bullywog": [
+    "Bard: College of Swords"
+  ],
+  "artillerist": [
+    "Artificer: Gunsmith"
+  ],
+  "battleragert": [
+    "Barbarian: Path of the Battlerager"
+  ],
+  "blessing": [
+    "Wizard: Bladesinging"
+  ],
+  "wizardf": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "twil": [
+    "Druid: Circle of Twilight (UA)"
+  ],
+  "und": [
+    "Warlock: The Undying"
+  ],
+  "theology": [
+    "Wizard: Theurgy (UA)"
+  ],
+  "twlight": [
+    "Druid: Circle of Twilight (UA)"
+  ],
+  "devoiton": [
+    "Paladin: Oath of Devotion"
+  ],
+  "twitt": [
+    "Cleric: Beauty Domain (Twitter)"
+  ],
+  "swashbucler": [
+    "Rogue: Swashbuckler"
+  ],
+  "Invention": [
+    "Wizard: School of Invention (UA)"
+  ],
+  "Frage": [
+    "Ranger: Hunter"
+  ],
+  "soli": [
+    "Cleric: Solidarity Domain (PSA)"
+  ],
+  "eal": [
+    "Cleric: Zeal Domain (PSA)"
+  ],
+  "bea": [
+    "Cleric: Beauty Domain (Twitter)"
+  ]
+}

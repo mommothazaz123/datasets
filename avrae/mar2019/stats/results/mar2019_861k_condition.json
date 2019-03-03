@@ -1,0 +1,17 @@
+{
+  "Restrained": 2361,
+  "Frightened": 1545,
+  "Grappled": 1534,
+  "Paralyzed": 1468,
+  "Stunned": 1462,
+  "Prone": 1431,
+  "Incapacitated": 1225,
+  "Poisoned": 1001,
+  "Blinded": 930,
+  "Charmed": 704,
+  "Unconscious": 552,
+  "Invisible": 275,
+  "Exhausted": 239,
+  "Petrified": 211,
+  "Deafened": 169
+}

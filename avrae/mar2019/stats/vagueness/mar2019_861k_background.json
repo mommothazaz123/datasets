@@ -1,0 +1,3911 @@
+{
+  "a": [
+    "Mercenary Veteran",
+    "Sage",
+    "Initiate",
+    "Archaeologist",
+    "Harborfolk",
+    "Dimir Operative",
+    "Outlander",
+    "Guild Artisan",
+    "Charlatan",
+    "Haunted One",
+    "Cormanthor Refugee",
+    "Variant Guild Artisan (Guild Merchant)",
+    "Dragon Casualty",
+    "Variant Noble (Knight)",
+    "Caravan Specialist",
+    "Acolyte",
+    "Orzhov Representative",
+    "Variant Entertainer (Gladiator)",
+    "Boros Legionnaire",
+    "Variant City Watch (Investigator)",
+    "Gruul Anarch",
+    "Shade Fanatic",
+    "Sailor",
+    "Variant Sailor (Pirate)",
+    "City Watch",
+    "Cloistered Scholar",
+    "Black Fist Double Agent",
+    "Gate Urchin",
+    "Waterdhavian Noble",
+    "House Agent",
+    "Selesnya Initiate",
+    "Variant Criminal (Spy)",
+    "Earthspur Miner",
+    "Azorius Functionary",
+    "Urban Bounty Hunter",
+    "Uthgardt Tribe Member",
+    "Trade Sheriff",
+    "Hillsfar Smuggler",
+    "Ticklebelly Nomad",
+    "Anthropologist",
+    "Far Traveler",
+    "Hillsfar Merchant",
+    "Mulmaster Aristocrat",
+    "Phlan Refugee",
+    "Entertainer"
+  ],
+  "e": [
+    "Sage",
+    "Initiate",
+    "Archaeologist",
+    "Dimir Operative",
+    "Courtier",
+    "Haunted One",
+    "Variant Noble (Knight)",
+    "Folk Hero",
+    "Secret Identity",
+    "Variant Entertainer (Gladiator)",
+    "Shade Fanatic",
+    "Knight of the Order",
+    "Black Fist Double Agent",
+    "Faction Agent",
+    "Dissenter",
+    "Vizier",
+    "Selesnya Initiate",
+    "Simic Scientist",
+    "Earthspur Miner",
+    "Ticklebelly Nomad",
+    "Clan Crafter",
+    "Hillsfar Merchant",
+    "Far Traveler"
+  ],
+  "i": [
+    "Variant Criminal (Spy)",
+    "Initiate",
+    "Inheritor",
+    "Hermit",
+    "Courtier",
+    "City Watch",
+    "Waterdhavian Noble",
+    "Variant Entertainer (Gladiator)",
+    "Iron Route Bandit",
+    "Vizier",
+    "Inquisitor"
+  ],
+  "c": [
+    "Mercenary Veteran",
+    "Simic Scientist",
+    "Criminal",
+    "Azorius Functionary",
+    "Caravan Specialist",
+    "City Watch",
+    "Secret Identity",
+    "Clan Crafter",
+    "Cormanthor Refugee",
+    "Urchin"
+  ],
+  "h": [
+    "Variant Noble (Knight)",
+    "Folk Hero",
+    "Charlatan",
+    "Gate Urchin",
+    "Hermit",
+    "Haunted One"
+  ],
+  "rogue": [
+    "Noble",
+    "Sage",
+    "Outlander",
+    "Courtier",
+    "Folk Hero",
+    "House Agent"
+  ],
+  "g": [
+    "Sage",
+    "Archaeologist",
+    "Guild Artisan",
+    "Phlan Insurgent",
+    "House Agent",
+    "Boros Legionnaire"
+  ],
+  "o": [
+    "Variant Noble (Knight)",
+    "Inheritor",
+    "Archaeologist",
+    "Outlander",
+    "Courtier",
+    "Iron Route Bandit"
+  ],
+  "knight": [
+    "Variant Noble (Knight)",
+    "Initiate",
+    "Inheritor",
+    "Knight of the Order",
+    "Inquisitor"
+  ],
+  "d": [
+    "Trade Sheriff",
+    "Outlander",
+    "Guild Artisan",
+    "Knight of the Order",
+    "Dissenter"
+  ],
+  "help": [
+    "Archaeologist",
+    "Inheritor",
+    "Folk Hero",
+    "Charlatan",
+    "Hermit"
+  ],
+  "warrior": [
+    "Earthspur Miner",
+    "Stojanow Prisoner",
+    "Harborfolk",
+    "Inheritor",
+    "Mulmaster Aristocrat"
+  ],
+  "s": [
+    "Variant City Watch (Investigator)",
+    "Variant Guild Artisan (Guild Merchant)",
+    "Simic Scientist",
+    "Sage",
+    "Dissenter"
+  ],
+  "tiefling": [
+    "Criminal",
+    "Courtier",
+    "Ticklebelly Nomad",
+    "Gate Urchin",
+    "Entertainer"
+  ],
+  "fighter": [
+    "Inheritor",
+    "Hermit",
+    "Folk Hero",
+    "Knight of the Order",
+    "Dissenter"
+  ],
+  "Minotaur": [
+    "Criminal",
+    "Initiate",
+    "Inheritor",
+    "Outlander",
+    "Dissenter"
+  ],
+  "list": [
+    "Dissenter",
+    "Hermit",
+    "Inquisitor",
+    "Caravan Specialist"
+  ],
+  "u": [
+    "Black Fist Double Agent",
+    "Dragon Casualty",
+    "Urban Bounty Hunter",
+    "Urchin"
+  ],
+  "agent": [
+    "House Agent",
+    "Black Fist Double Agent",
+    "Phlan Insurgent",
+    "Faction Agent"
+  ],
+  "thief": [
+    "Courtier",
+    "Trade Sheriff",
+    "Initiate",
+    "Entertainer"
+  ],
+  "military": [
+    "Initiate",
+    "Inheritor",
+    "Sailor",
+    "Inquisitor"
+  ],
+  "assassin": [
+    "Selesnya Initiate",
+    "Dissenter",
+    "Charlatan",
+    "Guild Artisan"
+  ],
+  "alchemist": [
+    "Archaeologist",
+    "Rakdos Cultist",
+    "Anthropologist",
+    "Inheritor"
+  ],
+  "barbarian": [
+    "Guild Artisan",
+    "Charlatan",
+    "Golgari Agent",
+    "Earthspur Miner"
+  ],
+  "gnome": [
+    "Noble",
+    "Haunted One",
+    "Sage",
+    "Acolyte"
+  ],
+  "athletics": [
+    "Archaeologist",
+    "Anthropologist",
+    "Entertainer",
+    "Rakdos Cultist"
+  ],
+  "hill": [
+    "Hillsfar Smuggler",
+    "Charlatan",
+    "Urchin"
+  ],
+  "urchin": [
+    "Criminal",
+    "Soldier",
+    "Urchin"
+  ],
+  "crim": [
+    "Hermit",
+    "Criminal",
+    "Secret Identity"
+  ],
+  "rebel": [
+    "Harborfolk",
+    "Ticklebelly Nomad",
+    "Far Traveler"
+  ],
+  "far": [
+    "Hillsfar Smuggler",
+    "Far Traveler",
+    "Outlander"
+  ],
+  "dungeon": [
+    "Dissenter",
+    "House Agent",
+    "Haunted One"
+  ],
+  "wanderer": [
+    "Trade Sheriff",
+    "Clan Crafter",
+    "Outlander"
+  ],
+  "artisan": [
+    "Guild Artisan",
+    "Criminal",
+    "Urchin"
+  ],
+  "all": [
+    "Harborfolk",
+    "Charlatan",
+    "Acolyte"
+  ],
+  "performer": [
+    "Folk Hero",
+    "Inheritor",
+    "Entertainer"
+  ],
+  "Emissary": [
+    "Dissenter",
+    "Cloistered Scholar",
+    "Criminal"
+  ],
+  "forest": [
+    "Folk Hero",
+    "Courtier",
+    "Faction Agent"
+  ],
+  "ranger": [
+    "Sage",
+    "Far Traveler",
+    "Outlander"
+  ],
+  "A": [
+    "Initiate",
+    "Charlatan",
+    "Entertainer"
+  ],
+  "rouge": [
+    "Courtier",
+    "Cormanthor Refugee",
+    "Sage"
+  ],
+  "swashbuckler": [
+    "Sailor",
+    "Hillsfar Smuggler",
+    "Acolyte"
+  ],
+  "actor": [
+    "Courtier",
+    "Sailor",
+    "Clan Crafter"
+  ],
+  "t": [
+    "Variant City Watch (Investigator)",
+    "Shade Fanatic",
+    "Acolyte"
+  ],
+  "grung": [
+    "Guild Artisan",
+    "Gruul Anarch",
+    "Urchin"
+  ],
+  "bard": [
+    "Charlatan",
+    "Iron Route Bandit",
+    "Outlander"
+  ],
+  "custom": [
+    "House Agent",
+    "Haunted One",
+    "Inquisitor"
+  ],
+  "medicine": [
+    "Dissenter",
+    "Simic Scientist",
+    "Vizier"
+  ],
+  "house": [
+    "Courtier",
+    "House Agent"
+  ],
+  "outlander": [
+    "Noble",
+    "Outlander"
+  ],
+  "haunted one": [
+    "Haunted One",
+    "Noble"
+  ],
+  "entertainer": [
+    "Entertainer",
+    "Soldier"
+  ],
+  "guild artisan": [
+    "Guild Artisan",
+    "Soldier"
+  ],
+  "inheritor": [
+    "Folk Hero",
+    "Inheritor"
+  ],
+  "merchant": [
+    "Variant Guild Artisan (Guild Merchant)",
+    "Hillsfar Merchant"
+  ],
+  "researcher": [
+    "Gruul Anarch",
+    "Sage"
+  ],
+  "hermit": [
+    "Hermit",
+    "Sage"
+  ],
+  "guild": [
+    "Guild Artisan",
+    "Variant Guild Artisan (Guild Merchant)"
+  ],
+  "investigator": [
+    "Variant City Watch (Investigator)",
+    "Investigator"
+  ],
+  "urch": [
+    "Gate Urchin",
+    "Urchin"
+  ],
+  "city watch": [
+    "City Watch",
+    "Soldier"
+  ],
+  "boros": [
+    "Boros Legionnaire",
+    "Anthropologist"
+  ],
+  "folk": [
+    "Folk Hero",
+    "Harborfolk"
+  ],
+  "entertainment": [
+    "Variant Entertainer (Gladiator)",
+    "Entertainer"
+  ],
+  "uwu": [
+    "City Watch",
+    "Azorius Functionary"
+  ],
+  "owo": [
+    "Harborfolk",
+    "Anthropologist"
+  ],
+  "Knight": [
+    "Variant Noble (Knight)",
+    "Knight of the Order"
+  ],
+  "inv": [
+    "Variant City Watch (Investigator)",
+    "Investigator"
+  ],
+  "blacksmith": [
+    "City Watch",
+    "Clan Crafter"
+  ],
+  "purple dragon knight": [
+    "Variant Noble (Knight)",
+    "Urban Bounty Hunter"
+  ],
+  "city": [
+    "Variant City Watch (Investigator)",
+    "City Watch"
+  ],
+  "invest": [
+    "Variant City Watch (Investigator)",
+    "Investigator"
+  ],
+  "watch": [
+    "Variant City Watch (Investigator)",
+    "City Watch"
+  ],
+  "artist": [
+    "Courtier",
+    "Guild Artisan"
+  ],
+  "insurgent": [
+    "Iron Route Bandit",
+    "Phlan Insurgent"
+  ],
+  "enter": [
+    "Variant Entertainer (Gladiator)",
+    "Entertainer"
+  ],
+  "no": [
+    "Noble",
+    "Waterdhavian Noble"
+  ],
+  "Haunted": [
+    "Folk Hero",
+    "Haunted One"
+  ],
+  "iniate": [
+    "Initiate",
+    "Selesnya Initiate"
+  ],
+  "outcast": [
+    "Rakdos Cultist",
+    "Outlander"
+  ],
+  "far lander": [
+    "Folk Hero",
+    "Far Traveler"
+  ],
+  "slave": [
+    "House Agent",
+    "Noble"
+  ],
+  "nob": [
+    "Variant Noble (Knight)",
+    "Noble"
+  ],
+  "cityguard": [
+    "City Watch",
+    "Cloistered Scholar"
+  ],
+  "urc": [
+    "Gate Urchin",
+    "Urchin"
+  ],
+  "arti": [
+    "Guild Artisan",
+    "Variant Guild Artisan (Guild Merchant)"
+  ],
+  "ca": [
+    "Charlatan",
+    "Caravan Specialist"
+  ],
+  "Merchant": [
+    "Variant Guild Artisan (Guild Merchant)",
+    "Hillsfar Merchant"
+  ],
+  "ent": [
+    "House Agent",
+    "Entertainer"
+  ],
+  "citywatch": [
+    "Variant City Watch (Investigator)",
+    "City Watch"
+  ],
+  "dwar": [
+    "Guild Artisan",
+    "Charlatan"
+  ],
+  "shaman": [
+    "Shade Fanatic",
+    "Haunted One"
+  ],
+  "secret identity": [
+    "Criminal",
+    "Secret Identity"
+  ],
+  "courtesan": [
+    "Courtier",
+    "Charlatan"
+  ],
+  "builder": [
+    "Courtier",
+    "Guild Artisan"
+  ],
+  "high elf": [
+    "Sage",
+    "Knight of the Order"
+  ],
+  "courier": [
+    "Courtier",
+    "Vizier"
+  ],
+  "aristocrat": [
+    "Mulmaster Aristocrat",
+    "Sage"
+  ],
+  "theif": [
+    "Gate Urchin",
+    "Entertainer"
+  ],
+  "voice": [
+    "Courtier",
+    "Vizier"
+  ],
+  "selesyna": [
+    "Selesnya Initiate",
+    "Ticklebelly Nomad"
+  ],
+  "elf": [
+    "Noble",
+    "Sage"
+  ],
+  "l": [
+    "Variant Sailor (Pirate)",
+    "Far Traveler"
+  ],
+  "nobel": [
+    "Noble",
+    "Waterdhavian Noble"
+  ],
+  "nobl": [
+    "Variant Noble (Knight)",
+    "Noble"
+  ],
+  "criminal/spy": [
+    "Variant Criminal (Spy)",
+    "Criminal"
+  ],
+  "variant": [
+    "Variant Criminal (Spy)",
+    "Variant Noble (Knight)"
+  ],
+  "outlaw": [
+    "Courtier",
+    "Iron Route Bandit"
+  ],
+  "her": [
+    "Hermit",
+    "Soldier"
+  ],
+  "Far traveler": [
+    "Folk Hero",
+    "Far Traveler"
+  ],
+  "Char": [
+    "Folk Hero",
+    "Charlatan"
+  ],
+  "hillsfar": [
+    "Hillsfar Smuggler",
+    "Hillsfar Merchant"
+  ],
+  "Dragonborn": [
+    "Haunted One",
+    "Dragon Casualty"
+  ],
+  "refugee": [
+    "Cormanthor Refugee",
+    "Phlan Refugee"
+  ],
+  "Dart Bielzybb": [
+    "Variant Criminal (Spy)",
+    "Far Traveler"
+  ],
+  "phlan": [
+    "Phlan Refugee",
+    "Phlan Insurgent"
+  ],
+  "entertai": [
+    "Variant Entertainer (Gladiator)",
+    "Entertainer"
+  ],
+  "heretic": [
+    "Shade Fanatic",
+    "Secret Identity"
+  ],
+  "retainer": [
+    "Courtier",
+    "Entertainer"
+  ],
+  "wonderer": [
+    "Dissenter",
+    "Outlander"
+  ],
+  "scag": [
+    "House Agent",
+    "Archaeologist"
+  ],
+  "paladin": [
+    "Charlatan",
+    "Soldier"
+  ],
+  "dragonborn paladin": [
+    "Variant Entertainer (Gladiator)",
+    "Iron Route Bandit"
+  ],
+  "sp": [
+    "Variant Criminal (Spy)",
+    "Sage"
+  ],
+  "guard": [
+    "Gate Urchin",
+    "Outlander"
+  ],
+  "phl": [
+    "Phlan Refugee",
+    "Phlan Insurgent"
+  ],
+  "medic": [
+    "Criminal",
+    "Soldier"
+  ],
+  "doctor": [
+    "Courtier",
+    "Azorius Functionary"
+  ],
+  "ur": [
+    "Urchin",
+    "Outlander"
+  ],
+  "Mute": [
+    "Courtier",
+    "Haunted One"
+  ],
+  "<name>": [
+    "Initiate",
+    "Entertainer"
+  ],
+  "dead": [
+    "Dissenter",
+    "Shade Fanatic"
+  ],
+  "magic": [
+    "Sage",
+    "Acolyte"
+  ],
+  "apprentice": [
+    "Initiate",
+    "Shade Fanatic"
+  ],
+  "artificer": [
+    "Courtier",
+    "Clan Crafter"
+  ],
+  "dancer": [
+    "Dissenter",
+    "Clan Crafter"
+  ],
+  "z": [
+    "Azorius Functionary",
+    "Vizier"
+  ],
+  "sailor": [
+    "Sailor"
+  ],
+  "criminal": [
+    "Criminal"
+  ],
+  "sage": [
+    "Sage"
+  ],
+  "Charlatan": [
+    "Charlatan"
+  ],
+  "sold": [
+    "Soldier"
+  ],
+  "clan crafter": [
+    "Clan Crafter"
+  ],
+  "soldier": [
+    "Soldier"
+  ],
+  "haunted": [
+    "Haunted One"
+  ],
+  "noble": [
+    "Noble"
+  ],
+  "Soldier": [
+    "Soldier"
+  ],
+  "bounty": [
+    "Urban Bounty Hunter"
+  ],
+  "pirate": [
+    "Variant Sailor (Pirate)"
+  ],
+  "inqu": [
+    "Inquisitor"
+  ],
+  "hero": [
+    "Folk Hero"
+  ],
+  "char": [
+    "Charlatan"
+  ],
+  "scholar": [
+    "Cloistered Scholar"
+  ],
+  "spy": [
+    "Variant Criminal (Spy)"
+  ],
+  "Sage": [
+    "Sage"
+  ],
+  "court": [
+    "Courtier"
+  ],
+  "acoly": [
+    "Acolyte"
+  ],
+  "acolyte": [
+    "Acolyte"
+  ],
+  "vet": [
+    "Mercenary Veteran"
+  ],
+  "acoylte": [
+    "Acolyte"
+  ],
+  "nobke": [
+    "Noble"
+  ],
+  "pariah": [
+    "Charlatan"
+  ],
+  "dragon casualty": [
+    "Dragon Casualty"
+  ],
+  "peasant": [
+    "Investigator"
+  ],
+  "prisoner": [
+    "Stojanow Prisoner"
+  ],
+  "dragon": [
+    "Dragon Casualty"
+  ],
+  "Entertainer": [
+    "Entertainer"
+  ],
+  "Haunted one": [
+    "Haunted One"
+  ],
+  "folk hero": [
+    "Folk Hero"
+  ],
+  "name": [
+    "Sage"
+  ],
+  "urban": [
+    "Urban Bounty Hunter"
+  ],
+  "far trav": [
+    "Far Traveler"
+  ],
+  "gladiator": [
+    "Variant Entertainer (Gladiator)"
+  ],
+  "far traveler": [
+    "Far Traveler"
+  ],
+  "merc": [
+    "Mercenary Veteran"
+  ],
+  "outland": [
+    "Outlander"
+  ],
+  "charlatan": [
+    "Charlatan"
+  ],
+  "homeless": [
+    "Archaeologist"
+  ],
+  "hooligan": [
+    "Charlatan"
+  ],
+  "out": [
+    "Outlander"
+  ],
+  "faction": [
+    "Faction Agent"
+  ],
+  "millitary veteran": [
+    "Mercenary Veteran"
+  ],
+  "mercenary veteran": [
+    "Mercenary Veteran"
+  ],
+  "Hermit": [
+    "Hermit"
+  ],
+  "anthoro": [
+    "Anthropologist"
+  ],
+  "bandit": [
+    "Iron Route Bandit"
+  ],
+  "Outlander": [
+    "Outlander"
+  ],
+  "Sailor": [
+    "Sailor"
+  ],
+  "Folk": [
+    "Folk Hero"
+  ],
+  "ticklebelly nomad": [
+    "Ticklebelly Nomad"
+  ],
+  "Far Traveler": [
+    "Far Traveler"
+  ],
+  "hermir": [
+    "Hermit"
+  ],
+  "knight of": [
+    "Knight of the Order"
+  ],
+  "veteran": [
+    "Mercenary Veteran"
+  ],
+  "Urban bounty hunter": [
+    "Urban Bounty Hunter"
+  ],
+  "mulmaster aristocrat": [
+    "Mercenary Veteran"
+  ],
+  "variant noble knight": [
+    "Variant Noble (Knight)"
+  ],
+  "archaeologist": [
+    "Archaeologist"
+  ],
+  "urban bount": [
+    "Urban Bounty Hunter"
+  ],
+  "urban bounty": [
+    "Urban Bounty Hunter"
+  ],
+  "crimi": [
+    "Criminal"
+  ],
+  "faction agent": [
+    "Faction Agent"
+  ],
+  "water": [
+    "Waterdhavian Noble"
+  ],
+  "mercenary": [
+    "Mercenary Veteran"
+  ],
+  "Assassin": [
+    "Dissenter"
+  ],
+  "panner": [
+    "Stojanow Prisoner"
+  ],
+  "waterdhavian noble": [
+    "Waterdhavian Noble"
+  ],
+  "cloistered scholar": [
+    "Cloistered Scholar"
+  ],
+  "dissenter": [
+    "Dissenter"
+  ],
+  "one": [
+    "Haunted One"
+  ],
+  "black": [
+    "Black Fist Double Agent"
+  ],
+  "clan": [
+    "Clan Crafter"
+  ],
+  "drifter": [
+    "Courtier"
+  ],
+  "nomad": [
+    "Ticklebelly Nomad"
+  ],
+  "hunter": [
+    "Urban Bounty Hunter"
+  ],
+  "inquisi": [
+    "Inquisitor"
+  ],
+  "waterdh": [
+    "Waterdhavian Noble"
+  ],
+  "Folk Hero": [
+    "Folk Hero"
+  ],
+  "apothecary": [
+    "Cloistered Scholar"
+  ],
+  "Dragon Casualty": [
+    "Dragon Casualty"
+  ],
+  "Iron Bandit": [
+    "Iron Route Bandit"
+  ],
+  "inquisitor": [
+    "Inquisitor"
+  ],
+  "noble (knight)": [
+    "Variant Noble (Knight)"
+  ],
+  "Enforcer": [
+    "Dissenter"
+  ],
+  "executioner": [
+    "Faction Agent"
+  ],
+  "bright": [
+    "Urchin"
+  ],
+  "far traveller": [
+    "Far Traveler"
+  ],
+  "haunt": [
+    "Haunted One"
+  ],
+  "Acolyte": [
+    "Acolyte"
+  ],
+  "Haunted One": [
+    "Haunted One"
+  ],
+  "clan craft": [
+    "Clan Crafter"
+  ],
+  "golgari agent": [
+    "Faction Agent"
+  ],
+  "hermi": [
+    "Hermit"
+  ],
+  "Secret identity": [
+    "Secret Identity"
+  ],
+  "Shade": [
+    "Shade Fanatic"
+  ],
+  "Bounty hunter": [
+    "Urban Bounty Hunter"
+  ],
+  "inveritor": [
+    "Inheritor"
+  ],
+  "interitor": [
+    "Inquisitor"
+  ],
+  "gdkihclp": [
+    "Shade Fanatic"
+  ],
+  "dycfj": [
+    "Trade Sheriff"
+  ],
+  "Miner": [
+    "Earthspur Miner"
+  ],
+  "shade": [
+    "Shade Fanatic"
+  ],
+  "inheretor": [
+    "Inheritor"
+  ],
+  "mfxvyy": [
+    "Hermit"
+  ],
+  "dovahkiin": [
+    "Vizier"
+  ],
+  "courtier": [
+    "Courtier"
+  ],
+  "aco": [
+    "Acolyte"
+  ],
+  "Courtier": [
+    "Courtier"
+  ],
+  "Urban Bounty Hunter": [
+    "Urban Bounty Hunter"
+  ],
+  "entertain": [
+    "Entertainer"
+  ],
+  "tribe": [
+    "Uthgardt Tribe Member"
+  ],
+  "cloistered": [
+    "Cloistered Scholar"
+  ],
+  "schol": [
+    "Cloistered Scholar"
+  ],
+  "gui": [
+    "Guild Artisan"
+  ],
+  "azor": [
+    "Azorius Functionary"
+  ],
+  "dimir": [
+    "Dimir Operative"
+  ],
+  "house agent": [
+    "House Agent"
+  ],
+  "azo": [
+    "Azorius Functionary"
+  ],
+  "azorious": [
+    "Azorius Functionary"
+  ],
+  "<criminal>": [
+    "Criminal"
+  ],
+  "waterdhavian": [
+    "Waterdhavian Noble"
+  ],
+  "anthropologist": [
+    "Anthropologist"
+  ],
+  "Loner": [
+    "Outlander"
+  ],
+  "Mercenary Veter": [
+    "Mercenary Veteran"
+  ],
+  "hunted one": [
+    "Haunted One"
+  ],
+  "arche": [
+    "Archaeologist"
+  ],
+  "gate": [
+    "Gate Urchin"
+  ],
+  "Boris": [
+    "Stojanow Prisoner"
+  ],
+  "gol": [
+    "Golgari Agent"
+  ],
+  "gruul": [
+    "Gruul Anarch"
+  ],
+  "Izz": [
+    "Izzet Engineer"
+  ],
+  "Orz": [
+    "Orzhov Representative"
+  ],
+  "rakdos": [
+    "Rakdos Cultist"
+  ],
+  "seles": [
+    "Selesnya Initiate"
+  ],
+  "simic": [
+    "Simic Scientist"
+  ],
+  "Uth": [
+    "Uthgardt Tribe Member"
+  ],
+  "waterha": [
+    "Waterdhavian Noble"
+  ],
+  "Spy": [
+    "Variant Criminal (Spy)"
+  ],
+  "Sim": [
+    "Simic Scientist"
+  ],
+  "cloiste": [
+    "Cloistered Scholar"
+  ],
+  "selesnya": [
+    "Selesnya Initiate"
+  ],
+  "haunted_one": [
+    "Haunted One"
+  ],
+  "guild_artisan": [
+    "Charlatan"
+  ],
+  "Inheritor": [
+    "Inheritor"
+  ],
+  "Hillsfar Merchant": [
+    "Hillsfar Merchant"
+  ],
+  "Clan Crafter": [
+    "Clan Crafter"
+  ],
+  "Urchin": [
+    "Urchin"
+  ],
+  "Selesn": [
+    "Selesnya Initiate"
+  ],
+  "guild merchant": [
+    "Variant Guild Artisan (Guild Merchant)"
+  ],
+  "urb": [
+    "Urban Bounty Hunter"
+  ],
+  "knights": [
+    "Knight of the Order"
+  ],
+  "inhertior": [
+    "Inheritor"
+  ],
+  "!Hillsfar Bandit": [
+    "Hillsfar Smuggler"
+  ],
+  "accolyte": [
+    "Acolyte"
+  ],
+  "bount": [
+    "Urban Bounty Hunter"
+  ],
+  "Urban": [
+    "Urban Bounty Hunter"
+  ],
+  "crimina": [
+    "Criminal"
+  ],
+  "folkhero": [
+    "Folk Hero"
+  ],
+  "initiate": [
+    "Initiate"
+  ],
+  "stojnow Prisoner": [
+    "Stojanow Prisoner"
+  ],
+  "azorius": [
+    "Azorius Functionary"
+  ],
+  "golgari": [
+    "Golgari Agent"
+  ],
+  "Gladiator": [
+    "Variant Entertainer (Gladiator)"
+  ],
+  "iron": [
+    "Iron Route Bandit"
+  ],
+  "phla": [
+    "Phlan Insurgent"
+  ],
+  "caravan": [
+    "Caravan Specialist"
+  ],
+  "iron route": [
+    "Iron Route Bandit"
+  ],
+  "knoght": [
+    "Knight of the Order"
+  ],
+  "mountain": [
+    "Courtier"
+  ],
+  "archeologist": [
+    "Archaeologist"
+  ],
+  "cult": [
+    "Rakdos Cultist"
+  ],
+  "r\u00fcr\u00fc": [
+    "Clan Crafter"
+  ],
+  "K\u00fc\u00e7\u00fckken m\u00fczik \u00e7alarken sava\u015f\u00e7\u0131lar taraf\u0131ndan sald\u0131r\u0131ya u\u011fruyoruz ordan sonra bir sava\u015f\u00e7\u0131 beni bay\u0131tl\u0131yor ben de b\u00fcy\u00fcy\u00fcp gidip g\u00fc\u00e7lenip kesiyorum onu": [
+    "Variant City Watch (Investigator)"
+  ],
+  "bandit!": [
+    "Iron Route Bandit"
+  ],
+  "dab": [
+    "Waterdhavian Noble"
+  ],
+  "urchi": [
+    "Urchin"
+  ],
+  "noble variant knight": [
+    "Variant Noble (Knight)"
+  ],
+  "navigat": [
+    "Caravan Specialist"
+  ],
+  "solider": [
+    "Soldier"
+  ],
+  "artisan merchant": [
+    "Variant Guild Artisan (Guild Merchant)"
+  ],
+  "cultist": [
+    "Rakdos Cultist"
+  ],
+  "Questine": [
+    "Inquisitor"
+  ],
+  "sag": [
+    "Sage"
+  ],
+  "izzet": [
+    "Izzet Engineer"
+  ],
+  "orzhov": [
+    "Orzhov Representative"
+  ],
+  "herbalism": [
+    "Inheritor"
+  ],
+  "guild ar": [
+    "Guild Artisan"
+  ],
+  "urban bounty hunter": [
+    "Urban Bounty Hunter"
+  ],
+  "simic scientist": [
+    "Simic Scientist"
+  ],
+  "Boros Legionnaire": [
+    "Boros Legionnaire"
+  ],
+  "izzet engineer": [
+    "Izzet Engineer"
+  ],
+  "boros legionnaire": [
+    "Boros Legionnaire"
+  ],
+  "fol": [
+    "Folk Hero"
+  ],
+  "harborfo": [
+    "Harborfolk"
+  ],
+  "herm": [
+    "Hermit"
+  ],
+  "City Urchin": [
+    "Urchin"
+  ],
+  "knight of the order": [
+    "Knight of the Order"
+  ],
+  "uthgare": [
+    "Uthgardt Tribe Member"
+  ],
+  "cri": [
+    "Variant Criminal (Spy)"
+  ],
+  "anth": [
+    "Anthropologist"
+  ],
+  "Soilder": [
+    "Soldier"
+  ],
+  "farmer": [
+    "Far Traveler"
+  ],
+  "Alex": [
+    "Acolyte"
+  ],
+  "city guard": [
+    "City Watch"
+  ],
+  "investigation": [
+    "Inquisitor"
+  ],
+  "<Taquilid>": [
+    "Inquisitor"
+  ],
+  "<Noble>": [
+    "Folk Hero"
+  ],
+  "merceneary": [
+    "Mercenary Veteran"
+  ],
+  "desert": [
+    "Entertainer"
+  ],
+  "secret iden": [
+    "Secret Identity"
+  ],
+  "equipment": [
+    "Secret Identity"
+  ],
+  "charalatan": [
+    "Charlatan"
+  ],
+  "Tiefling": [
+    "Criminal"
+  ],
+  "cloist": [
+    "Cloistered Scholar"
+  ],
+  "Criminal": [
+    "Criminal"
+  ],
+  "golg": [
+    "Golgari Agent"
+  ],
+  "orz": [
+    "Orzhov Representative"
+  ],
+  "Gruul": [
+    "Gruul Anarch"
+  ],
+  "selys": [
+    "Selesnya Initiate"
+  ],
+  "smuggler": [
+    "Hillsfar Smuggler"
+  ],
+  "uthgardt": [
+    "Uthgardt Tribe Member"
+  ],
+  "gate urchin": [
+    "Gate Urchin"
+  ],
+  "inquiz": [
+    "Inquisitor"
+  ],
+  "mercenary vetran": [
+    "Mercenary Veteran"
+  ],
+  "Variant": [
+    "Variant Noble (Knight)"
+  ],
+  "Noble": [
+    "Noble"
+  ],
+  "phlan insurg": [
+    "Phlan Insurgent"
+  ],
+  "leader": [
+    "Trade Sheriff"
+  ],
+  "something": [
+    "Secret Identity"
+  ],
+  "Pirate": [
+    "Variant Sailor (Pirate)"
+  ],
+  "casualty": [
+    "Dragon Casualty"
+  ],
+  "ut": [
+    "Uthgardt Tribe Member"
+  ],
+  "sh": [
+    "Shade Fanatic"
+  ],
+  "outla": [
+    "Outlander"
+  ],
+  "Guild Artisan": [
+    "Guild Artisan"
+  ],
+  "Charlie": [
+    "Charlatan"
+  ],
+  "'Deardrah'": [
+    "Far Traveler"
+  ],
+  "\"outlander\"": [
+    "Outlander"
+  ],
+  "tribe member": [
+    "Uthgardt Tribe Member"
+  ],
+  "golga": [
+    "Golgari Agent"
+  ],
+  "black route bandit": [
+    "Iron Route Bandit"
+  ],
+  "sol": [
+    "Soldier"
+  ],
+  "brawl": [
+    "Sailor"
+  ],
+  "urcin": [
+    "Urchin"
+  ],
+  "far travel": [
+    "Far Traveler"
+  ],
+  "bounty hunter": [
+    "Urban Bounty Hunter"
+  ],
+  "acol": [
+    "Acolyte"
+  ],
+  "hag-raised": [
+    "Archaeologist"
+  ],
+  "glad": [
+    "Variant Entertainer (Gladiator)"
+  ],
+  "inquis": [
+    "Inquisitor"
+  ],
+  "uthg": [
+    "Uthgardt Tribe Member"
+  ],
+  "dentist": [
+    "Simic Scientist"
+  ],
+  "archae": [
+    "Archaeologist"
+  ],
+  "Eternatiner": [
+    "Entertainer"
+  ],
+  "far tr": [
+    "Far Traveler"
+  ],
+  "inberitor": [
+    "Inheritor"
+  ],
+  "scho": [
+    "Cloistered Scholar"
+  ],
+  "uthgardt tribe member": [
+    "Uthgardt Tribe Member"
+  ],
+  "variant city": [
+    "Variant City Watch (Investigator)"
+  ],
+  "uth": [
+    "Uthgardt Tribe Member"
+  ],
+  "nom": [
+    "Ticklebelly Nomad"
+  ],
+  "order": [
+    "Knight of the Order"
+  ],
+  "Mercenary veteran": [
+    "Mercenary Veteran"
+  ],
+  "artesian": [
+    "Guild Artisan"
+  ],
+  "Phlan insur": [
+    "Phlan Insurgent"
+  ],
+  "noble knight": [
+    "Variant Noble (Knight)"
+  ],
+  "exile": [
+    "Vizier"
+  ],
+  "illusion": [
+    "Inquisitor"
+  ],
+  "charl": [
+    "Charlatan"
+  ],
+  "outlan": [
+    "Outlander"
+  ],
+  "Dragon": [
+    "Dragon Casualty"
+  ],
+  "sch": [
+    "Cloistered Scholar"
+  ],
+  "noblr": [
+    "Noble"
+  ],
+  "archaelogist": [
+    "Archaeologist"
+  ],
+  "inves": [
+    "Variant City Watch (Investigator)"
+  ],
+  "feat Hermit discovery": [
+    "Hermit"
+  ],
+  "traveler": [
+    "Far Traveler"
+  ],
+  "loser": [
+    "Cloistered Scholar"
+  ],
+  "LaiR": [
+    "Phlan Insurgent"
+  ],
+  "future": [
+    "Courtier"
+  ],
+  "sex": [
+    "Dissenter"
+  ],
+  "slut": [
+    "Acolyte"
+  ],
+  "entertainer variant": [
+    "Variant Entertainer (Gladiator)"
+  ],
+  "cara": [
+    "Caravan Specialist"
+  ],
+  "feat city": [
+    "City Watch"
+  ],
+  "foreigner": [
+    "Far Traveler"
+  ],
+  "Outlandeer": [
+    "Outlander"
+  ],
+  "Bounty Hunter": [
+    "Urban Bounty Hunter"
+  ],
+  "fartraveler": [
+    "Far Traveler"
+  ],
+  "Golgari Agent": [
+    "Golgari Agent"
+  ],
+  "Uthgardt Tribe Member": [
+    "Uthgardt Tribe Member"
+  ],
+  "urban bounty hunte": [
+    "Urban Bounty Hunter"
+  ],
+  "Investigator": [
+    "Variant City Watch (Investigator)"
+  ],
+  "hauntes one": [
+    "Haunted One"
+  ],
+  "Waterdhavian Noble": [
+    "Waterdhavian Noble"
+  ],
+  "acyol": [
+    "Acolyte"
+  ],
+  "urban bounty bunter": [
+    "Urban Bounty Hunter"
+  ],
+  "engineer": [
+    "Izzet Engineer"
+  ],
+  "scientist": [
+    "Simic Scientist"
+  ],
+  "guild membership": [
+    "Guild Artisan"
+  ],
+  "cloistered schoolar": [
+    "Cloistered Scholar"
+  ],
+  "soldier variant": [
+    "Mulmaster Aristocrat"
+  ],
+  "lol": [
+    "Folk Hero"
+  ],
+  "Izzet Engineer": [
+    "Izzet Engineer"
+  ],
+  "fartrav": [
+    "Far Traveler"
+  ],
+  "monastic tradition": [
+    "Mercenary Veteran"
+  ],
+  "heart of darkness": [
+    "Haunted One"
+  ],
+  "enterta": [
+    "Entertainer"
+  ],
+  "guild art": [
+    "Guild Artisan"
+  ],
+  "Faction": [
+    "Faction Agent"
+  ],
+  "mercenary vet": [
+    "Mercenary Veteran"
+  ],
+  "waterhav": [
+    "Waterdhavian Noble"
+  ],
+  "anthro": [
+    "Anthropologist"
+  ],
+  "Folk folk": [
+    "Folk Hero"
+  ],
+  "E": [
+    "Dissenter"
+  ],
+  "rakdos cultist": [
+    "Rakdos Cultist"
+  ],
+  "Orzhov": [
+    "Orzhov Representative"
+  ],
+  "Waterdhav": [
+    "Waterdhavian Noble"
+  ],
+  "hunted": [
+    "Haunted One"
+  ],
+  "Selesnya": [
+    "Selesnya Initiate"
+  ],
+  "<poor>": [
+    "Courtier"
+  ],
+  "<teada>": [
+    "Haunted One"
+  ],
+  "<spell>": [
+    "Sage"
+  ],
+  "variant entertainer": [
+    "Variant Entertainer (Gladiator)"
+  ],
+  "hunt": [
+    "Urban Bounty Hunter"
+  ],
+  "Izzet": [
+    "Izzet Engineer"
+  ],
+  "Knight of the order": [
+    "Knight of the Order"
+  ],
+  "is urchin": [
+    "Urchin"
+  ],
+  "folk villain": [
+    "Black Fist Double Agent"
+  ],
+  "miner": [
+    "Earthspur Miner"
+  ],
+  "chartalan": [
+    "Charlatan"
+  ],
+  "flan refugee": [
+    "Phlan Refugee"
+  ],
+  "wander": [
+    "Outlander"
+  ],
+  "false identity": [
+    "Secret Identity"
+  ],
+  "haunter one": [
+    "Haunted One"
+  ],
+  "b": [
+    "Uthgardt Tribe Member"
+  ],
+  "f": [
+    "Harborfolk"
+  ],
+  "j": [
+    "Stojanow Prisoner"
+  ],
+  "q": [
+    "Inquisitor"
+  ],
+  "Mastermind": [
+    "Gate Urchin"
+  ],
+  "Investigation": [
+    "Inquisitor"
+  ],
+  "Folk hero": [
+    "Folk Hero"
+  ],
+  "Waterdhavian": [
+    "Waterdhavian Noble"
+  ],
+  "plan": [
+    "Phlan Refugee"
+  ],
+  "abcdefghijklmnopqrstuvwxyz": [
+    "Shade Fanatic"
+  ],
+  "for": [
+    "Folk Hero"
+  ],
+  "guild artisian": [
+    "Guild Artisan"
+  ],
+  "<Earthspur Miner>": [
+    "Earthspur Miner"
+  ],
+  "vizier": [
+    "Vizier"
+  ],
+  "charla": [
+    "Charlatan"
+  ],
+  "double": [
+    "Black Fist Double Agent"
+  ],
+  "secret": [
+    "Secret Identity"
+  ],
+  "feature outlander": [
+    "Outlander"
+  ],
+  "lawyer": [
+    "Clan Crafter"
+  ],
+  "Azorius": [
+    "Azorius Functionary"
+  ],
+  "fallen noble": [
+    "Variant Noble (Knight)"
+  ],
+  "Warlock": [
+    "Anthropologist"
+  ],
+  "travel": [
+    "Far Traveler"
+  ],
+  "craft": [
+    "Clan Crafter"
+  ],
+  "mage": [
+    "Acolyte"
+  ],
+  "Hell": [
+    "Inheritor"
+  ],
+  "acoytle": [
+    "Acolyte"
+  ],
+  "butler": [
+    "Courtier"
+  ],
+  "servent": [
+    "House Agent"
+  ],
+  "divine": [
+    "Vizier"
+  ],
+  "realm": [
+    "Far Traveler"
+  ],
+  "Nomad": [
+    "Ticklebelly Nomad"
+  ],
+  "acylo": [
+    "Acolyte"
+  ],
+  "cloister scholar": [
+    "Cloistered Scholar"
+  ],
+  "seer": [
+    "Dissenter"
+  ],
+  "Ghuul": [
+    "Gruul Anarch"
+  ],
+  "acotlye": [
+    "Acolyte"
+  ],
+  "selseny": [
+    "Selesnya Initiate"
+  ],
+  "Bar Maiden": [
+    "Earthspur Miner"
+  ],
+  "City": [
+    "City Watch"
+  ],
+  "orphan": [
+    "Urchin"
+  ],
+  "Rakdos": [
+    "Rakdos Cultist"
+  ],
+  "Noble <@!103936611577769984>": [
+    "Noble"
+  ],
+  "dun": [
+    "Dissenter"
+  ],
+  "I": [
+    "Gate Urchin"
+  ],
+  "art": [
+    "Guild Artisan"
+  ],
+  "wizard": [
+    "Waterdhavian Noble"
+  ],
+  "orshov": [
+    "Orzhov Representative"
+  ],
+  "knigh": [
+    "Variant Noble (Knight)"
+  ],
+  "urban bountyhunter": [
+    "Urban Bounty Hunter"
+  ],
+  "earthspurn miner": [
+    "Earthspur Miner"
+  ],
+  "earth": [
+    "Earthspur Miner"
+  ],
+  "anthr": [
+    "Anthropologist"
+  ],
+  "sae": [
+    "Sage"
+  ],
+  "tickleberry nomad": [
+    "Ticklebelly Nomad"
+  ],
+  "Anthropologist": [
+    "Anthropologist"
+  ],
+  "busin": [
+    "Inquisitor"
+  ],
+  "variant noble": [
+    "Variant Noble (Knight)"
+  ],
+  "Man": [
+    "Cormanthor Refugee"
+  ],
+  "City Watch": [
+    "City Watch"
+  ],
+  "inheriter": [
+    "Inheritor"
+  ],
+  "(word)": [
+    "Soldier"
+  ],
+  "init": [
+    "Initiate"
+  ],
+  "fr strider": [
+    "Far Traveler"
+  ],
+  "fownd": [
+    "Outlander"
+  ],
+  "arch": [
+    "Archaeologist"
+  ],
+  "caravan specialist": [
+    "Caravan Specialist"
+  ],
+  "duelist": [
+    "Dissenter"
+  ],
+  "hermot": [
+    "Hermit"
+  ],
+  "mulmaster": [
+    "Mulmaster Aristocrat"
+  ],
+  "outl": [
+    "Outlander"
+  ],
+  "cloistered scolar": [
+    "Cloistered Scholar"
+  ],
+  "soldier]": [
+    "Soldier"
+  ],
+  "Huanted": [
+    "Haunted One"
+  ],
+  "Caravan Specialist": [
+    "Caravan Specialist"
+  ],
+  "villager": [
+    "Sage"
+  ],
+  "AZORIUS FUNCTIONARY": [
+    "Azorius Functionary"
+  ],
+  "furry": [
+    "Azorius Functionary"
+  ],
+  "inher": [
+    "Inheritor"
+  ],
+  "Far Traveller": [
+    "Far Traveler"
+  ],
+  "Nobel": [
+    "Noble"
+  ],
+  "inh": [
+    "Inheritor"
+  ],
+  "harlot": [
+    "Archaeologist"
+  ],
+  "en": [
+    "Entertainer"
+  ],
+  "haunted ome": [
+    "Haunted One"
+  ],
+  "Artisan": [
+    "Guild Artisan"
+  ],
+  "gruul anarch": [
+    "Gruul Anarch"
+  ],
+  "knights of the unicorn": [
+    "Knight of the Order"
+  ],
+  "Sc": [
+    "Cloistered Scholar"
+  ],
+  "Azorius Functionary": [
+    "Azorius Functionary"
+  ],
+  "hunated one": [
+    "Haunted One"
+  ],
+  "Deserter": [
+    "Dissenter"
+  ],
+  "Far": [
+    "Far Traveler"
+  ],
+  "waterd": [
+    "Waterdhavian Noble"
+  ],
+  "craf": [
+    "Clan Crafter"
+  ],
+  "street": [
+    "Secret Identity"
+  ],
+  "knght": [
+    "Hermit"
+  ],
+  "cultis": [
+    "Rakdos Cultist"
+  ],
+  "bible": [
+    "Noble"
+  ],
+  "spu": [
+    "Earthspur Miner"
+  ],
+  "anthropology": [
+    "Anthropologist"
+  ],
+  "prestige": [
+    "Courtier"
+  ],
+  "preist": [
+    "Dissenter"
+  ],
+  "outlandeer": [
+    "Outlander"
+  ],
+  "herimt": [
+    "Hermit"
+  ],
+  "penis": [
+    "Simic Scientist"
+  ],
+  "https://dnd5e.fandom.com/wiki/Caravan_Specialist": [
+    "Caravan Specialist"
+  ],
+  "hua": [
+    "Haunted One"
+  ],
+  "military veteran": [
+    "Mercenary Veteran"
+  ],
+  "Azorious": [
+    "Azorius Functionary"
+  ],
+  "perform": [
+    "Folk Hero"
+  ],
+  "ticklebeery": [
+    "Ticklebelly Nomad"
+  ],
+  "novle": [
+    "Noble"
+  ],
+  "courtier faction agent": [
+    "Courtier"
+  ],
+  "caravan spec": [
+    "Caravan Specialist"
+  ],
+  "orzho": [
+    "Orzhov Representative"
+  ],
+  "waterdhaven": [
+    "Waterdhavian Noble"
+  ],
+  "Faction Agent": [
+    "Faction Agent"
+  ],
+  "adventurer": [
+    "Far Traveler"
+  ],
+  "squire": [
+    "Inquisitor"
+  ],
+  "tr": [
+    "Uthgardt Tribe Member"
+  ],
+  "nizz": [
+    "Izzet Engineer"
+  ],
+  "izz": [
+    "Izzet Engineer"
+  ],
+  "merce": [
+    "Mercenary Veteran"
+  ],
+  "archaeologis": [
+    "Archaeologist"
+  ],
+  "charlaran": [
+    "Charlatan"
+  ],
+  "Mercenary Veteran": [
+    "Mercenary Veteran"
+  ],
+  "tickle": [
+    "Ticklebelly Nomad"
+  ],
+  "folk h": [
+    "Folk Hero"
+  ],
+  "far tra": [
+    "Far Traveler"
+  ],
+  "sojourn": [
+    "Sailor"
+  ],
+  "ifheif": [
+    "Folk Hero"
+  ],
+  "oijirhg": [
+    "Vizier"
+  ],
+  "ieheife": [
+    "Inheritor"
+  ],
+  "vartariano": [
+    "Waterdhavian Noble"
+  ],
+  "boros Legionnaire": [
+    "Boros Legionnaire"
+  ],
+  "waterdavian noble": [
+    "Waterdhavian Noble"
+  ],
+  "mastermind": [
+    "Mulmaster Aristocrat"
+  ],
+  "i3hnife": [
+    "Initiate"
+  ],
+  "omeinef": [
+    "Soldier"
+  ],
+  "archeloigist": [
+    "Archaeologist"
+  ],
+  "kight": [
+    "Variant Noble (Knight)"
+  ],
+  "archeloligist": [
+    "Anthropologist"
+  ],
+  "asmodeus": [
+    "Acolyte"
+  ],
+  "Dellea": [
+    "Dissenter"
+  ],
+  "sail": [
+    "Sailor"
+  ],
+  "epic": [
+    "Hermit"
+  ],
+  "dragondisciple": [
+    "Variant Sailor (Pirate)"
+  ],
+  "urabn": [
+    "Urban Bounty Hunter"
+  ],
+  "oijhg": [
+    "Soldier"
+  ],
+  "ot": [
+    "Outlander"
+  ],
+  "Sch": [
+    "Cloistered Scholar"
+  ],
+  "waterh": [
+    "Waterdhavian Noble"
+  ],
+  "Faction agent": [
+    "Faction Agent"
+  ],
+  "Double agent": [
+    "Black Fist Double Agent"
+  ],
+  "silvanus": [
+    "Inquisitor"
+  ],
+  "Solider": [
+    "Soldier"
+  ],
+  "nole": [
+    "Noble"
+  ],
+  "doppleganger": [
+    "Outlander"
+  ],
+  "hooded figure": [
+    "Haunted One"
+  ],
+  "the haunted one": [
+    "Haunted One"
+  ],
+  "dwarven": [
+    "Guild Artisan"
+  ],
+  "cour": [
+    "Courtier"
+  ],
+  "dragon casulty": [
+    "Dragon Casualty"
+  ],
+  "clan craftsman": [
+    "Clan Crafter"
+  ],
+  "charliton": [
+    "Charlatan"
+  ],
+  "Urban bounty Hunter": [
+    "Urban Bounty Hunter"
+  ],
+  "emer": [
+    "Vizier"
+  ],
+  "master": [
+    "Mulmaster Aristocrat"
+  ],
+  "scheme": [
+    "Secret Identity"
+  ],
+  "calim": [
+    "Charlatan"
+  ],
+  "clans craftman": [
+    "Clan Crafter"
+  ],
+  "Vis": [
+    "Vizier"
+  ],
+  "imheritor": [
+    "Inheritor"
+  ],
+  "entertainter": [
+    "Entertainer"
+  ],
+  "cha": [
+    "Charlatan"
+  ],
+  "waterdeep": [
+    "Waterdhavian Noble"
+  ],
+  "sagw": [
+    "Sage"
+  ],
+  "black fist": [
+    "Black Fist Double Agent"
+  ],
+  "cou": [
+    "Courtier"
+  ],
+  "slavr": [
+    "Vizier"
+  ],
+  "calimshan": [
+    "Cloistered Scholar"
+  ],
+  "barbarian tribe member": [
+    "Uthgardt Tribe Member"
+  ],
+  "smug": [
+    "Hillsfar Smuggler"
+  ],
+  "<folk hero>": [
+    "Folk Hero"
+  ],
+  "urbam": [
+    "Urban Bounty Hunter"
+  ],
+  "hillsfar merchant": [
+    "Hillsfar Merchant"
+  ],
+  "apo": [
+    "Anthropologist"
+  ],
+  "elve forest": [
+    "Secret Identity"
+  ],
+  "cloistered scholarr": [
+    "Cloistered Scholar"
+  ],
+  "harbor": [
+    "Harborfolk"
+  ],
+  "courtes": [
+    "Courtier"
+  ],
+  "guild mercha": [
+    "Variant Guild Artisan (Guild Merchant)"
+  ],
+  "ermit": [
+    "Hermit"
+  ],
+  "Inquisitor": [
+    "Inquisitor"
+  ],
+  "Sahe": [
+    "Sage"
+  ],
+  "urchin(edited)": [
+    "Noble"
+  ],
+  "far Traveler": [
+    "Soldier"
+  ],
+  "k": [
+    "Folk Hero"
+  ],
+  "Anthro": [
+    "Sage"
+  ],
+  "Arche": [
+    "Noble"
+  ],
+  "n": [
+    "Noble"
+  ],
+  "check": [
+    "Soldier"
+  ],
+  "Markus Adler": [
+    "Soldier"
+  ],
+  "Galang \u201cThe Wander\u201d Kaluluwa": [
+    "Criminal"
+  ],
+  "ch": [
+    "Folk Hero"
+  ],
+  "per": [
+    "Acolyte"
+  ],
+  "Idrial": [
+    "Sage"
+  ],
+  "Cour": [
+    "Courtier"
+  ],
+  "Uthgardt": [
+    "Uthgardt Tribe Member"
+  ],
+  "apoloite": [
+    "Acolyte"
+  ],
+  "dimir operative": [
+    "Dimir Operative"
+  ],
+  "folk gero": [
+    "Folk Hero"
+  ],
+  "antrho": [
+    "Anthropologist"
+  ],
+  "urban b": [
+    "Urban Bounty Hunter"
+  ],
+  "waterhavdi": [
+    "Waterdhavian Noble"
+  ],
+  "dragon slayer": [
+    "Dragon Casualty"
+  ],
+  "tavern master": [
+    "Trade Sheriff"
+  ],
+  "Wanderer": [
+    "Outlander"
+  ],
+  "CHARLATAN": [
+    "Charlatan"
+  ],
+  "cortier": [
+    "Courtier"
+  ],
+  "artisan guild": [
+    "Guild Artisan"
+  ],
+  "dragon cas": [
+    "Dragon Casualty"
+  ],
+  "farlander": [
+    "Far Traveler"
+  ],
+  "shade fanatic": [
+    "Shade Fanatic"
+  ],
+  "noble (": [
+    "Variant Noble (Knight)"
+  ],
+  "language": [
+    "Sage"
+  ],
+  "archeologists": [
+    "Anthropologist"
+  ],
+  "student": [
+    "Dissenter"
+  ],
+  "artisan's guild": [
+    "Guild Artisan"
+  ],
+  "rakdos cultest": [
+    "Rakdos Cultist"
+  ],
+  "ghruul": [
+    "Gruul Anarch"
+  ],
+  "izzat": [
+    "Izzet Engineer"
+  ],
+  "veteran merc": [
+    "Mercenary Veteran"
+  ],
+  "secret id": [
+    "Secret Identity"
+  ],
+  "dragon casu": [
+    "Dragon Casualty"
+  ],
+  "from": [
+    "Criminal"
+  ],
+  "Boros": [
+    "Boros Legionnaire"
+  ],
+  "5e": [
+    "Sage"
+  ],
+  "hillsfar smuggler": [
+    "Hillsfar Smuggler"
+  ],
+  "noble knight variant": [
+    "Variant Noble (Knight)"
+  ],
+  "courti": [
+    "Courtier"
+  ],
+  "Ticklebelly Nomad": [
+    "Ticklebelly Nomad"
+  ],
+  "revenge": [
+    "Mercenary Veteran"
+  ],
+  "ticklebelly": [
+    "Ticklebelly Nomad"
+  ],
+  "watdervaian noble": [
+    "Waterdhavian Noble"
+  ],
+  "visier": [
+    "Vizier"
+  ],
+  "double agent": [
+    "Black Fist Double Agent"
+  ],
+  "sherrif": [
+    "Trade Sheriff"
+  ],
+  "artistocrat": [
+    "Faction Agent"
+  ],
+  "Vizier": [
+    "Vizier"
+  ],
+  "inquisit": [
+    "Inquisitor"
+  ],
+  "Courtiert": [
+    "Courtier"
+  ],
+  "flad9": [
+    "Folk Hero"
+  ],
+  "Variant Entertainer (Gladiator)": [
+    "Variant Entertainer (Gladiator)"
+  ],
+  "entranteiner": [
+    "Entertainer"
+  ],
+  "edgy": [
+    "Dragon Casualty"
+  ],
+  "Archeologist": [
+    "Archaeologist"
+  ],
+  "pir": [
+    "Variant Sailor (Pirate)"
+  ],
+  "druid": [
+    "Hermit"
+  ],
+  "knightly regard": [
+    "Knight of the Order"
+  ],
+  "traveller": [
+    "Far Traveler"
+  ],
+  "zealot": [
+    "Sailor"
+  ],
+  "officer": [
+    "Soldier"
+  ],
+  "archaeology": [
+    "Archaeologist"
+  ],
+  "Soldeir": [
+    "Soldier"
+  ],
+  "edge": [
+    "Haunted One"
+  ],
+  "<scholar>": [
+    "Cloistered Scholar"
+  ],
+  "<urchin>": [
+    "Urchin"
+  ],
+  "Gog": [
+    "Golgari Agent"
+  ],
+  "Aco": [
+    "Acolyte"
+  ],
+  "fi": [
+    "Black Fist Double Agent"
+  ],
+  "clois": [
+    "Cloistered Scholar"
+  ],
+  "gulg": [
+    "Golgari Agent"
+  ],
+  "grun": [
+    "Gate Urchin"
+  ],
+  "house operative": [
+    "Dimir Operative"
+  ],
+  "archeo": [
+    "Archaeologist"
+  ],
+  "conclave": [
+    "Faction Agent"
+  ],
+  "selesnya conclave": [
+    "Selesnya Initiate"
+  ],
+  "selsnya conclave": [
+    "Selesnya Initiate"
+  ],
+  "azorius functionary": [
+    "Azorius Functionary"
+  ],
+  "selysnya": [
+    "Selesnya Initiate"
+  ],
+  "mercanery": [
+    "Mercenary Veteran"
+  ],
+  "tinkerer": [
+    "Izzet Engineer"
+  ],
+  "azori": [
+    "Azorius Functionary"
+  ],
+  "soldirr": [
+    "Soldier"
+  ],
+  "folk her": [
+    "Folk Hero"
+  ],
+  "myrl": [
+    "Mercenary Veteran"
+  ],
+  "Murakami": [
+    "Hermit"
+  ],
+  "dark one": [
+    "Haunted One"
+  ],
+  "orzhow": [
+    "Orzhov Representative"
+  ],
+  "archeolo": [
+    "Archaeologist"
+  ],
+  "hilsfar smug": [
+    "Hillsfar Smuggler"
+  ],
+  "guilda": [
+    "Guild Artisan"
+  ],
+  "black fist double agent": [
+    "Black Fist Double Agent"
+  ],
+  "safe": [
+    "Sage"
+  ],
+  "far travaller": [
+    "Far Traveler"
+  ],
+  "smugglee": [
+    "Hillsfar Smuggler"
+  ],
+  "Engineer": [
+    "Izzet Engineer"
+  ],
+  "Boros Contacts": [
+    "Boros Legionnaire"
+  ],
+  "Izet": [
+    "Izzet Engineer"
+  ],
+  "charlaitan": [
+    "Charlatan"
+  ],
+  "Boros 2": [
+    "Boros Legionnaire"
+  ],
+  "charlatin": [
+    "Charlatan"
+  ],
+  "archeolog": [
+    "Archaeologist"
+  ],
+  "antrhopologist": [
+    "Anthropologist"
+  ],
+  "inhibitor": [
+    "Inheritor"
+  ],
+  "joe": [
+    "Noble"
+  ],
+  "merch": [
+    "Variant Guild Artisan (Guild Merchant)"
+  ],
+  "far trave": [
+    "Far Traveler"
+  ],
+  "inow": [
+    "Inquisitor"
+  ],
+  "iowo": [
+    "Folk Hero"
+  ],
+  "gla": [
+    "Variant Entertainer (Gladiator)"
+  ],
+  "azoriius": [
+    "Azorius Functionary"
+  ],
+  "of college of valor": [
+    "Ticklebelly Nomad"
+  ],
+  "college of valor": [
+    "Cloistered Scholar"
+  ],
+  "cloister": [
+    "Cloistered Scholar"
+  ],
+  "half-orc": [
+    "Haunted One"
+  ],
+  "Charl": [
+    "Charlatan"
+  ],
+  "gruul anach": [
+    "Gruul Anarch"
+  ],
+  "dragonborn": [
+    "Urban Bounty Hunter"
+  ],
+  "uthgard": [
+    "Uthgardt Tribe Member"
+  ],
+  "Phlan Refugee": [
+    "Phlan Refugee"
+  ],
+  "fire": [
+    "Vizier"
+  ],
+  "simic~": [
+    "Simic Scientist"
+  ],
+  "Guild artisan": [
+    "Guild Artisan"
+  ],
+  "earthspur": [
+    "Earthspur Miner"
+  ],
+  "veteran mercenary": [
+    "Mercenary Veteran"
+  ],
+  "outlande": [
+    "Outlander"
+  ],
+  "inherit": [
+    "Inheritor"
+  ],
+  "Knight of the Order": [
+    "Knight of the Order"
+  ],
+  "Kamila Yaszen": [
+    "Faction Agent"
+  ],
+  "chareton": [
+    "Charlatan"
+  ],
+  "aolyte": [
+    "Acolyte"
+  ],
+  "Condor": [
+    "Cloistered Scholar"
+  ],
+  "mercenary Vetran": [
+    "Mercenary Veteran"
+  ],
+  "m": [
+    "Mercenary Veteran"
+  ],
+  "rak": [
+    "Rakdos Cultist"
+  ],
+  "far travelee": [
+    "Far Traveler"
+  ],
+  "Phlan Insurgent": [
+    "Phlan Insurgent"
+  ],
+  "criminal contact": [
+    "Criminal"
+  ],
+  "boros legionairre": [
+    "Boros Legionnaire"
+  ],
+  "Legion": [
+    "Boros Legionnaire"
+  ],
+  "utgardt": [
+    "Uthgardt Tribe Member"
+  ],
+  "outlamder": [
+    "Outlander"
+  ],
+  "Sai": [
+    "Sailor"
+  ],
+  "stojanow": [
+    "Stojanow Prisoner"
+  ],
+  "cave": [
+    "Mercenary Veteran"
+  ],
+  "inherites": [
+    "Inheritor"
+  ],
+  "bounty hu": [
+    "Urban Bounty Hunter"
+  ],
+  "ggc": [
+    "Gruul Anarch"
+  ],
+  "Hillsfar Smuggler": [
+    "Hillsfar Smuggler"
+  ],
+  "feature mercenary life": [
+    "Mercenary Veteran"
+  ],
+  "Traveler": [
+    "Far Traveler"
+  ],
+  "phoenix": [
+    "House Agent"
+  ],
+  "secret indentity": [
+    "Simic Scientist"
+  ],
+  "mercenery": [
+    "Mercenary Veteran"
+  ],
+  "Grull": [
+    "Gruul Anarch"
+  ],
+  "heri": [
+    "Folk Hero"
+  ],
+  "crime": [
+    "Secret Identity"
+  ],
+  "Hunt": [
+    "Urban Bounty Hunter"
+  ],
+  "carefree": [
+    "Courtier"
+  ],
+  "admin": [
+    "Gate Urchin"
+  ],
+  "inquisitior": [
+    "Inquisitor"
+  ],
+  "mknee": [
+    "Haunted One"
+  ],
+  "viz": [
+    "Vizier"
+  ],
+  "god": [
+    "Sage"
+  ],
+  "scribe": [
+    "Sage"
+  ],
+  "arcane initiate": [
+    "Initiate"
+  ],
+  "clan-crafter": [
+    "Clan Crafter"
+  ],
+  "interior": [
+    "Inheritor"
+  ],
+  "jester": [
+    "Entertainer"
+  ],
+  "Ranger": [
+    "Outlander"
+  ],
+  "acoltye": [
+    "Acolyte"
+  ],
+  "house Agent": [
+    "House Agent"
+  ],
+  "accolade": [
+    "Acolyte"
+  ],
+  "Golgari": [
+    "Golgari Agent"
+  ],
+  "<far traveler>": [
+    "Far Traveler"
+  ],
+  "crimminal": [
+    "Criminal"
+  ],
+  "phlan refugee": [
+    "Phlan Refugee"
+  ],
+  "anthropoligist": [
+    "Anthropologist"
+  ],
+  "hermoty": [
+    "Hermit"
+  ],
+  "trade sheriff": [
+    "Trade Sheriff"
+  ],
+  "soldi": [
+    "Soldier"
+  ],
+  "smuggle": [
+    "Hillsfar Smuggler"
+  ],
+  "anthropologisyt": [
+    "Anthropologist"
+  ],
+  "<rackdos cultist>": [
+    "Rakdos Cultist"
+  ],
+  "<azorious>": [
+    "Azorius Functionary"
+  ],
+  "<simic>": [
+    "Simic Scientist"
+  ],
+  "<boros>": [
+    "Boros Legionnaire"
+  ],
+  "fact": [
+    "Faction Agent"
+  ],
+  "<gruul>": [
+    "Gruul Anarch"
+  ],
+  "soldie": [
+    "Soldier"
+  ],
+  "hauntedone": [
+    "Haunted One"
+  ],
+  "piprate": [
+    "Variant Sailor (Pirate)"
+  ],
+  "guild artisan: shipwright": [
+    "Guild Artisan"
+  ],
+  "dark_lord": [
+    "Archaeologist"
+  ],
+  "dark": [
+    "Guild Artisan"
+  ],
+  "war": [
+    "Outlander"
+  ],
+  "healer": [
+    "Hermit"
+  ],
+  "chief": [
+    "Vizier"
+  ],
+  "Initiate": [
+    "Initiate"
+  ],
+  "raku": [
+    "Rakdos Cultist"
+  ],
+  "archaeo": [
+    "Archaeologist"
+  ],
+  "inherited": [
+    "Inheritor"
+  ],
+  "rakd": [
+    "Rakdos Cultist"
+  ],
+  "urchen": [
+    "Urchin"
+  ],
+  "far travelor": [
+    "Far Traveler"
+  ],
+  "faction agen": [
+    "Faction Agent"
+  ],
+  "uthgart tribe member": [
+    "Uthgardt Tribe Member"
+  ],
+  "Farea": [
+    "Sage"
+  ],
+  "monk 5": [
+    "Outlander"
+  ],
+  "monk 4": [
+    "Dragon Casualty"
+  ],
+  "hillafar": [
+    "Hillsfar Smuggler"
+  ],
+  "feat noble": [
+    "Noble"
+  ],
+  "criminal set": [
+    "Criminal"
+  ],
+  "Aetheria the Crusader": [
+    "Entertainer"
+  ],
+  "far t": [
+    "Far Traveler"
+  ],
+  "Simic": [
+    "Simic Scientist"
+  ],
+  "haundted": [
+    "Haunted One"
+  ],
+  "Urcin": [
+    "Urchin"
+  ],
+  "Haunted Ons": [
+    "Haunted One"
+  ],
+  "street urchin": [
+    "Urchin"
+  ],
+  "Fei-luna": [
+    "Faction Agent"
+  ],
+  "fartravel": [
+    "Far Traveler"
+  ],
+  "boroa": [
+    "Boros Legionnaire"
+  ],
+  "insquisitor": [
+    "Inquisitor"
+  ],
+  "mercenary veteren": [
+    "Mercenary Veteran"
+  ],
+  "firbolg": [
+    "Harborfolk"
+  ],
+  "renegade": [
+    "Haunted One"
+  ],
+  "bountry hunter": [
+    "Urban Bounty Hunter"
+  ],
+  "castle": [
+    "Far Traveler"
+  ],
+  "Wizard's Apprentice": [
+    "Shade Fanatic"
+  ],
+  "izzit engineer": [
+    "Izzet Engineer"
+  ],
+  "Rob": [
+    "Folk Hero"
+  ],
+  "sherif": [
+    "Trade Sheriff"
+  ],
+  "ruin": [
+    "Gate Urchin"
+  ],
+  "warlock": [
+    "Anthropologist"
+  ],
+  "shadow": [
+    "Shade Fanatic"
+  ],
+  "crimnal": [
+    "Criminal"
+  ],
+  "Asmodeus": [
+    "Acolyte"
+  ],
+  "archeaologist": [
+    "Archaeologist"
+  ],
+  "rain": [
+    "Urchin"
+  ],
+  "cormanthor refugee": [
+    "Cormanthor Refugee"
+  ],
+  "ironroute bandit": [
+    "Iron Route Bandit"
+  ],
+  "blackfist": [
+    "Black Fist Double Agent"
+  ],
+  "Stojanow Prisoner": [
+    "Stojanow Prisoner"
+  ],
+  "stojanow prisoner": [
+    "Stojanow Prisoner"
+  ],
+  "alden": [
+    "Soldier"
+  ],
+  "burglar": [
+    "Guild Artisan"
+  ],
+  "haunte": [
+    "Haunted One"
+  ],
+  "guild]": [
+    "Guild Artisan"
+  ],
+  "plane": [
+    "Clan Crafter"
+  ],
+  "mine": [
+    "Earthspur Miner"
+  ],
+  "cleric": [
+    "Clan Crafter"
+  ],
+  "water noble": [
+    "Waterdhavian Noble"
+  ],
+  "ear": [
+    "Earthspur Miner"
+  ],
+  "outlander \ud83d\ude04": [
+    "Outlander"
+  ],
+  "bound": [
+    "Haunted One"
+  ],
+  "trade sh": [
+    "Trade Sheriff"
+  ],
+  "Winter Wolf": [
+    "Haunted One"
+  ],
+  "sel": [
+    "Selesnya Initiate"
+  ],
+  "diplomattatat": [
+    "Charlatan"
+  ],
+  "dragon causualty": [
+    "Dragon Casualty"
+  ],
+  "entertainer (poet)": [
+    "Entertainer"
+  ],
+  "Fart Raveler": [
+    "Faction Agent"
+  ],
+  "feature retainers": [
+    "Earthspur Miner"
+  ],
+  "lmao": [
+    "Mulmaster Aristocrat"
+  ],
+  "prodigy": [
+    "Secret Identity"
+  ],
+  "grr": [
+    "Gruul Anarch"
+  ],
+  "harborfolk": [
+    "Harborfolk"
+  ],
+  "urban mercanary": [
+    "Mercenary Veteran"
+  ],
+  "Cloistered Scholar": [
+    "Cloistered Scholar"
+  ],
+  "inheritor 2": [
+    "Inheritor"
+  ],
+  "soldior": [
+    "Soldier"
+  ],
+  "inquisutor": [
+    "Inquisitor"
+  ],
+  "haunted One": [
+    "Haunted One"
+  ],
+  "haunter": [
+    "Haunted One"
+  ],
+  "charlat": [
+    "Charlatan"
+  ],
+  "Bounty": [
+    "Urban Bounty Hunter"
+  ],
+  "haun": [
+    "Haunted One"
+  ],
+  "far thraveler": [
+    "Far Traveler"
+  ],
+  "feature noble": [
+    "Noble"
+  ],
+  "hermiy": [
+    "Hermit"
+  ],
+  "alcolyte": [
+    "Acolyte"
+  ],
+  "guild member": [
+    "Gruul Anarch"
+  ],
+  "guildless": [
+    "Hillsfar Smuggler"
+  ],
+  "gateless": [
+    "Gate Urchin"
+  ],
+  "ar": [
+    "Mulmaster Aristocrat"
+  ],
+  "guild merch": [
+    "Variant Guild Artisan (Guild Merchant)"
+  ],
+  "charletane": [
+    "Charlatan"
+  ],
+  "ass": [
+    "Dissenter"
+  ],
+  "Trade": [
+    "Trade Sheriff"
+  ],
+  "cloi": [
+    "Cloistered Scholar"
+  ],
+  "mercen": [
+    "Mercenary Veteran"
+  ],
+  "atheism": [
+    "Anthropologist"
+  ],
+  "chriminal": [
+    "Criminal"
+  ],
+  "sels": [
+    "Selesnya Initiate"
+  ],
+  "Selesnya Initiate": [
+    "Selesnya Initiate"
+  ],
+  "Orzhov Representative": [
+    "Orzhov Representative"
+  ],
+  "Dimir Operative": [
+    "Dimir Operative"
+  ],
+  "carvan": [
+    "Caravan Specialist"
+  ],
+  "crimnal spy": [
+    "Variant Criminal (Spy)"
+  ],
+  "far wanderer": [
+    "Far Traveler"
+  ],
+  "inquiss": [
+    "Inquisitor"
+  ],
+  "azorious functionary": [
+    "Azorius Functionary"
+  ],
+  "far travler": [
+    "Far Traveler"
+  ],
+  "weaboo": [
+    "Sailor"
+  ],
+  "act": [
+    "Faction Agent"
+  ],
+  "bar": [
+    "Boros Legionnaire"
+  ],
+  "dimwit": [
+    "Dissenter"
+  ],
+  "craftsman": [
+    "Guild Artisan"
+  ],
+  "slks": [
+    "Dissenter"
+  ],
+  "lord": [
+    "Courtier"
+  ],
+  "wilderness": [
+    "Dissenter"
+  ],
+  "coast": [
+    "Courtier"
+  ],
+  "sword": [
+    "Inquisitor"
+  ],
+  "scout": [
+    "Rakdos Cultist"
+  ],
+  "wise": [
+    "Vizier"
+  ],
+  "smith": [
+    "City Watch"
+  ],
+  "inq": [
+    "Inquisitor"
+  ],
+  "commander": [
+    "Clan Crafter"
+  ],
+  "ente": [
+    "Entertainer"
+  ],
+  "gladia": [
+    "Variant Entertainer (Gladiator)"
+  ],
+  "charlaten": [
+    "Charlatan"
+  ],
+  "urban boutn": [
+    "Urban Bounty Hunter"
+  ],
+  "mercinary vet": [
+    "Mercenary Veteran"
+  ],
+  "faction age": [
+    "Faction Agent"
+  ],
+  "crafter": [
+    "Clan Crafter"
+  ],
+  "inheritance": [
+    "Inheritor"
+  ],
+  "Fartraveler": [
+    "Far Traveler"
+  ],
+  "guilt artisan": [
+    "Guild Artisan"
+  ],
+  "acylote": [
+    "Acolyte"
+  ],
+  "maid": [
+    "Dimir Operative"
+  ],
+  "iron route bandit": [
+    "Iron Route Bandit"
+  ],
+  "Archaeologist": [
+    "Archaeologist"
+  ],
+  "minmaxer": [
+    "Initiate"
+  ],
+  "helm": [
+    "Hermit"
+  ],
+  "mageslayer": [
+    "Soldier"
+  ],
+  "outlandser": [
+    "Outlander"
+  ],
+  "Boros legionaire": [
+    "Boros Legionnaire"
+  ],
+  "Izzet League": [
+    "Izzet Engineer"
+  ],
+  "\"city watch\"": [
+    "Variant City Watch (Investigator)"
+  ],
+  "uthga": [
+    "Uthgardt Tribe Member"
+  ],
+  "Mallory": [
+    "Sailor"
+  ],
+  "help\u00a8": [
+    "Inheritor"
+  ],
+  "GLL": [
+    "Gruul Anarch"
+  ],
+  "ships passage": [
+    "Hillsfar Smuggler"
+  ],
+  "jungle": [
+    "Noble"
+  ],
+  "Sherif": [
+    "Trade Sheriff"
+  ],
+  "Smuggler": [
+    "Hillsfar Smuggler"
+  ],
+  "schola": [
+    "Cloistered Scholar"
+  ],
+  "engin": [
+    "Izzet Engineer"
+  ],
+  "ow": [
+    "Stojanow Prisoner"
+  ],
+  "inqui": [
+    "Inquisitor"
+  ],
+  "far treveler": [
+    "Far Traveler"
+  ],
+  "gladi": [
+    "Variant Entertainer (Gladiator)"
+  ],
+  "r": [
+    "Far Traveler"
+  ],
+  "research": [
+    "Trade Sheriff"
+  ],
+  "trade": [
+    "Trade Sheriff"
+  ],
+  "urban bounty Hunter": [
+    "Urban Bounty Hunter"
+  ],
+  "I heritor": [
+    "Inheritor"
+  ],
+  "drgaon": [
+    "Dragon Casualty"
+  ],
+  "far travelller": [
+    "Far Traveler"
+  ],
+  "putlander": [
+    "Outlander"
+  ],
+  "urchin bounty": [
+    "Urban Bounty Hunter"
+  ],
+  "rad": [
+    "Trade Sheriff"
+  ],
+  "gruu": [
+    "Gruul Anarch"
+  ],
+  "orvhov": [
+    "Orzhov Representative"
+  ],
+  "mulmaster artistic": [
+    "Mulmaster Aristocrat"
+  ],
+  "inheri": [
+    "Inheritor"
+  ],
+  "rogue one": [
+    "Outlander"
+  ],
+  "ranger outlander": [
+    "Outlander"
+  ],
+  "watcher's eye": [
+    "City Watch"
+  ],
+  "city watch varient": [
+    "Variant City Watch (Investigator)"
+  ],
+  "selesnya initiate": [
+    "Selesnya Initiate"
+  ],
+  "sailoer": [
+    "Sailor"
+  ],
+  "stealth": [
+    "House Agent"
+  ],
+  "simicc": [
+    "Simic Scientist"
+  ],
+  "mercanary": [
+    "Mercenary Veteran"
+  ],
+  "investigatoe": [
+    "Variant City Watch (Investigator)"
+  ],
+  "vizar": [
+    "Izzet Engineer"
+  ],
+  "charlatab": [
+    "Charlatan"
+  ],
+  "Guild": [
+    "Guild Artisan"
+  ],
+  "enforc": [
+    "Dissenter"
+  ],
+  "mist": [
+    "Dissenter"
+  ],
+  "ravnica": [
+    "Gruul Anarch"
+  ],
+  "acolye": [
+    "Acolyte"
+  ],
+  "folk herp": [
+    "Folk Hero"
+  ],
+  "circus": [
+    "Caravan Specialist"
+  ],
+  "Vartan": [
+    "Guild Artisan"
+  ],
+  "Illiam": [
+    "Initiate"
+  ],
+  "animal": [
+    "Criminal"
+  ],
+  "cursed": [
+    "Haunted One"
+  ],
+  "gypsy": [
+    "Dragon Casualty"
+  ],
+  "mystic": [
+    "Shade Fanatic"
+  ],
+  "spirit reaver": [
+    "Far Traveler"
+  ],
+  "idol": [
+    "Cloistered Scholar"
+  ],
+  "poor": [
+    "Soldier"
+  ],
+  "jail": [
+    "Criminal"
+  ],
+  "innkeep": [
+    "Inheritor"
+  ],
+  "pre": [
+    "Orzhov Representative"
+  ],
+  "Granam": [
+    "Guild Artisan"
+  ],
+  "ggr": [
+    "Golgari Agent"
+  ],
+  "sodier": [
+    "Soldier"
+  ],
+  "Madellor": [
+    "Soldier"
+  ],
+  "barbariam": [
+    "Charlatan"
+  ],
+  "variant knight": [
+    "Variant Noble (Knight)"
+  ],
+  "explore": [
+    "Sailor"
+  ],
+  "far tar": [
+    "Far Traveler"
+  ],
+  "tavern": [
+    "Outlander"
+  ],
+  "writer": [
+    "Courtier"
+  ],
+  "y": [
+    "Dragon Casualty"
+  ],
+  "waterdhavien noble": [
+    "Waterdhavian Noble"
+  ],
+  "sea": [
+    "Sage"
+  ],
+  "Azoarius Functionary": [
+    "Azorius Functionary"
+  ],
+  "urban bounty hunter?": [
+    "Urban Bounty Hunter"
+  ],
+  "library access": [
+    "Golgari Agent"
+  ],
+  "Outlanders": [
+    "Outlander"
+  ],
+  "cormanthor": [
+    "Cormanthor Refugee"
+  ],
+  "ghost": [
+    "Hermit"
+  ],
+  "Simic Scientist": [
+    "Simic Scientist"
+  ],
+  "<spy>": [
+    "Variant Criminal (Spy)"
+  ],
+  "simic sci": [
+    "Simic Scientist"
+  ],
+  "party rock": [
+    "City Watch"
+  ],
+  "folk hero personality traits": [
+    "Folk Hero"
+  ],
+  "rize": [
+    "Vizier"
+  ],
+  "Outcast": [
+    "Outlander"
+  ],
+  "noble variant": [
+    "Mulmaster Aristocrat"
+  ],
+  "Merc Veteran": [
+    "Mercenary Veteran"
+  ],
+  "charletion": [
+    "Charlatan"
+  ],
+  "Dragon survivor": [
+    "Dragon Casualty"
+  ],
+  "the house agent": [
+    "House Agent"
+  ],
+  "<haunted one>": [
+    "Haunted One"
+  ],
+  "priest": [
+    "Anthropologist"
+  ],
+  "chala": [
+    "Charlatan"
+  ],
+  "knightly": [
+    "Knight of the Order"
+  ],
+  "black fist agent": [
+    "Black Fist Double Agent"
+  ],
+  "yeet": [
+    "Secret Identity"
+  ],
+  "despacito": [
+    "Rakdos Cultist"
+  ],
+  "Town Watch": [
+    "City Watch"
+  ],
+  "azorius function": [
+    "Azorius Functionary"
+  ],
+  "Dragon Causality": [
+    "Dragon Casualty"
+  ],
+  "wild": [
+    "Outlander"
+  ],
+  "uthgardt tribe": [
+    "Uthgardt Tribe Member"
+  ],
+  "Fenn": [
+    "Entertainer"
+  ],
+  "thied": [
+    "Initiate"
+  ],
+  "Beyorett": [
+    "Hermit"
+  ],
+  "drow": [
+    "Soldier"
+  ],
+  "drow noble": [
+    "Noble"
+  ],
+  "gambler": [
+    "Noble"
+  ],
+  "court functionary": [
+    "Courtier"
+  ],
+  "Harborfolk": [
+    "Harborfolk"
+  ],
+  "Saldrix": [
+    "Sailor"
+  ],
+  "con": [
+    "Courtier"
+  ],
+  "House Agent": [
+    "House Agent"
+  ],
+  "acoylt": [
+    "Acolyte"
+  ],
+  "inquister": [
+    "Inquisitor"
+  ],
+  "Bounty hun": [
+    "Urban Bounty Hunter"
+  ],
+  "Archeologists": [
+    "Archaeologist"
+  ],
+  "Anthropolog": [
+    "Anthropologist"
+  ],
+  "erudict": [
+    "Hermit"
+  ],
+  "Dimir Agent": [
+    "Dimir Operative"
+  ],
+  "<Haunted One>": [
+    "Haunted One"
+  ],
+  "waterdeep noble": [
+    "Waterdhavian Noble"
+  ],
+  "knight of the": [
+    "Knight of the Order"
+  ],
+  "Godlfry the Camdragon": [
+    "Knight of the Order"
+  ],
+  "sages": [
+    "Sage"
+  ],
+  "Logan Paul": [
+    "Dragon Casualty"
+  ],
+  "identit": [
+    "Secret Identity"
+  ],
+  "magic initiate": [
+    "Initiate"
+  ],
+  "death": [
+    "Shade Fanatic"
+  ],
+  "fight": [
+    "Faction Agent"
+  ],
+  "w": [
+    "Variant City Watch (Investigator)"
+  ],
+  "khight": [
+    "Variant Noble (Knight)"
+  ],
+  "centaur": [
+    "Clan Crafter"
+  ],
+  "Senteq": [
+    "Dissenter"
+  ],
+  "science": [
+    "Simic Scientist"
+  ],
+  "fartravell": [
+    "Far Traveler"
+  ],
+  "selesn": [
+    "Selesnya Initiate"
+  ],
+  "boros leg": [
+    "Boros Legionnaire"
+  ],
+  "bounty Hunter": [
+    "Urban Bounty Hunter"
+  ],
+  "harrowed one": [
+    "Haunted One"
+  ],
+  "az": [
+    "Azorius Functionary"
+  ],
+  "bor": [
+    "Boros Legionnaire"
+  ],
+  "folk here": [
+    "Folk Hero"
+  ],
+  "entertainerr": [
+    "Entertainer"
+  ],
+  "archealogist": [
+    "Archaeologist"
+  ],
+  "glat": [
+    "Guild Artisan"
+  ],
+  "linguist": [
+    "Anthropologist"
+  ],
+  "Mercenary": [
+    "Mercenary Veteran"
+  ],
+  "guild spells": [
+    "Simic Scientist"
+  ],
+  "assasin": [
+    "Charlatan"
+  ],
+  "Simic scientist": [
+    "Simic Scientist"
+  ],
+  "sea urchin": [
+    "Hillsfar Merchant"
+  ],
+  "trickster": [
+    "Initiate"
+  ],
+  "acolyte of life": [
+    "Acolyte"
+  ],
+  "Urban Bounty": [
+    "Urban Bounty Hunter"
+  ],
+  "far travlerer": [
+    "Far Traveler"
+  ],
+  "chalatan": [
+    "Charlatan"
+  ],
+  "folk he": [
+    "Folk Hero"
+  ],
+  "senate": [
+    "Selesnya Initiate"
+  ],
+  "mer": [
+    "Hillsfar Merchant"
+  ],
+  "far grab": [
+    "Far Traveler"
+  ],
+  "shade fan": [
+    "Shade Fanatic"
+  ],
+  "mulmas": [
+    "Mulmaster Aristocrat"
+  ],
+  "archelogist": [
+    "Archaeologist"
+  ],
+  "noble investigator": [
+    "Variant City Watch (Investigator)"
+  ],
+  "charleton": [
+    "Charlatan"
+  ],
+  "Jester": [
+    "Entertainer"
+  ],
+  "cursed pirate": [
+    "Variant Sailor (Pirate)"
+  ],
+  "Black Fist Double Agent": [
+    "Black Fist Double Agent"
+  ],
+  "(tickle)": [
+    "Ticklebelly Nomad"
+  ],
+  "charltan": [
+    "Charlatan"
+  ],
+  "investiga": [
+    "Variant City Watch (Investigator)"
+  ],
+  "info": [
+    "Inquisitor"
+  ],
+  "Iron Route Bandit": [
+    "Iron Route Bandit"
+  ],
+  "Mulmaster Aristocrat": [
+    "Mulmaster Aristocrat"
+  ],
+  "Rakdos Cultist": [
+    "Rakdos Cultist"
+  ],
+  "town": [
+    "Haunted One"
+  ],
+  "Dimir\u2019s": [
+    "Dimir Operative"
+  ],
+  "monster slayer": [
+    "Cloistered Scholar"
+  ],
+  "slayer": [
+    "Soldier"
+  ],
+  "Barbarian tribe member": [
+    "Uthgardt Tribe Member"
+  ],
+  "noble (k": [
+    "Variant Noble (Knight)"
+  ],
+  "of the order": [
+    "Knight of the Order"
+  ],
+  "herb": [
+    "Hermit"
+  ],
+  "izzit": [
+    "Izzet Engineer"
+  ]
+}

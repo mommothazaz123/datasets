@@ -1,0 +1,9119 @@
+{
+  "a": [
+    "Dwarf Resilience",
+    "Dragonmark of Detection",
+    "Human Determination",
+    "Durable",
+    "Athlete",
+    "Empathic",
+    "Svirfneblin Magic",
+    "Alchemist",
+    "Observant",
+    "Martial Adept",
+    "Vampiric Exultation",
+    "Menacing",
+    "Wonder Maker",
+    "Tavern Brawler",
+    "Grappler",
+    "Mage Slayer",
+    "Blade Mastery",
+    "Second Chance",
+    "Barbed Hide",
+    "Infernal Constitution",
+    "Actor",
+    "Fade Away",
+    "Lightly Armored",
+    "Survivalist",
+    "Fey Teleportation",
+    "Animal Handler",
+    "Investigator",
+    "Theologian",
+    "Arcanist",
+    "Stealthy",
+    "Squat Nimbleness",
+    "Greater Dragonmark (Healing)",
+    "Elemental Adept",
+    "Acrobat",
+    "Flames of Phlegethos",
+    "Charger",
+    "Aberrant Dragonmark",
+    "Burglar",
+    "Alert",
+    "Brawny",
+    "Moderately Armored",
+    "Shield Master",
+    "Revenant Blade",
+    "Healer",
+    "Diplomat",
+    "Elven Accuracy",
+    "Dragon Wings",
+    "Dragonmark of Storm",
+    "Weapon Master",
+    "Grudge-Bearer",
+    "Fell Handed",
+    "Servo Crafting",
+    "Savage Attacker",
+    "Magic Initiate"
+  ],
+  "dragonmark": [
+    "Dragonmark of Detection",
+    "Dragonmark of Handling",
+    "Greater Dragonmark (Making)",
+    "Greater Dragonmark (Shadow)",
+    "Greater Dragonmark (Storm)",
+    "Dragonmark of Hospitality",
+    "Greater Dragonmark (Passage)",
+    "Dragonmark of Warding",
+    "Dragonmark of Scribing",
+    "Greater Dragonmark (Finding)",
+    "Greater Dragonmark (Warding)",
+    "Dragon Fear",
+    "Greater Dragonmark (Sentinel)",
+    "Aberrant Dragonmark",
+    "Dragonmark of Sentinel",
+    "Dragonmark of Passage",
+    "Dragonmark of Shadow",
+    "Dragonmark of Finding",
+    "Dragonmark of Storm",
+    "Dragonmark of Healing",
+    "Dragonmark of Making"
+  ],
+  "e": [
+    "Human Determination",
+    "Skulker",
+    "Heavy Armor Master",
+    "Durable",
+    "Empathic",
+    "Vampiric Exultation",
+    "Menacing",
+    "Perceptive",
+    "Barbed Hide",
+    "Dungeon Delver",
+    "Second Chance",
+    "Everybody's Friend",
+    "Theologian",
+    "Sentinel",
+    "Skilled",
+    "Resilient",
+    "Flames of Phlegethos",
+    "Aberrant Dragonmark",
+    "Shield Master",
+    "Revenant Blade",
+    "Servo Crafting"
+  ],
+  "dragon": [
+    "Dragonmark of Warding",
+    "Greater Dragonmark (Warding)",
+    "Greater Dragonmark (Detection)",
+    "Dragon Fear",
+    "Dragonmark of Detection",
+    "Dragonmark of Finding",
+    "Dragon Hide",
+    "Dragon Wings",
+    "Aberrant Dragonmark",
+    "Dragonmark of Storm",
+    "Greater Dragonmark (Making)",
+    "Dragonmark of Sentinel",
+    "Dragonmark of Passage",
+    "Brawny",
+    "Greater Dragonmark (Storm)",
+    "Dragonmark of Healing",
+    "Dragonmark of Hospitality",
+    "Dragonmark of Making"
+  ],
+  "c": [
+    "Perceptive",
+    "Acrobat",
+    "Quick-Fingered",
+    "Critter Friend",
+    "Svirfneblin Magic",
+    "Empathic",
+    "Bountiful Luck",
+    "Savage Attacker",
+    "Arcanist",
+    "Magic Initiate"
+  ],
+  "master": [
+    "Flail Mastery",
+    "Medium Armor Master",
+    "Heavy Armor Master",
+    "Weapon Master",
+    "Great Weapon Master",
+    "Master of Disguise",
+    "Shield Master",
+    "Blade Mastery",
+    "Spear Mastery"
+  ],
+  "d": [
+    "Elemental Adept",
+    "Second Chance",
+    "Revenant Blade",
+    "Dragon Hide",
+    "Diplomat",
+    "Durable",
+    "Prodigy",
+    "Greater Dragonmark (Shadow)",
+    "Silver-Tongued"
+  ],
+  "b": [
+    "Acrobat",
+    "Barbed Hide",
+    "Mobile",
+    "Svirfneblin Magic",
+    "Grudge-Bearer",
+    "Burglar",
+    "Brawny",
+    "Everybody's Friend",
+    "Blade Mastery"
+  ],
+  "greater dragonmark": [
+    "Greater Dragonmark (Warding)",
+    "Greater Dragonmark (Handling)",
+    "Greater Dragonmark (Sentinel)",
+    "Greater Dragonmark (Making)",
+    "Greater Dragonmark (Shadow)",
+    "Greater Dragonmark (Storm)",
+    "Greater Dragonmark (Scribing)",
+    "Greater Dragonmark (Healing)",
+    "Greater Dragonmark (Passage)"
+  ],
+  "s": [
+    "Resilient",
+    "Skulker",
+    "Sharpshooter",
+    "Crossbow Expert",
+    "Servo Crafting",
+    "Greater Dragonmark (Storm)",
+    "Investigator",
+    "Stealthy",
+    "Squat Nimbleness"
+  ],
+  "i": [
+    "Perceptive",
+    "Barbed Hide",
+    "Flail Mastery",
+    "Diplomat",
+    "Menacing",
+    "Quicksmithing",
+    "Everybody's Friend",
+    "Arcanist"
+  ],
+  "m": [
+    "Mobile",
+    "Diplomat",
+    "Dragonmark of Storm",
+    "Empathic",
+    "Alchemist",
+    "Master of Disguise",
+    "Martial Adept"
+  ],
+  "h": [
+    "Barbed Hide",
+    "Tough",
+    "Alchemist",
+    "Sharpshooter",
+    "Theologian",
+    "Shield Master",
+    "Greater Dragonmark (Healing)"
+  ],
+  "armor": [
+    "Acrobat",
+    "Heavily Armored",
+    "Lightly Armored",
+    "Charger",
+    "Medium Armor Master",
+    "Heavy Armor Master",
+    "Moderately Armored"
+  ],
+  "greater": [
+    "Greater Dragonmark (Detection)",
+    "Greater Dragonmark (Handling)",
+    "Greater Dragonmark (Making)",
+    "Greater Dragonmark (Shadow)",
+    "Greater Dragonmark (Storm)",
+    "Greater Dragonmark (Healing)",
+    "Greater Dragonmark (Passage)"
+  ],
+  "magic": [
+    "Drow High Magic",
+    "Wood Elf Magic",
+    "Empathic",
+    "Svirfneblin Magic",
+    "Magic Initiate",
+    "Medic"
+  ],
+  "great": [
+    "Greater Dragonmark (Sentinel)",
+    "Empathic",
+    "Greater Dragonmark (Shadow)",
+    "Great Weapon Master",
+    "Greater Dragonmark (Healing)",
+    "Gourmand"
+  ],
+  "mark": [
+    "Dragonmark of Shadow",
+    "Greater Dragonmark (Sentinel)",
+    "Aberrant Dragonmark",
+    "Dragonmark of Passage",
+    "Alert",
+    "Dragonmark of Healing"
+  ],
+  "list": [
+    "Naturalist",
+    "Alchemist",
+    "Defensive Duelist",
+    "Survivalist",
+    "Linguist",
+    "Arcanist"
+  ],
+  "t": [
+    "Greater Dragonmark (Handling)",
+    "Athlete",
+    "Dragonmark of Sentinel",
+    "Investigator",
+    "Greater Dragonmark (Healing)",
+    "Revenant Blade"
+  ],
+  "o": [
+    "Dragonmark of Storm",
+    "Observant",
+    "Crossbow Expert",
+    "Everybody's Friend",
+    "Orcish Aggression",
+    "Silver-Tongued"
+  ],
+  "dexterity": [
+    "Human Determination",
+    "Alert",
+    "Stealthy",
+    "Blade Mastery",
+    "Spear Mastery"
+  ],
+  "charisma": [
+    "Charger",
+    "Naturalist",
+    "Alchemist",
+    "Historian",
+    "Arcanist"
+  ],
+  "g": [
+    "Prodigy",
+    "Grudge-Bearer",
+    "Master of Disguise",
+    "Mage Slayer",
+    "Gourmand"
+  ],
+  "dragonborn": [
+    "Dragonmark of Warding",
+    "Dragon Fear",
+    "Dragon Hide",
+    "Dragon Wings",
+    "Dragonmark of Scribing"
+  ],
+  "war": [
+    "Dragonmark of Warding",
+    "Wonder Maker",
+    "War Caster",
+    "Dwarven Fortitude"
+  ],
+  "luck": [
+    "Quick-Fingered",
+    "Lucky",
+    "Bountiful Luck",
+    "Quicksmithing"
+  ],
+  "darkvision": [
+    "Orcish Aggression",
+    "Dragonmark of Scribing",
+    "Dwarf Resilience",
+    "Dragonmark of Finding"
+  ],
+  "two weapon fighting": [
+    "Weapon Master",
+    "Servo Crafting",
+    "Great Weapon Master",
+    "Dragon Wings"
+  ],
+  "rage": [
+    "Durable",
+    "Grappler",
+    "Dragon Fear",
+    "Charger"
+  ],
+  "n": [
+    "Greater Dragonmark (Hospitality)",
+    "Weapon Master",
+    "Bountiful Luck",
+    "Menacing"
+  ],
+  "evasion": [
+    "Observant",
+    "Infernal Constitution",
+    "Servo Crafting",
+    "Menacing"
+  ],
+  "Dragon": [
+    "Dragon Hide",
+    "Dragon Fear",
+    "Brawny",
+    "Dragonmark of Healing"
+  ],
+  "action surge": [
+    "Tough",
+    "Weapon Master",
+    "Actor",
+    "Menacing"
+  ],
+  "two": [
+    "Wonder Maker",
+    "Tough",
+    "Theologian",
+    "Actor"
+  ],
+  "dragon mark": [
+    "Dragonmark of Shadow",
+    "Dragonmark of Storm",
+    "Aberrant Dragonmark",
+    "Dragonmark of Making"
+  ],
+  "two weapon": [
+    "Historian",
+    "Wood Elf Magic",
+    "Weapon Master",
+    "Great Weapon Master"
+  ],
+  "thief": [
+    "Perceptive",
+    "Athlete",
+    "Empathic",
+    "Sentinel"
+  ],
+  "mastery": [
+    "Weapon Master",
+    "Shield Master",
+    "Blade Mastery",
+    "Spear Mastery"
+  ],
+  "rogue": [
+    "Master of Disguise",
+    "Prodigy",
+    "Silver-Tongued",
+    "Performer"
+  ],
+  "r": [
+    "Wonder Maker",
+    "Durable",
+    "Investigator",
+    "Charger"
+  ],
+  "caster": [
+    "Sharpshooter",
+    "Arcanist",
+    "War Caster",
+    "Ritual Caster"
+  ],
+  "warcaster": [
+    "Weapon Master",
+    "War Caster",
+    "Ritual Caster"
+  ],
+  "armored": [
+    "Heavily Armored",
+    "Lightly Armored",
+    "Moderately Armored"
+  ],
+  "song of rest": [
+    "Dragonmark of Storm",
+    "Dragonmark of Detection",
+    "Flames of Phlegethos"
+  ],
+  "sword": [
+    "Wonder Maker",
+    "Gourmand",
+    "Historian"
+  ],
+  "halfling luck": [
+    "Dwarf Resilience",
+    "Lucky",
+    "Bountiful Luck"
+  ],
+  "int": [
+    "Diplomat",
+    "Arcanist",
+    "Investigator"
+  ],
+  "hide": [
+    "Dragon Hide",
+    "Barbed Hide",
+    "Fell Handed"
+  ],
+  "weapon": [
+    "Weapon Master",
+    "Great Weapon Master",
+    "Menacing"
+  ],
+  "tiefling": [
+    "Sentinel",
+    "Theologian",
+    "Svirfneblin Magic"
+  ],
+  "uncanny dodge": [
+    "Dungeon Delver",
+    "Dual Wielder",
+    "Revenant Blade"
+  ],
+  "halfling": [
+    "Linguist",
+    "Servo Crafting",
+    "Menacing"
+  ],
+  "draconic": [
+    "Dragon Hide",
+    "Dragon Wings",
+    "Dragon Fear"
+  ],
+  "armor master": [
+    "Heavy Armor Master",
+    "War Caster",
+    "Medium Armor Master"
+  ],
+  "finesse": [
+    "Flail Mastery",
+    "Quick-Fingered",
+    "Squat Nimbleness"
+  ],
+  "con": [
+    "Second Chance",
+    "Arcanist",
+    "Infernal Constitution"
+  ],
+  "archer": [
+    "Sharpshooter",
+    "Alert",
+    "Charger"
+  ],
+  "insight": [
+    "Linguist",
+    "Inspiring Leader",
+    "Investigator"
+  ],
+  "light armor master": [
+    "Heavy Armor Master",
+    "Lightly Armored",
+    "Medium Armor Master"
+  ],
+  "sneak": [
+    "Wonder Maker",
+    "Observant",
+    "Stealthy"
+  ],
+  "fight": [
+    "Tough",
+    "Flail Mastery",
+    "Investigator"
+  ],
+  "An": [
+    "Second Chance",
+    "Fell Handed",
+    "Human Determination"
+  ],
+  "deception": [
+    "Human Determination",
+    "Empathic",
+    "Menacing"
+  ],
+  "assassin": [
+    "Orcish Aggression",
+    "Arcanist",
+    "Menacing"
+  ],
+  "extra attack": [
+    "Empathic",
+    "Aberrant Dragonmark",
+    "Savage Attacker"
+  ],
+  "indomitable": [
+    "Wonder Maker",
+    "Durable",
+    "Magic Initiate"
+  ],
+  "bard": [
+    "Burglar",
+    "Barbed Hide",
+    "Actor"
+  ],
+  "dueling": [
+    "Dwarf Resilience",
+    "Resilient",
+    "Menacing"
+  ],
+  "fighter": [
+    "Flail Mastery",
+    "Athlete",
+    "Lightly Armored"
+  ],
+  "cast": [
+    "Alchemist",
+    "War Caster",
+    "Ritual Caster"
+  ],
+  "tunnel fighter": [
+    "Dungeon Delver",
+    "Investigator",
+    "Ritual Caster"
+  ],
+  "tunnel": [
+    "Sentinel",
+    "Dungeon Delver",
+    "Naturalist"
+  ],
+  "heavy weapon": [
+    "Heavy Armor Master",
+    "Heavily Armored",
+    "Great Weapon Master"
+  ],
+  "powerful build": [
+    "Master of Disguise",
+    "Bountiful Luck",
+    "Dwarf Resilience"
+  ],
+  "sneak attack": [
+    "Svirfneblin Magic",
+    "Spear Mastery",
+    "Mounted Combatant"
+  ],
+  "observeant": [
+    "Observant",
+    "Servo Crafting",
+    "Revenant Blade"
+  ],
+  "multiattack": [
+    "Empathic",
+    "Martial Adept",
+    "Savage Attacker"
+  ],
+  "fighting": [
+    "Historian",
+    "Dragon Wings",
+    "Servo Crafting"
+  ],
+  "magic shit": [
+    "Alchemist",
+    "Magic Initiate",
+    "Mage Slayer"
+  ],
+  "athletic": [
+    "Athlete",
+    "Empathic"
+  ],
+  "blade": [
+    "Blade Mastery",
+    "Revenant Blade"
+  ],
+  "trance": [
+    "Dragon Hide",
+    "Brawny"
+  ],
+  "high elf": [
+    "Drow High Magic",
+    "Healer"
+  ],
+  "orcish": [
+    "Orcish Aggression",
+    "Orcish Fury"
+  ],
+  "resi": [
+    "Dwarf Resilience",
+    "Resilient"
+  ],
+  "heav": [
+    "Heavy Armor Master",
+    "Heavily Armored"
+  ],
+  "medi": [
+    "Medic",
+    "Medium Armor Master"
+  ],
+  "Druid": [
+    "Barbed Hide",
+    "Medic"
+  ],
+  "sent": [
+    "Sentinel",
+    "Dragonmark of Sentinel"
+  ],
+  "medium armour": [
+    "Moderately Armored",
+    "Medium Armor Master"
+  ],
+  "wild shape": [
+    "Wonder Maker",
+    "Animal Handler"
+  ],
+  "sentinal": [
+    "Sentinel",
+    "Dragonmark of Sentinel"
+  ],
+  "drow magic": [
+    "Drow High Magic",
+    "Svirfneblin Magic"
+  ],
+  "Dragonhide": [
+    "Dragon Hide",
+    "Dragon Wings"
+  ],
+  "heal": [
+    "Healer",
+    "Dragonmark of Healing"
+  ],
+  "Evasion": [
+    "Infernal Constitution",
+    "Servo Crafting"
+  ],
+  "sharp shoter": [
+    "Sharpshooter",
+    "Spear Mastery"
+  ],
+  "adept": [
+    "Elemental Adept",
+    "Martial Adept"
+  ],
+  "resistance": [
+    "Arcanist",
+    "Resilient"
+  ],
+  "weap": [
+    "Weapon Master",
+    "Empathic"
+  ],
+  "agile": [
+    "Alert",
+    "Mobile"
+  ],
+  "observe": [
+    "Observant",
+    "Perceptive"
+  ],
+  "quick": [
+    "Quick-Fingered",
+    "Quicksmithing"
+  ],
+  "great weapon fighter": [
+    "Weapon Master",
+    "Great Weapon Master"
+  ],
+  "armour": [
+    "Heavily Armored",
+    "Lightly Armored"
+  ],
+  "silver tongue": [
+    "Master of Disguise",
+    "Silver-Tongued"
+  ],
+  "ele": [
+    "Elemental Adept",
+    "Fey Teleportation"
+  ],
+  "nim": [
+    "Animal Handler",
+    "Squat Nimbleness"
+  ],
+  "mag": [
+    "Drow High Magic",
+    "Svirfneblin Magic"
+  ],
+  "bardic inspiration": [
+    "Magic Initiate",
+    "Human Determination"
+  ],
+  "orc": [
+    "Orcish Aggression",
+    "Orcish Fury"
+  ],
+  "tactician": [
+    "Historian",
+    "Menacing"
+  ],
+  "orchish fury": [
+    "Orcish Aggression",
+    "Orcish Fury"
+  ],
+  "heavy armour": [
+    "Heavy Armor Master",
+    "Heavily Armored"
+  ],
+  "relentless": [
+    "Resilient",
+    "Revenant Blade"
+  ],
+  "fighting style": [
+    "Linguist",
+    "Shield Master"
+  ],
+  "vampire": [
+    "Empathic",
+    "Vampiric Exultation"
+  ],
+  "expertise": [
+    "Perceptive",
+    "Empathic"
+  ],
+  "athletics": [
+    "Naturalist",
+    "Athlete"
+  ],
+  "medium armor mastery": [
+    "Heavy Armor Master",
+    "Medium Armor Master"
+  ],
+  "weapon mastery": [
+    "Weapon Master",
+    "Great Weapon Master"
+  ],
+  "dual weilder": [
+    "Dungeon Delver",
+    "Dual Wielder"
+  ],
+  "drag": [
+    "Dragon Hide",
+    "Dragon Wings"
+  ],
+  "kobold wings": [
+    "Everybody's Friend",
+    "Dragon Wings"
+  ],
+  "battle": [
+    "Healer",
+    "Athlete"
+  ],
+  "fey step": [
+    "Flail Mastery",
+    "Fey Teleportation"
+  ],
+  "dragon strength": [
+    "Dragon Hide",
+    "Dragonmark of Scribing"
+  ],
+  "u": [
+    "Bountiful Luck",
+    "Silver-Tongued"
+  ],
+  "dwar": [
+    "Dwarf Resilience",
+    "Dwarven Fortitude"
+  ],
+  "leadership": [
+    "Inspiring Leader",
+    "Empathic"
+  ],
+  "mas": [
+    "Weapon Master",
+    "Blade Mastery"
+  ],
+  "heavy armor mastery": [
+    "Heavy Armor Master",
+    "Heavily Armored"
+  ],
+  "Magic": [
+    "Wood Elf Magic",
+    "Magic Initiate"
+  ],
+  "gwm": [
+    "Wonder Maker",
+    "Great Weapon Master"
+  ],
+  "second wind": [
+    "Second Chance",
+    "Dragon Wings"
+  ],
+  "mobility": [
+    "Survivalist",
+    "Mobile"
+  ],
+  "mark of": [
+    "Dragonmark of Warding",
+    "Dragonmark of Finding"
+  ],
+  "pam": [
+    "Polearm Master",
+    "Spear Mastery"
+  ],
+  "persuasion": [
+    "Vampiric Exultation",
+    "Menacing"
+  ],
+  "parry": [
+    "Performer",
+    "Spear Mastery"
+  ],
+  "heavy weapon fighting": [
+    "Weapon Master",
+    "Great Weapon Master"
+  ],
+  "Long death": [
+    "Wonder Maker",
+    "Elemental Adept"
+  ],
+  "shove": [
+    "Mobile",
+    "Charger"
+  ],
+  "lance": [
+    "Theologian",
+    "Fell Handed"
+  ],
+  "greater mark": [
+    "Greater Dragonmark (Finding)",
+    "Greater Dragonmark (Making)"
+  ],
+  "elven archery": [
+    "Tavern Brawler",
+    "Elven Accuracy"
+  ],
+  "friend": [
+    "Everybody's Friend",
+    "Fell Handed"
+  ],
+  "inspiration": [
+    "Historian",
+    "Investigator"
+  ],
+  "re": [
+    "Greater Dragonmark (Detection)",
+    "Quick-Fingered"
+  ],
+  "Urd": [
+    "Burglar",
+    "Prodigy"
+  ],
+  "axe": [
+    "Durable",
+    "Charger"
+  ],
+  "phb": [
+    "Brawny",
+    "Empathic"
+  ],
+  "med": [
+    "Medic",
+    "Medium Armor Master"
+  ],
+  "gnome": [
+    "Medic",
+    "Gourmand"
+  ],
+  "I": [
+    "Diplomat",
+    "Mobile"
+  ],
+  "p": [
+    "Perceptive",
+    "Sharpshooter"
+  ],
+  "unarmored defense": [
+    "Barbed Hide",
+    "Medium Armor Master"
+  ],
+  "gunslinger": [
+    "Quick-Fingered",
+    "Inspiring Leader"
+  ],
+  "aasimar": [
+    "Flail Mastery",
+    "Animal Handler"
+  ],
+  "wildshape": [
+    "Dual Wielder",
+    "Fell Handed"
+  ],
+  "lay on hands": [
+    "Dragon Hide",
+    "Weapon Master"
+  ],
+  "battle caster": [
+    "War Caster",
+    "Ritual Caster"
+  ],
+  "cunning": [
+    "Arcanist",
+    "Menacing"
+  ],
+  "war magic": [
+    "Wood Elf Magic",
+    "War Caster"
+  ],
+  "extra": [
+    "Historian",
+    "Actor"
+  ],
+  "metamagic": [
+    "Wood Elf Magic",
+    "Empathic"
+  ],
+  "frenzy": [
+    "Critter Friend",
+    "Fade Away"
+  ],
+  "cleave": [
+    "Blade Mastery",
+    "Charger"
+  ],
+  "cha": [
+    "Second Chance",
+    "Charger"
+  ],
+  "shulker": [
+    "Mage Slayer",
+    "Skulker"
+  ],
+  "scout": [
+    "Sharpshooter",
+    "Acrobat"
+  ],
+  "dragon breath": [
+    "Dragon Wings",
+    "Dragon Fear"
+  ],
+  "hardy": [
+    "Fade Away",
+    "Prodigy"
+  ],
+  "dual concentration": [
+    "Human Determination",
+    "Vampiric Exultation"
+  ],
+  "battlemaster": [
+    "Flail Mastery",
+    "Blade Mastery"
+  ],
+  "climb": [
+    "Acrobat",
+    "Mobile"
+  ],
+  "two-weapon": [
+    "Weapon Master",
+    "Great Weapon Master"
+  ],
+  "divine": [
+    "Sentinel",
+    "Dwarf Resilience"
+  ],
+  "heavily armoured": [
+    "Heavy Armor Master",
+    "Heavily Armored"
+  ],
+  "help": [
+    "Healer",
+    "Spell Sniper"
+  ],
+  "persuasive": [
+    "Master of Disguise",
+    "Polearm Master"
+  ],
+  "all": [
+    "Dual Wielder",
+    "Healer"
+  ],
+  "finding": [
+    "Greater Dragonmark (Finding)",
+    "Dragonmark of Finding"
+  ],
+  "healing": [
+    "Greater Dragonmark (Healing)",
+    "Dragonmark of Healing"
+  ],
+  "scribing": [
+    "Greater Dragonmark (Scribing)",
+    "Dragonmark of Scribing"
+  ],
+  "ward": [
+    "Greater Dragonmark (Warding)",
+    "War Caster"
+  ],
+  "shadow": [
+    "Dragonmark of Shadow",
+    "Greater Dragonmark (Shadow)"
+  ],
+  "protection": [
+    "Perceptive",
+    "Fey Teleportation"
+  ],
+  "hexblade": [
+    "Healer",
+    "Revenant Blade"
+  ],
+  "hospitality": [
+    "Dragonmark of Hospitality",
+    "Greater Dragonmark (Hospitality)"
+  ],
+  "strength": [
+    "Sentinel",
+    "Resilient"
+  ],
+  "heavy armor proficiency": [
+    "Heavily Armored",
+    "Lightly Armored"
+  ],
+  "wizard": [
+    "Alert",
+    "Heavily Armored"
+  ],
+  "mast": [
+    "Polearm Master",
+    "Spear Mastery"
+  ],
+  "ironskin": [
+    "Dragon Wings",
+    "Resilient"
+  ],
+  "stun": [
+    "Quicksmithing",
+    "Skulker"
+  ],
+  "passage": [
+    "Dragonmark of Passage",
+    "Greater Dragonmark (Passage)"
+  ],
+  "intelligence": [
+    "Sentinel",
+    "Svirfneblin Magic"
+  ],
+  "greater Dragonmark": [
+    "Greater Dragonmark (Storm)",
+    "Greater Dragonmark (Healing)"
+  ],
+  "weapons": [
+    "Weapon Master",
+    "Great Weapon Master"
+  ],
+  "dual wiedling": [
+    "Dragon Wings",
+    "Dual Wielder"
+  ],
+  "Great": [
+    "Great Weapon Master",
+    "Empathic"
+  ],
+  "martial arts": [
+    "Elemental Adept",
+    "Martial Adept"
+  ],
+  "wis": [
+    "Linguist",
+    "Arcanist"
+  ],
+  "wisdom": [
+    "Wonder Maker",
+    "Diplomat"
+  ],
+  "warhammer": [
+    "Healer",
+    "Charger"
+  ],
+  "hearty": [
+    "Stealthy",
+    "Healer"
+  ],
+  "firearm specialist": [
+    "Dragonmark of Hospitality",
+    "Defensive Duelist"
+  ],
+  "blindsight": [
+    "Alchemist",
+    "Blade Mastery"
+  ],
+  "spellcasting": [
+    "Servo Crafting",
+    "Spell Sniper"
+  ],
+  "healing light": [
+    "Linguist",
+    "Healer"
+  ],
+  "dash": [
+    "Dragon Wings",
+    "Athlete"
+  ],
+  "dagger": [
+    "Dragon Fear",
+    "Charger"
+  ],
+  "duel weild": [
+    "Dual Wielder",
+    "Fell Handed"
+  ],
+  "cunning action": [
+    "Human Determination",
+    "Investigator"
+  ],
+  "battle mage": [
+    "Martial Adept",
+    "Blade Mastery"
+  ],
+  "doctor": [
+    "Dragonmark of Storm",
+    "War Caster"
+  ],
+  "jump": [
+    "Medic",
+    "Empathic"
+  ],
+  "gnoll": [
+    "Dungeon Delver",
+    "Animal Handler"
+  ],
+  "dex": [
+    "Fell Handed",
+    "Fade Away"
+  ],
+  "l": [
+    "Elemental Adept",
+    "Skulker"
+  ],
+  "mastry": [
+    "Shield Master",
+    "Blade Mastery"
+  ],
+  "greatweapon": [
+    "Great Weapon Master",
+    "Greater Dragonmark (Storm)"
+  ],
+  "speed": [
+    "Performer",
+    "Spell Sniper"
+  ],
+  "wild": [
+    "Skilled",
+    "Dual Wielder"
+  ],
+  "silent": [
+    "Sentinel",
+    "Skilled"
+  ],
+  "shot": [
+    "Sharpshooter"
+  ],
+  "GWM": [
+    "Great Weapon Master"
+  ],
+  "tavern": [
+    "Tavern Brawler"
+  ],
+  "magic initiate": [
+    "Magic Initiate"
+  ],
+  "prodigy": [
+    "Prodigy"
+  ],
+  "lucky": [
+    "Lucky"
+  ],
+  "prod": [
+    "Prodigy"
+  ],
+  "ghost": [
+    "Historian"
+  ],
+  "Blade Mastery": [
+    "Blade Mastery"
+  ],
+  "ritual caster": [
+    "Ritual Caster"
+  ],
+  "great wea": [
+    "Great Weapon Master"
+  ],
+  "heavy armor": [
+    "Heavy Armor Master"
+  ],
+  "shield mastery": [
+    "Shield Master"
+  ],
+  "alert": [
+    "Alert"
+  ],
+  "sentinel": [
+    "Sentinel"
+  ],
+  "grappl": [
+    "Grappler"
+  ],
+  "dual": [
+    "Dual Wielder"
+  ],
+  "crossbow": [
+    "Crossbow Expert"
+  ],
+  "arcanist": [
+    "Arcanist"
+  ],
+  "mounted": [
+    "Mounted Combatant"
+  ],
+  "athlete": [
+    "Athlete"
+  ],
+  "martial archetype": [
+    "Athlete"
+  ],
+  "sharp shooter": [
+    "Sharpshooter"
+  ],
+  "fey teleportation": [
+    "Fey Teleportation"
+  ],
+  "blade mastery": [
+    "Blade Mastery"
+  ],
+  "poleamr": [
+    "Polearm Master"
+  ],
+  "menacing": [
+    "Menacing"
+  ],
+  "diplomat": [
+    "Diplomat"
+  ],
+  "healer": [
+    "Healer"
+  ],
+  "Observant": [
+    "Observant"
+  ],
+  "Actir": [
+    "Actor"
+  ],
+  "Skilled": [
+    "Skilled"
+  ],
+  "Keen Mind": [
+    "Keen Mind"
+  ],
+  "Inspiring Leaser": [
+    "Inspiring Leader"
+  ],
+  "Skulker": [
+    "Skulker"
+  ],
+  "observant": [
+    "Observant"
+  ],
+  "polearm master": [
+    "Polearm Master"
+  ],
+  "shield": [
+    "Shield Master"
+  ],
+  "keen": [
+    "Keen Mind"
+  ],
+  "defensive deulist": [
+    "Defensive Duelist"
+  ],
+  "sharpshooter": [
+    "Sharpshooter"
+  ],
+  "keen mind": [
+    "Keen Mind"
+  ],
+  "spell adept": [
+    "Elemental Adept"
+  ],
+  "\"weapon master\"": [
+    "Weapon Master"
+  ],
+  "mobile": [
+    "Mobile"
+  ],
+  "elemental adept": [
+    "Elemental Adept"
+  ],
+  "Sent": [
+    "Sentinel"
+  ],
+  "medium armor master": [
+    "Medium Armor Master"
+  ],
+  "dragon fear": [
+    "Dragon Fear"
+  ],
+  "Magical": [
+    "Magic Initiate"
+  ],
+  "spell snip": [
+    "Spell Sniper"
+  ],
+  "bountiful luck": [
+    "Bountiful Luck"
+  ],
+  "heavy armor master": [
+    "Heavy Armor Master"
+  ],
+  "Mobile": [
+    "Mobile"
+  ],
+  "dual weild": [
+    "Dual Wielder"
+  ],
+  "savage attacker": [
+    "Savage Attacker"
+  ],
+  "polearm": [
+    "Polearm Master"
+  ],
+  "elemental": [
+    "Elemental Adept"
+  ],
+  "linguist": [
+    "Linguist"
+  ],
+  "moderately armored": [
+    "Moderately Armored"
+  ],
+  "sentienel": [
+    "Sentinel"
+  ],
+  "resilient": [
+    "Resilient"
+  ],
+  "spear": [
+    "Spear Mastery"
+  ],
+  "drow high magic": [
+    "Drow High Magic"
+  ],
+  "elven accu": [
+    "Elven Accuracy"
+  ],
+  "shield master": [
+    "Shield Master"
+  ],
+  "revenant blade": [
+    "Revenant Blade"
+  ],
+  "spell sniper": [
+    "Spell Sniper"
+  ],
+  "dual wielder": [
+    "Dual Wielder"
+  ],
+  "perf": [
+    "Performer"
+  ],
+  "spellsniper": [
+    "Spell Sniper"
+  ],
+  "spell anip": [
+    "Spell Sniper"
+  ],
+  "duel wield": [
+    "Dual Wielder"
+  ],
+  "orcish fury": [
+    "Orcish Fury"
+  ],
+  "Healer": [
+    "Healer"
+  ],
+  "elven Acc": [
+    "Elven Accuracy"
+  ],
+  "mage": [
+    "Mage Slayer"
+  ],
+  "crossbow expert": [
+    "Crossbow Expert"
+  ],
+  "human determination": [
+    "Human Determination"
+  ],
+  "grappler": [
+    "Grappler"
+  ],
+  "prodogy": [
+    "Prodigy"
+  ],
+  "wood elf": [
+    "Wood Elf Magic"
+  ],
+  "medium armored": [
+    "Moderately Armored"
+  ],
+  "semtinel": [
+    "Sentinel"
+  ],
+  "skilled": [
+    "Skilled"
+  ],
+  "flames": [
+    "Flames of Phlegethos"
+  ],
+  "light armor": [
+    "Lightly Armored"
+  ],
+  "war caster": [
+    "War Caster"
+  ],
+  "spell sn": [
+    "Spell Sniper"
+  ],
+  "Dual Wielder": [
+    "Dual Wielder"
+  ],
+  "resilent": [
+    "Resilient"
+  ],
+  "Elemental Ad": [
+    "Elemental Adept"
+  ],
+  "martial": [
+    "Martial Adept"
+  ],
+  "fey": [
+    "Fey Teleportation"
+  ],
+  "elven acc": [
+    "Elven Accuracy"
+  ],
+  "performer": [
+    "Performer"
+  ],
+  "dungeon delver": [
+    "Dungeon Delver"
+  ],
+  "squat": [
+    "Squat Nimbleness"
+  ],
+  "great we": [
+    "Great Weapon Master"
+  ],
+  "skulker": [
+    "Skulker"
+  ],
+  "acrobat": [
+    "Acrobat"
+  ],
+  "magic init": [
+    "Magic Initiate"
+  ],
+  "menac": [
+    "Menacing"
+  ],
+  "Gourmand": [
+    "Gourmand"
+  ],
+  "tough": [
+    "Tough"
+  ],
+  "ath": [
+    "Athlete"
+  ],
+  "Orcish Fury": [
+    "Orcish Fury"
+  ],
+  "svirnbelin magic": [
+    "Wood Elf Magic"
+  ],
+  "svirneblin": [
+    "Svirfneblin Magic"
+  ],
+  "flames of": [
+    "Flames of Phlegethos"
+  ],
+  "second chance": [
+    "Second Chance"
+  ],
+  "squat nimbleness": [
+    "Squat Nimbleness"
+  ],
+  "toughness": [
+    "Tough"
+  ],
+  "inspiring": [
+    "Inspiring Leader"
+  ],
+  "flames of phlegethos": [
+    "Flames of Phlegethos"
+  ],
+  "leader": [
+    "Inspiring Leader"
+  ],
+  "Deulist": [
+    "Defensive Duelist"
+  ],
+  "gourmand": [
+    "Gourmand"
+  ],
+  "languages": [
+    "Silver-Tongued"
+  ],
+  "langues": [
+    "Silver-Tongued"
+  ],
+  "magic in": [
+    "Magic Initiate"
+  ],
+  "lightly armored": [
+    "Lightly Armored"
+  ],
+  "nimb": [
+    "Squat Nimbleness"
+  ],
+  "durable": [
+    "Durable"
+  ],
+  "mobikr": [
+    "Mobile"
+  ],
+  "elven accuracy": [
+    "Elven Accuracy"
+  ],
+  "mage slayer": [
+    "Mage Slayer"
+  ],
+  "magic slayer": [
+    "Mage Slayer"
+  ],
+  "ritual": [
+    "Ritual Caster"
+  ],
+  "ritual casting": [
+    "Ritual Caster"
+  ],
+  "dragonwings": [
+    "Dragon Wings"
+  ],
+  "Elemental Adept": [
+    "Elemental Adept"
+  ],
+  "spear master": [
+    "Spear Mastery"
+  ],
+  "defensive duelist": [
+    "Defensive Duelist"
+  ],
+  "Great Weapon": [
+    "Great Weapon Master"
+  ],
+  "fade": [
+    "Fade Away"
+  ],
+  "svir": [
+    "Svirfneblin Magic"
+  ],
+  "Fey Teleportation": [
+    "Fey Teleportation"
+  ],
+  "even accuracy": [
+    "Elven Accuracy"
+  ],
+  "Elven": [
+    "Elven Accuracy"
+  ],
+  "dragon hide": [
+    "Dragon Hide"
+  ],
+  "dragonhide": [
+    "Dragon Hide"
+  ],
+  "meancing": [
+    "Menacing"
+  ],
+  "Historian": [
+    "Historian"
+  ],
+  "Heavy armor mastery": [
+    "Heavy Armor Master"
+  ],
+  "Durable": [
+    "Durable"
+  ],
+  "charger": [
+    "Charger"
+  ],
+  "Heavy": [
+    "Heavy Armor Master"
+  ],
+  "havily": [
+    "Heavily Armored"
+  ],
+  "skill": [
+    "Skilled"
+  ],
+  "obs": [
+    "Observant"
+  ],
+  "ath]": [
+    "Athlete"
+  ],
+  "sku": [
+    "Skulker"
+  ],
+  "resilien": [
+    "Resilient"
+  ],
+  "pole": [
+    "Polearm Master"
+  ],
+  "durab": [
+    "Durable"
+  ],
+  "heavy": [
+    "Heavy Armor Master"
+  ],
+  "martial a": [
+    "Martial Adept"
+  ],
+  "bountiful luck xgte": [
+    "Bountiful Luck"
+  ],
+  "second chance xge": [
+    "Second Chance"
+  ],
+  "flames of phelegethos": [
+    "Flames of Phlegethos"
+  ],
+  "keen i": [
+    "Keen Mind"
+  ],
+  "dwarf": [
+    "Dwarf Resilience"
+  ],
+  "sharp": [
+    "Sharpshooter"
+  ],
+  "naturalist": [
+    "Naturalist"
+  ],
+  "huntersmark": [
+    "Burglar"
+  ],
+  "tavern brawler": [
+    "Tavern Brawler"
+  ],
+  "great weapon": [
+    "Great Weapon Master"
+  ],
+  "Savage": [
+    "Savage Attacker"
+  ],
+  "critter freind": [
+    "Critter Friend"
+  ],
+  "silver-tongued": [
+    "Silver-Tongued"
+  ],
+  "polearm mastery": [
+    "Polearm Master"
+  ],
+  "dual wield": [
+    "Dual Wielder"
+  ],
+  "Dexterity": [
+    "Human Determination"
+  ],
+  "human": [
+    "Human Determination"
+  ],
+  "every": [
+    "Everybody's Friend"
+  ],
+  "da]gbzu]bsuhgs]fhfg]hfs]hffs": [
+    "Dragon Wings"
+  ],
+  "AHHSFUAHAAU": [
+    "Savage Attacker"
+  ],
+  "charm": [
+    "Actor"
+  ],
+  "aFHUJHUJDHUFHUFDHUFDHUFDH#": [
+    "Master of Disguise"
+  ],
+  "barbed hide": [
+    "Barbed Hide"
+  ],
+  "browny": [
+    "Brawny"
+  ],
+  "Druid Wild Sape": [
+    "Dual Wielder"
+  ],
+  "wild Shape": [
+    "Dual Wielder"
+  ],
+  "defensive": [
+    "Defensive Duelist"
+  ],
+  "War Caster": [
+    "War Caster"
+  ],
+  "great weapon fighting": [
+    "Great Weapon Master"
+  ],
+  "reckless attack": [
+    "Savage Attacker"
+  ],
+  "savage": [
+    "Savage Attacker"
+  ],
+  "great weapon master": [
+    "Great Weapon Master"
+  ],
+  "animal": [
+    "Animal Handler"
+  ],
+  "servo": [
+    "Servo Crafting"
+  ],
+  "Alert": [
+    "Alert"
+  ],
+  "charge": [
+    "Charger"
+  ],
+  "Sharpshooter": [
+    "Sharpshooter"
+  ],
+  "mage sl": [
+    "Mage Slayer"
+  ],
+  "fell handed": [
+    "Fell Handed"
+  ],
+  "polearm sentinel": [
+    "Polearm Master"
+  ],
+  "elven": [
+    "Elven Accuracy"
+  ],
+  "actor": [
+    "Actor"
+  ],
+  "ritual cast": [
+    "Ritual Caster"
+  ],
+  "Spell Sniper": [
+    "Spell Sniper"
+  ],
+  "middle armor": [
+    "Medium Armor Master"
+  ],
+  "pole arm": [
+    "Polearm Master"
+  ],
+  "inspiring leader": [
+    "Inspiring Leader"
+  ],
+  "svirfneblin": [
+    "Svirfneblin Magic"
+  ],
+  "\"heavy armor master\"": [
+    "Heavy Armor Master"
+  ],
+  "spellhanded": [
+    "Fell Handed"
+  ],
+  "empathetic": [
+    "Empathic"
+  ],
+  "Tough": [
+    "Tough"
+  ],
+  "Bountiful Luck": [
+    "Bountiful Luck"
+  ],
+  "shieldmaster": [
+    "Shield Master"
+  ],
+  "percep": [
+    "Perceptive"
+  ],
+  "medium armor": [
+    "Medium Armor Master"
+  ],
+  "brawny": [
+    "Brawny"
+  ],
+  "defensive duellist": [
+    "Defensive Duelist"
+  ],
+  "mounted combatant": [
+    "Mounted Combatant"
+  ],
+  "magic initia": [
+    "Magic Initiate"
+  ],
+  "skulked": [
+    "Skulker"
+  ],
+  "silver": [
+    "Silver-Tongued"
+  ],
+  "sen": [
+    "Sentinel"
+  ],
+  "brawler": [
+    "Tavern Brawler"
+  ],
+  "weapon master": [
+    "Weapon Master"
+  ],
+  "martial training": [
+    "Martial Adept"
+  ],
+  "dungeon": [
+    "Dungeon Delver"
+  ],
+  "m armor mastery": [
+    "Medium Armor Master"
+  ],
+  "spear mastery": [
+    "Spear Mastery"
+  ],
+  "element adept": [
+    "Elemental Adept"
+  ],
+  "medic": [
+    "Medic"
+  ],
+  "Resilient": [
+    "Resilient"
+  ],
+  "Aberrant Dragonmark": [
+    "Aberrant Dragonmark"
+  ],
+  "Elven accuracy": [
+    "Elven Accuracy"
+  ],
+  "dwarven fortitude": [
+    "Dwarven Fortitude"
+  ],
+  "empathy": [
+    "Empathic"
+  ],
+  "inspir": [
+    "Inspiring Leader"
+  ],
+  "prodig": [
+    "Prodigy"
+  ],
+  "martial adept": [
+    "Martial Adept"
+  ],
+  "Svirfneblin Magic": [
+    "Svirfneblin Magic"
+  ],
+  "observa": [
+    "Observant"
+  ],
+  "dip": [
+    "Diplomat"
+  ],
+  "dragonmark of warding": [
+    "Dragonmark of Warding"
+  ],
+  "mount": [
+    "Mounted Combatant"
+  ],
+  "Elven Accuracy": [
+    "Elven Accuracy"
+  ],
+  "\"Squat Nimbeness\"": [
+    "Squat Nimbleness"
+  ],
+  "Infernal Constitution": [
+    "Infernal Constitution"
+  ],
+  "Flames of Phlegethos": [
+    "Flames of Phlegethos"
+  ],
+  "Infernal": [
+    "Infernal Constitution"
+  ],
+  "res": [
+    "Resilient"
+  ],
+  "mercenary": [
+    "Spear Mastery"
+  ],
+  "perc": [
+    "Perceptive"
+  ],
+  "observ": [
+    "Observant"
+  ],
+  "resilient con": [
+    "Resilient"
+  ],
+  "surviv": [
+    "Survivalist"
+  ],
+  "empat": [
+    "Empathic"
+  ],
+  "duel weildin": [
+    "Dual Wielder"
+  ],
+  "natural": [
+    "Naturalist"
+  ],
+  "attack": [
+    "Savage Attacker"
+  ],
+  "Inspiring Leader": [
+    "Inspiring Leader"
+  ],
+  "\"Inspiring Leader\"": [
+    "Inspiring Leader"
+  ],
+  "athlet": [
+    "Athlete"
+  ],
+  "magic ini": [
+    "Magic Initiate"
+  ],
+  "heavy master": [
+    "Heavy Armor Master"
+  ],
+  "stealthy": [
+    "Stealthy"
+  ],
+  "inspiri": [
+    "Inspiring Leader"
+  ],
+  "Crossbow Expert": [
+    "Crossbow Expert"
+  ],
+  "sniper": [
+    "Spell Sniper"
+  ],
+  "Lucky": [
+    "Lucky"
+  ],
+  "arcaster": [
+    "War Caster"
+  ],
+  "dwarven resilience": [
+    "Dwarf Resilience"
+  ],
+  "dual w": [
+    "Dual Wielder"
+  ],
+  "elem": [
+    "Elemental Adept"
+  ],
+  "alchemist": [
+    "Alchemist"
+  ],
+  "Great Weapon Fighting": [
+    "Great Weapon Master"
+  ],
+  "skulk": [
+    "Skulker"
+  ],
+  "crossbow mastery": [
+    "Crossbow Expert"
+  ],
+  "teleportation": [
+    "Fey Teleportation"
+  ],
+  "destroy u": [
+    "Dragon Fear"
+  ],
+  "Mage": [
+    "Mage Slayer"
+  ],
+  "acrot": [
+    "Actor"
+  ],
+  "everybody's": [
+    "Everybody's Friend"
+  ],
+  "snip": [
+    "Spell Sniper"
+  ],
+  "elemental ad": [
+    "Elemental Adept"
+  ],
+  "Dragon Hide": [
+    "Dragon Hide"
+  ],
+  "Infernal Const": [
+    "Infernal Constitution"
+  ],
+  "Flames of Phelgethos": [
+    "Flames of Phlegethos"
+  ],
+  "duel wielding": [
+    "Dual Wielder"
+  ],
+  "defen": [
+    "Defensive Duelist"
+  ],
+  "duel": [
+    "Defensive Duelist"
+  ],
+  "Arcanist": [
+    "Arcanist"
+  ],
+  "Investigator": [
+    "Investigator"
+  ],
+  "Theologist": [
+    "Theologian"
+  ],
+  "Grappler": [
+    "Grappler"
+  ],
+  "defens": [
+    "Defensive Duelist"
+  ],
+  "wonder maker": [
+    "Wonder Maker"
+  ],
+  "perceptive": [
+    "Perceptive"
+  ],
+  "elven accuracy c": [
+    "Elven Accuracy"
+  ],
+  "ling": [
+    "Linguist"
+  ],
+  "magic initiative": [
+    "Magic Initiate"
+  ],
+  "revenant": [
+    "Revenant Blade"
+  ],
+  "duelist": [
+    "Defensive Duelist"
+  ],
+  "reven": [
+    "Revenant Blade"
+  ],
+  "elve": [
+    "Elven Accuracy"
+  ],
+  "Vampiric Exultation": [
+    "Vampiric Exultation"
+  ],
+  "theologian": [
+    "Theologian"
+  ],
+  "dual wieldi g": [
+    "Wood Elf Magic"
+  ],
+  "observer": [
+    "Observant"
+  ],
+  "bount": [
+    "Bountiful Luck"
+  ],
+  "Infernal Cons": [
+    "Infernal Constitution"
+  ],
+  "Flames ofPhel": [
+    "Flames of Phlegethos"
+  ],
+  "medium arm": [
+    "Medium Armor Master"
+  ],
+  "cross": [
+    "Crossbow Expert"
+  ],
+  "polearm monster": [
+    "Polearm Master"
+  ],
+  "Magic initiate": [
+    "Magic Initiate"
+  ],
+  "deter": [
+    "Human Determination"
+  ],
+  "blad": [
+    "Revenant Blade"
+  ],
+  "leaders": [
+    "Inspiring Leader"
+  ],
+  "fell": [
+    "Fell Handed"
+  ],
+  "Tavern Brawler": [
+    "Tavern Brawler"
+  ],
+  "initiate": [
+    "Magic Initiate"
+  ],
+  "Defensive Duelist": [
+    "Defensive Duelist"
+  ],
+  "empathic": [
+    "Empathic"
+  ],
+  "pro": [
+    "Prodigy"
+  ],
+  "pole arm master": [
+    "Polearm Master"
+  ],
+  "blade m": [
+    "Blade Mastery"
+  ],
+  "Great Weapon Master": [
+    "Great Weapon Master"
+  ],
+  "dragon wi": [
+    "Dragon Wings"
+  ],
+  "Athlete": [
+    "Athlete"
+  ],
+  "Dungeon Delver": [
+    "Dungeon Delver"
+  ],
+  "Heavy Armor Master": [
+    "Heavy Armor Master"
+  ],
+  "dual wi": [
+    "Dual Wielder"
+  ],
+  "Polearm mastery": [
+    "Polearm Master"
+  ],
+  "squat nimble": [
+    "Squat Nimbleness"
+  ],
+  "brawn": [
+    "Brawny"
+  ],
+  "atle": [
+    "Athlete"
+  ],
+  "percept": [
+    "Perceptive"
+  ],
+  "alertness": [
+    "Alert"
+  ],
+  "ki": [
+    "Greater Dragonmark (Making)"
+  ],
+  "quick-fingered": [
+    "Quick-Fingered"
+  ],
+  "mage slsyer": [
+    "Mage Slayer"
+  ],
+  "Medium armor master": [
+    "Medium Armor Master"
+  ],
+  "sharpshoote": [
+    "Sharpshooter"
+  ],
+  "obser": [
+    "Observant"
+  ],
+  "aberrant tumor": [
+    "Aberrant Dragonmark"
+  ],
+  "Prodigy": [
+    "Prodigy"
+  ],
+  "lead": [
+    "Inspiring Leader"
+  ],
+  "senti": [
+    "Sentinel"
+  ],
+  "stealth": [
+    "Stealthy"
+  ],
+  "talk": [
+    "Lucky"
+  ],
+  "natrualist": [
+    "Naturalist"
+  ],
+  "w": [
+    "Wonder Maker"
+  ],
+  "people": [
+    "Healer"
+  ],
+  "gourmond": [
+    "Gourmand"
+  ],
+  "heavily": [
+    "Heavily Armored"
+  ],
+  "Shield master": [
+    "Shield Master"
+  ],
+  "dual wielding": [
+    "Dual Wielder"
+  ],
+  "Flames of Plegethos": [
+    "Flames of Phlegethos"
+  ],
+  "heavy armour master": [
+    "Heavy Armor Master"
+  ],
+  "tavern fighter": [
+    "Tavern Brawler"
+  ],
+  "mounted comb": [
+    "Mounted Combatant"
+  ],
+  "elemntal adep": [
+    "Elemental Adept"
+  ],
+  "mage in": [
+    "Magic Initiate"
+  ],
+  "dwarven": [
+    "Dwarven Fortitude"
+  ],
+  "monted combatant": [
+    "Mounted Combatant"
+  ],
+  "sharpshoter": [
+    "Sharpshooter"
+  ],
+  "grapple": [
+    "Grappler"
+  ],
+  "resilience": [
+    "Dwarf Resilience"
+  ],
+  "drow": [
+    "Drow High Magic"
+  ],
+  "elf": [
+    "Wood Elf Magic"
+  ],
+  "shoeld Master": [
+    "Shield Master"
+  ],
+  "duel wielder": [
+    "Dual Wielder"
+  ],
+  "resliant": [
+    "Resilient"
+  ],
+  "elemental adapt": [
+    "Elemental Adept"
+  ],
+  "Warcaster": [
+    "War Caster"
+  ],
+  "shielf": [
+    "Shield Master"
+  ],
+  "Shieldmaster": [
+    "Shield Master"
+  ],
+  "trickery domain": [
+    "Greater Dragonmark (Making)"
+  ],
+  "Bountiful luck": [
+    "Bountiful Luck"
+  ],
+  "sheild mastery": [
+    "Shield Master"
+  ],
+  "elementally adapt": [
+    "Elemental Adept"
+  ],
+  "<lucky>": [
+    "Lucky"
+  ],
+  "natur": [
+    "Naturalist"
+  ],
+  "Keen mind": [
+    "Keen Mind"
+  ],
+  "spearmastery": [
+    "Spear Mastery"
+  ],
+  "Martial Adept": [
+    "Martial Adept"
+  ],
+  "dualwielder": [
+    "Dual Wielder"
+  ],
+  "Bountiful_luck": [
+    "Bountiful Luck"
+  ],
+  "athete": [
+    "Athlete"
+  ],
+  "tavern beawler": [
+    "Tavern Brawler"
+  ],
+  "powerattack": [
+    "Savage Attacker"
+  ],
+  "medium Armor": [
+    "Medium Armor Master"
+  ],
+  "moderately": [
+    "Moderately Armored"
+  ],
+  "resi con": [
+    "Resilient"
+  ],
+  "dragon wings": [
+    "Dragon Wings"
+  ],
+  "prodify": [
+    "Barbed Hide"
+  ],
+  "infernal constitution": [
+    "Infernal Constitution"
+  ],
+  "arcan": [
+    "Arcanist"
+  ],
+  "squat ni": [
+    "Squat Nimbleness"
+  ],
+  "word": [
+    "Prodigy"
+  ],
+  "elven Accuracy": [
+    "Elven Accuracy"
+  ],
+  "Everybody's Friend": [
+    "Everybody's Friend"
+  ],
+  "fade away": [
+    "Fade Away"
+  ],
+  "polarm master": [
+    "Polearm Master"
+  ],
+  "Crossbow Master": [
+    "Crossbow Expert"
+  ],
+  "quick fingered": [
+    "Quick-Fingered"
+  ],
+  "grat weapon master": [
+    "Heavy Armor Master"
+  ],
+  "Dadless Loser": [
+    "Flail Mastery"
+  ],
+  "tanakun blood": [
+    "Revenant Blade"
+  ],
+  "athe": [
+    "Athlete"
+  ],
+  "Drow High Magic": [
+    "Drow High Magic"
+  ],
+  "defensive duwlist": [
+    "Defensive Duelist"
+  ],
+  "Linguist": [
+    "Linguist"
+  ],
+  "Phlegethos": [
+    "Flames of Phlegethos"
+  ],
+  "infernal": [
+    "Infernal Constitution"
+  ],
+  "infernal con": [
+    "Infernal Constitution"
+  ],
+  "spear fighter": [
+    "Spear Mastery"
+  ],
+  "servo crafting": [
+    "Servo Crafting"
+  ],
+  "Infernal Con": [
+    "Infernal Constitution"
+  ],
+  "Inspiring leader": [
+    "Inspiring Leader"
+  ],
+  "Spell sniper": [
+    "Spell Sniper"
+  ],
+  "squa": [
+    "Squat Nimbleness"
+  ],
+  "infernal resistance": [
+    "Infernal Constitution"
+  ],
+  "nimble squatness": [
+    "Squat Nimbleness"
+  ],
+  "resil": [
+    "Resilient"
+  ],
+  "Savage attacker": [
+    "Savage Attacker"
+  ],
+  "vengeful glare": [
+    "Revenant Blade"
+  ],
+  "Polearm": [
+    "Polearm Master"
+  ],
+  "orcish aggression": [
+    "Orcish Aggression"
+  ],
+  "Mage slayer": [
+    "Mage Slayer"
+  ],
+  "Shield Master": [
+    "Shield Master"
+  ],
+  "War caster": [
+    "War Caster"
+  ],
+  "polearm mas": [
+    "Polearm Master"
+  ],
+  "fell ha": [
+    "Fell Handed"
+  ],
+  "Human Determination": [
+    "Human Determination"
+  ],
+  "heavy ar": [
+    "Heavy Armor Master"
+  ],
+  "Predatoru": [
+    "Investigator"
+  ],
+  "spell": [
+    "Spell Sniper"
+  ],
+  "phle": [
+    "Flames of Phlegethos"
+  ],
+  "portention": [
+    "Human Determination"
+  ],
+  "aberrant": [
+    "Aberrant Dragonmark"
+  ],
+  "Two": [
+    "Tough"
+  ],
+  "Fight": [
+    "Lightly Armored"
+  ],
+  "Weapon": [
+    "Great Weapon Master"
+  ],
+  "Crossbow": [
+    "Crossbow Expert"
+  ],
+  "Expert": [
+    "Crossbow Expert"
+  ],
+  "Sentinel": [
+    "Sentinel"
+  ],
+  "Master": [
+    "Blade Mastery"
+  ],
+  "flail": [
+    "Flail Mastery"
+  ],
+  "warcast": [
+    "War Caster"
+  ],
+  "flames of plegethos": [
+    "Flames of Phlegethos"
+  ],
+  "dunge": [
+    "Dungeon Delver"
+  ],
+  "dungeon delv": [
+    "Dungeon Delver"
+  ],
+  "crossbow ma": [
+    "Crossbow Expert"
+  ],
+  "historian": [
+    "Historian"
+  ],
+  "fell hand": [
+    "Fell Handed"
+  ],
+  "sentonel": [
+    "Sentinel"
+  ],
+  "sheild master": [
+    "Shield Master"
+  ],
+  "war casting": [
+    "War Caster"
+  ],
+  "sharpened": [
+    "Fell Handed"
+  ],
+  "Ritual caster": [
+    "Ritual Caster"
+  ],
+  "crosbo": [
+    "Crossbow Expert"
+  ],
+  "Warchaster": [
+    "War Caster"
+  ],
+  "magic int": [
+    "Magic Initiate"
+  ],
+  "dragon scales": [
+    "Dragon Hide"
+  ],
+  "lay": [
+    "Mage Slayer"
+  ],
+  "silver tounge": [
+    "Silver-Tongued"
+  ],
+  "dungeon del": [
+    "Dungeon Delver"
+  ],
+  "green": [
+    "Resilient"
+  ],
+  "dual weilding": [
+    "Dual Wielder"
+  ],
+  "Shield": [
+    "Shield Master"
+  ],
+  "bountiful": [
+    "Bountiful Luck"
+  ],
+  "everybody": [
+    "Everybody's Friend"
+  ],
+  "moble": [
+    "Mobile"
+  ],
+  "polearm madter": [
+    "Polearm Master"
+  ],
+  "crossbow ex": [
+    "Crossbow Expert"
+  ],
+  "grapp": [
+    "Grappler"
+  ],
+  "gnomish cunning": [
+    "Dragon Wings"
+  ],
+  "def": [
+    "Defensive Duelist"
+  ],
+  "warcaste": [
+    "War Caster"
+  ],
+  "fellhanded": [
+    "Fell Handed"
+  ],
+  "critter friend": [
+    "Critter Friend"
+  ],
+  "eyes of the rune": [
+    "Flames of Phlegethos"
+  ],
+  "tav": [
+    "Tavern Brawler"
+  ],
+  "mind": [
+    "Keen Mind"
+  ],
+  "baker": [
+    "Burglar"
+  ],
+  "gourmet": [
+    "Gourmand"
+  ],
+  "grap": [
+    "Grappler"
+  ],
+  "inspirin": [
+    "Inspiring Leader"
+  ],
+  "Actor": [
+    "Actor"
+  ],
+  "Heavily Armored": [
+    "Heavily Armored"
+  ],
+  "set": [
+    "Sentinel"
+  ],
+  "Elemental Adapt": [
+    "Elemental Adept"
+  ],
+  "flames of phl": [
+    "Flames of Phlegethos"
+  ],
+  "accuracy": [
+    "Elven Accuracy"
+  ],
+  "marksman": [
+    "Gourmand"
+  ],
+  "weapons master": [
+    "Weapon Master"
+  ],
+  "Crossbow expert": [
+    "Crossbow Expert"
+  ],
+  "Martial adept": [
+    "Martial Adept"
+  ],
+  "Diplomat": [
+    "Diplomat"
+  ],
+  "primeval awareness": [
+    "Animal Handler"
+  ],
+  "linguistic": [
+    "Linguist"
+  ],
+  "sheild": [
+    "Shield Master"
+  ],
+  "barbed": [
+    "Barbed Hide"
+  ],
+  "flames of plegethus": [
+    "Flames of Phlegethos"
+  ],
+  "defensive duel": [
+    "Defensive Duelist"
+  ],
+  "war cas": [
+    "War Caster"
+  ],
+  "medium armr": [
+    "Medium Armor Master"
+  ],
+  "bar brawler": [
+    "Tavern Brawler"
+  ],
+  "Great Weapons": [
+    "Great Weapon Master"
+  ],
+  "flames of ph": [
+    "Flames of Phlegethos"
+  ],
+  "Linguistic": [
+    "Linguist"
+  ],
+  "Medic": [
+    "Medic"
+  ],
+  "Trap": [
+    "Naturalist"
+  ],
+  "anthropologist": [
+    "Naturalist"
+  ],
+  "inves": [
+    "Investigator"
+  ],
+  "blade master": [
+    "Blade Mastery"
+  ],
+  "linguisy": [
+    "Linguist"
+  ],
+  "grudge": [
+    "Grudge-Bearer"
+  ],
+  "second": [
+    "Second Chance"
+  ],
+  "com": [
+    "Mounted Combatant"
+  ],
+  "greater mark of hosp": [
+    "Greater Dragonmark (Hospitality)"
+  ],
+  "mageslayer": [
+    "Mage Slayer"
+  ],
+  "Magic Initiate": [
+    "Magic Initiate"
+  ],
+  "tavern b": [
+    "Tavern Brawler"
+  ],
+  "arcane": [
+    "Arcanist"
+  ],
+  "magic initiat": [
+    "Magic Initiate"
+  ],
+  "Observa": [
+    "Observant"
+  ],
+  "greats weapon master": [
+    "Great Weapon Master"
+  ],
+  "critter": [
+    "Critter Friend"
+  ],
+  "grappled": [
+    "Grappler"
+  ],
+  "Quick Fingered": [
+    "Quick-Fingered"
+  ],
+  "Sharp": [
+    "Sharpshooter"
+  ],
+  "moderately armoured": [
+    "Moderately Armored"
+  ],
+  "observat": [
+    "Observant"
+  ],
+  "obse": [
+    "Observant"
+  ],
+  "Dragonmark": [
+    "Aberrant Dragonmark"
+  ],
+  "bap": [
+    "Observant"
+  ],
+  "luring song": [
+    "Silver-Tongued"
+  ],
+  "ni": [
+    "Squat Nimbleness"
+  ],
+  "dodg": [
+    "Prodigy"
+  ],
+  "acro": [
+    "Acrobat"
+  ],
+  "Performer": [
+    "Performer"
+  ],
+  "bladw": [
+    "Blade Mastery"
+  ],
+  "expert": [
+    "Crossbow Expert"
+  ],
+  "po": [
+    "Great Weapon Master"
+  ],
+  "war mage": [
+    "War Caster"
+  ],
+  "prodigy xge": [
+    "Prodigy"
+  ],
+  "ma": [
+    "Magic Initiate"
+  ],
+  "me": [
+    "Menacing"
+  ],
+  "combat": [
+    "Mounted Combatant"
+  ],
+  "greaterweapon": [
+    "Great Weapon Master"
+  ],
+  "magic inatie (wixard)": [
+    "Magic Initiate"
+  ],
+  "greater weapon": [
+    "Great Weapon Master"
+  ],
+  "double": [
+    "Dual Wielder"
+  ],
+  "manacing": [
+    "Menacing"
+  ],
+  "war cast": [
+    "War Caster"
+  ],
+  "Blade mastery": [
+    "Blade Mastery"
+  ],
+  "war c": [
+    "War Caster"
+  ],
+  "intitate": [
+    "Magic Initiate"
+  ],
+  "dat ass": [
+    "Squat Nimbleness"
+  ],
+  "fuck you": [
+    "Lucky"
+  ],
+  "tavern brawl": [
+    "Tavern Brawler"
+  ],
+  "silver tongued": [
+    "Silver-Tongued"
+  ],
+  "Silvertongued": [
+    "Silver-Tongued"
+  ],
+  "everyone's voice": [
+    "Everybody's Friend"
+  ],
+  "Mobil": [
+    "Mobile"
+  ],
+  "dugeon delver": [
+    "Dungeon Delver"
+  ],
+  "weaponmast": [
+    "Weapon Master"
+  ],
+  "mage slayet": [
+    "Mage Slayer"
+  ],
+  "master of intrigue": [
+    "Master of Disguise"
+  ],
+  "diplo": [
+    "Diplomat"
+  ],
+  "revenant flourish": [
+    "Revenant Blade"
+  ],
+  "constitution": [
+    "Infernal Constitution"
+  ],
+  "resiliency": [
+    "Resilient"
+  ],
+  "gourma": [
+    "Gourmand"
+  ],
+  "marti": [
+    "Martial Adept"
+  ],
+  "Acrobat": [
+    "Acrobat"
+  ],
+  "elv": [
+    "Elven Accuracy"
+  ],
+  "reselient": [
+    "Resilient"
+  ],
+  "infernal constitutikn": [
+    "Infernal Constitution"
+  ],
+  "sharpshoo": [
+    "Sharpshooter"
+  ],
+  "Alchemist": [
+    "Alchemist"
+  ],
+  "crossbkw": [
+    "Crossbow Expert"
+  ],
+  "skulker <@!381270758481199104>": [
+    "Skulker"
+  ],
+  "Fae Teleportation": [
+    "Fey Teleportation"
+  ],
+  "Mage Slayer": [
+    "Mage Slayer"
+  ],
+  "elemntal": [
+    "Elemental Adept"
+  ],
+  "insp": [
+    "Inspiring Leader"
+  ],
+  "dragon wing": [
+    "Dragon Wings"
+  ],
+  "Athelete": [
+    "Stealthy"
+  ],
+  "Athleate": [
+    "Athlete"
+  ],
+  "sharpsho": [
+    "Sharpshooter"
+  ],
+  "Dragonborns": [
+    "Dragon Wings"
+  ],
+  "progidy": [
+    "Prodigy"
+  ],
+  "menace": [
+    "Menacing"
+  ],
+  "crossbow master": [
+    "Crossbow Expert"
+  ],
+  "Medium": [
+    "Medium Armor Master"
+  ],
+  "Moderately": [
+    "Moderately Armored"
+  ],
+  "Heavy Ar": [
+    "Heavy Armor Master"
+  ],
+  "sharpshot": [
+    "Sharpshooter"
+  ],
+  "mage slay": [
+    "Mage Slayer"
+  ],
+  "elven ac": [
+    "Elven Accuracy"
+  ],
+  "crossbow e": [
+    "Crossbow Expert"
+  ],
+  "sharpsh": [
+    "Sharpshooter"
+  ],
+  "sneaky": [
+    "Stealthy"
+  ],
+  "grreat weapon": [
+    "Great Weapon Master"
+  ],
+  "obervant": [
+    "Observant"
+  ],
+  "medium": [
+    "Medium Armor Master"
+  ],
+  "moderate": [
+    "Moderately Armored"
+  ],
+  "historian.": [
+    "Historian"
+  ],
+  "wood elf magic": [
+    "Wood Elf Magic"
+  ],
+  "cros": [
+    "Crossbow Expert"
+  ],
+  "mounted com": [
+    "Mounted Combatant"
+  ],
+  "warc": [
+    "War Caster"
+  ],
+  "pacifistic": [
+    "Empathic"
+  ],
+  "flames of flegethos": [
+    "Flames of Phlegethos"
+  ],
+  "Flames of phlegethos": [
+    "Flames of Phlegethos"
+  ],
+  "Infernal constitution": [
+    "Infernal Constitution"
+  ],
+  "linguist#": [
+    "Linguist"
+  ],
+  "spell snipper": [
+    "Spell Sniper"
+  ],
+  "radiant soul": [
+    "Dwarven Fortitude"
+  ],
+  "warcas": [
+    "War Caster"
+  ],
+  "Mena": [
+    "Menacing"
+  ],
+  "mena": [
+    "Menacing"
+  ],
+  "Magical Initiate": [
+    "Magic Initiate"
+  ],
+  "Theolgian": [
+    "Theologian"
+  ],
+  "edgy": [
+    "Menacing"
+  ],
+  "survivalist": [
+    "Survivalist"
+  ],
+  "duel wielded": [
+    "Dual Wielder"
+  ],
+  "investigator": [
+    "Investigator"
+  ],
+  "rapier mastery": [
+    "Blade Mastery"
+  ],
+  "Blade Mast": [
+    "Blade Mastery"
+  ],
+  "skulkers": [
+    "Skulker"
+  ],
+  "greatweapon master": [
+    "Great Weapon Master"
+  ],
+  "Aberrant": [
+    "Aberrant Dragonmark"
+  ],
+  "Greater Dragonmark (Making)": [
+    "Greater Dragonmark (Making)"
+  ],
+  "great weapon mastery": [
+    "Great Weapon Master"
+  ],
+  "grud": [
+    "Grudge-Bearer"
+  ],
+  "mob": [
+    "Mobile"
+  ],
+  "dw": [
+    "Dwarven Fortitude"
+  ],
+  "Polearm Mastery": [
+    "Polearm Master"
+  ],
+  "Blade": [
+    "Blade Mastery"
+  ],
+  "Defensive": [
+    "Defensive Duelist"
+  ],
+  "heavily armored": [
+    "Heavily Armored"
+  ],
+  "Heavy armor master": [
+    "Heavy Armor Master"
+  ],
+  "polearm expert": [
+    "Polearm Master"
+  ],
+  "great weaponmaster": [
+    "Great Weapon Master"
+  ],
+  "Weapon master": [
+    "Weapon Master"
+  ],
+  "material arts": [
+    "Martial Adept"
+  ],
+  "secoms chance": [
+    "Second Chance"
+  ],
+  "Squat nimbleness": [
+    "Squat Nimbleness"
+  ],
+  "aberrant dragonmark": [
+    "Aberrant Dragonmark"
+  ],
+  "forti": [
+    "Dwarven Fortitude"
+  ],
+  "pole arm mastery": [
+    "Polearm Master"
+  ],
+  "making": [
+    "Dragonmark of Making"
+  ],
+  "crosbow": [
+    "Crossbow Expert"
+  ],
+  "spell slinger": [
+    "Spell Sniper"
+  ],
+  "initi": [
+    "Magic Initiate"
+  ],
+  "bow": [
+    "Crossbow Expert"
+  ],
+  "ple": [
+    "Grappler"
+  ],
+  "psychologist": [
+    "Linguist"
+  ],
+  "armed": [
+    "Charger"
+  ],
+  "commander": [
+    "Wonder Maker"
+  ],
+  "animal handler": [
+    "Animal Handler"
+  ],
+  "silvered": [
+    "Silver-Tongued"
+  ],
+  "orchis aggression": [
+    "Orcish Fury"
+  ],
+  "strong swimmer": [
+    "Master of Disguise"
+  ],
+  "gour": [
+    "Gourmand"
+  ],
+  "performaer": [
+    "Performer"
+  ],
+  "Survivalist": [
+    "Survivalist"
+  ],
+  "Naturalist": [
+    "Naturalist"
+  ],
+  "acrobatist": [
+    "Acrobat"
+  ],
+  "fast hands": [
+    "Animal Handler"
+  ],
+  "add Warcaster": [
+    "War Caster"
+  ],
+  "medicine": [
+    "Medic"
+  ],
+  "guided": [
+    "Dual Wielder"
+  ],
+  "sharphooter": [
+    "Sharpshooter"
+  ],
+  "spell sni": [
+    "Spell Sniper"
+  ],
+  "crossbo": [
+    "Crossbow Expert"
+  ],
+  "athelete": [
+    "Athlete"
+  ],
+  "martial ad": [
+    "Martial Adept"
+  ],
+  "crossbow exp": [
+    "Crossbow Expert"
+  ],
+  "resialient": [
+    "Resilient"
+  ],
+  "el": [
+    "Fey Teleportation"
+  ],
+  "elemental affinity": [
+    "Elemental Adept"
+  ],
+  "lcuky": [
+    "Lucky"
+  ],
+  "bontiful": [
+    "Bountiful Luck"
+  ],
+  "exotic weapon": [
+    "Theologian"
+  ],
+  "Fey Telelportation": [
+    "Fey Teleportation"
+  ],
+  "wing": [
+    "Dragon Wings"
+  ],
+  "outsider wings": [
+    "Dragon Wings"
+  ],
+  "wings": [
+    "Dragon Wings"
+  ],
+  "human determinatio": [
+    "Human Determination"
+  ],
+  "skillet": [
+    "Skulker"
+  ],
+  "everybody's friend": [
+    "Everybody's Friend"
+  ],
+  "Great weapon": [
+    "Great Weapon Master"
+  ],
+  "mobiile": [
+    "Mobile"
+  ],
+  "\"dual wielder\"": [
+    "Dual Wielder"
+  ],
+  "dragonfear": [
+    "Dragon Fear"
+  ],
+  "prodif": [
+    "Prodigy"
+  ],
+  "lu": [
+    "Lucky"
+  ],
+  "bou": [
+    "Bountiful Luck"
+  ],
+  "whip master": [
+    "Flail Mastery"
+  ],
+  "resilient (Dex": [
+    "Resilient"
+  ],
+  "mounted combat": [
+    "Mounted Combatant"
+  ],
+  "vampiric": [
+    "Vampiric Exultation"
+  ],
+  "everyone": [
+    "Everybody's Friend"
+  ],
+  "epath": [
+    "Empathic"
+  ],
+  "Barbed Hide": [
+    "Barbed Hide"
+  ],
+  "he": [
+    "Heavy Armor Master"
+  ],
+  "sentine": [
+    "Sentinel"
+  ],
+  "Divine smite": [
+    "Svirfneblin Magic"
+  ],
+  "Polearm master": [
+    "Polearm Master"
+  ],
+  "weaponmaster": [
+    "Weapon Master"
+  ],
+  "add sentinel": [
+    "Sentinel"
+  ],
+  "healers": [
+    "Healer"
+  ],
+  "magic initit": [
+    "Magic Initiate"
+  ],
+  "duel weilder": [
+    "Dual Wielder"
+  ],
+  "heavy arm": [
+    "Heavy Armor Master"
+  ],
+  "alter": [
+    "Alert"
+  ],
+  "of smells": [
+    "Fell Handed"
+  ],
+  "hex": [
+    "Alchemist"
+  ],
+  "fear": [
+    "Dragon Fear"
+  ],
+  "dual Wielder": [
+    "Dual Wielder"
+  ],
+  "moblile": [
+    "Mobile"
+  ],
+  "dueler": [
+    "Dual Wielder"
+  ],
+  "sentenal": [
+    "Sentinel"
+  ],
+  "elementa": [
+    "Elemental Adept"
+  ],
+  "mage killer": [
+    "Mage Slayer"
+  ],
+  "Charger": [
+    "Charger"
+  ],
+  "skil": [
+    "Skilled"
+  ],
+  "disguise": [
+    "Master of Disguise"
+  ],
+  "crit": [
+    "Critter Friend"
+  ],
+  "double weild": [
+    "Dual Wielder"
+  ],
+  "sentin": [
+    "Sentinel"
+  ],
+  "wielder": [
+    "Dual Wielder"
+  ],
+  "linguisrt": [
+    "Linguist"
+  ],
+  "Medium ARmor": [
+    "Medium Armor Master"
+  ],
+  "master of disguise": [
+    "Master of Disguise"
+  ],
+  "moderately armor": [
+    "Moderately Armored"
+  ],
+  "Mediun Master": [
+    "Medium Armor Master"
+  ],
+  "double weilder": [
+    "Dual Wielder"
+  ],
+  "stea": [
+    "Stealthy"
+  ],
+  "revena": [
+    "Revenant Blade"
+  ],
+  "\"Heavily Armored\"": [
+    "Heavily Armored"
+  ],
+  "flames of Phlegethos": [
+    "Flames of Phlegethos"
+  ],
+  "war caster is also very good": [
+    "War Caster"
+  ],
+  "Elemental ada": [
+    "Elemental Adept"
+  ],
+  "rev": [
+    "Revenant Blade"
+  ],
+  "Heavily armored": [
+    "Heavily Armored"
+  ],
+  "mage-slayer": [
+    "Mage Slayer"
+  ],
+  "warca": [
+    "War Caster"
+  ],
+  "flail master": [
+    "Flail Mastery"
+  ],
+  "elvish accuracy": [
+    "Elven Accuracy"
+  ],
+  "poleman": [
+    "Polearm Master"
+  ],
+  "nible": [
+    "Squat Nimbleness"
+  ],
+  "Menacing": [
+    "Menacing"
+  ],
+  "Human determination": [
+    "Human Determination"
+  ],
+  "magic initice": [
+    "Magic Initiate"
+  ],
+  "ritual book": [
+    "Ritual Caster"
+  ],
+  "medium armor mas": [
+    "Medium Armor Master"
+  ],
+  "ritual castor": [
+    "Ritual Caster"
+  ],
+  "Dual": [
+    "Dual Wielder"
+  ],
+  "observment": [
+    "Observant"
+  ],
+  "dipl": [
+    "Diplomat"
+  ],
+  "touch": [
+    "Tough"
+  ],
+  "acto": [
+    "Actor"
+  ],
+  "burg": [
+    "Burglar"
+  ],
+  "dwarv": [
+    "Dwarven Fortitude"
+  ],
+  "svirfneblin magic": [
+    "Svirfneblin Magic"
+  ],
+  "empath": [
+    "Empathic"
+  ],
+  "shiel": [
+    "Shield Master"
+  ],
+  "shilld": [
+    "Shield Master"
+  ],
+  "great w": [
+    "Great Weapon Master"
+  ],
+  "revnant blade": [
+    "Revenant Blade"
+  ],
+  "herbalism": [
+    "Healer"
+  ],
+  "herbalism 1": [
+    "Arcanist"
+  ],
+  "elemen": [
+    "Elemental Adept"
+  ],
+  "resiliant": [
+    "Resilient"
+  ],
+  "element": [
+    "Elemental Adept"
+  ],
+  "Squat Nimbleness": [
+    "Squat Nimbleness"
+  ],
+  "martial advantage": [
+    "Martial Adept"
+  ],
+  "wie": [
+    "Dual Wielder"
+  ],
+  "Dwarven Toughness": [
+    "Dwarven Fortitude"
+  ],
+  "shi": [
+    "Shield Master"
+  ],
+  "Dual Wielding": [
+    "Dual Wielder"
+  ],
+  "halberd master": [
+    "Polearm Master"
+  ],
+  "barbes hide": [
+    "Barbed Hide"
+  ],
+  "grudge bearer": [
+    "Grudge-Bearer"
+  ],
+  "flames of faggot": [
+    "Flames of Phlegethos"
+  ],
+  "light": [
+    "Lightly Armored"
+  ],
+  "diploma": [
+    "Diplomat"
+  ],
+  "cg": [
+    "Menacing"
+  ],
+  "Unyielding magic": [
+    "Wood Elf Magic"
+  ],
+  "unyielding magic": [
+    "Shield Master"
+  ],
+  "handy from Varian": [
+    "Human Determination"
+  ],
+  "progify": [
+    "Prodigy"
+  ],
+  "preform": [
+    "Performer"
+  ],
+  "pre": [
+    "Prodigy"
+  ],
+  "warcaster]": [
+    "War Caster"
+  ],
+  "glaive mastery": [
+    "Polearm Master"
+  ],
+  "crossbow mast": [
+    "Crossbow Expert"
+  ],
+  "dragon scale": [
+    "Dragon Hide"
+  ],
+  "Perception": [
+    "Perceptive"
+  ],
+  "minor": [
+    "Investigator"
+  ],
+  "crossbow mas": [
+    "Crossbow Expert"
+  ],
+  "sharpshoot": [
+    "Sharpshooter"
+  ],
+  "theoligain": [
+    "Theologian"
+  ],
+  "wonder": [
+    "Wonder Maker"
+  ],
+  "polea": [
+    "Polearm Master"
+  ],
+  "magi": [
+    "Magic Initiate"
+  ],
+  "ritual  caster": [
+    "Ritual Caster"
+  ],
+  "nimbleness": [
+    "Squat Nimbleness"
+  ],
+  "silver tong": [
+    "Silver-Tongued"
+  ],
+  "elemenal adpe": [
+    "Elemental Adept"
+  ],
+  "lingu": [
+    "Linguist"
+  ],
+  "smart": [
+    "Arcanist"
+  ],
+  "grea": [
+    "Great Weapon Master"
+  ],
+  "Silver": [
+    "Silver-Tongued"
+  ],
+  "diplomatic": [
+    "Diplomat"
+  ],
+  "orcish ag": [
+    "Orcish Aggression"
+  ],
+  "Dual Wiel": [
+    "Dual Wielder"
+  ],
+  "reve": [
+    "Revenant Blade"
+  ],
+  "gor": [
+    "Gourmand"
+  ],
+  "polearmor master": [
+    "Polearm Master"
+  ],
+  "Dual wielder": [
+    "Dual Wielder"
+  ],
+  "shield mast": [
+    "Shield Master"
+  ],
+  "mage initiave": [
+    "Magic Initiate"
+  ],
+  "Ritual Casting": [
+    "Ritual Caster"
+  ],
+  "greatsword mas": [
+    "Great Weapon Master"
+  ],
+  "revenent blade": [
+    "Revenant Blade"
+  ],
+  "human deter": [
+    "Human Determination"
+  ],
+  "greater dragonmark of warding": [
+    "Greater Dragonmark (Warding)"
+  ],
+  "abberant dragonmark": [
+    "Aberrant Dragonmark"
+  ],
+  "Mount": [
+    "Mounted Combatant"
+  ],
+  "mage sla": [
+    "Mage Slayer"
+  ],
+  "tou": [
+    "Tough"
+  ],
+  "Resistance": [
+    "Resilient"
+  ],
+  "quicksmith": [
+    "Quicksmithing"
+  ],
+  "savage attacks": [
+    "Savage Attacker"
+  ],
+  "two weapon fighter": [
+    "Weapon Master"
+  ],
+  "defensive dualist": [
+    "Defensive Duelist"
+  ],
+  "craft": [
+    "Servo Crafting"
+  ],
+  "defensive du": [
+    "Defensive Duelist"
+  ],
+  "tough]": [
+    "Tough"
+  ],
+  "Brawn": [
+    "Brawny"
+  ],
+  "sharps": [
+    "Sharpshooter"
+  ],
+  "Tarven": [
+    "Tavern Brawler"
+  ],
+  "gunsling": [
+    "Dragon Wings"
+  ],
+  "quickdraw": [
+    "Dragon Wings"
+  ],
+  "War": [
+    "War Caster"
+  ],
+  "sharpshooer": [
+    "Sharpshooter"
+  ],
+  "great weapon maser": [
+    "Great Weapon Master"
+  ],
+  "senit": [
+    "Sentinel"
+  ],
+  "psionics": [
+    "Dragon Wings"
+  ],
+  "aler": [
+    "Alert"
+  ],
+  "flail mastery": [
+    "Flail Mastery"
+  ],
+  "banana": [
+    "Arcanist"
+  ],
+  "keen eye": [
+    "Keen Mind"
+  ],
+  "mastee": [
+    "Athlete"
+  ],
+  "unar": [
+    "Alert"
+  ],
+  "Fla": [
+    "Flail Mastery"
+  ],
+  "best friend": [
+    "Everybody's Friend"
+  ],
+  "ritual c": [
+    "Ritual Caster"
+  ],
+  "tavern brawer": [
+    "Tavern Brawler"
+  ],
+  "move": [
+    "Medic"
+  ],
+  "phys": [
+    "Alchemist"
+  ],
+  "close": [
+    "Crossbow Expert"
+  ],
+  "eleme": [
+    "Elemental Adept"
+  ],
+  "multi": [
+    "Empathic"
+  ],
+  "dragon perception": [
+    "Perceptive"
+  ],
+  "muscle": [
+    "Skulker"
+  ],
+  "succes thingies": [
+    "Quick-Fingered"
+  ],
+  "athle": [
+    "Athlete"
+  ],
+  "mantle": [
+    "Animal Handler"
+  ],
+  "crossbow experty": [
+    "Crossbow Expert"
+  ],
+  "liar": [
+    "Burglar"
+  ],
+  "pole weapon": [
+    "Polearm Master"
+  ],
+  "Arcanust": [
+    "Arcanist"
+  ],
+  "Fade away": [
+    "Fade Away"
+  ],
+  "reliable": [
+    "Resilient"
+  ],
+  "relsient": [
+    "Resilient"
+  ],
+  "revanant": [
+    "Revenant Blade"
+  ],
+  "storm aura": [
+    "Wonder Maker"
+  ],
+  "savag": [
+    "Savage Attacker"
+  ],
+  "arcane mastery": [
+    "War Caster"
+  ],
+  "spear mas": [
+    "Spear Mastery"
+  ],
+  "mobi": [
+    "Mobile"
+  ],
+  "mate slayer": [
+    "Mage Slayer"
+  ],
+  "brutal": [
+    "Burglar"
+  ],
+  "Savage Attacker": [
+    "Savage Attacker"
+  ],
+  "Dragon Wings": [
+    "Dragon Wings"
+  ],
+  "comba": [
+    "Mounted Combatant"
+  ],
+  "athletcs": [
+    "Athlete"
+  ],
+  "greater dragon": [
+    "Greater Dragonmark (Hospitality)"
+  ],
+  "addrenilin": [
+    "Resilient"
+  ],
+  "Gnome": [
+    "Dragon Hide"
+  ],
+  "Fade aw": [
+    "Fade Away"
+  ],
+  "Resillient": [
+    "Resilient"
+  ],
+  "oppor": [
+    "Performer"
+  ],
+  "gel hand": [
+    "Fell Handed"
+  ],
+  "combat adept": [
+    "Martial Adept"
+  ],
+  "tavern br": [
+    "Tavern Brawler"
+  ],
+  "spell snipe": [
+    "Spell Sniper"
+  ],
+  "concentration": [
+    "Investigator"
+  ],
+  "knock": [
+    "Keen Mind"
+  ],
+  "takedown": [
+    "Skilled"
+  ],
+  "magical init": [
+    "Magic Initiate"
+  ],
+  "lightly armor": [
+    "Lightly Armored"
+  ],
+  "skukler": [
+    "Skulker"
+  ],
+  "fools luck": [
+    "Orcish Fury"
+  ],
+  "survival": [
+    "Survivalist"
+  ],
+  "charmer": [
+    "Healer"
+  ],
+  "discord": [
+    "Diplomat"
+  ],
+  "kucky": [
+    "Quick-Fingered"
+  ],
+  "bountful luck": [
+    "Bountiful Luck"
+  ],
+  "Fighting Style": [
+    "Flail Mastery"
+  ],
+  "mounted comba": [
+    "Mounted Combatant"
+  ],
+  "muglock": [
+    "Bountiful Luck"
+  ],
+  "battle master": [
+    "Blade Mastery"
+  ],
+  "shield Master": [
+    "Shield Master"
+  ],
+  "polearm mast": [
+    "Polearm Master"
+  ],
+  "observany": [
+    "Observant"
+  ],
+  "Tavern": [
+    "Tavern Brawler"
+  ],
+  "skullker": [
+    "Skulker"
+  ],
+  "flames pleg": [
+    "Flames of Phlegethos"
+  ],
+  "prodi": [
+    "Prodigy"
+  ],
+  "Brawny": [
+    "Brawny"
+  ],
+  "spell Sniper": [
+    "Spell Sniper"
+  ],
+  "bond": [
+    "Dragon Hide"
+  ],
+  "corua": [
+    "Actor"
+  ],
+  "corus": [
+    "Orcish Fury"
+  ],
+  "theo": [
+    "Theologian"
+  ],
+  "svirf": [
+    "Svirfneblin Magic"
+  ],
+  "college": [
+    "Silver-Tongued"
+  ],
+  "lucly": [
+    "Lucky"
+  ],
+  "REVENANT BLADE": [
+    "Revenant Blade"
+  ],
+  "abjure": [
+    "Naturalist"
+  ],
+  "hellish rebuke": [
+    "Orcish Fury"
+  ],
+  "slay": [
+    "Mage Slayer"
+  ],
+  "Mage killer": [
+    "Mage Slayer"
+  ],
+  "divine smite": [
+    "Investigator"
+  ],
+  "sentenel": [
+    "Sentinel"
+  ],
+  "Bend Luck": [
+    "Bountiful Luck"
+  ],
+  "ritual caster wizard": [
+    "Ritual Caster"
+  ],
+  "sentienl": [
+    "Sentinel"
+  ],
+  "combat caster": [
+    "War Caster"
+  ],
+  "diplom": [
+    "Diplomat"
+  ],
+  "urd wings": [
+    "Dragon Wings"
+  ],
+  "aware": [
+    "Alert"
+  ],
+  "flames of phleg": [
+    "Flames of Phlegethos"
+  ],
+  "Fey step": [
+    "Flail Mastery"
+  ],
+  "scour": [
+    "Actor"
+  ],
+  "nimble": [
+    "Squat Nimbleness"
+  ],
+  "mage s": [
+    "Mage Slayer"
+  ],
+  "lin": [
+    "Linguist"
+  ],
+  "Two Weapon": [
+    "Weapon Master"
+  ],
+  "elf mark": [
+    "Wood Elf Magic"
+  ],
+  "discordia": [
+    "Second Chance"
+  ],
+  "perfromer": [
+    "Performer"
+  ],
+  "improved pact weapon": [
+    "Great Weapon Master"
+  ],
+  "du": [
+    "Dual Wielder"
+  ],
+  "human determ": [
+    "Human Determination"
+  ],
+  "dragonic fear": [
+    "Dragon Fear"
+  ],
+  "Perceptive": [
+    "Perceptive"
+  ],
+  "Polearm Master": [
+    "Polearm Master"
+  ],
+  "Catch Off-Guard": [
+    "Quick-Fingered"
+  ],
+  "beast master": [
+    "Blade Mastery"
+  ],
+  "mantle of inspiration": [
+    "Master of Disguise"
+  ],
+  "alart": [
+    "Alert"
+  ],
+  "servo creator": [
+    "Servo Crafting"
+  ],
+  "two-weapon fighting": [
+    "Great Weapon Master"
+  ],
+  "Mounted": [
+    "Mounted Combatant"
+  ],
+  "Pole": [
+    "Polearm Master"
+  ],
+  "Stealthy": [
+    "Stealthy"
+  ],
+  "elemental adpet": [
+    "Elemental Adept"
+  ],
+  "whip mastery": [
+    "Flail Mastery"
+  ],
+  "Prodig": [
+    "Prodigy"
+  ],
+  "Wanderer": [
+    "Grudge-Bearer"
+  ],
+  "dragon skin": [
+    "Dragon Hide"
+  ],
+  "moblie": [
+    "Mobile"
+  ],
+  "chance": [
+    "Second Chance"
+  ],
+  "Drow Magic": [
+    "Drow High Magic"
+  ],
+  "spearmaster": [
+    "Spear Mastery"
+  ],
+  "mediumarmor master": [
+    "Medium Armor Master"
+  ],
+  "quicksmithing": [
+    "Quicksmithing"
+  ],
+  "servocrafting": [
+    "Servo Crafting"
+  ],
+  "mounted combatand": [
+    "Mounted Combatant"
+  ],
+  "Ritual Caster": [
+    "Ritual Caster"
+  ],
+  "Crossbow master": [
+    "Crossbow Expert"
+  ],
+  "snipe": [
+    "Spell Sniper"
+  ],
+  "defensive dual": [
+    "Defensive Duelist"
+  ],
+  "savage attac": [
+    "Savage Attacker"
+  ],
+  "lamce": [
+    "Flail Mastery"
+  ],
+  "Everybody's friend": [
+    "Everybody's Friend"
+  ],
+  "save attacker": [
+    "Savage Attacker"
+  ],
+  "spell initate": [
+    "Magic Initiate"
+  ],
+  "fell-handed": [
+    "Fell Handed"
+  ],
+  "Heavy Armor Mastery": [
+    "Heavy Armor Master"
+  ],
+  "barb": [
+    "Barbed Hide"
+  ],
+  "infer": [
+    "Infernal Constitution"
+  ],
+  "skupker": [
+    "Skulker"
+  ],
+  "polarm": [
+    "Polearm Master"
+  ],
+  "Or": [
+    "Orcish Fury"
+  ],
+  "magic initate": [
+    "Magic Initiate"
+  ],
+  "abberent dragonmark": [
+    "Aberrant Dragonmark"
+  ],
+  "aberrant Dragonmark": [
+    "Aberrant Dragonmark"
+  ],
+  "call of Grummsh": [
+    "Master of Disguise"
+  ],
+  "call of gruumsh": [
+    "Dragonmark of Storm"
+  ],
+  "magicinitiate": [
+    "Magic Initiate"
+  ],
+  "medecine": [
+    "Medic"
+  ],
+  "perform": [
+    "Performer"
+  ],
+  "tavern  brawler": [
+    "Tavern Brawler"
+  ],
+  "perspective": [
+    "Perceptive"
+  ],
+  "persceptive": [
+    "Perceptive"
+  ],
+  "Defense Fighting Style": [
+    "Dwarven Fortitude"
+  ],
+  "heavy armor m": [
+    "Heavy Armor Master"
+  ],
+  "healer kit": [
+    "Healer"
+  ],
+  "dragonmark of shadow": [
+    "Dragonmark of Shadow"
+  ],
+  "dragonmark of detection": [
+    "Dragonmark of Detection"
+  ],
+  "stalker": [
+    "Skulker"
+  ],
+  "strong": [
+    "Prodigy"
+  ],
+  "aberrant dragon mark": [
+    "Aberrant Dragonmark"
+  ],
+  "Medium Armor Master": [
+    "Medium Armor Master"
+  ],
+  "emphatic": [
+    "Empathic"
+  ],
+  "stonecunning": [
+    "Historian"
+  ],
+  "ow": [
+    "Greater Dragonmark (Shadow)"
+  ],
+  "Hide": [
+    "Barbed Hide"
+  ],
+  "Flames": [
+    "Flames of Phlegethos"
+  ],
+  "infenal": [
+    "Infernal Constitution"
+  ],
+  "warmage": [
+    "War Caster"
+  ],
+  "dur": [
+    "Durable"
+  ],
+  "greater weapo": [
+    "Great Weapon Master"
+  ],
+  "mage Slayer": [
+    "Mage Slayer"
+  ],
+  "tavern braw": [
+    "Tavern Brawler"
+  ],
+  "Inspiring Leadership": [
+    "Inspiring Leader"
+  ],
+  "weapon finesse": [
+    "Dragon Wings"
+  ],
+  "protect": [
+    "Prodigy"
+  ],
+  "everyone's friend": [
+    "Everybody's Friend"
+  ],
+  "tought": [
+    "Tough"
+  ],
+  "dwarf toughness": [
+    "Dwarf Resilience"
+  ],
+  "weapon ma": [
+    "Weapon Master"
+  ],
+  "duel weirder": [
+    "Dual Wielder"
+  ],
+  "seentinel": [
+    "Sentinel"
+  ],
+  "poleearm": [
+    "Spear Mastery"
+  ],
+  "lightly": [
+    "Lightly Armored"
+  ],
+  "Brawler": [
+    "Tavern Brawler"
+  ],
+  "squat nimb": [
+    "Squat Nimbleness"
+  ],
+  "insightful": [
+    "Investigator"
+  ],
+  "sentential": [
+    "Sentinel"
+  ],
+  "surge": [
+    "Burglar"
+  ],
+  "investig": [
+    "Investigator"
+  ],
+  "arcanisy": [
+    "Arcanist"
+  ],
+  "diplomat XGE": [
+    "Diplomat"
+  ],
+  "diplomat 2": [
+    "Diplomat"
+  ],
+  "sunlight sensitivity": [
+    "Survivalist"
+  ],
+  "evlen": [
+    "Elven Accuracy"
+  ],
+  "medium ar": [
+    "Medium Armor Master"
+  ],
+  "favored": [
+    "Heavily Armored"
+  ],
+  "durble": [
+    "Durable"
+  ],
+  "martial prowess": [
+    "Martial Adept"
+  ],
+  "sentient": [
+    "Sentinel"
+  ],
+  "animal hand": [
+    "Animal Handler"
+  ],
+  "shieldmater": [
+    "Shield Master"
+  ],
+  "agility": [
+    "Stealthy"
+  ],
+  "tabaxi": [
+    "Barbed Hide"
+  ],
+  "xge": [
+    "Dragon Hide"
+  ],
+  "heale": [
+    "Healer"
+  ],
+  "duelwield": [
+    "Dual Wielder"
+  ],
+  "mage skayer": [
+    "Mage Slayer"
+  ],
+  "\"War caster": [
+    "War Caster"
+  ],
+  "lingui": [
+    "Linguist"
+  ],
+  "Mounted Com": [
+    "Mounted Combatant"
+  ],
+  "vritken": [
+    "Critter Friend"
+  ],
+  "Quicksmithing": [
+    "Quicksmithing"
+  ],
+  "mage\nE": [
+    "Mage Slayer"
+  ],
+  "save": [
+    "Savage Attacker"
+  ],
+  "pickpocket": [
+    "Skulker"
+  ],
+  "stealing": [
+    "Stealthy"
+  ],
+  "dualwield": [
+    "Dual Wielder"
+  ],
+  "vampiric exultation": [
+    "Vampiric Exultation"
+  ],
+  "great weap": [
+    "Great Weapon Master"
+  ],
+  "keenmind": [
+    "Keen Mind"
+  ],
+  "Dual wield": [
+    "Dual Wielder"
+  ],
+  "Defe": [
+    "Defensive Duelist"
+  ],
+  "survivalest": [
+    "Survivalist"
+  ],
+  "flames of phlethgos": [
+    "Flames of Phlegethos"
+  ],
+  "healer's kit": [
+    "Healer"
+  ],
+  "human de": [
+    "Human Determination"
+  ],
+  "snirf": [
+    "Svirfneblin Magic"
+  ],
+  "Duel wield": [
+    "Dual Wielder"
+  ],
+  "tavernbrawler": [
+    "Tavern Brawler"
+  ],
+  "arcaniat": [
+    "Arcanist"
+  ],
+  "polear": [
+    "Polearm Master"
+  ],
+  "sulker": [
+    "Skulker"
+  ],
+  "sentiel": [
+    "Sentinel"
+  ],
+  "Def": [
+    "Defensive Duelist"
+  ],
+  "Greater Dragonmark (Shadow)": [
+    "Greater Dragonmark (Shadow)"
+  ],
+  "\\dragonmark": [
+    "Dragonmark of Shadow"
+  ],
+  "dragonmark det": [
+    "Dragonmark of Detection"
+  ],
+  "owo": [
+    "Theologian"
+  ],
+  "Dragonmark (Passage)": [
+    "Greater Dragonmark (Passage)"
+  ],
+  "dragon pass": [
+    "Dragonmark of Passage"
+  ],
+  "Moderately Armored": [
+    "Moderately Armored"
+  ],
+  "Greater Dragonmark (Passage)": [
+    "Greater Dragonmark (Passage)"
+  ],
+  "iwu": [
+    "Orcish Fury"
+  ],
+  "fury": [
+    "Orcish Fury"
+  ],
+  "thunder cannon": [
+    "Wonder Maker"
+  ],
+  "gunsmith": [
+    "Quicksmithing"
+  ],
+  "Resilent": [
+    "Resilient"
+  ],
+  "histori": [
+    "Historian"
+  ],
+  "hist": [
+    "Historian"
+  ],
+  "histor": [
+    "Historian"
+  ],
+  "Intimidating": [
+    "Menacing"
+  ],
+  "high": [
+    "Drow High Magic"
+  ],
+  "great weappn": [
+    "Great Weapon Master"
+  ],
+  "burgler": [
+    "Burglar"
+  ],
+  "elven acu": [
+    "Elven Accuracy"
+  ],
+  "silver tongues": [
+    "Silver-Tongued"
+  ],
+  "weapon mast": [
+    "Weapon Master"
+  ],
+  "sentienal": [
+    "Sentinel"
+  ],
+  "alche": [
+    "Alchemist"
+  ],
+  "shield mas": [
+    "Shield Master"
+  ],
+  "greater making": [
+    "Greater Dragonmark (Making)"
+  ],
+  "athl": [
+    "Athlete"
+  ],
+  "Wings": [
+    "Dragon Wings"
+  ],
+  "werewolf": [
+    "Servo Crafting"
+  ],
+  "Draconic wings": [
+    "Dragon Wings"
+  ],
+  "greater passa": [
+    "Dragonmark of Passage"
+  ],
+  "greater dragonmark pas": [
+    "Greater Dragonmark (Passage)"
+  ],
+  "inspiring lea": [
+    "Inspiring Leader"
+  ],
+  "mad": [
+    "Empathic"
+  ],
+  "observent": [
+    "Observant"
+  ],
+  "Magic Inn": [
+    "Menacing"
+  ],
+  "Magic In": [
+    "Magic Initiate"
+  ],
+  "snug": [
+    "Quicksmithing"
+  ],
+  "crusade": [
+    "Dragon Hide"
+  ],
+  "bacon": [
+    "Brawny"
+  ],
+  "pet": [
+    "Spear Mastery"
+  ],
+  "gaakt": [
+    "Acrobat"
+  ],
+  "ree": [
+    "Barbed Hide"
+  ],
+  "ride companion": [
+    "Mounted Combatant"
+  ],
+  "mounted adept": [
+    "Mounted Combatant"
+  ],
+  "Luck": [
+    "Lucky"
+  ],
+  "silvered-tongue": [
+    "Silver-Tongued"
+  ],
+  "beserker": [
+    "Spear Mastery"
+  ],
+  "magic initite": [
+    "Magic Initiate"
+  ],
+  "berserker": [
+    "Grudge-Bearer"
+  ],
+  "defensive duell": [
+    "Defensive Duelist"
+  ],
+  "cantrip": [
+    "Arcanist"
+  ],
+  "deceptive": [
+    "Empathic"
+  ],
+  "empty": [
+    "Stealthy"
+  ],
+  "physician": [
+    "Empathic"
+  ],
+  "elemtna ladpet": [
+    "Elemental Adept"
+  ],
+  "Burglar": [
+    "Burglar"
+  ],
+  "emph": [
+    "Empathic"
+  ],
+  "obscure": [
+    "Charger"
+  ],
+  "great cleave": [
+    "Great Weapon Master"
+  ],
+  "spell sniper (Wizard)": [
+    "Spell Sniper"
+  ],
+  "Svirfneblin magic": [
+    "Svirfneblin Magic"
+  ],
+  "elemanta ldewp": [
+    "Elemental Adept"
+  ],
+  "sealthy": [
+    "Stealthy"
+  ],
+  "fortitude": [
+    "Dwarven Fortitude"
+  ],
+  "investi": [
+    "Investigator"
+  ],
+  "touch of": [
+    "Orcish Fury"
+  ],
+  "tong": [
+    "Silver-Tongued"
+  ],
+  "shield mastee": [
+    "Shield Master"
+  ],
+  "human det": [
+    "Human Determination"
+  ],
+  "your mom gay": [
+    "Wonder Maker"
+  ],
+  "language": [
+    "Silver-Tongued"
+  ],
+  "elemental aff": [
+    "Elemental Adept"
+  ],
+  "defensive d": [
+    "Defensive Duelist"
+  ],
+  "infernal lega": [
+    "Infernal Constitution"
+  ],
+  "Svirfneblin": [
+    "Svirfneblin Magic"
+  ],
+  "circle of spores": [
+    "Master of Disguise"
+  ],
+  "blademaster": [
+    "Blade Mastery"
+  ],
+  "Setinel": [
+    "Sentinel"
+  ],
+  "firblog powerful build": [
+    "Crossbow Expert"
+  ],
+  "kobold": [
+    "Burglar"
+  ],
+  "per": [
+    "Perceptive"
+  ],
+  "quick footed": [
+    "Quick-Fingered"
+  ],
+  "ham": [
+    "Charger"
+  ],
+  "dual wieldee": [
+    "Dual Wielder"
+  ],
+  "elemental adept fire": [
+    "Elemental Adept"
+  ],
+  "luk": [
+    "Alert"
+  ],
+  "touhg": [
+    "Tough"
+  ],
+  "\"polearm master": [
+    "Polearm Master"
+  ],
+  "path of zealot": [
+    "Naturalist"
+  ],
+  "Theologian": [
+    "Theologian"
+  ],
+  "animal handling": [
+    "Animal Handler"
+  ],
+  "blademasteryt": [
+    "Blade Mastery"
+  ],
+  "shield ma": [
+    "Shield Master"
+  ],
+  "crossbowexpert": [
+    "Crossbow Expert"
+  ],
+  "ancient knowledge": [
+    "Inspiring Leader"
+  ],
+  "everybodys friend": [
+    "Everybody's Friend"
+  ],
+  "infernal constitutuion": [
+    "Infernal Constitution"
+  ],
+  "dual wiel": [
+    "Dual Wielder"
+  ],
+  "lucjy": [
+    "Lucky"
+  ],
+  "flames of phatlajfd": [
+    "Flames of Phlegethos"
+  ],
+  "demonlord": [
+    "Theologian"
+  ],
+  "Inheritance": [
+    "Second Chance"
+  ],
+  "gappler": [
+    "Grappler"
+  ],
+  "arcanaist": [
+    "Arcanist"
+  ],
+  "wield": [
+    "Dual Wielder"
+  ],
+  "moderatly armored": [
+    "Moderately Armored"
+  ],
+  "elemtal adapt fire": [
+    "Elemental Adept"
+  ],
+  "magic rennesaince": [
+    "Dwarf Resilience"
+  ],
+  "unarmoured": [
+    "Gourmand"
+  ],
+  "centaur": [
+    "Charger"
+  ],
+  "savage attacjer": [
+    "Savage Attacker"
+  ],
+  "alchem": [
+    "Alchemist"
+  ],
+  "pack tactics": [
+    "Vampiric Exultation"
+  ],
+  "Spear": [
+    "Spear Mastery"
+  ],
+  "gormed": [
+    "Gourmand"
+  ],
+  "savage at": [
+    "Savage Attacker"
+  ],
+  "Medium Armor": [
+    "Medium Armor Master"
+  ],
+  "Mounted Combatant": [
+    "Mounted Combatant"
+  ],
+  "risil": [
+    "Resilient"
+  ],
+  "elemental Adept": [
+    "Elemental Adept"
+  ],
+  "control": [
+    "Sentinel"
+  ],
+  "uncanny": [
+    "Lucky"
+  ],
+  "dragon persuasive": [
+    "Dragonmark of Passage"
+  ],
+  "gormund": [
+    "Gourmand"
+  ],
+  "casting": [
+    "Servo Crafting"
+  ],
+  "sage": [
+    "Dragonmark of Passage"
+  ],
+  "duelingo": [
+    "Linguist"
+  ],
+  "Heavy Armor master": [
+    "Heavy Armor Master"
+  ],
+  "magic initiated": [
+    "Magic Initiate"
+  ],
+  "survialist": [
+    "Survivalist"
+  ],
+  "vam": [
+    "Vampiric Exultation"
+  ],
+  "Elemental adept": [
+    "Elemental Adept"
+  ],
+  "<sentinel>": [
+    "Sentinel"
+  ],
+  "heavy drinker": [
+    "Healer"
+  ],
+  "mag slayer": [
+    "Mage Slayer"
+  ],
+  "resilitient": [
+    "Resilient"
+  ],
+  "heavily amoured": [
+    "Heavily Armored"
+  ],
+  "fire": [
+    "Quick-Fingered"
+  ],
+  "Fast Handed": [
+    "Fell Handed"
+  ],
+  "Second Chance": [
+    "Second Chance"
+  ],
+  "classfeat": [
+    "Alert"
+  ],
+  "silver-": [
+    "Silver-Tongued"
+  ],
+  "draconic wings": [
+    "Dragon Wings"
+  ],
+  "dungeon d": [
+    "Dungeon Delver"
+  ],
+  "dwarven resiliance": [
+    "Dwarf Resilience"
+  ],
+  "skul": [
+    "Skulker"
+  ],
+  "love": [
+    "Alert"
+  ],
+  "infernal xlnst": [
+    "Infernal Constitution"
+  ],
+  "res dex": [
+    "Resilient"
+  ],
+  "crossbow expeet": [
+    "Crossbow Expert"
+  ],
+  "blase mast": [
+    "Blade Mastery"
+  ],
+  "bound": [
+    "Bountiful Luck"
+  ],
+  "dule wilder": [
+    "Dual Wielder"
+  ],
+  "accura": [
+    "Elven Accuracy"
+  ],
+  "elemental fire": [
+    "Elemental Adept"
+  ],
+  "Duel Wielder": [
+    "Dual Wielder"
+  ],
+  "savage attack": [
+    "Savage Attacker"
+  ],
+  "linquist": [
+    "Linguist"
+  ],
+  "Medium Armor Mastery": [
+    "Medium Armor Master"
+  ],
+  "Savage attack": [
+    "Savage Attacker"
+  ],
+  "speed nock": [
+    "Second Chance"
+  ],
+  "speed nocking": [
+    "Servo Crafting"
+  ],
+  "Druidic": [
+    "Dwarf Resilience"
+  ],
+  "captain's sense": [
+    "Greater Dragonmark (Passage)"
+  ],
+  "empathethic": [
+    "Empathic"
+  ],
+  "pol": [
+    "Polearm Master"
+  ],
+  "flames of p": [
+    "Flames of Phlegethos"
+  ],
+  "Spell Snipe": [
+    "Spell Sniper"
+  ],
+  "defense dualist": [
+    "Defensive Duelist"
+  ],
+  "rapid Drinker": [
+    "Critter Friend"
+  ],
+  "lighty": [
+    "Lightly Armored"
+  ],
+  "lucky (halfling)": [
+    "Lucky"
+  ],
+  "War CASTER": [
+    "War Caster"
+  ],
+  "sharpsooter": [
+    "Sharpshooter"
+  ],
+  "senital": [
+    "Sentinel"
+  ],
+  "flames of pahahfgos": [
+    "Flames of Phlegethos"
+  ],
+  "flame of f": [
+    "Flames of Phlegethos"
+  ],
+  "Tavern brawler": [
+    "Tavern Brawler"
+  ],
+  "spell thied": [
+    "Spell Sniper"
+  ],
+  "revenant Blade": [
+    "Revenant Blade"
+  ],
+  "medix": [
+    "Medic"
+  ],
+  "spear madt": [
+    "Spear Mastery"
+  ],
+  "leap": [
+    "Mobile"
+  ],
+  "Spell Snipa": [
+    "Spell Sniper"
+  ],
+  "percepti": [
+    "Perceptive"
+  ],
+  "profigy": [
+    "Prodigy"
+  ],
+  "brutal critical": [
+    "Alchemist"
+  ],
+  "magic iniatie": [
+    "Magic Initiate"
+  ],
+  "mounted penis": [
+    "Mounted Combatant"
+  ],
+  "keen m": [
+    "Keen Mind"
+  ],
+  "shooter": [
+    "Sharpshooter"
+  ],
+  "fellhandd": [
+    "Fell Handed"
+  ],
+  "atheltic": [
+    "Athlete"
+  ],
+  "observant'": [
+    "Observant"
+  ],
+  "Spell niper": [
+    "Spell Sniper"
+  ],
+  "trident": [
+    "Martial Adept"
+  ],
+  "sav": [
+    "Savage Attacker"
+  ],
+  "intimidate": [
+    "Investigator"
+  ],
+  "charismatic leader": [
+    "Inspiring Leader"
+  ],
+  "dracon": [
+    "Dragon Fear"
+  ],
+  "polearm amster": [
+    "Polearm Master"
+  ],
+  "Quick-Fingered": [
+    "Quick-Fingered"
+  ],
+  "aelrt": [
+    "Alert"
+  ],
+  "fla": [
+    "Flail Mastery"
+  ],
+  "expert maker": [
+    "Wonder Maker"
+  ],
+  "divine intervention": [
+    "Investigator"
+  ],
+  "resilient intelligence": [
+    "Resilient"
+  ],
+  "inspiring lead": [
+    "Inspiring Leader"
+  ],
+  "Combat Reflexes": [
+    "Acrobat"
+  ],
+  "Ball Buster": [
+    "War Caster"
+  ],
+  "greater dragonmark (host": [
+    "Greater Dragonmark (Hospitality)"
+  ],
+  "eyes": [
+    "Mage Slayer"
+  ],
+  "Prodigy*": [
+    "Prodigy"
+  ],
+  "exp": [
+    "Crossbow Expert"
+  ],
+  "Great Weapon Masterr": [
+    "Great Weapon Master"
+  ],
+  "Dual W": [
+    "Dual Wielder"
+  ],
+  "umbral sight": [
+    "Dragon Wings"
+  ],
+  "elemental master": [
+    "Elemental Adept"
+  ],
+  "arcanis": [
+    "Arcanist"
+  ],
+  "Moder": [
+    "Moderately Armored"
+  ],
+  "burglar": [
+    "Burglar"
+  ],
+  "charg": [
+    "Charger"
+  ],
+  "silver-to": [
+    "Silver-Tongued"
+  ],
+  "Senti": [
+    "Sentinel"
+  ],
+  "dexterous": [
+    "Human Determination"
+  ],
+  "dragonborn vengeaonce": [
+    "Dragonmark of Healing"
+  ],
+  "Woodelf": [
+    "Wood Elf Magic"
+  ],
+  "greater dragon mark healing": [
+    "Greater Dragonmark (Healing)"
+  ],
+  "dragonmark healing": [
+    "Dragonmark of Healing"
+  ],
+  "style": [
+    "Skilled"
+  ],
+  "adv": [
+    "Fade Away"
+  ],
+  "Fey": [
+    "Fey Teleportation"
+  ],
+  "heavy armor maste": [
+    "Heavy Armor Master"
+  ],
+  "immortal": [
+    "Historian"
+  ],
+  "Fell Handed": [
+    "Fell Handed"
+  ],
+  "smith": [
+    "Quicksmithing"
+  ],
+  "empa": [
+    "Empathic"
+  ],
+  "diplomacy": [
+    "Diplomat"
+  ],
+  "tougg": [
+    "Prodigy"
+  ],
+  "inquis": [
+    "Quicksmithing"
+  ],
+  "stealthu": [
+    "Stealthy"
+  ],
+  "amgic": [
+    "Magic Initiate"
+  ],
+  "pole arm mastee": [
+    "Polearm Master"
+  ],
+  "shukler": [
+    "Healer"
+  ],
+  "skillrd": [
+    "Skilled"
+  ],
+  "Grudge-Bearer": [
+    "Grudge-Bearer"
+  ],
+  "medium armor Master": [
+    "Medium Armor Master"
+  ],
+  "hefty": [
+    "Athlete"
+  ],
+  "dragonmark of heal": [
+    "Dragonmark of Healing"
+  ],
+  "thrown arms master": [
+    "Heavy Armor Master"
+  ],
+  "war caste": [
+    "War Caster"
+  ],
+  "ins": [
+    "Inspiring Leader"
+  ],
+  "Tavernbrawler": [
+    "Tavern Brawler"
+  ],
+  "great weapons": [
+    "Great Weapon Master"
+  ],
+  "fell hamd": [
+    "Fell Handed"
+  ],
+  "tave": [
+    "Tavern Brawler"
+  ],
+  "nimble fingered": [
+    "Quick-Fingered"
+  ],
+  "silvertongue": [
+    "Silver-Tongued"
+  ],
+  "sentinele": [
+    "Sentinel"
+  ],
+  "bar": [
+    "Barbed Hide"
+  ],
+  "resiient": [
+    "Critter Friend"
+  ],
+  "snwaky": [
+    "Stealthy"
+  ],
+  "grapller": [
+    "Grappler"
+  ],
+  "ritual spellcasting": [
+    "Ritual Caster"
+  ],
+  "swntinel": [
+    "Sentinel"
+  ],
+  "dual wielde": [
+    "Dual Wielder"
+  ],
+  "3eeeeee": [
+    "Grudge-Bearer"
+  ],
+  "beast": [
+    "Observant"
+  ],
+  "alerr": [
+    "Alert"
+  ],
+  "Dark Elf Magic": [
+    "Drow High Magic"
+  ],
+  "monkey": [
+    "Wonder Maker"
+  ],
+  "martial attack": [
+    "Martial Adept"
+  ],
+  "Arcana": [
+    "Arcanist"
+  ],
+  "medium armo": [
+    "Medium Armor Master"
+  ],
+  "oc": [
+    "Orcish Fury"
+  ],
+  "Urd Wings": [
+    "Prodigy"
+  ],
+  "urd": [
+    "Skulker"
+  ],
+  "orcish agg": [
+    "Orcish Aggression"
+  ],
+  "dragon's roar": [
+    "Dragon Fear"
+  ],
+  "weqpon": [
+    "Weapon Master"
+  ],
+  "multi weapon": [
+    "Dual Wielder"
+  ],
+  "Great weapon master": [
+    "Great Weapon Master"
+  ],
+  "Shooter": [
+    "Sharpshooter"
+  ],
+  "exotic weapon mastr": [
+    "Weapon Master"
+  ],
+  "gr": [
+    "Burglar"
+  ],
+  "add war caster": [
+    "War Caster"
+  ],
+  "nat": [
+    "Naturalist"
+  ],
+  "surv": [
+    "Survivalist"
+  ],
+  "magic initiatte": [
+    "Magic Initiate"
+  ],
+  "slayer": [
+    "Mage Slayer"
+  ],
+  "defe": [
+    "Defensive Duelist"
+  ],
+  "dua": [
+    "Dual Wielder"
+  ],
+  "flames of phel": [
+    "Flames of Phlegethos"
+  ],
+  "war ca": [
+    "War Caster"
+  ],
+  "lingquist": [
+    "Linguist"
+  ],
+  "pact": [
+    "Acrobat"
+  ],
+  "squal": [
+    "Squat Nimbleness"
+  ],
+  "obsetv": [
+    "Observant"
+  ],
+  "Prod": [
+    "Prodigy"
+  ],
+  "\"polearm master\"": [
+    "Polearm Master"
+  ],
+  "sharpshootetr": [
+    "Sharpshooter"
+  ],
+  "sentenil": [
+    "Sentinel"
+  ],
+  "second won\u2019t": [
+    "Second Chance"
+  ],
+  "zephyr": [
+    "Stealthy"
+  ],
+  "draining kiss": [
+    "Arcanist"
+  ],
+  "dual weapon": [
+    "Dual Wielder"
+  ],
+  "elemental adep": [
+    "Elemental Adept"
+  ],
+  "dwarven fort": [
+    "Dwarven Fortitude"
+  ],
+  "magic initiatie": [
+    "Magic Initiate"
+  ],
+  "spell linger": [
+    "Spell Sniper"
+  ],
+  "acrobatic": [
+    "Acrobat"
+  ],
+  "vamp": [
+    "Vampiric Exultation"
+  ],
+  "orcish f": [
+    "Orcish Fury"
+  ],
+  "magical": [
+    "Magic Initiate"
+  ],
+  "skuler": [
+    "Skulker"
+  ],
+  "Mounted COmbatant": [
+    "Mounted Combatant"
+  ],
+  "Sentinal": [
+    "Sentinel"
+  ],
+  "elven advantage": [
+    "Elven Accuracy"
+  ],
+  "shortsword": [
+    "Historian"
+  ],
+  "spell sniped": [
+    "Spell Sniper"
+  ],
+  "aber": [
+    "Aberrant Dragonmark"
+  ],
+  "Silver Toungued": [
+    "Silver-Tongued"
+  ],
+  "Servo": [
+    "Servo Crafting"
+  ],
+  "Silver tongued": [
+    "Silver-Tongued"
+  ],
+  "fey tele": [
+    "Fey Teleportation"
+  ],
+  "poleaxe": [
+    "Polearm Master"
+  ],
+  "brawl": [
+    "Tavern Brawler"
+  ],
+  "SIlver-Tongued": [
+    "Silver-Tongued"
+  ],
+  "silver ton": [
+    "Silver-Tongued"
+  ],
+  "ritual caster cleri": [
+    "Ritual Caster"
+  ],
+  "great weapon mastee": [
+    "Great Weapon Master"
+  ],
+  "elevn accuracy": [
+    "Elven Accuracy"
+  ],
+  "helaer": [
+    "Healer"
+  ],
+  "crossboq": [
+    "Crossbow Expert"
+  ],
+  "mantle of majesty": [
+    "Blade Mastery"
+  ],
+  "touh": [
+    "Tough"
+  ],
+  "sentry": [
+    "Sentinel"
+  ],
+  "duelwe": [
+    "Dual Wielder"
+  ],
+  "magic intiiate": [
+    "Magic Initiate"
+  ],
+  "mobil": [
+    "Mobile"
+  ],
+  "smash": [
+    "Empathic"
+  ],
+  "grappler \u00f1": [
+    "Grappler"
+  ],
+  "felled hand": [
+    "Fell Handed"
+  ],
+  "determination": [
+    "Human Determination"
+  ],
+  "sunlight": [
+    "Survivalist"
+  ],
+  "gourm": [
+    "Gourmand"
+  ],
+  "Elven acc": [
+    "Elven Accuracy"
+  ],
+  "obesrvent": [
+    "Observant"
+  ],
+  "bra": [
+    "Tavern Brawler"
+  ],
+  "braw": [
+    "Brawny"
+  ],
+  "pereptive": [
+    "Perceptive"
+  ],
+  "dual-wielding": [
+    "Dual Wielder"
+  ],
+  "gra": [
+    "Grappler"
+  ],
+  "stro": [
+    "Tough"
+  ],
+  "alth": [
+    "Stealthy"
+  ],
+  "althiet": [
+    "Athlete"
+  ],
+  "aggressive": [
+    "Orcish Aggression"
+  ],
+  "martial initiate": [
+    "Martial Adept"
+  ],
+  "martial initiate 3": [
+    "Arcanist"
+  ],
+  "meanicing": [
+    "Menacing"
+  ],
+  "dragon win": [
+    "Dragon Wings"
+  ],
+  "magic initiave": [
+    "Magic Initiate"
+  ],
+  "defensvie duelist": [
+    "Defensive Duelist"
+  ],
+  "magic initaite": [
+    "Magic Initiate"
+  ],
+  "flame": [
+    "Flames of Phlegethos"
+  ],
+  "immortality": [
+    "Naturalist"
+  ],
+  "Great weapon Master": [
+    "Great Weapon Master"
+  ],
+  "savage Attacker": [
+    "Savage Attacker"
+  ],
+  "Flames of Phl": [
+    "Flames of Phlegethos"
+  ],
+  "orcishfury": [
+    "Orcish Fury"
+  ],
+  "silver lick": [
+    "Silver-Tongued"
+  ],
+  "Svirnefblin Magic": [
+    "Svirfneblin Magic"
+  ],
+  "warcastee": [
+    "War Caster"
+  ],
+  "tough\\": [
+    "Tough"
+  ],
+  "roar": [
+    "Dragon Fear"
+  ],
+  "war pick": [
+    "Wonder Maker"
+  ],
+  "magical initiate": [
+    "Magic Initiate"
+  ],
+  "hammer": [
+    "Charger"
+  ],
+  "blade mast": [
+    "Blade Mastery"
+  ],
+  "magic conflux": [
+    "Magic Initiate"
+  ],
+  "unarmed": [
+    "Quick-Fingered"
+  ],
+  "menacinh": [
+    "Menacing"
+  ],
+  "flai": [
+    "Flail Mastery"
+  ],
+  "Weapon Mastery": [
+    "Weapon Master"
+  ],
+  "whip": [
+    "Alchemist"
+  ],
+  "goru": [
+    "Gourmand"
+  ],
+  "epathetic": [
+    "Empathic"
+  ],
+  "Flail mastery": [
+    "Flail Mastery"
+  ],
+  "emapthetic": [
+    "Empathic"
+  ],
+  "crossbow m": [
+    "Crossbow Expert"
+  ],
+  "defesnive": [
+    "Defensive Duelist"
+  ],
+  "defensive duliest": [
+    "Defensive Duelist"
+  ],
+  "snirfneblin magic": [
+    "Svirfneblin Magic"
+  ],
+  "alc": [
+    "Alchemist"
+  ],
+  "great weapo": [
+    "Great Weapon Master"
+  ],
+  "tvern": [
+    "Tavern Brawler"
+  ],
+  "Heavy Armor": [
+    "Heavy Armor Master"
+  ],
+  "deep magic": [
+    "Svirfneblin Magic"
+  ],
+  "mobiel": [
+    "Mobile"
+  ],
+  "tavern bra": [
+    "Tavern Brawler"
+  ],
+  "infern": [
+    "Infernal Constitution"
+  ],
+  "arcana": [
+    "Arcanist"
+  ],
+  "history": [
+    "Historian"
+  ],
+  "small": [
+    "Stealthy"
+  ],
+  "Elvish Accuracy": [
+    "Elven Accuracy"
+  ],
+  "dual weirder": [
+    "Dual Wielder"
+  ],
+  "trip": [
+    "Martial Adept"
+  ],
+  "duel wieling": [
+    "Dual Wielder"
+  ],
+  "grapl": [
+    "Grappler"
+  ],
+  "Martial Maneuver": [
+    "Martial Adept"
+  ],
+  "gormand": [
+    "Gourmand"
+  ],
+  "Action Surge": [
+    "Menacing"
+  ],
+  "silver tounged": [
+    "Silver-Tongued"
+  ],
+  "charged": [
+    "Charger"
+  ],
+  "winged": [
+    "Dragon Wings"
+  ],
+  "dragonmark pass": [
+    "Dragonmark of Passage"
+  ],
+  "storm": [
+    "Dragonmark of Storm"
+  ],
+  "unarmored strike": [
+    "Everybody's Friend"
+  ],
+  "empathtic": [
+    "Empathic"
+  ],
+  "quick-fing": [
+    "Quick-Fingered"
+  ],
+  "luc": [
+    "Bountiful Luck"
+  ],
+  "Skullker": [
+    "Skulker"
+  ],
+  "light armour": [
+    "Lightly Armored"
+  ],
+  "blade mas": [
+    "Blade Mastery"
+  ],
+  "blade ma": [
+    "Blade Mastery"
+  ],
+  "hitler": [
+    "Historian"
+  ],
+  "stalin": [
+    "Sentinel"
+  ],
+  "martia adept": [
+    "Martial Adept"
+  ],
+  "obersvant": [
+    "Observant"
+  ],
+  "banna": [
+    "Brawny"
+  ],
+  "martial adep": [
+    "Martial Adept"
+  ],
+  "savage att": [
+    "Savage Attacker"
+  ],
+  "second ch": [
+    "Second Chance"
+  ],
+  "ste": [
+    "Stealthy"
+  ],
+  "tuff": [
+    "Tough"
+  ],
+  "dual welder": [
+    "Dual Wielder"
+  ],
+  "Defensive duelist": [
+    "Defensive Duelist"
+  ],
+  "due": [
+    "Defensive Duelist"
+  ],
+  "bountifu": [
+    "Bountiful Luck"
+  ],
+  "dual wieder": [
+    "Dual Wielder"
+  ],
+  "heavi": [
+    "Heavily Armored"
+  ],
+  "defective dualis": [
+    "Defensive Duelist"
+  ],
+  "Dragon wings": [
+    "Dragon Wings"
+  ],
+  "squat nim": [
+    "Squat Nimbleness"
+  ],
+  "shap": [
+    "Sharpshooter"
+  ],
+  "Inspiring": [
+    "Inspiring Leader"
+  ],
+  "elven racism": [
+    "Menacing"
+  ],
+  "hamlet": [
+    "Athlete"
+  ],
+  "Fade Away": [
+    "Fade Away"
+  ],
+  "No  Walls No Borders": [
+    "Dungeon Delver"
+  ],
+  "No Walls No Borders": [
+    "Dungeon Delver"
+  ],
+  "scholar": [
+    "Theologian"
+  ],
+  "Martial a": [
+    "Martial Adept"
+  ],
+  "cook": [
+    "Theologian"
+  ],
+  "cooker": [
+    "Wonder Maker"
+  ],
+  "chef": [
+    "Alchemist"
+  ],
+  "crossbow export": [
+    "Crossbow Expert"
+  ],
+  "Dual Wiedling": [
+    "Dual Wielder"
+  ],
+  "snirvneblin magic": [
+    "Svirfneblin Magic"
+  ],
+  "greater mark Passage": [
+    "Greater Dragonmark (Passage)"
+  ],
+  "polaerm": [
+    "Polearm Master"
+  ],
+  "resili": [
+    "Resilient"
+  ],
+  "sacred oath": [
+    "Acrobat"
+  ],
+  "crowssbow mastery": [
+    "Crossbow Expert"
+  ],
+  "tinker": [
+    "Wonder Maker"
+  ],
+  "polearm maste": [
+    "Polearm Master"
+  ],
+  "Dueling": [
+    "Linguist"
+  ],
+  "duel weapon": [
+    "Dual Wielder"
+  ],
+  "eleven accuracy": [
+    "Elven Accuracy"
+  ],
+  "time": [
+    "Perceptive"
+  ],
+  "defense": [
+    "Defensive Duelist"
+  ],
+  "greatwepond master": [
+    "Great Weapon Master"
+  ],
+  "dual weapon wielder": [
+    "Dual Wielder"
+  ],
+  "elmental adept": [
+    "Elemental Adept"
+  ],
+  "Abernathy\u2019s": [
+    "Aberrant Dragonmark"
+  ],
+  "arcananist": [
+    "Arcanist"
+  ],
+  "poearm master": [
+    "Polearm Master"
+  ],
+  "resiliance": [
+    "Resilient"
+  ],
+  "grappling": [
+    "Grappler"
+  ],
+  "abherrant": [
+    "Aberrant Dragonmark"
+  ],
+  "great weapon mast": [
+    "Great Weapon Master"
+  ],
+  "fey telep": [
+    "Fey Teleportation"
+  ],
+  "Crossbow Expertise": [
+    "Crossbow Expert"
+  ],
+  "everybodies friend": [
+    "Everybody's Friend"
+  ],
+  "mounted combatent": [
+    "Mounted Combatant"
+  ],
+  "wepon": [
+    "Weapon Master"
+  ],
+  "feet": [
+    "Healer"
+  ],
+  "gwf": [
+    "Tough"
+  ],
+  "heart": [
+    "Alert"
+  ],
+  "<shield master>": [
+    "Shield Master"
+  ],
+  "dragons hide": [
+    "Dragon Hide"
+  ],
+  "ua dragon hide": [
+    "Dragon Hide"
+  ],
+  "Passage": [
+    "Greater Dragonmark (Passage)"
+  ],
+  "Storm": [
+    "Greater Dragonmark (Storm)"
+  ],
+  "hospital": [
+    "Greater Dragonmark (Hospitality)"
+  ],
+  "Suduku": [
+    "Skulker"
+  ],
+  "great sword": [
+    "Great Weapon Master"
+  ],
+  "proficienci": [
+    "Prodigy"
+  ],
+  "countercharm": [
+    "Wonder Maker"
+  ],
+  "martial adeot": [
+    "Martial Adept"
+  ],
+  "Ar": [
+    "Arcanist"
+  ],
+  "charpshoter": [
+    "Sharpshooter"
+  ],
+  "Greatwepon": [
+    "Great Weapon Master"
+  ],
+  "Dual Wield": [
+    "Dual Wielder"
+  ],
+  "cutting words": [
+    "Lightly Armored"
+  ],
+  "warcraster": [
+    "War Caster"
+  ],
+  "dual wielded": [
+    "Dual Wielder"
+  ],
+  "fey_step": [
+    "Fey Teleportation"
+  ],
+  "turn undead": [
+    "Fell Handed"
+  ],
+  "empathatic": [
+    "Empathic"
+  ],
+  "prodegy": [
+    "Prodigy"
+  ],
+  "medium armour mastery": [
+    "Medium Armor Master"
+  ],
+  "drago": [
+    "Dragon Hide"
+  ],
+  "Sharp Shooter": [
+    "Sharpshooter"
+  ],
+  "shart shooter": [
+    "Sharpshooter"
+  ],
+  "heavy armor mas": [
+    "Heavy Armor Master"
+  ],
+  "act": [
+    "Actor"
+  ],
+  "skillmastery": [
+    "Skilled"
+  ],
+  "warwizard": [
+    "War Caster"
+  ],
+  "athelet": [
+    "Athlete"
+  ],
+  "warcastwr": [
+    "War Caster"
+  ],
+  "burl": [
+    "Brawny"
+  ],
+  "burly": [
+    "Brawny"
+  ],
+  "elementalist": [
+    "Elemental Adept"
+  ],
+  "polearm specialist": [
+    "Polearm Master"
+  ],
+  "mage slayer <@518097448783183883>": [
+    "Mage Slayer"
+  ],
+  "Flail": [
+    "Flail Mastery"
+  ],
+  "shie": [
+    "Shield Master"
+  ],
+  "medium a": [
+    "Medium Armor Master"
+  ],
+  "skilled <@!146996990775918592>": [
+    "Skilled"
+  ],
+  "magesl": [
+    "Mage Slayer"
+  ],
+  "Greater": [
+    "Greater Dragonmark (Sentinel)"
+  ],
+  "defence": [
+    "Defensive Duelist"
+  ],
+  "aaasimar": [
+    "Flail Mastery"
+  ],
+  "GWm": [
+    "Great Weapon Master"
+  ],
+  "fellhand": [
+    "Fell Handed"
+  ],
+  "spellsnipet": [
+    "Spell Sniper"
+  ],
+  "svi": [
+    "Svirfneblin Magic"
+  ],
+  "duel wield fighting": [
+    "Dual Wielder"
+  ],
+  "Dual Weilder": [
+    "Dual Wielder"
+  ],
+  "heavy weapon master": [
+    "Great Weapon Master"
+  ],
+  "great weapon mastaer": [
+    "Great Weapon Master"
+  ],
+  "ShieldMaster": [
+    "Shield Master"
+  ],
+  "warding": [
+    "Greater Dragonmark (Warding)"
+  ],
+  "tool": [
+    "Theologian"
+  ],
+  "healrr": [
+    "Healer"
+  ],
+  "arcane initiate": [
+    "Magic Initiate"
+  ],
+  "pole arm masrer": [
+    "Polearm Master"
+  ],
+  "sentine;": [
+    "Sentinel"
+  ],
+  "shadowr": [
+    "Sharpshooter"
+  ],
+  "greatweapon fighter": [
+    "Great Weapon Master"
+  ],
+  "Dragonmark of Healing": [
+    "Dragonmark of Healing"
+  ],
+  "Warcasting": [
+    "War Caster"
+  ],
+  "Dragonmark Healing": [
+    "Dragonmark of Healing"
+  ],
+  "grappler master": [
+    "Grappler"
+  ],
+  "Abberrant": [
+    "Aberrant Dragonmark"
+  ],
+  "mage initiate": [
+    "Magic Initiate"
+  ],
+  "Mark of Sentinel": [
+    "Dragonmark of Sentinel"
+  ],
+  "spear mast": [
+    "Spear Mastery"
+  ],
+  "elvenaccuracy": [
+    "Elven Accuracy"
+  ],
+  "grapplwr": [
+    "Grappler"
+  ],
+  "arche": [
+    "Barbed Hide"
+  ],
+  "inspiring Leader": [
+    "Inspiring Leader"
+  ],
+  "strength of the grave": [
+    "Dragonmark of Healing"
+  ],
+  "dung": [
+    "Dungeon Delver"
+  ],
+  "Healing": [
+    "Dragonmark of Healing"
+  ],
+  "exper": [
+    "Crossbow Expert"
+  ],
+  "channel Divinity": [
+    "Arcanist"
+  ],
+  "oberbant": [
+    "Observant"
+  ],
+  "magic intiative": [
+    "Magic Initiate"
+  ],
+  "Spear mastery": [
+    "Spear Mastery"
+  ],
+  "dragonborn wings": [
+    "Dragon Wings"
+  ],
+  "nimbleness of the stout": [
+    "Squat Nimbleness"
+  ],
+  "Drow high magi": [
+    "Drow High Magic"
+  ],
+  "crippling striker": [
+    "Spell Sniper"
+  ],
+  "crippling depression": [
+    "Martial Adept"
+  ],
+  "arcgery": [
+    "Actor"
+  ],
+  "archery": [
+    "Sharpshooter"
+  ],
+  "bardic insperation": [
+    "Vampiric Exultation"
+  ],
+  "lukcy": [
+    "Lucky"
+  ],
+  "mark of finding": [
+    "Dragonmark of Finding"
+  ],
+  "thieve cant": [
+    "Mounted Combatant"
+  ],
+  "favored enemy rev": [
+    "Tavern Brawler"
+  ],
+  "intiatei": [
+    "Magic Initiate"
+  ],
+  "Great weapon mastery": [
+    "Great Weapon Master"
+  ],
+  "polearms": [
+    "Polearm Master"
+  ],
+  "infernal resilience": [
+    "Infernal Constitution"
+  ],
+  "fire of phelegos": [
+    "Flames of Phlegethos"
+  ],
+  "dragon's breath": [
+    "Dragon Fear"
+  ],
+  "defebsive": [
+    "Defensive Duelist"
+  ],
+  "Favored Enemy": [
+    "Fade Away"
+  ],
+  "Mounted Combat": [
+    "Mounted Combatant"
+  ],
+  "Rev": [
+    "Revenant Blade"
+  ],
+  "Divine Smite": [
+    "Investigator"
+  ],
+  "great wa": [
+    "Great Weapon Master"
+  ],
+  "aberrent": [
+    "Aberrant Dragonmark"
+  ],
+  "dragonborn hide": [
+    "Dragon Hide"
+  ],
+  "everybodys": [
+    "Everybody's Friend"
+  ],
+  "skull": [
+    "Skulker"
+  ],
+  "hand": [
+    "Animal Handler"
+  ],
+  "heavy armor mastert": [
+    "Heavy Armor Master"
+  ],
+  "mystic conflux": [
+    "Silver-Tongued"
+  ],
+  "martial sup": [
+    "Martial Adept"
+  ],
+  "aura of protection": [
+    "Dragonmark of Detection"
+  ],
+  "spear mastwr": [
+    "Spear Mastery"
+  ],
+  "dwarvin reslent": [
+    "Dwarf Resilience"
+  ],
+  "shiled": [
+    "Shield Master"
+  ],
+  "Dwarven fortitude": [
+    "Dwarven Fortitude"
+  ],
+  "unarmored movement": [
+    "Mounted Combatant"
+  ],
+  "slippery mind": [
+    "Silver-Tongued"
+  ],
+  "noble": [
+    "Dungeon Delver"
+  ],
+  "Shelter of the Faithful": [
+    "Master of Disguise"
+  ],
+  "tho": [
+    "Flames of Phlegethos"
+  ],
+  "\"fey step\"": [
+    "Blade Mastery"
+  ],
+  "alch": [
+    "Alchemist"
+  ],
+  "Progidy": [
+    "Prodigy"
+  ],
+  "slashing": [
+    "Menacing"
+  ],
+  "vehicle": [
+    "Empathic"
+  ],
+  "wood": [
+    "Wood Elf Magic"
+  ],
+  "perce": [
+    "Perceptive"
+  ],
+  "flair": [
+    "Flail Mastery"
+  ],
+  "snea": [
+    "Stealthy"
+  ],
+  "stone cunning": [
+    "Servo Crafting"
+  ],
+  "Human D": [
+    "Human Determination"
+  ],
+  "light armor mastery": [
+    "Lightly Armored"
+  ],
+  "Orcish fury": [
+    "Orcish Fury"
+  ],
+  "shadow elf": [
+    "Dungeon Delver"
+  ],
+  "arakocra": [
+    "Servo Crafting"
+  ],
+  "guar": [
+    "Gourmand"
+  ],
+  "turtle": [
+    "Burglar"
+  ],
+  "moni": [
+    "Mobile"
+  ],
+  "maestry": [
+    "Spear Mastery"
+  ],
+  "blade maestry": [
+    "Blade Mastery"
+  ],
+  "fellhandes": [
+    "Fell Handed"
+  ],
+  "setinel": [
+    "Sentinel"
+  ],
+  "Skill": [
+    "Skilled"
+  ],
+  "sej": [
+    "Sentinel"
+  ],
+  "elemental mastery": [
+    "Elemental Adept"
+  ],
+  "Tougness": [
+    "Tough"
+  ],
+  "Thoughness": [
+    "Athlete"
+  ],
+  "Men": [
+    "Menacing"
+  ],
+  "mobilew": [
+    "Mobile"
+  ],
+  "tavern  braweler": [
+    "Tavern Brawler"
+  ],
+  "shield master 5e": [
+    "Shield Master"
+  ],
+  "inspring leader": [
+    "Inspiring Leader"
+  ],
+  "Martial": [
+    "Martial Adept"
+  ],
+  "resilence": [
+    "Resilient"
+  ],
+  "lingust": [
+    "Linguist"
+  ],
+  "Hexblade's Curse": [
+    "Blade Mastery"
+  ],
+  "\"polarm master\"": [
+    "Polearm Master"
+  ],
+  "Weapon Master": [
+    "Weapon Master"
+  ],
+  "magic Initiate": [
+    "Magic Initiate"
+  ],
+  "tinkerer": [
+    "Wonder Maker"
+  ],
+  "quickened spell": [
+    "Shield Master"
+  ],
+  "quickened": [
+    "Silver-Tongued"
+  ],
+  "Great Weapon master": [
+    "Great Weapon Master"
+  ],
+  "monkeygrip": [
+    "Dragon Fear"
+  ],
+  "spellcaster": [
+    "Spell Sniper"
+  ],
+  "innate": [
+    "Magic Initiate"
+  ],
+  "arc": [
+    "Arcanist"
+  ],
+  "magic imitate": [
+    "Magic Initiate"
+  ],
+  "keen memory": [
+    "Keen Mind"
+  ],
+  "fey teleportat": [
+    "Fey Teleportation"
+  ],
+  "Greatweapon Mastery": [
+    "Great Weapon Master"
+  ],
+  "Sentient": [
+    "Sentinel"
+  ],
+  "nobile": [
+    "Mobile"
+  ],
+  "Dwarven fort": [
+    "Dwarven Fortitude"
+  ],
+  "diplomat.": [
+    "Diplomat"
+  ],
+  "insprired leader": [
+    "Inspiring Leader"
+  ],
+  "Spell Sn": [
+    "Spell Sniper"
+  ],
+  "gay": [
+    "Prodigy"
+  ],
+  "satanist": [
+    "Arcanist"
+  ],
+  "dropbear": [
+    "Grudge-Bearer"
+  ],
+  "narcissist": [
+    "Survivalist"
+  ],
+  "philanderer": [
+    "Performer"
+  ],
+  "spooky": [
+    "Lucky"
+  ],
+  "Observer": [
+    "Observant"
+  ],
+  "Prodgey": [
+    "Prodigy"
+  ],
+  "resisten": [
+    "Resilient"
+  ],
+  "two weapon fighting ranger": [
+    "Weapon Master"
+  ],
+  "dragons wings": [
+    "Dragon Wings"
+  ],
+  "medium armor masterey": [
+    "Medium Armor Master"
+  ],
+  "Duelist": [
+    "Defensive Duelist"
+  ],
+  "high magic": [
+    "Drow High Magic"
+  ],
+  "pact boon": [
+    "Squat Nimbleness"
+  ],
+  "health": [
+    "Healer"
+  ],
+  "dodge": [
+    "Prodigy"
+  ],
+  "heavy armour Master": [
+    "Heavy Armor Master"
+  ],
+  "finger": [
+    "Quick-Fingered"
+  ],
+  "magic inisiate": [
+    "Magic Initiate"
+  ],
+  "arcane recovery": [
+    "War Caster"
+  ],
+  "light a": [
+    "Lightly Armored"
+  ],
+  "1 constitution": [
+    "Quicksmithing"
+  ],
+  "increase": [
+    "Naturalist"
+  ],
+  "protctor": [
+    "Perceptive"
+  ],
+  "night": [
+    "Menacing"
+  ],
+  "dual wilding": [
+    "Dual Wielder"
+  ],
+  "<alert>": [
+    "Alert"
+  ],
+  "human d": [
+    "Human Determination"
+  ],
+  "dual weapon fighter": [
+    "Dual Wielder"
+  ],
+  "investigative": [
+    "Investigator"
+  ],
+  "light armour mastery": [
+    "Medium Armor Master"
+  ],
+  "heavy armour mastery": [
+    "Heavy Armor Master"
+  ],
+  "defensive dulist": [
+    "Defensive Duelist"
+  ],
+  "minimal armor master": [
+    "Medium Armor Master"
+  ],
+  "determined": [
+    "Human Determination"
+  ],
+  "crossbow expert feat": [
+    "Crossbow Expert"
+  ],
+  "ritu": [
+    "Ritual Caster"
+  ],
+  "invest": [
+    "Investigator"
+  ],
+  "Heavy Armour Master": [
+    "Heavy Armor Master"
+  ],
+  "Worcester": [
+    "War Caster"
+  ],
+  "Gurmand": [
+    "Gourmand"
+  ],
+  "sharoshooter": [
+    "Sharpshooter"
+  ],
+  "flames of phelgethos": [
+    "Flames of Phlegethos"
+  ],
+  "martial artist": [
+    "Martial Adept"
+  ],
+  "Martial Artist": [
+    "Martial Adept"
+  ],
+  "Dragon Fear": [
+    "Dragon Fear"
+  ],
+  "Menancing": [
+    "Menacing"
+  ],
+  "drow high": [
+    "Drow High Magic"
+  ],
+  "inspiring leader.": [
+    "Inspiring Leader"
+  ],
+  "intimidation": [
+    "Human Determination"
+  ],
+  "Greatsword": [
+    "Great Weapon Master"
+  ],
+  "religion": [
+    "Theologian"
+  ],
+  "nature": [
+    "Naturalist"
+  ],
+  "knowledge of the ages": [
+    "Dragonmark of Handling"
+  ],
+  "knowledge": [
+    "Athlete"
+  ],
+  "war wizard": [
+    "War Caster"
+  ],
+  "hospi": [
+    "Dragonmark of Hospitality"
+  ],
+  "i have been here before": [
+    "Everybody's Friend"
+  ],
+  "tavern Brawler": [
+    "Tavern Brawler"
+  ],
+  "gosb": [
+    "Linguist"
+  ],
+  "greater Storm": [
+    "Greater Dragonmark (Storm)"
+  ],
+  "preformer": [
+    "Performer"
+  ],
+  "bow expert": [
+    "Crossbow Expert"
+  ],
+  "Prodi": [
+    "Prodigy"
+  ],
+  "bow exp": [
+    "Crossbow Expert"
+  ],
+  "wild magic surge": [
+    "Drow High Magic"
+  ],
+  "elven accurac": [
+    "Elven Accuracy"
+  ],
+  "numb": [
+    "Mobile"
+  ],
+  "brave": [
+    "Brawny"
+  ],
+  "great weapon Master": [
+    "Great Weapon Master"
+  ],
+  "squat nimbless": [
+    "Squat Nimbleness"
+  ],
+  "flames of phlethgoes": [
+    "Flames of Phlegethos"
+  ],
+  "<Fury of the Small>": [
+    "Drow High Magic"
+  ],
+  "natu": [
+    "Naturalist"
+  ],
+  "Master of I": [
+    "Master of Disguise"
+  ],
+  "shnivobn magic": [
+    "Svirfneblin Magic"
+  ],
+  "polearmmaster": [
+    "Polearm Master"
+  ],
+  "high drow magic": [
+    "Drow High Magic"
+  ],
+  "performance": [
+    "Performer"
+  ],
+  "Elven Accuarcy": [
+    "Elven Accuracy"
+  ],
+  "religious": [
+    "Theologian"
+  ],
+  "char": [
+    "Charger"
+  ],
+  "flailmastery": [
+    "Flail Mastery"
+  ],
+  "heavily armor": [
+    "Heavily Armored"
+  ],
+  "shiel master": [
+    "Shield Master"
+  ],
+  "Animal": [
+    "Animal Handler"
+  ],
+  "empty body": [
+    "Prodigy"
+  ],
+  "forest": [
+    "Arcanist"
+  ],
+  "Empathetic": [
+    "Empathic"
+  ],
+  "sheild masyer": [
+    "Shield Master"
+  ],
+  "bonus": [
+    "Linguist"
+  ],
+  "theol": [
+    "Theologian"
+  ],
+  "charager": [
+    "Charger"
+  ],
+  "sword mastery": [
+    "Blade Mastery"
+  ],
+  "svf": [
+    "Svirfneblin Magic"
+  ],
+  "heavily ar": [
+    "Heavily Armored"
+  ],
+  "intim": [
+    "Investigator"
+  ],
+  "sharpshooting": [
+    "Sharpshooter"
+  ],
+  "natural explorer": [
+    "Naturalist"
+  ],
+  "plethegos": [
+    "Flames of Phlegethos"
+  ],
+  "everybody\u2019s friend": [
+    "Everybody's Friend"
+  ],
+  "delver": [
+    "Dungeon Delver"
+  ],
+  "Revanant Blade": [
+    "Revenant Blade"
+  ],
+  "silver-tongues": [
+    "Silver-Tongued"
+  ],
+  "greater DragonMark": [
+    "Greater Dragonmark (Storm)"
+  ],
+  "maestro": [
+    "Mage Slayer"
+  ],
+  "dual-wielder": [
+    "Dual Wielder"
+  ],
+  "weapon expert": [
+    "Weapon Master"
+  ],
+  "sharpshotter": [
+    "Sharpshooter"
+  ],
+  "Sword Mastery": [
+    "Blade Mastery"
+  ],
+  "enthralling performance": [
+    "Performer"
+  ],
+  "mobl": [
+    "Mobile"
+  ],
+  "infernal const": [
+    "Infernal Constitution"
+  ],
+  "rogue second-story work": [
+    "Great Weapon Master"
+  ],
+  "great weapons master": [
+    "Great Weapon Master"
+  ],
+  "totem of the bear": [
+    "Polearm Master"
+  ],
+  "athleer": [
+    "Athlete"
+  ],
+  "magic inciet": [
+    "Magic Initiate"
+  ],
+  "breath weapon": [
+    "Great Weapon Master"
+  ],
+  "alchemis": [
+    "Alchemist"
+  ],
+  "investigation": [
+    "Investigator"
+  ],
+  "elven accur": [
+    "Elven Accuracy"
+  ],
+  "quivering palm": [
+    "Quick-Fingered"
+  ],
+  "phlegethos": [
+    "Flames of Phlegethos"
+  ],
+  "Defensive Duellist": [
+    "Defensive Duelist"
+  ],
+  "humman": [
+    "Human Determination"
+  ],
+  "\"great weaponmaster\"": [
+    "Great Weapon Master"
+  ],
+  "hea": [
+    "Heavily Armored"
+  ],
+  "mounts": [
+    "Observant"
+  ],
+  "Sword": [
+    "Actor"
+  ],
+  "dragon h": [
+    "Dragon Hide"
+  ],
+  "heavy arMour master": [
+    "Heavy Armor Master"
+  ],
+  "magic initi": [
+    "Magic Initiate"
+  ],
+  "flame of phl": [
+    "Flames of Phlegethos"
+  ],
+  "favored by the gods": [
+    "Flames of Phlegethos"
+  ],
+  "goliath": [
+    "Athlete"
+  ],
+  "unca": [
+    "Acrobat"
+  ],
+  "journey man": [
+    "Wonder Maker"
+  ],
+  "sentinep": [
+    "Sentinel"
+  ],
+  "falmes of phlegethos": [
+    "Flames of Phlegethos"
+  ],
+  "skille": [
+    "Skilled"
+  ],
+  "dragon fera": [
+    "Dragon Fear"
+  ],
+  "dual wilder": [
+    "Dual Wielder"
+  ],
+  "great weapon m": [
+    "Great Weapon Master"
+  ],
+  "**soka**": [
+    "Skilled"
+  ],
+  "plentiful luck": [
+    "Bountiful Luck"
+  ],
+  "great to weapon": [
+    "Greater Dragonmark (Healing)"
+  ],
+  "orci": [
+    "Orcish Fury"
+  ],
+  "blade mas tree ry": [
+    "Blade Mastery"
+  ],
+  "Revenant": [
+    "Revenant Blade"
+  ],
+  "alery": [
+    "Alert"
+  ],
+  "War Magic": [
+    "War Caster"
+  ],
+  "dragonmarked": [
+    "Dragonmark of Shadow"
+  ],
+  "magic initiate (cleric)": [
+    "Magic Initiate"
+  ],
+  "investigate": [
+    "Investigator"
+  ],
+  "<great weapon master>": [
+    "Great Weapon Master"
+  ],
+  "<heavy armour master>": [
+    "Heavy Armor Master"
+  ],
+  "weapon bond": [
+    "Keen Mind"
+  ],
+  "limguist": [
+    "Linguist"
+  ],
+  "init": [
+    "Magic Initiate"
+  ],
+  "magica": [
+    "Magic Initiate"
+  ],
+  "tongue": [
+    "Silver-Tongued"
+  ],
+  "gnom": [
+    "Dragonmark of Making"
+  ],
+  "Flames of Phlegetos": [
+    "Flames of Phlegethos"
+  ],
+  "perception": [
+    "Perceptive"
+  ],
+  "obsercvant": [
+    "Observant"
+  ],
+  "superiority die": [
+    "Servo Crafting"
+  ],
+  "bow master": [
+    "Blade Mastery"
+  ],
+  "greater dragonmark storm": [
+    "Greater Dragonmark (Storm)"
+  ],
+  "weapom": [
+    "Weapon Master"
+  ],
+  "reciliance (con)": [
+    "Resilient"
+  ],
+  "greater sentinel": [
+    "Greater Dragonmark (Sentinel)"
+  ],
+  "add magic initiate": [
+    "Magic Initiate"
+  ],
+  "dwarves": [
+    "Dwarven Fortitude"
+  ],
+  "vital strike": [
+    "Flail Mastery"
+  ],
+  "imunity": [
+    "Menacing"
+  ],
+  "slow fall": [
+    "Dragon Fear"
+  ],
+  "magic intiate": [
+    "Magic Initiate"
+  ],
+  "greater warding": [
+    "Greater Dragonmark (Warding)"
+  ],
+  "everyb": [
+    "Everybody's Friend"
+  ],
+  "Wood Elf Magic": [
+    "Wood Elf Magic"
+  ],
+  "crossb": [
+    "Crossbow Expert"
+  ],
+  "arca": [
+    "Arcanist"
+  ],
+  "Greater Mark of Healing": [
+    "Greater Dragonmark (Healing)"
+  ],
+  "divine senese": [
+    "Defensive Duelist"
+  ],
+  "proficiencies": [
+    "Arcanist"
+  ],
+  "svirn": [
+    "Svirfneblin Magic"
+  ],
+  "Angelic Protection": [
+    "Human Determination"
+  ],
+  "remember": [
+    "Revenant Blade"
+  ],
+  "herbalist": [
+    "Healer"
+  ],
+  "Spell SN": [
+    "Spell Sniper"
+  ],
+  "fingers": [
+    "Quick-Fingered"
+  ],
+  "dungeoner": [
+    "Dungeon Delver"
+  ],
+  "war mager": [
+    "War Caster"
+  ],
+  "defend": [
+    "Defensive Duelist"
+  ],
+  "shield exp": [
+    "Shield Master"
+  ],
+  "warclaster": [
+    "War Caster"
+  ],
+  "mastery of force": [
+    "Master of Disguise"
+  ],
+  "Great Weapon MAstery": [
+    "Great Weapon Master"
+  ],
+  "construct": [
+    "Arcanist"
+  ],
+  "bounti": [
+    "Bountiful Luck"
+  ],
+  "resilient dex": [
+    "Resilient"
+  ],
+  "master of diguise": [
+    "Master of Disguise"
+  ],
+  "\"savage attacker\"": [
+    "Savage Attacker"
+  ],
+  "magic intitiate": [
+    "Magic Initiate"
+  ],
+  "relisient": [
+    "Resilient"
+  ],
+  "poison": [
+    "Prodigy"
+  ],
+  "dwarve": [
+    "Dwarven Fortitude"
+  ],
+  "dragon wingd": [
+    "Dragon Wings"
+  ],
+  "drow hogh magic": [
+    "Drow High Magic"
+  ],
+  "second chace": [
+    "Second Chance"
+  ],
+  "mounted\\": [
+    "Mounted Combatant"
+  ],
+  "fetish": [
+    "Alchemist"
+  ],
+  "detect portal": [
+    "Fey Teleportation"
+  ],
+  "great wrap": [
+    "Great Weapon Master"
+  ],
+  "arcane restoration": [
+    "Arcanist"
+  ],
+  "infernal constit": [
+    "Infernal Constitution"
+  ],
+  "skirmish": [
+    "Skulker"
+  ],
+  "Silver Tongued": [
+    "Silver-Tongued"
+  ],
+  "add grappler": [
+    "Grappler"
+  ],
+  "magic i": [
+    "Magic Initiate"
+  ],
+  "duel wei": [
+    "Dual Wielder"
+  ],
+  "subtle spell": [
+    "Spell Sniper"
+  ],
+  "touch of death": [
+    "Stealthy"
+  ],
+  "blunt": [
+    "Resilient"
+  ],
+  "elven accuracfy": [
+    "Elven Accuracy"
+  ],
+  "arcane focus": [
+    "Arcanist"
+  ],
+  "teleport": [
+    "Fey Teleportation"
+  ],
+  "charismatic": [
+    "Empathic"
+  ],
+  "light armor proficiency": [
+    "Lightly Armored"
+  ],
+  "abservant": [
+    "Observant"
+  ],
+  "maneuver": [
+    "Human Determination"
+  ],
+  "prog": [
+    "Prodigy"
+  ],
+  "mimic": [
+    "Empathic"
+  ],
+  "flame of phleg": [
+    "Flames of Phlegethos"
+  ],
+  "dragonmark storm": [
+    "Greater Dragonmark (Storm)"
+  ],
+  "greater dragon mark": [
+    "Greater Dragonmark (Finding)"
+  ],
+  "Empathic": [
+    "Empathic"
+  ],
+  "Second chance": [
+    "Second Chance"
+  ],
+  "Silver-tongued": [
+    "Silver-Tongued"
+  ],
+  "action surhe": [
+    "Actor"
+  ],
+  "Silver-Tongued": [
+    "Silver-Tongued"
+  ],
+  "favored enemy": [
+    "Barbed Hide"
+  ],
+  "magin initiate": [
+    "Magic Initiate"
+  ],
+  "Dual-wielder": [
+    "Dual Wielder"
+  ],
+  "dual-weilder": [
+    "Dual Wielder"
+  ],
+  "shield m": [
+    "Shield Master"
+  ],
+  "warcasr": [
+    "War Caster"
+  ],
+  "we": [
+    "Dual Wielder"
+  ],
+  "mobike": [
+    "Mobile"
+  ],
+  "accur": [
+    "Elven Accuracy"
+  ],
+  "izzit": [
+    "Quicksmithing"
+  ],
+  "squat no": [
+    "Squat Nimbleness"
+  ],
+  "quantas": [
+    "Gourmand"
+  ],
+  "burgular": [
+    "Burglar"
+  ],
+  "eemental": [
+    "Elemental Adept"
+  ],
+  "truesight": [
+    "Investigator"
+  ],
+  "dualweilder": [
+    "Dual Wielder"
+  ],
+  "Tunnel Fighter": [
+    "Investigator"
+  ],
+  "Stout Nimbleness": [
+    "Squat Nimbleness"
+  ],
+  "ranger": [
+    "Charger"
+  ],
+  "martia": [
+    "Martial Adept"
+  ],
+  "constitu": [
+    "Infernal Constitution"
+  ],
+  "Lingquiest": [
+    "Linguist"
+  ],
+  "perfor": [
+    "Performer"
+  ],
+  "magic innitiate": [
+    "Magic Initiate"
+  ],
+  "charger <@405913349264506891>": [
+    "Charger"
+  ],
+  "war Caster": [
+    "War Caster"
+  ],
+  "skulkee": [
+    "Skulker"
+  ],
+  "mounted combattend": [
+    "Mounted Combatant"
+  ],
+  "knowledge cleric": [
+    "Dungeon Delver"
+  ],
+  "armor mastery": [
+    "Medium Armor Master"
+  ],
+  "intimidating": [
+    "Menacing"
+  ],
+  "felhanded": [
+    "Fell Handed"
+  ],
+  "moderat": [
+    "Moderately Armored"
+  ],
+  "310o2'": [
+    "Acrobat"
+  ],
+  "Linguinist": [
+    "Linguist"
+  ],
+  "ji\u00f8": [
+    "Medic"
+  ],
+  "spell swindle": [
+    "Spell Sniper"
+  ],
+  "draon": [
+    "Dragon Hide"
+  ],
+  "croas": [
+    "Crossbow Expert"
+  ],
+  "vampir": [
+    "Vampiric Exultation"
+  ],
+  "elven adv": [
+    "Elven Accuracy"
+  ],
+  "Elven Teleportation": [
+    "Fey Teleportation"
+  ],
+  "gourmant": [
+    "Gourmand"
+  ],
+  "transportation": [
+    "Fey Teleportation"
+  ],
+  "bonus attack": [
+    "Savage Attacker"
+  ],
+  "resillient": [
+    "Resilient"
+  ],
+  "runner": [
+    "Charger"
+  ],
+  "fey Transportation": [
+    "Fey Teleportation"
+  ],
+  "shield masgter": [
+    "Shield Master"
+  ],
+  "sentinel's death's door": [
+    "Sentinel"
+  ],
+  "magical initate": [
+    "Magic Initiate"
+  ],
+  "shar": [
+    "Sharpshooter"
+  ],
+  "ls": [
+    "Alert"
+  ],
+  "flames of Phel": [
+    "Flames of Phlegethos"
+  ],
+  "shield mater": [
+    "Shield Master"
+  ],
+  "dragon's fear": [
+    "Dragon Fear"
+  ],
+  "dual wied": [
+    "Dual Wielder"
+  ],
+  "Spear Mastery": [
+    "Spear Mastery"
+  ],
+  "fiend": [
+    "Critter Friend"
+  ],
+  "gorumand": [
+    "Gourmand"
+  ],
+  "flames of phlagathos": [
+    "Flames of Phlegethos"
+  ],
+  "ac": [
+    "Actor"
+  ],
+  "fel": [
+    "Fell Handed"
+  ],
+  "elven a": [
+    "Elven Accuracy"
+  ],
+  "Dark vision": [
+    "Dwarf Resilience"
+  ],
+  "bravery": [
+    "Burglar"
+  ],
+  "defensive duelis": [
+    "Defensive Duelist"
+  ],
+  "proficient": [
+    "Resilient"
+  ],
+  "increase your": [
+    "Investigator"
+  ],
+  "constitution modifier": [
+    "Infernal Constitution"
+  ],
+  "greater shadowmark": [
+    "Greater Dragonmark (Shadow)"
+  ],
+  "f": [
+    "Performer"
+  ],
+  "Spell": [
+    "Spell Sniper"
+  ],
+  "spellslinger": [
+    "Spell Sniper"
+  ],
+  "gourmard": [
+    "Gourmand"
+  ],
+  "spear m": [
+    "Spear Mastery"
+  ],
+  "<Durable>": [
+    "Durable"
+  ],
+  "mod": [
+    "Moderately Armored"
+  ],
+  "medium armour master": [
+    "Medium Armor Master"
+  ],
+  "athel": [
+    "Athlete"
+  ],
+  "polemaster": [
+    "Polearm Master"
+  ],
+  "inspired": [
+    "Inspiring Leader"
+  ],
+  "ligh": [
+    "Lightly Armored"
+  ],
+  "resilient de": [
+    "Resilient"
+  ],
+  "kill versatility": [
+    "Survivalist"
+  ],
+  "gReAt WeApoN MaSTeR": [
+    "Great Weapon Master"
+  ],
+  "mage slaye": [
+    "Mage Slayer"
+  ],
+  "inspi": [
+    "Inspiring Leader"
+  ],
+  "flurry of blows": [
+    "Flames of Phlegethos"
+  ],
+  "polearn": [
+    "Polearm Master"
+  ],
+  "quick finger": [
+    "Quick-Fingered"
+  ],
+  "setinal": [
+    "Sentinel"
+  ],
+  "histora": [
+    "Historian"
+  ],
+  "boun": [
+    "Bountiful Luck"
+  ],
+  "barbed tiefling": [
+    "Barbed Hide"
+  ],
+  "men": [
+    "Menacing"
+  ],
+  "moderately ar": [
+    "Moderately Armored"
+  ],
+  "Keen": [
+    "Keen Mind"
+  ],
+  "extraordinary luck": [
+    "Bountiful Luck"
+  ],
+  "dark dealing": [
+    "Dwarf Resilience"
+  ],
+  "magic adept": [
+    "Magic Initiate"
+  ],
+  "magic initative": [
+    "Magic Initiate"
+  ],
+  "moutned": [
+    "Mounted Combatant"
+  ],
+  "Heal": [
+    "Healer"
+  ],
+  "ritual spellcaster": [
+    "Ritual Caster"
+  ],
+  "gourmando": [
+    "Gourmand"
+  ],
+  "Heavily Armored <@328637682689507329>": [
+    "Heavily Armored"
+  ],
+  "<Naturalist>": [
+    "Naturalist"
+  ],
+  "percetive": [
+    "Perceptive"
+  ],
+  "fey ancestry": [
+    "Fell Handed"
+  ],
+  "Sailor": [
+    "Actor"
+  ],
+  "orcish agression": [
+    "Orcish Aggression"
+  ],
+  "dexteri": [
+    "Blade Mastery"
+  ],
+  "half": [
+    "Healer"
+  ],
+  "raven queen": [
+    "Dwarven Fortitude"
+  ],
+  "colossus slayer": [
+    "Polearm Master"
+  ],
+  "charger <@423659264788135936>": [
+    "Charger"
+  ],
+  "historical knowledge": [
+    "Historian"
+  ],
+  "WarCaster": [
+    "War Caster"
+  ],
+  "Moderately armored": [
+    "Moderately Armored"
+  ],
+  "mark of healing": [
+    "Dragonmark of Healing"
+  ],
+  "Sentenal": [
+    "Sentinel"
+  ],
+  "encounter": [
+    "Sentinel"
+  ],
+  "elementa adapt": [
+    "Elemental Adept"
+  ],
+  "warcastor": [
+    "War Caster"
+  ],
+  "form": [
+    "Performer"
+  ],
+  "Hellish": [
+    "Theologian"
+  ],
+  "great-weapon master": [
+    "Great Weapon Master"
+  ],
+  "flames of phlethegos": [
+    "Flames of Phlegethos"
+  ],
+  "resistant": [
+    "Resilient"
+  ],
+  "Fey ancestory": [
+    "Actor"
+  ],
+  "revenant bl": [
+    "Revenant Blade"
+  ],
+  "as": [
+    "War Caster"
+  ],
+  "ritual can": [
+    "Ritual Caster"
+  ],
+  "survivor": [
+    "Survivalist"
+  ],
+  "elven accurcy": [
+    "Elven Accuracy"
+  ],
+  "religi": [
+    "Theologian"
+  ],
+  "combat medic": [
+    "Medic"
+  ],
+  "magic inntiate": [
+    "Magic Initiate"
+  ],
+  "master of": [
+    "Master of Disguise"
+  ],
+  "Dwarven": [
+    "Dwarven Fortitude"
+  ],
+  "elemental adept cold": [
+    "Elemental Adept"
+  ],
+  "fell h": [
+    "Fell Handed"
+  ],
+  "sentinel;": [
+    "Sentinel"
+  ],
+  "War Casting": [
+    "War Caster"
+  ],
+  "Squat": [
+    "Squat Nimbleness"
+  ],
+  "iwo": [
+    "Wonder Maker"
+  ],
+  "tink": [
+    "Theologian"
+  ],
+  "Shield Mastery": [
+    "Shield Master"
+  ],
+  "Cleave": [
+    "Blade Mastery"
+  ],
+  "Draconic Resilience": [
+    "Dragon Hide"
+  ],
+  "mage hunter": [
+    "Mage Slayer"
+  ],
+  "human deterimantauo": [
+    "Human Determination"
+  ],
+  "fell head": [
+    "Fell Handed"
+  ],
+  "Sharp shooter": [
+    "Sharpshooter"
+  ],
+  "Fey Ancestry": [
+    "Blade Mastery"
+  ],
+  "agil": [
+    "Alert"
+  ],
+  "Flail Mastry": [
+    "Flail Mastery"
+  ],
+  "Anarchist": [
+    "Arcanist"
+  ],
+  "Flames of": [
+    "Flames of Phlegethos"
+  ],
+  "revnenat": [
+    "Revenant Blade"
+  ],
+  "Master of Disguise": [
+    "Master of Disguise"
+  ],
+  "war\\": [
+    "War Caster"
+  ],
+  "gormaude": [
+    "Gourmand"
+  ],
+  "Silver-tounged": [
+    "Silver-Tongued"
+  ],
+  "axe mastery": [
+    "War Caster"
+  ],
+  "acc": [
+    "Elven Accuracy"
+  ],
+  "War magic": [
+    "War Caster"
+  ],
+  "spell siper": [
+    "Spell Sniper"
+  ],
+  "inspiring speach": [
+    "Inspiring Leader"
+  ],
+  "warcadter": [
+    "War Caster"
+  ],
+  "greater heal": [
+    "Greater Dragonmark (Healing)"
+  ],
+  "dragon feat": [
+    "Dragon Fear"
+  ],
+  "mask of many faces": [
+    "Dragonmark of Handling"
+  ],
+  "defense dualis": [
+    "Defensive Duelist"
+  ],
+  "Defense Dualist": [
+    "Defensive Duelist"
+  ],
+  "plearm master": [
+    "Polearm Master"
+  ],
+  "nimbles": [
+    "Squat Nimbleness"
+  ],
+  "\"Tavern Brawler\"": [
+    "Tavern Brawler"
+  ],
+  "dual welding": [
+    "Dual Wielder"
+  ],
+  "liguist": [
+    "Linguist"
+  ],
+  "charp": [
+    "Sharpshooter"
+  ],
+  "wepon master": [
+    "Weapon Master"
+  ],
+  "master'": [
+    "Blade Mastery"
+  ],
+  "mage Initiate": [
+    "Magic Initiate"
+  ],
+  "feat": [
+    "Fade Away"
+  ],
+  "vampiric exhultation": [
+    "Vampiric Exultation"
+  ],
+  "brw": [
+    "Tavern Brawler"
+  ],
+  "Dragon hide": [
+    "Dragon Hide"
+  ],
+  "sentintel": [
+    "Sentinel"
+  ],
+  "defensive dueslist": [
+    "Defensive Duelist"
+  ],
+  "ealer": [
+    "Healer"
+  ],
+  "mounted combatant.": [
+    "Mounted Combatant"
+  ],
+  "Extra Attack": [
+    "Savage Attacker"
+  ],
+  "war m": [
+    "War Caster"
+  ],
+  "aleart": [
+    "Alert"
+  ],
+  "add ritual caster": [
+    "Ritual Caster"
+  ],
+  "Greater Dragonmark (warding)": [
+    "Greater Dragonmark (Warding)"
+  ],
+  "Virgil at": [
+    "Burglar"
+  ],
+  "squat nimblness": [
+    "Squat Nimbleness"
+  ],
+  "sharphshooter": [
+    "Sharpshooter"
+  ],
+  "setin": [
+    "Sentinel"
+  ],
+  "rakish audacity": [
+    "Orcish Fury"
+  ],
+  "gourmund": [
+    "Gourmand"
+  ],
+  "haunted one": [
+    "Dungeon Delver"
+  ],
+  "enchant": [
+    "Revenant Blade"
+  ],
+  "prof": [
+    "Prodigy"
+  ],
+  "sner": [
+    "Alert"
+  ],
+  "svne": [
+    "Svirfneblin Magic"
+  ],
+  "preserve life": [
+    "Resilient"
+  ],
+  "Revenant Blade": [
+    "Revenant Blade"
+  ],
+  "dualweilding": [
+    "Dual Wielder"
+  ],
+  "Elemental": [
+    "Elemental Adept"
+  ],
+  "enpathic": [
+    "Empathic"
+  ],
+  "research": [
+    "War Caster"
+  ],
+  "Diplomacy": [
+    "Diplomat"
+  ],
+  "familiar": [
+    "Animal Handler"
+  ],
+  "Warrior of the Gods": [
+    "Flames of Phlegethos"
+  ],
+  "wanderer": [
+    "Blade Mastery"
+  ],
+  "Great wepon master": [
+    "Great Weapon Master"
+  ],
+  "harger": [
+    "Charger"
+  ],
+  "poearm mastery": [
+    "Polearm Master"
+  ],
+  "flame of plethlegos": [
+    "Flames of Phlegethos"
+  ],
+  "grappling master": [
+    "Grappler"
+  ],
+  "dualwielding": [
+    "Dual Wielder"
+  ],
+  "Inspir": [
+    "Inspiring Leader"
+  ],
+  "flames of phelthegos": [
+    "Flames of Phlegethos"
+  ],
+  "one hand fighting stance": [
+    "Drow High Magic"
+  ],
+  "Diplo": [
+    "Diplomat"
+  ],
+  "dual wield master": [
+    "Blade Mastery"
+  ],
+  "tuoght": [
+    "Tough"
+  ],
+  "elementa';": [
+    "Elemental Adept"
+  ],
+  "crossbow expertise": [
+    "Crossbow Expert"
+  ],
+  "War Mage": [
+    "War Caster"
+  ],
+  "monk": [
+    "Mobile"
+  ],
+  "paladin": [
+    "Empathic"
+  ],
+  "ivesgator": [
+    "Investigator"
+  ],
+  "spell driver": [
+    "Spell Sniper"
+  ],
+  "squat m": [
+    "Squat Nimbleness"
+  ],
+  "linguis": [
+    "Linguist"
+  ],
+  "half elf": [
+    "Dwarf Resilience"
+  ],
+  "ethereal stride": [
+    "Elemental Adept"
+  ],
+  "fail": [
+    "Flail Mastery"
+  ],
+  "brawny\\": [
+    "Brawny"
+  ],
+  "savage attacking": [
+    "Savage Attacker"
+  ],
+  "animal handl": [
+    "Animal Handler"
+  ],
+  "quick fingerd": [
+    "Quick-Fingered"
+  ],
+  "greater hospitality": [
+    "Greater Dragonmark (Hospitality)"
+  ],
+  "greater storm": [
+    "Greater Dragonmark (Storm)"
+  ],
+  "greater finding": [
+    "Greater Dragonmark (Finding)"
+  ],
+  "Ritual": [
+    "Ritual Caster"
+  ],
+  "artist": [
+    "Arcanist"
+  ],
+  "acrob": [
+    "Acrobat"
+  ],
+  "Revenant blade": [
+    "Revenant Blade"
+  ],
+  "Elemental Affinity": [
+    "Elemental Adept"
+  ],
+  "Halfling": [
+    "Servo Crafting"
+  ],
+  "glide": [
+    "Dragon Hide"
+  ],
+  "dragonmark of finding": [
+    "Dragonmark of Finding"
+  ],
+  "telepathy": [
+    "Stealthy"
+  ],
+  "svirfnelbin magic": [
+    "Svirfneblin Magic"
+  ],
+  "entertainer": [
+    "Wonder Maker"
+  ],
+  "gourman": [
+    "Gourmand"
+  ],
+  "polearm ma": [
+    "Polearm Master"
+  ],
+  "hsopitality": [
+    "Dragonmark of Hospitality"
+  ],
+  "ritual cas": [
+    "Ritual Caster"
+  ],
+  "Flail Mastery": [
+    "Flail Mastery"
+  ],
+  "dog": [
+    "Drow High Magic"
+  ],
+  "spel": [
+    "Spell Sniper"
+  ],
+  "channel arcana": [
+    "Arcanist"
+  ],
+  "elemt": [
+    "Alchemist"
+  ],
+  "magic iniatiate": [
+    "Magic Initiate"
+  ],
+  "toughy": [
+    "Theologian"
+  ],
+  "flames of phlegthos": [
+    "Flames of Phlegethos"
+  ],
+  "defensive dueler": [
+    "Defensive Duelist"
+  ],
+  "flames of plethlegos": [
+    "Flames of Phlegethos"
+  ],
+  "critical": [
+    "Martial Adept"
+  ],
+  "Mystic Arcanum": [
+    "Arcanist"
+  ],
+  "concent": [
+    "Second Chance"
+  ],
+  "orkish": [
+    "Orcish Fury"
+  ],
+  "Paladin": [
+    "Prodigy"
+  ],
+  "Wonder Maker": [
+    "Wonder Maker"
+  ],
+  "dungeon delvet": [
+    "Dungeon Delver"
+  ],
+  "revevant": [
+    "Revenant Blade"
+  ],
+  "dragonmark of pass": [
+    "Dragonmark of Passage"
+  ],
+  "greater passage": [
+    "Greater Dragonmark (Passage)"
+  ],
+  "secomd chance": [
+    "Second Chance"
+  ],
+  "sh": [
+    "Shield Master"
+  ],
+  "rapier": [
+    "Grappler"
+  ],
+  "diplomatic.": [
+    "Diplomat"
+  ],
+  "Great Weapons Master": [
+    "Great Weapon Master"
+  ],
+  "firearm expert": [
+    "Crossbow Expert"
+  ],
+  "dwarven grudge": [
+    "Dwarven Fortitude"
+  ],
+  "keen mond": [
+    "Keen Mind"
+  ],
+  "relegion": [
+    "Theologian"
+  ],
+  "a tasteful sentiment": [
+    "Spell Sniper"
+  ],
+  "inspire": [
+    "Inspiring Leader"
+  ],
+  "sentinell": [
+    "Sentinel"
+  ],
+  "knight": [
+    "Arcanist"
+  ],
+  "man": [
+    "Menacing"
+  ],
+  "toug": [
+    "Tough"
+  ],
+  "Divine Sense": [
+    "Defensive Duelist"
+  ],
+  "skillfull": [
+    "Skilled"
+  ],
+  "dete": [
+    "Human Determination"
+  ],
+  "Resilience": [
+    "Dwarf Resilience"
+  ],
+  "movement": [
+    "Mobile"
+  ],
+  "servo Crafting": [
+    "Servo Crafting"
+  ],
+  "thieves tools": [
+    "Investigator"
+  ],
+  "thieves' tools": [
+    "Theologian"
+  ],
+  "handed": [
+    "Fell Handed"
+  ],
+  "Orcish Aggresion": [
+    "Orcish Aggression"
+  ],
+  "small nimbleness": [
+    "Squat Nimbleness"
+  ],
+  "heroism": [
+    "Performer"
+  ],
+  "Magic Ini": [
+    "Magic Initiate"
+  ],
+  "Dual wielded": [
+    "Dual Wielder"
+  ],
+  "heavy weapons master": [
+    "Great Weapon Master"
+  ],
+  "switch": [
+    "Medic"
+  ],
+  "silver toungued": [
+    "Silver-Tongued"
+  ],
+  "high Drow magic": [
+    "Drow High Magic"
+  ],
+  "mage slayre": [
+    "Mage Slayer"
+  ],
+  "shield bash": [
+    "Shield Master"
+  ],
+  "Fell handed": [
+    "Fell Handed"
+  ],
+  "pact of the chain": [
+    "Critter Friend"
+  ],
+  "halfling Lucky": [
+    "Lucky"
+  ],
+  "observantr": [
+    "Observant"
+  ],
+  "dwarven for": [
+    "Dwarven Fortitude"
+  ],
+  "wiggly": [
+    "Prodigy"
+  ],
+  "dungeon dwelver": [
+    "Dungeon Delver"
+  ],
+  "close quarters shooter": [
+    "Sharpshooter"
+  ],
+  "teifling": [
+    "Svirfneblin Magic"
+  ],
+  "inspireing leader": [
+    "Inspiring Leader"
+  ],
+  "gournmand": [
+    "Gourmand"
+  ],
+  "specia": [
+    "Menacing"
+  ],
+  "prodogi": [
+    "Prodigy"
+  ],
+  "Pole Arm Master": [
+    "Polearm Master"
+  ],
+  "crossboe": [
+    "Crossbow Expert"
+  ],
+  "inv": [
+    "Investigator"
+  ],
+  "quick finget": [
+    "Quick-Fingered"
+  ],
+  "keen sense": [
+    "Keen Mind"
+  ],
+  "skulket": [
+    "Skulker"
+  ],
+  "elvish acu": [
+    "Elven Accuracy"
+  ],
+  "sleight": [
+    "Lightly Armored"
+  ],
+  "stone": [
+    "Stealthy"
+  ],
+  "elven accurasy": [
+    "Elven Accuracy"
+  ],
+  "warlock": [
+    "Acrobat"
+  ],
+  "magic init wiz": [
+    "Magic Initiate"
+  ],
+  "Defensive Duellit": [
+    "Defensive Duelist"
+  ],
+  "Lightly Armored": [
+    "Lightly Armored"
+  ],
+  "k": [
+    "Skulker"
+  ],
+  "ko": [
+    "Acrobat"
+  ],
+  "Light": [
+    "Lightly Armored"
+  ],
+  "Dual Weild": [
+    "Dual Wielder"
+  ],
+  "Polearm Mater": [
+    "Polearm Master"
+  ],
+  "flames of phlegathos": [
+    "Flames of Phlegethos"
+  ],
+  "ritual collecter": [
+    "Ritual Caster"
+  ],
+  "channel divinity": [
+    "Arcanist"
+  ],
+  "Dual Wielder Specailist": [
+    "Dual Wielder"
+  ],
+  "dual wield mastery": [
+    "Dual Wielder"
+  ],
+  "diploamt": [
+    "Diplomat"
+  ],
+  "pole master": [
+    "Polearm Master"
+  ],
+  "acrop": [
+    "Acrobat"
+  ],
+  "weapon focus": [
+    "Weapon Master"
+  ],
+  "two handed": [
+    "Second Chance"
+  ],
+  "xbow expert": [
+    "Crossbow Expert"
+  ],
+  "thro": [
+    "Theologian"
+  ],
+  "abarant dragon": [
+    "Aberrant Dragonmark"
+  ],
+  "stunning": [
+    "Menacing"
+  ],
+  "greater dragonmark (sorm": [
+    "Greater Dragonmark (Storm)"
+  ],
+  "modera": [
+    "Moderately Armored"
+  ],
+  "orc fury": [
+    "Orcish Fury"
+  ],
+  "blowgun": [
+    "Theologian"
+  ],
+  "master of disguies": [
+    "Master of Disguise"
+  ],
+  "archery master": [
+    "Polearm Master"
+  ],
+  "elemental ade": [
+    "Elemental Adept"
+  ],
+  "Silver Tongue": [
+    "Silver-Tongued"
+  ],
+  "inve": [
+    "Investigator"
+  ],
+  "secrets": [
+    "Perceptive"
+  ],
+  "elven accuraccy": [
+    "Elven Accuracy"
+  ],
+  "servo crafter": [
+    "Servo Crafting"
+  ],
+  "heavy armored": [
+    "Heavy Armor Master"
+  ],
+  "fireball": [
+    "Healer"
+  ],
+  "fly": [
+    "Fade Away"
+  ],
+  "\u201cOrcish Fury\u201d": [
+    "Orcish Fury"
+  ],
+  "mounted c": [
+    "Mounted Combatant"
+  ],
+  "tremor sense": [
+    "Critter Friend"
+  ],
+  "mobile <@323751389358587905>": [
+    "Mobile"
+  ],
+  "\"lay on hands\"": [
+    "Animal Handler"
+  ],
+  "feystep": [
+    "Fey Teleportation"
+  ],
+  "changeling": [
+    "Charger"
+  ],
+  "second chan": [
+    "Second Chance"
+  ],
+  "extra at": [
+    "Martial Adept"
+  ],
+  "dragon-physique": [
+    "Dragon Hide"
+  ],
+  "dragon-wings": [
+    "Dragon Wings"
+  ],
+  "barbarian": [
+    "Barbed Hide"
+  ],
+  "bardic-inspiration": [
+    "Human Determination"
+  ],
+  "shnifoloben magic": [
+    "Svirfneblin Magic"
+  ],
+  "observan5": [
+    "Observant"
+  ],
+  "miunted": [
+    "Mounted Combatant"
+  ],
+  "dragonhid": [
+    "Dragon Hide"
+  ],
+  "Everyone's Friend": [
+    "Everybody's Friend"
+  ],
+  "protege": [
+    "Prodigy"
+  ],
+  "steal": [
+    "Stealthy"
+  ],
+  "POLEARM MASTER": [
+    "Polearm Master"
+  ],
+  "Divine": [
+    "Sentinel"
+  ],
+  "Heavy Arm": [
+    "Heavy Armor Master"
+  ],
+  "quick fingers": [
+    "Quick-Fingered"
+  ],
+  "inspiring leaer": [
+    "Inspiring Leader"
+  ],
+  "ritulcaster": [
+    "Ritual Caster"
+  ],
+  "polearr": [
+    "Polearm Master"
+  ],
+  "akimbo master": [
+    "Blade Mastery"
+  ],
+  "weapon proficiency": [
+    "Weapon Master"
+  ],
+  "Caster": [
+    "Arcanist"
+  ],
+  "secondwind": [
+    "Sentinel"
+  ],
+  "sentine\u015fl": [
+    "Sentinel"
+  ],
+  "dong": [
+    "Prodigy"
+  ],
+  "sentianal": [
+    "Sentinel"
+  ],
+  "sentnel": [
+    "Sentinel"
+  ],
+  "friend of the sea": [
+    "Dragonmark of Healing"
+  ],
+  "gorm": [
+    "Gourmand"
+  ],
+  "weav": [
+    "Wonder Maker"
+  ],
+  "emp": [
+    "Empathic"
+  ],
+  "ritural caster": [
+    "Ritual Caster"
+  ],
+  "eleven": [
+    "Elven Accuracy"
+  ],
+  "relentless rage": [
+    "Elemental Adept"
+  ],
+  "cleric": [
+    "Medic"
+  ],
+  "polerarm": [
+    "Polearm Master"
+  ],
+  "quick-fingere": [
+    "Quick-Fingered"
+  ],
+  "range": [
+    "Brawny"
+  ],
+  "Die Hard": [
+    "Shield Master"
+  ],
+  "Shi": [
+    "Shield Master"
+  ],
+  "Sh": [
+    "Stealthy"
+  ],
+  "sentinle": [
+    "Sentinel"
+  ],
+  "Tav": [
+    "Tavern Brawler"
+  ],
+  "Critter Friend": [
+    "Critter Friend"
+  ],
+  "sava": [
+    "Savage Attacker"
+  ],
+  "alchemy": [
+    "Alchemist"
+  ],
+  "af": [
+    "Servo Crafting"
+  ],
+  "polearm est": [
+    "Polearm Master"
+  ],
+  "dragons breath": [
+    "Dragon Hide"
+  ],
+  "disg": [
+    "Master of Disguise"
+  ],
+  "Leader": [
+    "Inspiring Leader"
+  ],
+  "dungeon dealver": [
+    "Dungeon Delver"
+  ],
+  "diplomate": [
+    "Diplomat"
+  ],
+  "Elemental mastery": [
+    "Elemental Adept"
+  ],
+  "pact of the rod": [
+    "Actor"
+  ],
+  "proteg": [
+    "Prodigy"
+  ],
+  "medium armor expert": [
+    "Medium Armor Master"
+  ],
+  "squad nimbleness": [
+    "Squat Nimbleness"
+  ],
+  "human deterioration": [
+    "Human Determination"
+  ],
+  "unarmoed defense": [
+    "Barbed Hide"
+  ],
+  "element adapt": [
+    "Elemental Adept"
+  ],
+  "lurker": [
+    "Skulker"
+  ],
+  "magic sniper": [
+    "Spell Sniper"
+  ],
+  "Warmaster": [
+    "War Caster"
+  ],
+  "dragonmark of passage": [
+    "Dragonmark of Passage"
+  ],
+  "dragon w": [
+    "Dragon Wings"
+  ],
+  "skultker": [
+    "Skulker"
+  ],
+  "alchemist kit": [
+    "Alchemist"
+  ],
+  "aberrant mark": [
+    "Aberrant Dragonmark"
+  ],
+  "orcis": [
+    "Orcish Fury"
+  ],
+  "in": [
+    "Investigator"
+  ],
+  "Fighting Style Protection": [
+    "Greater Dragonmark (Detection)"
+  ],
+  "infernal consti": [
+    "Infernal Constitution"
+  ],
+  "mages": [
+    "Mage Slayer"
+  ],
+  "elven acura": [
+    "Elven Accuracy"
+  ],
+  "Meancing": [
+    "Menacing"
+  ],
+  "mage slayee": [
+    "Mage Slayer"
+  ],
+  "lucku": [
+    "Lucky"
+  ],
+  "ua": [
+    "Survivalist"
+  ],
+  "flailmaster": [
+    "Flail Mastery"
+  ],
+  "mau": [
+    "Gourmand"
+  ],
+  "reasliant": [
+    "Resilient"
+  ],
+  "dualwiender": [
+    "Dual Wielder"
+  ],
+  "smite": [
+    "Mobile"
+  ],
+  "sentinile": [
+    "Sentinel"
+  ],
+  "elven accurace": [
+    "Elven Accuracy"
+  ],
+  "Defensive Dualist": [
+    "Defensive Duelist"
+  ],
+  "flail Mastery": [
+    "Flail Mastery"
+  ],
+  "drow high  magic": [
+    "Drow High Magic"
+  ],
+  "Great Weapons Mastwr": [
+    "Great Weapon Master"
+  ],
+  "greater mark of shadow": [
+    "Greater Dragonmark (Shadow)"
+  ],
+  "mounted Combatant": [
+    "Mounted Combatant"
+  ],
+  "Drow high magic": [
+    "Drow High Magic"
+  ],
+  "battlemage": [
+    "Athlete"
+  ],
+  "battle magic": [
+    "Svirfneblin Magic"
+  ],
+  "second_chance": [
+    "Second Chance"
+  ],
+  "Prerequisite human": [
+    "Resilient"
+  ],
+  "shiwld master": [
+    "Shield Master"
+  ],
+  "soul": [
+    "Skulker"
+  ],
+  "drow hide magic": [
+    "Drow High Magic"
+  ],
+  "dragon's hide": [
+    "Dragon Hide"
+  ],
+  "dragonmarks": [
+    "Dragonmark of Storm"
+  ],
+  "magic iniate": [
+    "Magic Initiate"
+  ],
+  "revanent": [
+    "Revenant Blade"
+  ],
+  "titan": [
+    "Theologian"
+  ],
+  "evade": [
+    "Revenant Blade"
+  ],
+  "arcane adept": [
+    "Arcanist"
+  ],
+  "spell spi": [
+    "Spear Mastery"
+  ],
+  "spell spine": [
+    "Spell Sniper"
+  ],
+  "Duael widler": [
+    "Dual Wielder"
+  ],
+  "blade_master": [
+    "Blade Mastery"
+  ],
+  "medicine kit": [
+    "Magic Initiate"
+  ],
+  "Human": [
+    "Human Determination"
+  ],
+  "sential": [
+    "Sentinel"
+  ],
+  "magic initaiate": [
+    "Magic Initiate"
+  ],
+  "<light armor>": [
+    "Lightly Armored"
+  ],
+  "sharpshootee": [
+    "Sharpshooter"
+  ],
+  "magic connection or something": [
+    "Dragonmark of Sentinel"
+  ],
+  "skiled": [
+    "Skilled"
+  ],
+  "mount comba": [
+    "Mounted Combatant"
+  ],
+  "grpapler": [
+    "Grappler"
+  ],
+  "orcish firy": [
+    "Orcish Fury"
+  ],
+  "mounted attack": [
+    "Mounted Combatant"
+  ],
+  "servo quicksmithing": [
+    "Quicksmithing"
+  ],
+  "prerequisite half-elf": [
+    "Resilient"
+  ],
+  "athleteic": [
+    "Athlete"
+  ],
+  "tavern prawler": [
+    "Tavern Brawler"
+  ],
+  "war maic": [
+    "War Caster"
+  ],
+  "Firearm": [
+    "Performer"
+  ],
+  "warnage": [
+    "War Caster"
+  ],
+  "med armor": [
+    "Medium Armor Master"
+  ],
+  "Bountiful": [
+    "Bountiful Luck"
+  ],
+  "abrent dragonmark": [
+    "Aberrant Dragonmark"
+  ],
+  "great weapon figh": [
+    "Great Weapon Master"
+  ],
+  "luckj": [
+    "Lucky"
+  ],
+  "Great Weapon Mastery": [
+    "Great Weapon Master"
+  ],
+  "climber": [
+    "Mobile"
+  ],
+  "mountain": [
+    "Bountiful Luck"
+  ],
+  "Planar": [
+    "Dragon Fear"
+  ],
+  "Detect portal": [
+    "Fey Teleportation"
+  ],
+  "mark of passage": [
+    "Dragonmark of Passage"
+  ],
+  "greater mark of storm": [
+    "Greater Dragonmark (Storm)"
+  ],
+  "glaive": [
+    "Flail Mastery"
+  ],
+  "cas": [
+    "War Caster"
+  ],
+  "flame of phlegetos": [
+    "Flames of Phlegethos"
+  ],
+  "athlere": [
+    "Athlete"
+  ],
+  "greater mark of passage": [
+    "Greater Dragonmark (Passage)"
+  ],
+  "dwarves fortitude": [
+    "Dwarven Fortitude"
+  ],
+  "elven acurracy": [
+    "Elven Accuracy"
+  ],
+  "scaleskin": [
+    "Resilient"
+  ],
+  "dragom": [
+    "Dragon Hide"
+  ],
+  "heavyly armored": [
+    "Heavily Armored"
+  ],
+  "gurmand": [
+    "Gourmand"
+  ],
+  "Enlarged Dragon Breath": [
+    "Dragon Fear"
+  ],
+  "handaxe mastery": [
+    "Blade Mastery"
+  ],
+  "quick quiver": [
+    "Quicksmithing"
+  ],
+  "swift quiver": [
+    "Spell Sniper"
+  ],
+  "ressilient": [
+    "Resilient"
+  ],
+  "revenant balde": [
+    "Revenant Blade"
+  ],
+  "theologist": [
+    "Theologian"
+  ],
+  "everbody freind": [
+    "Everybody's Friend"
+  ],
+  "inspirating leader": [
+    "Inspiring Leader"
+  ],
+  "atleath": [
+    "Athlete"
+  ],
+  "magic intitate": [
+    "Magic Initiate"
+  ],
+  "wodjdowk": [
+    "Prodigy"
+  ],
+  "weapon mas": [
+    "Weapon Master"
+  ],
+  "initia": [
+    "Magic Initiate"
+  ],
+  "light armour master": [
+    "Lightly Armored"
+  ],
+  "counter": [
+    "Dragon Fear"
+  ],
+  "counter attack": [
+    "Second Chance"
+  ],
+  "unmbral sight": [
+    "Survivalist"
+  ],
+  "precise": [
+    "Perceptive"
+  ],
+  "tawernb": [
+    "Tavern Brawler"
+  ],
+  "lucy": [
+    "Lucky"
+  ],
+  "gun": [
+    "Gourmand"
+  ],
+  "Doppelganger Telepathy": [
+    "Fey Teleportation"
+  ],
+  "fell ahded": [
+    "Fell Handed"
+  ],
+  "spell focus": [
+    "Spear Mastery"
+  ],
+  "focus": [
+    "Orcish Fury"
+  ],
+  "hevy armor": [
+    "Heavily Armored"
+  ],
+  "Duel": [
+    "Defensive Duelist"
+  ],
+  "martial mastet": [
+    "Martial Adept"
+  ],
+  "action": [
+    "Actor"
+  ],
+  "Drow Hide Magic": [
+    "Drow High Magic"
+  ],
+  "\"war caster\"": [
+    "War Caster"
+  ],
+  "mar": [
+    "Martial Adept"
+  ],
+  "creation": [
+    "Servo Crafting"
+  ],
+  "mark of warding": [
+    "Dragonmark of Warding"
+  ],
+  "heavy a": [
+    "Heavy Armor Master"
+  ],
+  "flames of phagos": [
+    "Flames of Phlegethos"
+  ],
+  "sword master": [
+    "Weapon Master"
+  ],
+  "spell master": [
+    "Spell Sniper"
+  ],
+  "spell swindler": [
+    "Spell Sniper"
+  ],
+  "prodigee": [
+    "Prodigy"
+  ],
+  "thau": [
+    "Theologian"
+  ],
+  "menaching": [
+    "Menacing"
+  ],
+  "magic inititiate": [
+    "Magic Initiate"
+  ],
+  "painter": [
+    "Actor"
+  ],
+  "inspired leader": [
+    "Inspiring Leader"
+  ],
+  "unor": [
+    "Dungeon Delver"
+  ],
+  "ritual Caster": [
+    "Ritual Caster"
+  ],
+  "bountiful lick": [
+    "Bountiful Luck"
+  ],
+  "sentinel at death's door": [
+    "Sentinel"
+  ],
+  "hungryjaws": [
+    "Dragon Wings"
+  ],
+  "heavy armor prof": [
+    "Heavily Armored"
+  ],
+  "magic instiate": [
+    "Magic Initiate"
+  ],
+  "dwarver fort": [
+    "Dwarven Fortitude"
+  ],
+  "dwarven reselience": [
+    "Dwarf Resilience"
+  ],
+  "master of disg": [
+    "Master of Disguise"
+  ],
+  "elemental indept": [
+    "Elemental Adept"
+  ],
+  "elven accurecy": [
+    "Elven Accuracy"
+  ],
+  "resilient (Con)": [
+    "Resilient"
+  ],
+  "weapon training": [
+    "Human Determination"
+  ],
+  "akert": [
+    "Alert"
+  ],
+  "spell slayer": [
+    "Mage Slayer"
+  ],
+  "Heavy armor": [
+    "Heavy Armor Master"
+  ],
+  "hexblade curse": [
+    "Blade Mastery"
+  ],
+  "flames of phelegos": [
+    "Flames of Phlegethos"
+  ],
+  "animal handeler": [
+    "Animal Handler"
+  ],
+  "sharshooter": [
+    "Sharpshooter"
+  ],
+  "\"bountiful luck\"": [
+    "Bountiful Luck"
+  ],
+  "Heavily Armor": [
+    "Heavily Armored"
+  ],
+  "silent caster": [
+    "Ritual Caster"
+  ],
+  "poles": [
+    "Polearm Master"
+  ],
+  "scimitar": [
+    "Shield Master"
+  ],
+  "sworx": [
+    "Historian"
+  ],
+  "blademastery": [
+    "Blade Mastery"
+  ],
+  "everybod": [
+    "Everybody's Friend"
+  ],
+  "Medium armor": [
+    "Medium Armor Master"
+  ],
+  "Lightly armored": [
+    "Lightly Armored"
+  ],
+  "spelltheif": [
+    "Spell Sniper"
+  ],
+  "Menacinf": [
+    "Menacing"
+  ],
+  "iniate": [
+    "Magic Initiate"
+  ],
+  "heavy armor ma": [
+    "Heavy Armor Master"
+  ],
+  "dura": [
+    "Durable"
+  ],
+  "wepaon master": [
+    "Weapon Master"
+  ],
+  "touth": [
+    "Tough"
+  ],
+  "flames of pthelegos": [
+    "Flames of Phlegethos"
+  ],
+  "prodeg": [
+    "Prodigy"
+  ],
+  "crozzbow": [
+    "Crossbow Expert"
+  ],
+  "spell snimper": [
+    "Spell Sniper"
+  ],
+  "cneak": [
+    "Wonder Maker"
+  ]
+}

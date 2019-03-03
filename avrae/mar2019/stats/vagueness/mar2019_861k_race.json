@@ -1,0 +1,10951 @@
+{
+  "a": [
+    "Human (Variant)",
+    "Dragonborn",
+    "Tabaxi",
+    "Half-Elf (Aquatic Elf Descent)",
+    "Aarakocra",
+    "Yuan-ti Pureblood",
+    "Lizardfolk",
+    "Revenant",
+    "Kalashtar",
+    "Minotaur",
+    "Merfolk (Ixalan) (Blue)",
+    "Elf (Grugach)",
+    "Vedalken",
+    "Tiefling (Mammon)",
+    "Naga",
+    "Elf (Sea)",
+    "Shifter (Razorclaw) (UAEberron)",
+    "Genasi (Fire)",
+    "Elf (Aereni)",
+    "Elf (Eladrin)",
+    "Half-Orc",
+    "Human",
+    "Tiefling (Asmodeus) (UAFiendishOptions)",
+    "Dwarf (Mountain)",
+    "Kuo-Toa (DMG)",
+    "Aetherborn",
+    "Bugbear",
+    "Half-Orc (Mark of Finding)",
+    "Aven",
+    "Human (Mark of Making)",
+    "Aasimar (Protector)",
+    "Vampire (Ixalan)",
+    "Vedalken (PSK)",
+    "Aasimar (Fallen)",
+    "Tiefling (Abyssal)",
+    "Half-Elf (Moon Elf or Sun Elf Descent)",
+    "Viashino",
+    "Aasimar (Scourge)",
+    "Orc (Ixalan)",
+    "Human (Keldon)",
+    "Gith (Githyanki)",
+    "Tiefling (Variant)",
+    "Elf (Mark of Shadow)",
+    "Genasi (Earth)",
+    "Merfolk (Zendikar) (Ula Creed)",
+    "Halfling (Ghostwise)",
+    "Aasimar (DMG)",
+    "Genasi (Air)",
+    "Genasi (Water)",
+    "Khenra",
+    "Shifter (Longstride) (UAEberron)",
+    "Aarakocra (DMG)",
+    "Goblin (Ixalan)",
+    "Changeling",
+    "Vampire (Zendikar)",
+    "Elf (Avariel)",
+    "Centaur",
+    "Elf (Valenar)",
+    "Elf (Shadar-kai)"
+  ],
+  "e": [
+    "Elf (Eladrin) (DMG)",
+    "Revenant",
+    "Elf (Grugach)",
+    "Human (Mark of Sentinel)",
+    "Elf (Drow)",
+    "Vedalken",
+    "Tiefling (Mephistopheles)",
+    "Genasi (Fire)",
+    "Merfolk (DMG)",
+    "Human (Innistrad) (Nephalia)",
+    "Elf (Wood)",
+    "Warforged (Juggernaut)",
+    "Kenku",
+    "Siren",
+    "Goblin (Zendikar) (Tuktuk Tribe)",
+    "Aetherborn",
+    "Merfolk (Zendikar) (Cosi Creed)",
+    "Bugbear",
+    "Skeleton (DMG)",
+    "Aven",
+    "Vedalken (PSK)",
+    "Half-Elf (Moon Elf or Sun Elf Descent)",
+    "Aasimar (Scourge)",
+    "Elf (High)",
+    "Human (Keldon)",
+    "Tiefling (Variant)",
+    "Tiefling (Zariel)",
+    "Warforged (UAEberron)",
+    "Khenra",
+    "Troglodyte (DMG)",
+    "Elf (Avariel)",
+    "Vampire (Zendikar)",
+    "Centaur"
+  ],
+  "elf": [
+    "Elf (Eladrin) (DMG)",
+    "Half-Elf (Aquatic Elf Descent)",
+    "Elf (Grugach)",
+    "Elf (Drow)",
+    "Elf (Sea)",
+    "Elf (Aereni)",
+    "Elf (Zendikar) (Mul Daya Nation)",
+    "Elf (Eladrin)",
+    "Elf (Kaladesh) (Vadahar)",
+    "Half-Elf",
+    "Half-Elf (Mark of Storm)",
+    "Elf (Wood)",
+    "Elf (Zendikar) (Tajuru Nation)",
+    "Elf (Zendikar) (Joraga Nation)",
+    "Half-Elf (Wood Elf Descent)",
+    "Half-Elf (Moon Elf or Sun Elf Descent)",
+    "Elf (Shadar-kai) (UAElfSubraces)",
+    "Elf (High)",
+    "Elf (Eladrin) (UAEladrinAndGith)",
+    "Elf (Mark of Shadow)",
+    "Elf (Sea) (UAElfSubraces)",
+    "Elf (Kaladesh) (Bishatar and Tirahar)",
+    "Half-Elf (Mark of Detection)",
+    "Elf (Avariel)",
+    "Half-Elf (Drow Descent)",
+    "Elf (Valenar)",
+    "Elf (Shadar-kai)"
+  ],
+  "t": [
+    "Tiefling (Zariel)",
+    "Human (Amonkhet)",
+    "Tiefling (Abyssal)",
+    "Yuan-ti Pureblood",
+    "Triton",
+    "Tiefling (Glasya)",
+    "Kalashtar",
+    "Tiefling (Fierna)",
+    "Minotaur",
+    "Tiefling",
+    "Elf (Kaladesh) (Bishatar and Tirahar)",
+    "Tiefling (Mammon)",
+    "Revenant",
+    "Aetherborn",
+    "Tiefling (Levistus)",
+    "Tiefling (Variant)",
+    "Tiefling (Dispater)",
+    "Tiefling (Asmodeus)"
+  ],
+  "Elf": [
+    "Elf (Eladrin) (DMG)",
+    "Elf (Eladrin)",
+    "Elf (Kaladesh) (Vadahar)",
+    "Half-Elf (Moon Elf or Sun Elf Descent)",
+    "Half-Elf",
+    "Elf (Grugach)",
+    "Elf (Wood)",
+    "Elf (Shadar-kai) (UAElfSubraces)",
+    "Elf (Drow)",
+    "Elf (High)",
+    "Elf (Zendikar) (Tajuru Nation)",
+    "Elf (Avariel)",
+    "Elf (Sea)",
+    "Elf (Zendikar) (Joraga Nation)",
+    "Elf (Mark of Shadow)",
+    "Elf (Valenar)",
+    "Elf (Aereni)"
+  ],
+  "tief": [
+    "Tiefling (Zariel)",
+    "Tiefling (Abyssal)",
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)",
+    "Tiefling",
+    "Tiefling (Mammon)",
+    "Siren",
+    "Tiefling (Baalzebul)",
+    "Tiefling (Mephistopheles)",
+    "Tiefling (Levistus)",
+    "Tiefling (Variant)",
+    "Tiefling (Dispater)",
+    "Tiefling (Asmodeus)"
+  ],
+  "half": [
+    "Half-Orc",
+    "Half-Elf (Wood Elf Descent)",
+    "Half-Elf (Aquatic Elf Descent)",
+    "Half-Elf (Moon Elf or Sun Elf Descent)",
+    "Half-Elf",
+    "Half-Elf (Mark of Storm)",
+    "Halfling (Lightfoot)",
+    "Half-Elf (Mark of Detection)",
+    "Halfling (Stout)",
+    "Half-Elf (Drow Descent)",
+    "Half-Orc (Mark of Finding)",
+    "Halfling (Ghostwise)"
+  ],
+  "tiefling (": [
+    "Tiefling (Mephistopheles) (UAFiendishOptions)",
+    "Tiefling (Zariel)",
+    "Tiefling (Abyssal)",
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)",
+    "Tiefling (Mammon)",
+    "Tiefling (Baalzebul)",
+    "Tiefling (Mephistopheles)",
+    "Tiefling (Levistus)",
+    "Tiefling (Variant)",
+    "Tiefling (Dispater)",
+    "Tiefling (Asmodeus)"
+  ],
+  "tie": [
+    "Tiefling (Zariel)",
+    "Tiefling (Abyssal)",
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)",
+    "Tiefling",
+    "Tiefling (Mammon)",
+    "Tiefling (Baalzebul)",
+    "Tiefling (Mephistopheles)",
+    "Tiefling (Levistus)",
+    "Tiefling (Variant)",
+    "Tiefling (Dispater)",
+    "Tiefling (Asmodeus)"
+  ],
+  "b": [
+    "Aven (Ibis-Headed)",
+    "Tabaxi",
+    "Yuan-ti Pureblood",
+    "Firbolg",
+    "Simic Hybrid",
+    "Goblin (Zendikar) (Tuktuk Tribe)",
+    "Tiefling (Baalzebul)",
+    "Aetherborn",
+    "Bugbear",
+    "Zombie (DMG)",
+    "Kobold (DMG)"
+  ],
+  "hum": [
+    "Human (Variant)",
+    "Human (Ixalan)",
+    "Human (Mark of Making)",
+    "Human (Mark of Finding)",
+    "Human (Amonkhet)",
+    "Human (Innistrad) (Nephalia)",
+    "Human (Mark of Sentinel)",
+    "Human (Innistrad) (Stensia)",
+    "Human (Keldon)",
+    "Human (Mark of Passage)",
+    "Human (Mark of Handling)"
+  ],
+  "g": [
+    "Gnoll (DMG)",
+    "Bullywug (DMG)",
+    "Grimlock (DMG)",
+    "Goblin (GGR)",
+    "Genasi (Air)",
+    "Grung",
+    "Goblin (Ixalan)",
+    "Naga",
+    "Kuo-Toa (DMG)",
+    "Shifter (Longtooth) (UAEberron)",
+    "Genasi (Fire)"
+  ],
+  "shifter": [
+    "Shifter (Beasthide)",
+    "Shifter (Longtooth)",
+    "Shifter (Wildhunt)",
+    "Shifter (Longstride) (UAEberron)",
+    "Shifter (Cliffwalk) (UAEberron)",
+    "Shifter (Longtooth) (UAEberron)",
+    "Shifter (Beasthide) (UAEberron)",
+    "Shifter (Wildhunt) (UAEberron)",
+    "Shifter (Swiftstride)",
+    "Shifter (Razorclaw) (UAEberron)"
+  ],
+  "tieflin": [
+    "Tiefling (Zariel)",
+    "Tiefling (Abyssal)",
+    "Tiefling (Asmodeus) (UAFiendishOptions)",
+    "Tiefling (Fierna)",
+    "Tiefling",
+    "Tiefling (Dispater)",
+    "Tiefling (Levistus)",
+    "Tiefling (Variant)",
+    "Tiefling (Mephistopheles)",
+    "Tiefling (Asmodeus)"
+  ],
+  "mark": [
+    "Human (Mark of Finding)",
+    "Human (Mark of Making)",
+    "Half-Elf (Mark of Storm)",
+    "Human (Mark of Sentinel)",
+    "Half-Elf (Mark of Detection)",
+    "Human (Mark of Passage)",
+    "Gnome (Mark of Scribing)",
+    "Halfling (Mark of Healing)",
+    "Dwarf (Mark of Warding)",
+    "Elf (Mark of Shadow)"
+  ],
+  "human (": [
+    "Human (Variant)",
+    "Human (Mark of Making)",
+    "Human (Mark of Finding)",
+    "Human (Innistrad) (Nephalia)",
+    "Human (Mark of Sentinel)",
+    "Human (Innistrad) (Stensia)",
+    "Human (Innistrad) (Kessig)",
+    "Human (Keldon)",
+    "Human (Mark of Passage)",
+    "Human (Mark of Handling)"
+  ],
+  "dmg": [
+    "Merfolk (DMG)",
+    "Gnoll (DMG)",
+    "Grimlock (DMG)",
+    "Bullywug (DMG)",
+    "Aarakocra (DMG)",
+    "Kuo-Toa (DMG)",
+    "Troglodyte (DMG)",
+    "Skeleton (DMG)",
+    "Kobold (DMG)",
+    "Zombie (DMG)"
+  ],
+  "hu": [
+    "Human (Variant)",
+    "Human (Ixalan)",
+    "Human (Mark of Making)",
+    "Human (Mark of Finding)",
+    "Human (Mark of Sentinel)",
+    "Grung",
+    "Human (Mark of Passage)",
+    "Human (Mark of Handling)",
+    "Shifter (Wildhunt) (UAEberron)"
+  ],
+  "h": [
+    "Human (Variant)",
+    "Kalashtar",
+    "Half-Elf",
+    "Human",
+    "Khenra",
+    "Aetherborn",
+    "Human (Mark of Passage)",
+    "Human (Mark of Handling)",
+    "Goliath"
+  ],
+  "halfling": [
+    "Half-Elf",
+    "Halfling (Mark of Hospitality)",
+    "Tiefling",
+    "Halfling (Lightfoot)",
+    "Halfling (Stout)",
+    "Changeling",
+    "Halfling (Mark of Healing)",
+    "Halfling (Ghostwise)"
+  ],
+  "eladrin": [
+    "Gith (Githzerai) (UAEladrinAndGith)",
+    "Elf (Eladrin) (DMG)",
+    "Elf (Eladrin)",
+    "Elf (Shadar-kai)",
+    "Gith (Githyanki) (UAEladrinAndGith)",
+    "Elf (Avariel)",
+    "Elf (Eladrin) (UAEladrinAndGith)",
+    "Elf (Aereni)"
+  ],
+  "tiefl": [
+    "Tiefling (Zariel)",
+    "Tiefling (Abyssal)",
+    "Tiefling (Glasya)",
+    "Tiefling",
+    "Tiefling (Mammon)",
+    "Tiefling (Baalzebul)",
+    "Tiefling (Levistus)",
+    "Tiefling (Variant)"
+  ],
+  "gob": [
+    "Goblin (DMG)",
+    "Goblin (Zendikar) (Grogtag Tribe)",
+    "Goblin (GGR)",
+    "Goblin",
+    "Goblin (Ixalan)",
+    "Goblin (Zendikar) (Lavastep Tribe)",
+    "Goblin (Zendikar) (Tuktuk Tribe)",
+    "Hobgoblin"
+  ],
+  "shift": [
+    "Shifter (Beasthide)",
+    "Shifter (Swiftstride)",
+    "Shifter (Longtooth)",
+    "Shifter (Wildhunt)",
+    "Shifter (Beasthide) (UAEberron)",
+    "Shifter (Wildhunt) (UAEberron)",
+    "Shifter (Cliffwalk) (UAEberron)",
+    "Shifter (Razorclaw) (UAEberron)"
+  ],
+  "d": [
+    "Dragonborn",
+    "Gnoll (DMG)",
+    "Lizardfolk",
+    "Elf (Drow)",
+    "Troglodyte (DMG)",
+    "Kuo-Toa (DMG)",
+    "Loxodon",
+    "Tiefling (Dispater)"
+  ],
+  "aasimar": [
+    "Dragonborn",
+    "Aasimar (Protector)",
+    "Aasimar (Fallen)",
+    "Aasimar (DMG)",
+    "Genasi (Air)",
+    "Kalashtar",
+    "Aasimar (Scourge)"
+  ],
+  "gnome": [
+    "Gnome (Deep) (DMG)",
+    "Gnoll (DMG)",
+    "Gnome (Deep)",
+    "Gnome (Forest)",
+    "Gnome (Deep/Svirfneblin)",
+    "Gnome (Mark of Scribing)",
+    "Gnome (Rock)"
+  ],
+  "Gnome": [
+    "Gnome (Deep) (DMG)",
+    "Gnoll (DMG)",
+    "Gnome (Deep)",
+    "Gnome (Forest)",
+    "Gnome (Deep/Svirfneblin)",
+    "Gnome (Mark of Scribing)",
+    "Gnome (Rock)"
+  ],
+  "gith": [
+    "Gith (Githzerai) (UAEladrinAndGith)",
+    "Gith (Githzerai)",
+    "Goblin",
+    "Gith (Githyanki) (UAEladrinAndGith)",
+    "Goliath",
+    "Gith (Githyanki)",
+    "Genasi (Earth)"
+  ],
+  "Shifter": [
+    "Shifter (Beasthide)",
+    "Shifter (Longtooth)",
+    "Shifter (Wildhunt)",
+    "Shifter (Longstride) (UAEberron)",
+    "Shifter (Wildhunt) (UAEberron)",
+    "Shifter (Swiftstride)",
+    "Shifter (Razorclaw) (UAEberron)"
+  ],
+  "Halfling": [
+    "Halfling (Mark of Hospitality)",
+    "Tiefling",
+    "Halfling (Lightfoot)",
+    "Halfling (Stout)",
+    "Changeling",
+    "Halfling (Mark of Healing)",
+    "Halfling (Ghostwise)"
+  ],
+  "mark of": [
+    "Human (Mark of Making)",
+    "Half-Elf (Mark of Storm)",
+    "Halfling (Mark of Hospitality)",
+    "Human (Mark of Passage)",
+    "Gnome (Mark of Scribing)",
+    "Human (Mark of Handling)",
+    "Elf (Mark of Shadow)"
+  ],
+  "dwarf": [
+    "Dragonborn",
+    "Dwarf (Duergar)",
+    "Dwarf (Mountain)",
+    "Dwarf (Kaladesh)",
+    "Dwarf (Mark of Warding)",
+    "Dwarf (Hill)"
+  ],
+  "merfolk": [
+    "Merfolk (DMG)",
+    "Merfolk (Ixalan) (Green)",
+    "Merfolk (Ixalan) (Blue)",
+    "Merfolk (Zendikar) (Cosi Creed)",
+    "Merfolk (Zendikar) (Emeria Creed)",
+    "Merfolk (Zendikar) (Ula Creed)"
+  ],
+  "m": [
+    "Vampire (Ixalan)",
+    "Hobgoblin (DMG)",
+    "Half-Elf (Moon Elf or Sun Elf Descent)",
+    "Orc (DMG)",
+    "Kuo-Toa (DMG)",
+    "Dwarf (Mark of Warding)"
+  ],
+  "aa": [
+    "Aasimar (Protector)",
+    "Tabaxi",
+    "Aasimar (Fallen)",
+    "Aarakocra",
+    "Aasimar (Scourge)",
+    "Aarakocra (DMG)"
+  ],
+  "elf (": [
+    "Elf (Zendikar) (Mul Daya Nation)",
+    "Elf (Kaladesh) (Vadahar)",
+    "Elf (Grugach)",
+    "Elf (Kaladesh) (Bishatar and Tirahar)",
+    "Elf (Mark of Shadow)",
+    "Elf (Valenar)"
+  ],
+  "gn": [
+    "Gnome (Deep) (DMG)",
+    "Gnome (Deep)",
+    "Gnome (Forest)",
+    "Gnome (Deep/Svirfneblin)",
+    "Gnome (Mark of Scribing)",
+    "Gnome (Rock)"
+  ],
+  "or": [
+    "Half-Orc",
+    "Orc (DMG)",
+    "Orc (Ixalan)",
+    "Kor",
+    "Half-Orc (Mark of Finding)",
+    "Orc"
+  ],
+  "c": [
+    "Grimlock (DMG)",
+    "Aarakocra",
+    "Aasimar (Scourge)",
+    "Centaur",
+    "Simic Hybrid",
+    "Shifter (Razorclaw) (UAEberron)"
+  ],
+  "r": [
+    "Aarakocra",
+    "Genasi (Air)",
+    "Kalashtar",
+    "Half-Elf (Mark of Storm)",
+    "Siren",
+    "Kor"
+  ],
+  "mer": [
+    "Merfolk (DMG)",
+    "Merfolk (Ixalan) (Green)",
+    "Merfolk (Ixalan) (Blue)",
+    "Merfolk (Zendikar) (Cosi Creed)",
+    "Merfolk (Zendikar) (Emeria Creed)",
+    "Merfolk (Zendikar) (Ula Creed)"
+  ],
+  "n": [
+    "Triton",
+    "Khenra",
+    "Aven",
+    "Shifter (Wildhunt) (UAEberron)",
+    "Skeleton (DMG)",
+    "Genasi (Fire)"
+  ],
+  "T": [
+    "Tiefling (Zariel)",
+    "Tiefling (Abyssal)",
+    "Tiefling (Fierna)",
+    "Goblin (Zendikar) (Lavastep Tribe)",
+    "Kuo-Toa (DMG)",
+    "Genasi (Earth)"
+  ],
+  "gobli": [
+    "Goblin (Zendikar) (Grogtag Tribe)",
+    "Goblin (GGR)",
+    "Goblin",
+    "Goblin (Zendikar) (Tuktuk Tribe)",
+    "Goblin (Ixalan)",
+    "Hobgoblin"
+  ],
+  "half elf": [
+    "Half-Orc",
+    "Half-Elf",
+    "Half-Elf (Mark of Storm)",
+    "Halfling (Lightfoot)",
+    "Half-Elf (Drow Descent)"
+  ],
+  "tielfing": [
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)",
+    "Tiefling",
+    "Elf (High)",
+    "Tiefling (Mammon)"
+  ],
+  "Dwarf": [
+    "Dwarf (Duergar)",
+    "Dwarf (Mountain)",
+    "Dwarf (Kaladesh)",
+    "Dwarf (Mark of Warding)",
+    "Dwarf (Hill)"
+  ],
+  "warforged": [
+    "Warforged (Envoy)",
+    "Dwarf (Duergar)",
+    "Warforged (UAEberron)",
+    "Warforged (Juggernaut)",
+    "Warforged (Skirmisher)"
+  ],
+  "genasi": [
+    "Genasi (Air)",
+    "Genasi (Water)",
+    "Khenra",
+    "Genasi (Earth)",
+    "Genasi (Fire)"
+  ],
+  "viashino": [
+    "Shifter (Beasthide)",
+    "Revenant",
+    "Viashino",
+    "Tiefling",
+    "Siren"
+  ],
+  "v": [
+    "Revenant",
+    "Viashino",
+    "Vedalken",
+    "Tiefling (Levistus)",
+    "Aven"
+  ],
+  "human variant": [
+    "Human (Variant)",
+    "Human (Ixalan)",
+    "Human (Mark of Making)",
+    "Human (Amonkhet)",
+    "Tiefling (Variant)"
+  ],
+  "winged tiefling": [
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)",
+    "Tiefling",
+    "Tiefling (Mammon)",
+    "Changeling"
+  ],
+  "half-elf (": [
+    "Half-Elf (Aquatic Elf Descent)",
+    "Half-Elf (Moon Elf or Sun Elf Descent)",
+    "Half-Elf (Mark of Storm)",
+    "Half-Elf (Mark of Detection)",
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "teifling": [
+    "Tiefling (Zariel)",
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)",
+    "Tiefling",
+    "Tiefling (Mammon)"
+  ],
+  "tiefling variant": [
+    "Tiefling (Zariel)",
+    "Tiefling (Fierna)",
+    "Tiefling (Levistus)",
+    "Tiefling (Variant)",
+    "Tiefling (Dispater)"
+  ],
+  "list": [
+    "Goblin",
+    "Kalashtar",
+    "Triton",
+    "Halfling (Stout)",
+    "Goliath"
+  ],
+  "war": [
+    "Warforged (Envoy)",
+    "Warforged (UAEberron)",
+    "Dwarf (Hill)",
+    "Warforged (Juggernaut)",
+    "Warforged (Skirmisher)"
+  ],
+  "help": [
+    "Vedalken (PSK)",
+    "Half-Elf",
+    "Khenra",
+    "Human (Keldon)",
+    "Changeling"
+  ],
+  "Genasi": [
+    "Genasi (Air)",
+    "Genasi (Water)",
+    "Khenra",
+    "Genasi (Earth)",
+    "Genasi (Fire)"
+  ],
+  "gen": [
+    "Genasi (Air)",
+    "Genasi (Water)",
+    "Changeling",
+    "Genasi (Earth)",
+    "Genasi (Fire)"
+  ],
+  "huma": [
+    "Human (Variant)",
+    "Human (Mark of Making)",
+    "Human (Mark of Sentinel)",
+    "Human (Mark of Passage)",
+    "Human (Mark of Handling)"
+  ],
+  "assimar": [
+    "Aasimar (Fallen)",
+    "Aasimar (DMG)",
+    "Genasi (Air)",
+    "Aasimar (Scourge)",
+    "Genasi (Earth)"
+  ],
+  "Tiefling Variant": [
+    "Tiefling (Zariel)",
+    "Tiefling (Fierna)",
+    "Tiefling (Levistus)",
+    "Tiefling (Variant)",
+    "Tiefling (Dispater)"
+  ],
+  "Merfolk": [
+    "Merfolk (DMG)",
+    "Merfolk (Ixalan) (Blue)",
+    "Merfolk (Zendikar) (Cosi Creed)",
+    "Merfolk (Zendikar) (Emeria Creed)",
+    "Merfolk (Zendikar) (Ula Creed)"
+  ],
+  "k": [
+    "Khenra",
+    "Vedalken",
+    "Kuo-Toa (DMG)",
+    "Kor",
+    "Kobold (DMG)"
+  ],
+  "feral tiefling": [
+    "Elf (Eladrin)",
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)",
+    "Tiefling",
+    "Tiefling (Mammon)"
+  ],
+  "DMG": [
+    "Lizardfolk (DMG)",
+    "Gnoll (DMG)",
+    "Grimlock (DMG)",
+    "Bullywug (DMG)",
+    "Skeleton (DMG)"
+  ],
+  "i": [
+    "Merfolk (Ixalan) (Blue)",
+    "Simic Hybrid",
+    "Gnome (Deep/Svirfneblin)",
+    "Genasi (Earth)",
+    "Shifter (Razorclaw) (UAEberron)"
+  ],
+  "thiefling": [
+    "Tiefling (Zariel)",
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)",
+    "Tiefling",
+    "Tiefling (Mammon)"
+  ],
+  "ti": [
+    "Tiefling (Abyssal)",
+    "Yuan-ti Pureblood",
+    "Tiefling (Dispater)",
+    "Tiefling (Levistus)",
+    "Tiefling (Mephistopheles)"
+  ],
+  "gensai": [
+    "Genasi (Air)",
+    "Genasi (Water)",
+    "Khenra",
+    "Genasi (Earth)",
+    "Genasi (Fire)"
+  ],
+  "aasim": [
+    "Aasimar (Protector)",
+    "Aasimar (Fallen)",
+    "Aasimar (DMG)",
+    "Aasimar (Scourge)",
+    "Naga"
+  ],
+  "Half": [
+    "Half-Orc",
+    "Half-Elf (Moon Elf or Sun Elf Descent)",
+    "Human",
+    "Half-Elf (Mark of Detection)",
+    "Changeling"
+  ],
+  "<elf>": [
+    "Half-Elf",
+    "Elf (Wood)",
+    "Elf (Drow)",
+    "Elf (High)",
+    "Elf (Sea)"
+  ],
+  "feat": [
+    "Elf (Eladrin)",
+    "Revenant",
+    "Khenra",
+    "Elf (Sea)",
+    "Elf (Valenar)"
+  ],
+  "Tiefling variant": [
+    "Tiefling (Zariel)",
+    "Tiefling (Fierna)",
+    "Tiefling (Levistus)",
+    "Tiefling (Variant)",
+    "Tiefling (Dispater)"
+  ],
+  "feral": [
+    "Half-Elf",
+    "Firbolg",
+    "Khenra",
+    "Vedalken",
+    "Elf (Sea)"
+  ],
+  "fey": [
+    "Warforged (Envoy)",
+    "Half-Elf",
+    "Elf (Sea)",
+    "Aven",
+    "Elf (Aereni)"
+  ],
+  "Teifling": [
+    "Tiefling (Zariel)",
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)",
+    "Tiefling",
+    "Tiefling (Mammon)"
+  ],
+  "humans": [
+    "Human (Variant)",
+    "Human (Ixalan)",
+    "Human (Amonkhet)",
+    "Human",
+    "Human (Keldon)"
+  ],
+  "Genasi Fire": [
+    "Genasi (Air)",
+    "Gnome (Forest)",
+    "Genasi (Water)",
+    "Genasi (Earth)",
+    "Genasi (Fire)"
+  ],
+  "l": [
+    "Gnoll (DMG)",
+    "Kalashtar",
+    "Vedalken",
+    "Goblin (Zendikar) (Tuktuk Tribe)",
+    "Loxodon"
+  ],
+  "lashen": [
+    "Kalashtar",
+    "Khenra",
+    "Siren",
+    "Aetherborn",
+    "Aven"
+  ],
+  "half orc": [
+    "Halfling (Stout)",
+    "Half-Elf",
+    "Half-Orc",
+    "Orc"
+  ],
+  "drow": [
+    "Loxodon",
+    "Half-Elf (Drow Descent)",
+    "Firbolg",
+    "Elf (Drow)"
+  ],
+  "mino": [
+    "Minotaur (Amonkhet)",
+    "Siren",
+    "Minotaur (Krynn)",
+    "Minotaur"
+  ],
+  "deep gnome": [
+    "Gnome (Deep/Svirfneblin)",
+    "Gnome (Deep)",
+    "Gnome (Deep) (DMG)",
+    "Gnome (Rock)"
+  ],
+  "high elf": [
+    "Elf (High)",
+    "Half-Elf",
+    "Changeling",
+    "Halfling (Lightfoot)"
+  ],
+  "aas": [
+    "Aasimar (Protector)",
+    "Aasimar (Scourge)",
+    "Aasimar (Fallen)",
+    "Aasimar (DMG)"
+  ],
+  "Eladrin": [
+    "Elf (Eladrin) (DMG)",
+    "Elf (Eladrin)",
+    "Elf (Avariel)",
+    "Elf (Aereni)"
+  ],
+  "warforge": [
+    "Warforged (Envoy)",
+    "Warforged (Juggernaut)",
+    "Warforged (UAEberron)",
+    "Warforged (Skirmisher)"
+  ],
+  "demon": [
+    "Vedalken",
+    "Dragonborn",
+    "Aven",
+    "Loxodon"
+  ],
+  "halfing": [
+    "Halfling (Stout)",
+    "Halfling (Ghostwise)",
+    "Changeling",
+    "Halfling (Lightfoot)"
+  ],
+  "warf": [
+    "Warforged (Envoy)",
+    "Warforged (Juggernaut)",
+    "Warforged (UAEberron)",
+    "Warforged (Skirmisher)"
+  ],
+  "yuan ti": [
+    "Yuan-ti Pureblood",
+    "Human",
+    "Human (Amonkhet)",
+    "Human (Ixalan)"
+  ],
+  "Aasimar": [
+    "Aasimar (Protector)",
+    "Aasimar (Fallen)",
+    "Aasimar (Scourge)",
+    "Aasimar (DMG)"
+  ],
+  "troll": [
+    "Lizardfolk",
+    "Tortle",
+    "Aetherborn",
+    "Firbolg"
+  ],
+  "Warforged": [
+    "Warforged (Envoy)",
+    "Warforged (Juggernaut)",
+    "Warforged (UAEberron)",
+    "Warforged (Skirmisher)"
+  ],
+  "tiefling c": [
+    "Tiefling (Mammon)",
+    "Tiefling (Zariel)",
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)"
+  ],
+  "asimar": [
+    "Aasimar (Protector)",
+    "Aasimar (Scourge)",
+    "Aasimar (Fallen)",
+    "Aasimar (DMG)"
+  ],
+  "sea": [
+    "Elf (Sea) (UAElfSubraces)",
+    "Elf (Sea)",
+    "Siren",
+    "Khenra"
+  ],
+  "deep": [
+    "Gnome (Deep)",
+    "Revenant",
+    "Gnome (Deep/Svirfneblin)",
+    "Gnome (Deep) (DMG)"
+  ],
+  "fallen aasimar": [
+    "Genasi (Air)",
+    "Genasi (Earth)",
+    "Elf (Valenar)",
+    "Aasimar (DMG)"
+  ],
+  "war forged": [
+    "Warforged (Envoy)",
+    "Warforged (Skirmisher)",
+    "Warforged (UAEberron)",
+    "Warforged (Juggernaut)"
+  ],
+  "s": [
+    "Elf (Sea) (UAElfSubraces)",
+    "Kalashtar",
+    "Simic Hybrid",
+    "Aasimar (Scourge)"
+  ],
+  "ogre": [
+    "Kor",
+    "Grung",
+    "Orc",
+    "Tortle"
+  ],
+  "mindflayer": [
+    "Minotaur (Krynn)",
+    "Tiefling (Dispater)",
+    "Lizardfolk",
+    "Minotaur"
+  ],
+  "Half Elf": [
+    "Half-Elf (Drow Descent)",
+    "Half-Elf",
+    "Half-Elf (Mark of Storm)",
+    "Halfling (Lightfoot)"
+  ],
+  "dryad": [
+    "Aarakocra (DMG)",
+    "Dragonborn",
+    "Dwarf (Kaladesh)",
+    "Khenra"
+  ],
+  "sea elf": [
+    "Elf (Sea) (UAElfSubraces)",
+    "Half-Elf",
+    "Elf (Eladrin)",
+    "Elf (Avariel)"
+  ],
+  "giant": [
+    "Goblin",
+    "Revenant",
+    "Goliath",
+    "Minotaur"
+  ],
+  "gobl": [
+    "Goblin (GGR)",
+    "Goblin",
+    "Goblin (Ixalan)",
+    "Goblin (DMG)"
+  ],
+  "warfor": [
+    "Warforged (Envoy)",
+    "Warforged (Juggernaut)",
+    "Warforged (UAEberron)",
+    "Warforged (Skirmisher)"
+  ],
+  "tiefling(": [
+    "Tiefling (Mammon)",
+    "Tiefling (Zariel)",
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)"
+  ],
+  "y": [
+    "Yuan-ti Pureblood",
+    "Troglodyte (DMG)",
+    "Simic Hybrid",
+    "Bullywug (DMG)"
+  ],
+  "o": [
+    "Kor",
+    "Goblin",
+    "Half-Elf (Moon Elf or Sun Elf Descent)",
+    "Loxodon"
+  ],
+  "satyr": [
+    "Genasi (Water)",
+    "Genasi (Air)",
+    "Aetherborn",
+    "Siren"
+  ],
+  "variant tiefling": [
+    "Tiefling (Mammon)",
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)",
+    "Tiefling"
+  ],
+  "winged": [
+    "Naga",
+    "Tiefling (Zariel)",
+    "Tiefling (Fierna)",
+    "Tiefling"
+  ],
+  "aasi": [
+    "Aasimar (Protector)",
+    "Aasimar (Fallen)",
+    "Aasimar (Scourge)",
+    "Aasimar (DMG)"
+  ],
+  "elves": [
+    "Revenant",
+    "Elf (Sea)",
+    "Elf (Avariel)",
+    "Elf (Valenar)"
+  ],
+  "catfolk": [
+    "Lizardfolk (DMG)",
+    "Lizardfolk",
+    "Merfolk (DMG)",
+    "Tortle"
+  ],
+  "genassi": [
+    "Genasi (Air)",
+    "Genasi (Water)",
+    "Genasi (Earth)",
+    "Genasi (Fire)"
+  ],
+  "wolf": [
+    "Goliath",
+    "Tortle",
+    "Kobold",
+    "Firbolg"
+  ],
+  "merf": [
+    "Merfolk (DMG)",
+    "Merfolk (Ixalan) (Blue)",
+    "Merfolk (Zendikar) (Cosi Creed)",
+    "Merfolk (Ixalan) (Green)"
+  ],
+  "gnom": [
+    "Gnome (Rock)",
+    "Gnome (Deep)",
+    "Gnome (Forest)",
+    "Gnoll (DMG)"
+  ],
+  "gensei": [
+    "Genasi (Air)",
+    "Genasi (Water)",
+    "Genasi (Earth)",
+    "Genasi (Fire)"
+  ],
+  "half-el": [
+    "Half-Elf (Drow Descent)",
+    "Half-Elf",
+    "Half-Elf (Wood Elf Descent)",
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "tiefling phy": [
+    "Tiefling (Dispater)",
+    "Tiefling (Glasya)",
+    "Tiefling (Abyssal)",
+    "Tiefling (Fierna)"
+  ],
+  "ice tiefling": [
+    "Tiefling (Mammon)",
+    "Tiefling (Zariel)",
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)"
+  ],
+  "warfoged": [
+    "Warforged (Envoy)",
+    "Warforged (Skirmisher)",
+    "Warforged (UAEberron)",
+    "Warforged (Juggernaut)"
+  ],
+  "Fae": [
+    "Aven",
+    "Elf (Avariel)",
+    "Elf (Valenar)",
+    "Elf (Aereni)"
+  ],
+  "vampire": [
+    "Elf (Avariel)",
+    "Vampire (Ixalan)",
+    "Vampire (Zendikar)"
+  ],
+  "lizard": [
+    "Lizardfolk (DMG)",
+    "Lizardfolk",
+    "Aasimar (DMG)"
+  ],
+  "variant human": [
+    "Human (Variant)",
+    "Human",
+    "Vampire (Ixalan)"
+  ],
+  "fire genasi": [
+    "Genasi (Water)",
+    "Genasi (Earth)",
+    "Genasi (Fire)"
+  ],
+  "dwarves": [
+    "Dwarf (Kaladesh)",
+    "Dwarf (Duergar)",
+    "Dwarf (Hill)"
+  ],
+  "merfol": [
+    "Merfolk (Zendikar) (Emeria Creed)",
+    "Merfolk (Zendikar) (Cosi Creed)",
+    "Merfolk (Zendikar) (Ula Creed)"
+  ],
+  "f": [
+    "Elf (Eladrin)",
+    "Elf (Avariel)",
+    "Firbolg"
+  ],
+  "halfelf": [
+    "Half-Elf (Drow Descent)",
+    "Half-Elf (Mark of Storm)",
+    "Half-Elf"
+  ],
+  "innistrad": [
+    "Human (Innistrad) (Kessig)",
+    "Human (Innistrad) (Nephalia)",
+    "Human (Innistrad) (Gavony)"
+  ],
+  "Viashino": [
+    "Siren",
+    "Revenant",
+    "Viashino"
+  ],
+  "aasimar (": [
+    "Aasimar (Protector)",
+    "Aasimar (Scourge)",
+    "Aasimar (Fallen)"
+  ],
+  "half eld": [
+    "Half-Elf (Drow Descent)",
+    "Half-Elf",
+    "Elf (Eladrin)"
+  ],
+  "half-e": [
+    "Half-Elf (Drow Descent)",
+    "Half-Elf (Wood Elf Descent)",
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "kitsune": [
+    "Minotaur (Krynn)",
+    "Aasimar (Scourge)",
+    "Viashino"
+  ],
+  "water genasi": [
+    "Dwarf (Mountain)",
+    "Genasi (Air)",
+    "Genasi (Fire)"
+  ],
+  "via": [
+    "Human (Variant)",
+    "Revenant",
+    "Minotaur"
+  ],
+  "mind flayer": [
+    "Simic Hybrid",
+    "Tiefling (Fierna)",
+    "Vampire (Zendikar)"
+  ],
+  "scourge aasimar": [
+    "Genasi (Water)",
+    "Genasi (Earth)",
+    "Aasimar (DMG)"
+  ],
+  "Gith": [
+    "Gith (Githyanki)",
+    "Goliath",
+    "Gith (Githzerai)"
+  ],
+  "undead": [
+    "Naga",
+    "Human (Keldon)",
+    "Grung"
+  ],
+  "succubus": [
+    "Elf (Shadar-kai) (UAElfSubraces)",
+    "Elf (Sea) (UAElfSubraces)",
+    "Simic Hybrid"
+  ],
+  "fairy": [
+    "Siren",
+    "Firbolg",
+    "Elf (Aereni)"
+  ],
+  "devil": [
+    "Firbolg",
+    "Elf (Avariel)",
+    "Elf (Valenar)"
+  ],
+  "z": [
+    "Zombie (DMG)",
+    "Vampire (Zendikar)",
+    "Merfolk (Zendikar) (Ula Creed)"
+  ],
+  "tiefling feral": [
+    "Tiefling (Variant)",
+    "Tiefling (Fierna)",
+    "Tiefling"
+  ],
+  "gargoyle": [
+    "Lizardfolk",
+    "Troglodyte (DMG)",
+    "Grung"
+  ],
+  "genas": [
+    "Genasi (Air)",
+    "Genasi (Water)",
+    "Genasi (Fire)"
+  ],
+  "beholder": [
+    "Aetherborn",
+    "Tortle",
+    "Elf (Drow)"
+  ],
+  "half elf variant": [
+    "Half-Elf (Drow Descent)",
+    "Half-Elf (Mark of Storm)",
+    "Elf (Eladrin)"
+  ],
+  "ken": [
+    "Vedalken",
+    "Kenku",
+    "Kenku (DMG)"
+  ],
+  "dwar": [
+    "Dwarf (Mountain)",
+    "Dwarf (Duergar)",
+    "Dwarf (Mark of Warding)"
+  ],
+  "centuar": [
+    "Centaur",
+    "Kenku",
+    "Minotaur"
+  ],
+  "minot": [
+    "Minotaur (Krynn)",
+    "Minotaur (Amonkhet)",
+    "Minotaur"
+  ],
+  "elephant": [
+    "Vedalken",
+    "Revenant",
+    "Elf (Eladrin)"
+  ],
+  "aasmir": [
+    "Tabaxi",
+    "Aasimar (Fallen)",
+    "Aasimar (DMG)"
+  ],
+  "rat": [
+    "Revenant",
+    "Goliath",
+    "Khenra"
+  ],
+  "werewolf": [
+    "Merfolk (DMG)",
+    "Elf (Avariel)",
+    "Firbolg"
+  ],
+  "arakocra": [
+    "Aarakocra (DMG)",
+    "Aarakocra",
+    "Kor"
+  ],
+  "u": [
+    "Kenku",
+    "Goblin (Zendikar) (Tuktuk Tribe)",
+    "Grung"
+  ],
+  "oni": [
+    "Goblin",
+    "Triton",
+    "Loxodon"
+  ],
+  "aasimaar": [
+    "Aasimar (Protector)",
+    "Aasimar (Fallen)",
+    "Aasimar (DMG)"
+  ],
+  "vedalkan": [
+    "Vedalken",
+    "Vampire (Ixalan)",
+    "Vedalken (PSK)"
+  ],
+  "elf 3": [
+    "Elf (High)",
+    "Elf (Wood)",
+    "Elf (Drow)"
+  ],
+  "aracokra": [
+    "Aarakocra (DMG)",
+    "Aetherborn",
+    "Aarakocra"
+  ],
+  "warforg": [
+    "Warforged (Envoy)",
+    "Warforged (Skirmisher)",
+    "Warforged (Juggernaut)"
+  ],
+  "hafling": [
+    "Halfling (Stout)",
+    "Halfling (Ghostwise)",
+    "Halfling (Lightfoot)"
+  ],
+  "lamia": [
+    "Kalashtar",
+    "Minotaur",
+    "Naga"
+  ],
+  "min": [
+    "Minotaur (Amonkhet)",
+    "Minotaur (Krynn)",
+    "Minotaur"
+  ],
+  "human (mark": [
+    "Human (Mark of Making)",
+    "Human (Mark of Passage)",
+    "Human (Mark of Handling)"
+  ],
+  "ha": [
+    "Halfling (Stout)",
+    "Half-Orc",
+    "Elf (Shadar-kai) (UAElfSubraces)"
+  ],
+  "cat": [
+    "Centaur",
+    "Revenant",
+    "Aarakocra"
+  ],
+  "halfling (": [
+    "Halfling (Stout)",
+    "Halfling (Mark of Healing)",
+    "Halfling (Lightfoot)"
+  ],
+  "ork": [
+    "Kor",
+    "Orc",
+    "Tortle"
+  ],
+  "Assimar": [
+    "Aasimar (Fallen)",
+    "Genasi (Earth)",
+    "Aasimar (DMG)"
+  ],
+  "dward": [
+    "Dwarf (Mountain)",
+    "Dwarf (Duergar)",
+    "Dwarf (Hill)"
+  ],
+  "Tiel": [
+    "Tiefling (Mammon)",
+    "Tiefling (Fierna)",
+    "Tiefling"
+  ],
+  "dwarf()": [
+    "Dwarf (Kaladesh)",
+    "Dwarf (Duergar)",
+    "Dwarf (Hill)"
+  ],
+  "hobgob": [
+    "Bugbear",
+    "Hobgoblin (DMG)",
+    "Hobgoblin"
+  ],
+  "skulk": [
+    "Vedalken",
+    "Kenku",
+    "Skeleton (DMG)"
+  ],
+  "giff": [
+    "Goblin",
+    "Half-Elf",
+    "Goliath"
+  ],
+  "Human (": [
+    "Human (Variant)",
+    "Human (Ixalan)",
+    "Human (Mark of Making)"
+  ],
+  "gay": [
+    "Naga",
+    "Tiefling (Glasya)",
+    "Goliath"
+  ],
+  "harpy": [
+    "Kalashtar",
+    "Half-Orc",
+    "Khenra"
+  ],
+  "warfo": [
+    "Warforged (Envoy)",
+    "Warforged (Juggernaut)",
+    "Warforged (Skirmisher)"
+  ],
+  "asimaar": [
+    "Aasimar (Fallen)",
+    "Aasimar (Scourge)",
+    "Aasimar (DMG)"
+  ],
+  "halfl": [
+    "Halfling (Stout)",
+    "Halfling (Ghostwise)",
+    "Halfling (Lightfoot)"
+  ],
+  "tefling": [
+    "Tiefling (Mammon)",
+    "Tiefling (Zariel)",
+    "Tiefling"
+  ],
+  "elf 2": [
+    "Elf (High)",
+    "Elf (Drow)",
+    "Elf (Aereni)"
+  ],
+  "human mark": [
+    "Human (Mark of Making)",
+    "Human (Mark of Finding)",
+    "Human (Amonkhet)"
+  ],
+  "gena": [
+    "Genasi (Water)",
+    "Genasi (Earth)",
+    "Genasi (Fire)"
+  ],
+  "Druid": [
+    "Triton",
+    "Elf (Eladrin) (DMG)",
+    "Grung"
+  ],
+  "alfar": [
+    "Elf (Eladrin)",
+    "Elf (Avariel)",
+    "Elf (Aereni)"
+  ],
+  "wizard": [
+    "Lizardfolk (DMG)",
+    "Lizardfolk",
+    "Aasimar (DMG)"
+  ],
+  "elven": [
+    "Revenant",
+    "Elf (Valenar)",
+    "Elf (Aereni)"
+  ],
+  "ara": [
+    "Aarakocra (DMG)",
+    "Aarakocra"
+  ],
+  "vedal": [
+    "Vedalken",
+    "Vedalken (PSK)"
+  ],
+  "stout halfling": [
+    "Halfling (Stout)",
+    "Halfling (Ghostwise)"
+  ],
+  "Vampire": [
+    "Vampire (Ixalan)",
+    "Vampire (Zendikar)"
+  ],
+  "ixalan": [
+    "Vampire (Ixalan)",
+    "Orc (Ixalan)"
+  ],
+  "variant": [
+    "Human (Variant)",
+    "Tiefling (Variant)"
+  ],
+  "cent": [
+    "Centaur",
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "liz": [
+    "Lizardfolk (DMG)",
+    "Lizardfolk"
+  ],
+  "shield dwarf": [
+    "Genasi (Water)",
+    "Elf (Shadar-kai)"
+  ],
+  "gnome forest": [
+    "Gnome (Forest)",
+    "Genasi (Fire)"
+  ],
+  "tiefling winged": [
+    "Tiefling (Variant)",
+    "Tiefling"
+  ],
+  "aaracockra": [
+    "Aarakocra (DMG)",
+    "Aarakocra"
+  ],
+  "changling": [
+    "Changeling (UAEberron)",
+    "Changeling"
+  ],
+  "aara": [
+    "Aarakocra (DMG)",
+    "Aarakocra"
+  ],
+  "lizardman": [
+    "Lizardfolk (DMG)",
+    "Lizardfolk"
+  ],
+  "githyanki": [
+    "Gith (Githyanki)",
+    "Gith (Githyanki) (UAEladrinAndGith)"
+  ],
+  "furry": [
+    "Minotaur (Krynn)",
+    "Dwarf (Duergar)"
+  ],
+  "change": [
+    "Changeling (UAEberron)",
+    "Changeling"
+  ],
+  "hob": [
+    "Hobgoblin (DMG)",
+    "Hobgoblin"
+  ],
+  "angel": [
+    "Naga",
+    "Changeling"
+  ],
+  "half drow": [
+    "Half-Elf (Drow Descent)",
+    "Half-Elf"
+  ],
+  "tri": [
+    "Triton",
+    "Shifter (Swiftstride)"
+  ],
+  "aar": [
+    "Aarakocra (DMG)",
+    "Aarakocra"
+  ],
+  "air genasi": [
+    "Genasi (Air)",
+    "Siren"
+  ],
+  "druid": [
+    "Elf (Eladrin) (DMG)",
+    "Dwarf (Hill)"
+  ],
+  "shadar": [
+    "Elf (Shadar-kai) (UAElfSubraces)",
+    "Elf (Shadar-kai)"
+  ],
+  "genasi fire": [
+    "Genasi (Water)",
+    "Genasi (Fire)"
+  ],
+  "halfling 1": [
+    "Half-Elf",
+    "Halfling (Lightfoot)"
+  ],
+  "minotuar": [
+    "Minotaur (Krynn)",
+    "Minotaur"
+  ],
+  "av": [
+    "Aven",
+    "Elf (Avariel)"
+  ],
+  "goblins": [
+    "Goblin (GGR)",
+    "Goblin"
+  ],
+  "rock gnome": [
+    "Gnome (Rock)",
+    "Gnome (Deep)"
+  ],
+  "elf high": [
+    "Elf (High)",
+    "Elf (Aereni)"
+  ],
+  "kobol": [
+    "Kobold",
+    "Kobold (DMG)"
+  ],
+  "gish": [
+    "Goblin",
+    "Viashino"
+  ],
+  "mermaid": [
+    "Merfolk (DMG)",
+    "Khenra"
+  ],
+  "ave": [
+    "Aven (Ibis-Headed)",
+    "Elf (Avariel)"
+  ],
+  "bird": [
+    "Tabaxi",
+    "Kobold"
+  ],
+  "wood": [
+    "Half-Elf (Wood Elf Descent)",
+    "Elf (Wood)"
+  ],
+  "shadar-kai": [
+    "Elf (Shadar-kai) (UAElfSubraces)",
+    "Elf (Shadar-kai)"
+  ],
+  "human house": [
+    "Human (Amonkhet)",
+    "Human (Mark of Passage)"
+  ],
+  "aarakockra": [
+    "Aarakocra (DMG)",
+    "Aarakocra"
+  ],
+  "Mountain Dwarf": [
+    "Dwarf (Mountain)",
+    "Genasi (Water)"
+  ],
+  "Rakshasa": [
+    "Aarakocra",
+    "Khenra"
+  ],
+  "rakshasa": [
+    "Aarakocra",
+    "Khenra"
+  ],
+  "vamp": [
+    "Vampire (Ixalan)",
+    "Vampire (Zendikar)"
+  ],
+  "halforc": [
+    "Half-Orc (Mark of Finding)",
+    "Half-Orc"
+  ],
+  "chang": [
+    "Changeling (UAEberron)",
+    "Changeling"
+  ],
+  "changel": [
+    "Changeling (UAEberron)",
+    "Changeling"
+  ],
+  "Tiefling a": [
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)"
+  ],
+  "<human>": [
+    "Human (Variant)",
+    "Human"
+  ],
+  "Teifling Feral": [
+    "Tiefling (Variant)",
+    "Tiefling (Zariel)"
+  ],
+  "aarockra": [
+    "Aarakocra (DMG)",
+    "Aarakocra"
+  ],
+  "Drow": [
+    "Half-Elf (Drow Descent)",
+    "Elf (Drow)"
+  ],
+  "tifling": [
+    "Tiefling (Fierna)",
+    "Tiefling"
+  ],
+  "veda": [
+    "Vedalken",
+    "Vedalken (PSK)"
+  ],
+  "gnome rock": [
+    "Gnome (Rock)",
+    "Gnome (Deep)"
+  ],
+  "ved": [
+    "Vedalken",
+    "Vedalken (PSK)"
+  ],
+  "aaro": [
+    "Aarakocra (DMG)",
+    "Aarakocra"
+  ],
+  "ela": [
+    "Elf (Eladrin) (DMG)",
+    "Elf (Eladrin)"
+  ],
+  "wildhunt shifter": [
+    "Shifter (Wildhunt) (UAEberron)",
+    "Shifter (Wildhunt)"
+  ],
+  "human varient": [
+    "Human (Variant)",
+    "Human (Mark of Sentinel)"
+  ],
+  "feral Tiefling": [
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)"
+  ],
+  "tiefling zariel": [
+    "Tiefling (Baalzebul)",
+    "Tiefling (Zariel)"
+  ],
+  "genesis": [
+    "Genasi (Air)",
+    "Genasi (Water)"
+  ],
+  "genasi water": [
+    "Tiefling (Dispater)",
+    "Genasi (Water)"
+  ],
+  "veldaken": [
+    "Vedalken",
+    "Vedalken (PSK)"
+  ],
+  "lizardmen": [
+    "Siren",
+    "Lizardfolk"
+  ],
+  "elf wood": [
+    "Elf (Wood)",
+    "Elf (Drow)"
+  ],
+  "kobolt": [
+    "Kobold",
+    "Kobold (DMG)"
+  ],
+  "gru": [
+    "Elf (Grugach)",
+    "Grung"
+  ],
+  "[duck]": [
+    "Kor",
+    "Vedalken"
+  ],
+  "half elf wood": [
+    "Half-Elf (Wood Elf Descent)",
+    "Elf (Wood)"
+  ],
+  "pixie": [
+    "Siren",
+    "Gith (Githzerai)"
+  ],
+  "halflin": [
+    "Halfling (Stout)",
+    "Halfling (Lightfoot)"
+  ],
+  "varient human": [
+    "Human (Variant)",
+    "Human"
+  ],
+  "kob": [
+    "Kobold",
+    "Kobold (DMG)"
+  ],
+  "kalashatar": [
+    "Kalashtar",
+    "Elf (Kaladesh) (Vadahar)"
+  ],
+  "shapechanger": [
+    "Changeling (UAEberron)",
+    "Changeling"
+  ],
+  "dro": [
+    "Half-Elf (Drow Descent)",
+    "Elf (Drow)"
+  ],
+  "shadar kai": [
+    "Elf (Shadar-kai) (UAElfSubraces)",
+    "Elf (Shadar-kai)"
+  ],
+  "vedalk": [
+    "Vedalken",
+    "Vedalken (PSK)"
+  ],
+  "Vedalk": [
+    "Vedalken",
+    "Vedalken (PSK)"
+  ],
+  "lizard folk": [
+    "Lizardfolk (DMG)",
+    "Lizardfolk"
+  ],
+  "dhampir": [
+    "Vampire (Ixalan)",
+    "Vampire (Zendikar)"
+  ],
+  "protector aasimar": [
+    "Aasimar (Protector)",
+    "Aasimar (Fallen)"
+  ],
+  "Thri-kreen": [
+    "Siren",
+    "Aetherborn"
+  ],
+  "ravnica": [
+    "Revenant",
+    "Aven"
+  ],
+  "shadow elf": [
+    "Half-Elf",
+    "Elf (Mark of Shadow)"
+  ],
+  "Human g": [
+    "Human (Keldon)",
+    "Human (Amonkhet)"
+  ],
+  "gnomes": [
+    "Gnome (Rock)",
+    "Gnome (Forest)"
+  ],
+  "kolbold": [
+    "Kobold",
+    "Kobold (DMG)"
+  ],
+  "Variant Human": [
+    "Human (Variant)",
+    "Human"
+  ],
+  "assmir": [
+    "Genasi (Fire)",
+    "Aasimar (DMG)"
+  ],
+  "genaisi": [
+    "Genasi (Water)",
+    "Genasi (Fire)"
+  ],
+  "geth": [
+    "Aetherborn",
+    "Genasi (Earth)"
+  ],
+  "Dragon born": [
+    "Dragonborn",
+    "Aetherborn"
+  ],
+  "dwa": [
+    "Dwarf (Duergar)",
+    "Dwarf (Hill)"
+  ],
+  "Lizard": [
+    "Lizardfolk (DMG)",
+    "Lizardfolk"
+  ],
+  "drow elf": [
+    "Half-Elf (Drow Descent)",
+    "Elf (Drow)"
+  ],
+  "Half Elf Drow": [
+    "Half-Elf (Drow Descent)",
+    "Elf (Drow)"
+  ],
+  "half-drow": [
+    "Half-Elf (Drow Descent)",
+    "Elf (Drow)"
+  ],
+  "Variant": [
+    "Human (Variant)",
+    "Tiefling (Variant)"
+  ],
+  "celestial": [
+    "Centaur",
+    "Changeling"
+  ],
+  "fall eladrin": [
+    "Elf (Eladrin) (DMG)",
+    "Elf (Eladrin)"
+  ],
+  "asi": [
+    "Aasimar (Protector)",
+    "Aasimar (Fallen)"
+  ],
+  "kenk": [
+    "Kenku",
+    "Kenku (DMG)"
+  ],
+  "gi": [
+    "Gith (Githyanki)",
+    "Gith (Githzerai)"
+  ],
+  "feat trance": [
+    "Elf (Sea) (UAElfSubraces)",
+    "Elf (Eladrin)"
+  ],
+  "Drow elf": [
+    "Half-Elf (Drow Descent)",
+    "Elf (Drow)"
+  ],
+  "lycan": [
+    "Changeling",
+    "Elf (Aereni)"
+  ],
+  "wild": [
+    "Shifter (Wildhunt) (UAEberron)",
+    "Shifter (Wildhunt)"
+  ],
+  "j": [
+    "Warforged (Juggernaut)",
+    "Elf (Zendikar) (Joraga Nation)"
+  ],
+  "thri": [
+    "Aetherborn",
+    "Gith (Githzerai)"
+  ],
+  "luxadon": [
+    "Lizardfolk",
+    "Loxodon"
+  ],
+  "violet": [
+    "Revenant",
+    "Minotaur"
+  ],
+  "forest elf": [
+    "Shifter (Beasthide)",
+    "Tortle"
+  ],
+  "lizardfol": [
+    "Lizardfolk (DMG)",
+    "Lizardfolk"
+  ],
+  "Fallen Aasimar": [
+    "Genasi (Air)",
+    "Aasimar (DMG)"
+  ],
+  "avem": [
+    "Revenant",
+    "Aven"
+  ],
+  "aasimir": [
+    "Aasimar (Fallen)",
+    "Aasimar (DMG)"
+  ],
+  "feat tiefling": [
+    "Tiefling (Fierna)",
+    "Tiefling"
+  ],
+  "changelings": [
+    "Changeling (UAEberron)",
+    "Changeling"
+  ],
+  "descent": [
+    "Half-Elf (Aquatic Elf Descent)",
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "shif": [
+    "Shifter (Wildhunt) (UAEberron)",
+    "Shifter (Razorclaw) (UAEberron)"
+  ],
+  "taur": [
+    "Minotaur (Krynn)",
+    "Minotaur (Amonkhet)"
+  ],
+  "simics": [
+    "Siren",
+    "Simic Hybrid"
+  ],
+  "tiefling a": [
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)"
+  ],
+  "longtooth": [
+    "Shifter (Longtooth)",
+    "Shifter (Longtooth) (UAEberron)"
+  ],
+  "feat elf": [
+    "Elf (Sea) (UAElfSubraces)",
+    "Genasi (Fire)"
+  ],
+  "violetken": [
+    "Vedalken",
+    "Vedalken (PSK)"
+  ],
+  "dragon born": [
+    "Dragonborn",
+    "Aetherborn"
+  ],
+  "shapeshifter": [
+    "Kalashtar",
+    "Shifter (Swiftstride)"
+  ],
+  "Shadar-kai": [
+    "Elf (Shadar-kai) (UAElfSubraces)",
+    "Elf (Shadar-kai)"
+  ],
+  "varient": [
+    "Human (Variant)",
+    "Vedalken"
+  ],
+  "frog": [
+    "Triton",
+    "Grung"
+  ],
+  "changing": [
+    "Changeling (UAEberron)",
+    "Changeling"
+  ],
+  "halfling stout": [
+    "Halfling (Stout)",
+    "Halfling (Lightfoot)"
+  ],
+  "highelf": [
+    "Elf (High)",
+    "Half-Elf"
+  ],
+  "p": [
+    "Human (Mark of Passage)",
+    "Vedalken (PSK)"
+  ],
+  "Yuan Ti": [
+    "Yuan-ti Pureblood",
+    "Human"
+  ],
+  "trance": [
+    "Triton",
+    "Orc"
+  ],
+  "chan": [
+    "Changeling (UAEberron)",
+    "Changeling"
+  ],
+  "amonkhet": [
+    "Minotaur (Amonkhet)",
+    "Human (Amonkhet)"
+  ],
+  "zariel tiefling": [
+    "Tiefling (Mammon)",
+    "Tiefling"
+  ],
+  "shifters": [
+    "Shifter (Beasthide)",
+    "Shifter (Wildhunt)"
+  ],
+  "shifter longtooth": [
+    "Shifter (Longtooth)",
+    "Shifter (Longtooth) (UAEberron)"
+  ],
+  "human d": [
+    "Human (Ixalan)",
+    "Human (Keldon)"
+  ],
+  "aasima": [
+    "Aasimar (Scourge)",
+    "Aasimar (Fallen)"
+  ],
+  "Tiefling (": [
+    "Tiefling (Variant)",
+    "Tiefling (Fierna)"
+  ],
+  "finding": [
+    "Half-Orc (Mark of Finding)",
+    "Human (Mark of Finding)"
+  ],
+  "dark elf": [
+    "Vedalken",
+    "Half-Elf"
+  ],
+  "kobo": [
+    "Kobold",
+    "Kobold (DMG)"
+  ],
+  "mark of finding": [
+    "Half-Orc (Mark of Finding)",
+    "Human (Mark of Finding)"
+  ],
+  "High elf": [
+    "Elf (High)",
+    "Half-Elf"
+  ],
+  "halfling light": [
+    "Halfling (Mark of Healing)",
+    "Halfling (Lightfoot)"
+  ],
+  "tiefling varient": [
+    "Tiefling (Variant)",
+    "Tiefling (Fierna)"
+  ],
+  "gensi": [
+    "Genasi (Earth)",
+    "Genasi (Fire)"
+  ],
+  "kobloid": [
+    "Kobold",
+    "Kobold (DMG)"
+  ],
+  "elf eld": [
+    "Elf (Eladrin)",
+    "Elf (Avariel)"
+  ],
+  "elf el": [
+    "Elf (Eladrin)",
+    "Elf (Sea)"
+  ],
+  "Deep Gnome": [
+    "Gnome (Deep)",
+    "Gnome (Deep/Svirfneblin)"
+  ],
+  "trifling": [
+    "Tiefling (Mammon)",
+    "Tiefling"
+  ],
+  "merman": [
+    "Revenant",
+    "Merfolk (DMG)"
+  ],
+  "eldarin": [
+    "Elf (Eladrin)",
+    "Elf (Avariel)"
+  ],
+  "teif": [
+    "Tiefling (Fierna)",
+    "Tiefling"
+  ],
+  "werebear": [
+    "Bugbear",
+    "Aetherborn"
+  ],
+  "derro": [
+    "Aetherborn",
+    "Warforged (UAEberron)"
+  ],
+  "Vel": [
+    "Vedalken",
+    "Vedalken (PSK)"
+  ],
+  "eladr": [
+    "Elf (Eladrin) (DMG)",
+    "Elf (Eladrin)"
+  ],
+  "asiamar": [
+    "Aasimar (Scourge)",
+    "Aasimar (DMG)"
+  ],
+  "drgonborn": [
+    "Goblin",
+    "Dragonborn"
+  ],
+  "infernal": [
+    "Tiefling (Zariel)",
+    "Tiefling (Fierna)"
+  ],
+  "aarako": [
+    "Aarakocra (DMG)",
+    "Aarakocra"
+  ],
+  "thri-kreen": [
+    "Siren",
+    "Aetherborn"
+  ],
+  "tiefling (feral)": [
+    "Tiefling (Variant)",
+    "Tiefling (Zariel)"
+  ],
+  "feature": [
+    "Genasi (Fire)",
+    "Elf (Aereni)"
+  ],
+  "gnome deep": [
+    "Gnome (Deep)",
+    "Gnome (Deep/Svirfneblin)"
+  ],
+  "myconid": [
+    "Yuan-ti Pureblood",
+    "Simic Hybrid"
+  ],
+  "slime": [
+    "Siren",
+    "Aasimar (Scourge)"
+  ],
+  "goblin zendakir": [
+    "Goblin (Zendikar) (Tuktuk Tribe)",
+    "Goblin (Zendikar) (Grogtag Tribe)"
+  ],
+  "feat teifling": [
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)"
+  ],
+  "treant": [
+    "Revenant",
+    "Tortle"
+  ],
+  "goth": [
+    "Goblin",
+    "Goliath"
+  ],
+  "firbolf": [
+    "Half-Elf",
+    "Firbolg"
+  ],
+  "darkelf": [
+    "Vedalken",
+    "Half-Elf"
+  ],
+  "Tief": [
+    "Tiefling (Baalzebul)",
+    "Tiefling (Abyssal)"
+  ],
+  "half-elf (mark": [
+    "Half-Elf (Mark of Detection)",
+    "Half-Elf (Mark of Storm)"
+  ],
+  "genasai": [
+    "Genasi (Air)",
+    "Genasi (Fire)"
+  ],
+  "aarakorca": [
+    "Aarakocra (DMG)",
+    "Aarakocra"
+  ],
+  "sahuagin": [
+    "Human (Ixalan)",
+    "Hobgoblin"
+  ],
+  "doppleganger": [
+    "Goblin (GGR)",
+    "Dwarf (Duergar)"
+  ],
+  "dwarg": [
+    "Dwarf (Mountain)",
+    "Dwarf (Hill)"
+  ],
+  "tiefling d": [
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)"
+  ],
+  "Beholder": [
+    "Kobold",
+    "Tortle"
+  ],
+  "aaracocra": [
+    "Aarakocra (DMG)",
+    "Aarakocra"
+  ],
+  "zar": [
+    "Centaur",
+    "Tiefling (Zariel)"
+  ],
+  "saurian": [
+    "Siren",
+    "Human"
+  ],
+  "dwarve": [
+    "Revenant",
+    "Dwarf (Hill)"
+  ],
+  "changeling (UA)": [
+    "Changeling (UAEberron)",
+    "Changeling"
+  ],
+  "Shadar Kai": [
+    "Elf (Shadar-kai) (UAElfSubraces)",
+    "Elf (Shadar-kai)"
+  ],
+  "aasiamr": [
+    "Aasimar (Scourge)",
+    "Aasimar (DMG)"
+  ],
+  "Changling": [
+    "Changeling (UAEberron)",
+    "Changeling"
+  ],
+  "Demon": [
+    "Aven",
+    "Loxodon"
+  ],
+  "Tieflings": [
+    "Tiefling (Abyssal)",
+    "Tiefling"
+  ],
+  "golem": [
+    "Goblin (DMG)",
+    "Gnoll (DMG)"
+  ],
+  "elad": [
+    "Elf (Eladrin) (DMG)",
+    "Elf (Eladrin)"
+  ],
+  "Tiefling feral": [
+    "Tiefling (Variant)",
+    "Tiefling (Fierna)"
+  ],
+  "aereni wood elf": [
+    "Elf (Wood)",
+    "Elf (Aereni)"
+  ],
+  "VGM": [
+    "Naga",
+    "Aven"
+  ],
+  "changeling a": [
+    "Changeling (UAEberron)",
+    "Changeling"
+  ],
+  "cha": [
+    "Changeling (UAEberron)",
+    "Changeling"
+  ],
+  "find": [
+    "Half-Orc (Mark of Finding)",
+    "Human (Mark of Finding)"
+  ],
+  "infernal tiefling": [
+    "Tiefling (Fierna)",
+    "Tiefling"
+  ],
+  "changelin": [
+    "Changeling (UAEberron)",
+    "Changeling"
+  ],
+  "forged": [
+    "Warforged (Envoy)",
+    "Warforged (UAEberron)"
+  ],
+  "water gen": [
+    "Aetherborn",
+    "Warforged (Juggernaut)"
+  ],
+  "tiefling inf": [
+    "Tiefling (Mammon)",
+    "Tiefling (Zariel)"
+  ],
+  "half elf Descent": [
+    "Half-Elf (Wood Elf Descent)",
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "yaun": [
+    "Revenant",
+    "Aven"
+  ],
+  "Tielfing": [
+    "Tiefling (Fierna)",
+    "Tiefling"
+  ],
+  "Giff": [
+    "Half-Elf",
+    "Genasi (Fire)"
+  ],
+  "vedlken": [
+    "Vedalken",
+    "Vedalken (PSK)"
+  ],
+  "assi": [
+    "Genasi (Air)",
+    "Aasimar (DMG)"
+  ],
+  "something": [
+    "Aetherborn",
+    "Skeleton (DMG)"
+  ],
+  "mino ua": [
+    "Minotaur (Krynn)",
+    "Minotaur (Amonkhet)"
+  ],
+  "mystic": [
+    "Siren",
+    "Simic Hybrid"
+  ],
+  "at": [
+    "Kalashtar",
+    "Goliath"
+  ],
+  "elf avariel": [
+    "Elf (Avariel)",
+    "Elf (Valenar)"
+  ],
+  "aasm": [
+    "Aasimar (Scourge)",
+    "Aasimar (DMG)"
+  ],
+  "suc": [
+    "Kenku",
+    "Elf (Grugach)"
+  ],
+  "fish": [
+    "Elf (Sea)",
+    "Tiefling"
+  ],
+  "wood gnome": [
+    "Gnome (Deep)",
+    "Kobold (DMG)"
+  ],
+  "robot": [
+    "Aetherborn",
+    "Hobgoblin"
+  ],
+  "ya": [
+    "Aven",
+    "Khenra"
+  ],
+  "raven": [
+    "Vedalken",
+    "Siren"
+  ],
+  "winnged": [
+    "Tiefling (Zariel)",
+    "Tiefling (Fierna)"
+  ],
+  "incubus": [
+    "Tiefling (Abyssal)",
+    "Tiefling (Asmodeus)"
+  ],
+  "powerful build": [
+    "Dwarf (Mountain)",
+    "Dwarf (Hill)"
+  ],
+  "half elf (": [
+    "Half-Elf (Drow Descent)",
+    "Half-Elf"
+  ],
+  "durergar": [
+    "Elf (Grugach)",
+    "Dwarf (Duergar)"
+  ],
+  "tiethling": [
+    "Tiefling (Zariel)",
+    "Tiefling"
+  ],
+  "lich": [
+    "Goliath",
+    "Simic Hybrid"
+  ],
+  "Halfing": [
+    "Halfling (Ghostwise)",
+    "Halfling (Lightfoot)"
+  ],
+  "<shifter>": [
+    "Shifter (Longtooth)",
+    "Shifter (Beasthide)"
+  ],
+  "dex": [
+    "Vedalken",
+    "Aven"
+  ],
+  "man": [
+    "Human",
+    "Human (Mark of Sentinel)"
+  ],
+  "kobalt": [
+    "Kobold",
+    "Kobold (DMG)"
+  ],
+  "mino plane": [
+    "Minotaur (Krynn)",
+    "Minotaur (Amonkhet)"
+  ],
+  "dwarven": [
+    "Siren",
+    "Dwarf (Duergar)"
+  ],
+  "Dark elf": [
+    "Dwarf (Kaladesh)",
+    "Half-Elf"
+  ],
+  "remnant": [
+    "Human",
+    "Revenant"
+  ],
+  "shifted": [
+    "Shifter (Swiftstride)",
+    "Shifter (Wildhunt)"
+  ],
+  "Undead": [
+    "Naga",
+    "Human (Keldon)"
+  ],
+  "Elf Shad": [
+    "Elf (Shadar-kai)",
+    "Elf (Drow)"
+  ],
+  "Amonkhet": [
+    "Minotaur (Amonkhet)",
+    "Human (Amonkhet)"
+  ],
+  "warfroged": [
+    "Warforged (UAEberron)",
+    "Warforged (Juggernaut)"
+  ],
+  "shape shifter": [
+    "Shifter (Beasthide)",
+    "Shifter (Swiftstride)"
+  ],
+  "aasimer": [
+    "Aasimar (Protector)",
+    "Aasimar (Fallen)"
+  ],
+  "cuckold": [
+    "Kor",
+    "Kobold"
+  ],
+  "push": [
+    "Elf (Grugach)",
+    "Vedalken (PSK)"
+  ],
+  "ebberon": [
+    "Aetherborn",
+    "Elf (Aereni)"
+  ],
+  "tiefling ()": [
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)"
+  ],
+  "warforged variant": [
+    "Warforged (UAEberron)",
+    "Warforged (Skirmisher)"
+  ],
+  "Quagoth": [
+    "Dragonborn",
+    "Naga"
+  ],
+  "aasimar variant": [
+    "Aasimar (Fallen)",
+    "Aasimar (DMG)"
+  ],
+  "varient tiefling": [
+    "Tiefling (Glasya)",
+    "Tiefling (Fierna)"
+  ],
+  "death": [
+    "Aetherborn",
+    "Goliath"
+  ],
+  "orc": [
+    "Orc"
+  ],
+  "changeling": [
+    "Changeling"
+  ],
+  "vampire ixalan": [
+    "Vampire (Ixalan)"
+  ],
+  "mountain dwarf": [
+    "Dwarf (Mountain)"
+  ],
+  "firbolg": [
+    "Firbolg"
+  ],
+  "lizardfolk": [
+    "Lizardfolk"
+  ],
+  "human": [
+    "Human"
+  ],
+  "half-elf": [
+    "Half-Elf"
+  ],
+  "warforged (envoy)": [
+    "Warforged (Envoy)"
+  ],
+  "goliath": [
+    "Goliath"
+  ],
+  "forest gnome": [
+    "Gnome (Forest)"
+  ],
+  "shader-kai": [
+    "Elf (Shadar-kai)"
+  ],
+  "yuan-ti": [
+    "Yuan-ti Pureblood"
+  ],
+  "dragonborn": [
+    "Dragonborn"
+  ],
+  "golia": [
+    "Goliath"
+  ],
+  "hill dwarf": [
+    "Dwarf (Hill)"
+  ],
+  "fallen asimar": [
+    "Aasimar (DMG)"
+  ],
+  "tortle": [
+    "Tortle"
+  ],
+  "forest": [
+    "Gnome (Forest)"
+  ],
+  "tabaxi": [
+    "Tabaxi"
+  ],
+  "Dragonborn": [
+    "Dragonborn"
+  ],
+  "half-high elf": [
+    "Elf (High)"
+  ],
+  "Half-elf (wood)": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "half elf (drow)": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "half elf  (aquatic)": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "ghost": [
+    "Halfling (Ghostwise)"
+  ],
+  "svir": [
+    "Gnome (Deep/Svirfneblin)"
+  ],
+  "dragon": [
+    "Dragonborn"
+  ],
+  "hybrid": [
+    "Simic Hybrid"
+  ],
+  "goblin": [
+    "Goblin"
+  ],
+  "kobold": [
+    "Kobold"
+  ],
+  "stout gnome": [
+    "Gnome (Rock)"
+  ],
+  "tiefling": [
+    "Tiefling"
+  ],
+  "pro": [
+    "Aasimar (Protector)"
+  ],
+  "human mark of passage": [
+    "Human (Mark of Passage)"
+  ],
+  "golbin": [
+    "Goblin"
+  ],
+  "hobgoblin": [
+    "Hobgoblin"
+  ],
+  "Tabaxi": [
+    "Tabaxi"
+  ],
+  "storm": [
+    "Half-Elf (Mark of Storm)"
+  ],
+  "bugbear": [
+    "Bugbear"
+  ],
+  "yuanti": [
+    "Yuan-ti Pureblood"
+  ],
+  "swiftrider": [
+    "Shifter (Swiftstride)"
+  ],
+  "yuan0ti": [
+    "Yuan-ti Pureblood"
+  ],
+  "Elf (Shadar-kai)": [
+    "Elf (Shadar-kai)"
+  ],
+  "vedalken": [
+    "Vedalken"
+  ],
+  "bully": [
+    "Bullywug (DMG)"
+  ],
+  "aarakocra": [
+    "Aarakocra"
+  ],
+  "Duergar": [
+    "Dwarf (Duergar)"
+  ],
+  "aarockockra": [
+    "Aarakocra"
+  ],
+  "kalasthar": [
+    "Kalashtar"
+  ],
+  "Kalashtar": [
+    "Kalashtar"
+  ],
+  "loxodon": [
+    "Loxodon"
+  ],
+  "centaur": [
+    "Centaur"
+  ],
+  "detection": [
+    "Half-Elf (Mark of Detection)"
+  ],
+  "eladin": [
+    "Elf (Eladrin)"
+  ],
+  "revenant": [
+    "Revenant"
+  ],
+  "half-elef": [
+    "Half-Elf"
+  ],
+  "kessig": [
+    "Human (Innistrad) (Kessig)"
+  ],
+  "skel": [
+    "Skeleton (DMG)"
+  ],
+  "skeleton": [
+    "Skeleton (DMG)"
+  ],
+  "minotaur": [
+    "Minotaur"
+  ],
+  "nobke": [
+    "Kenku"
+  ],
+  "mark of detection": [
+    "Half-Elf (Mark of Detection)"
+  ],
+  "wood elf": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "kalashtar": [
+    "Kalashtar"
+  ],
+  "kenku": [
+    "Kenku"
+  ],
+  "semic": [
+    "Simic Hybrid"
+  ],
+  "stout": [
+    "Halfling (Stout)"
+  ],
+  "kitsu e": [
+    "Minotaur"
+  ],
+  "aven": [
+    "Aven"
+  ],
+  "lightfoot halfling": [
+    "Halfling (Lightfoot)"
+  ],
+  "cchangeling": [
+    "Changeling"
+  ],
+  "lightfoot_halfling": [
+    "Halfling (Lightfoot)"
+  ],
+  "lightfoot": [
+    "Halfling (Lightfoot)"
+  ],
+  "tittle": [
+    "Tortle"
+  ],
+  "tiefling wing": [
+    "Tiefling (Variant)"
+  ],
+  "Triton": [
+    "Triton"
+  ],
+  "grung": [
+    "Grung"
+  ],
+  "Half-Elf (Moon Elf or Sun Elf Descent)": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "triton": [
+    "Triton"
+  ],
+  "revan": [
+    "Revenant"
+  ],
+  "halfling (lightfoot": [
+    "Halfling (Lightfoot)"
+  ],
+  "Human Variant": [
+    "Human (Variant)"
+  ],
+  "Half Orc": [
+    "Half-Orc"
+  ],
+  "scourge": [
+    "Aasimar (Scourge)"
+  ],
+  "aikan": [
+    "Human (Ixalan)"
+  ],
+  "aukan": [
+    "Aven"
+  ],
+  "bug": [
+    "Bugbear"
+  ],
+  "tabs I": [
+    "Tabaxi"
+  ],
+  "oxodon": [
+    "Loxodon"
+  ],
+  "Goblin": [
+    "Goblin"
+  ],
+  "Changeling": [
+    "Changeling"
+  ],
+  "Warforged juggernaut": [
+    "Warforged (Juggernaut)"
+  ],
+  "hobg": [
+    "Hobgoblin"
+  ],
+  "human (Ixalan)": [
+    "Human (Ixalan)"
+  ],
+  "human (Innistrad)": [
+    "Human (Innistrad) (Stensia)"
+  ],
+  "naga": [
+    "Naga"
+  ],
+  "ibis": [
+    "Aven (Ibis-Headed)"
+  ],
+  "avariel": [
+    "Elf (Avariel)"
+  ],
+  "hawk": [
+    "Aven (Hawk-Headed)"
+  ],
+  "ho": [
+    "Halfling (Ghostwise)"
+  ],
+  "veldalken": [
+    "Vedalken"
+  ],
+  "half-orc": [
+    "Half-Orc"
+  ],
+  "Firbolg": [
+    "Firbolg"
+  ],
+  "Aarokocra": [
+    "Aarakocra"
+  ],
+  "all": [
+    "Aasimar (Fallen)"
+  ],
+  "woodelf": [
+    "Elf (Wood)"
+  ],
+  "kalas": [
+    "Kalashtar"
+  ],
+  "tiefling levit": [
+    "Tiefling (Levistus)"
+  ],
+  "Orc": [
+    "Orc"
+  ],
+  "dispater": [
+    "Tiefling (Dispater)"
+  ],
+  "Grugach": [
+    "Elf (Grugach)"
+  ],
+  "siren": [
+    "Siren"
+  ],
+  "Kobold": [
+    "Kobold"
+  ],
+  "Hobgoblin": [
+    "Hobgoblin"
+  ],
+  "yuan ti pure blood": [
+    "Yuan-ti Pureblood"
+  ],
+  "genasi (air)": [
+    "Genasi (Air)"
+  ],
+  "warforged UA": [
+    "Warforged (UAEberron)"
+  ],
+  "kakastar": [
+    "Kalashtar"
+  ],
+  "kinky": [
+    "Kenku (DMG)"
+  ],
+  "neko": [
+    "Kenku"
+  ],
+  "lox": [
+    "Loxodon"
+  ],
+  "avarial": [
+    "Elf (Avariel)"
+  ],
+  "kor": [
+    "Kor"
+  ],
+  "fallen": [
+    "Aasimar (Fallen)"
+  ],
+  "ta": [
+    "Tabaxi"
+  ],
+  "tiefling var": [
+    "Tiefling (Variant)"
+  ],
+  "moon elf": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "drag": [
+    "Dragonborn"
+  ],
+  "Demon weapon": [
+    "Tiefling (Mammon)"
+  ],
+  "firb": [
+    "Firbolg"
+  ],
+  "elf (high)": [
+    "Elf (High)"
+  ],
+  "mark of passage": [
+    "Human (Mark of Passage)"
+  ],
+  "shiftet": [
+    "Siren"
+  ],
+  "dragonborn bronze": [
+    "Dragonborn"
+  ],
+  "Mark of Making": [
+    "Human (Mark of Making)"
+  ],
+  "Naga": [
+    "Naga"
+  ],
+  "Half orc": [
+    "Half-Orc"
+  ],
+  "Aaismar (Scorge)": [
+    "Aasimar (Scourge)"
+  ],
+  "levistus": [
+    "Tiefling (Levistus)"
+  ],
+  "protect": [
+    "Aasimar (Protector)"
+  ],
+  "tiefling mammon": [
+    "Tiefling (Mammon)"
+  ],
+  "Tiefling (Fierna)": [
+    "Tiefling (Fierna)"
+  ],
+  "Tiefling (Devil's Tongue)": [
+    "Tiefling (Variant)"
+  ],
+  "avar": [
+    "Elf (Avariel)"
+  ],
+  "Tortle": [
+    "Tortle"
+  ],
+  "mountain": [
+    "Dwarf (Mountain)"
+  ],
+  "centau": [
+    "Centaur"
+  ],
+  "High Elf": [
+    "Elf (High)"
+  ],
+  "Aasimar (Protector)": [
+    "Aasimar (Protector)"
+  ],
+  "gnoll": [
+    "Gnoll (DMG)"
+  ],
+  "Minotuar": [
+    "Minotaur"
+  ],
+  "goliat": [
+    "Goliath"
+  ],
+  "for blog": [
+    "Firbolg"
+  ],
+  "Air Genasi": [
+    "Genasi (Air)"
+  ],
+  "furnish": [
+    "Elf (High)"
+  ],
+  "for bolt": [
+    "Firbolg"
+  ],
+  "fag": [
+    "Elf (Sea)"
+  ],
+  "Stout": [
+    "Halfling (Stout)"
+  ],
+  "mark of storms": [
+    "Half-Elf (Mark of Storm)"
+  ],
+  "\"Goblin\"": [
+    "Goblin"
+  ],
+  "Goliath": [
+    "Goliath"
+  ],
+  "centa": [
+    "Centaur"
+  ],
+  "Mark of Finding Half-Orc": [
+    "Half-Orc (Mark of Finding)"
+  ],
+  "Genasi fire": [
+    "Genasi (Fire)"
+  ],
+  "simic hybrid": [
+    "Simic Hybrid"
+  ],
+  "Vashino": [
+    "Viashino"
+  ],
+  "Viashiano": [
+    "Viashino"
+  ],
+  "vishiano": [
+    "Viashino"
+  ],
+  "fierna": [
+    "Tiefling (Fierna)"
+  ],
+  "simic": [
+    "Simic Hybrid"
+  ],
+  "yuan": [
+    "Yuan-ti Pureblood"
+  ],
+  "envoy": [
+    "Warforged (Envoy)"
+  ],
+  "Fallen": [
+    "Aasimar (Fallen)"
+  ],
+  "Centaur": [
+    "Centaur"
+  ],
+  "protector": [
+    "Aasimar (Protector)"
+  ],
+  "!race kobold": [
+    "Kobold"
+  ],
+  "kalish dar": [
+    "Elf (Kaladesh) (Vadahar)"
+  ],
+  "halfeld": [
+    "Half-Elf"
+  ],
+  "kal": [
+    "Kalashtar"
+  ],
+  "bullywag": [
+    "Bullywug (DMG)"
+  ],
+  "Half-Elf": [
+    "Half-Elf"
+  ],
+  "Sorge": [
+    "Aasimar (Scourge)"
+  ],
+  "abyssal": [
+    "Tiefling (Abyssal)"
+  ],
+  "mountaain dwarf": [
+    "Dwarf (Mountain)"
+  ],
+  "dwarf (hill)": [
+    "Dwarf (Hill)"
+  ],
+  "khenra": [
+    "Khenra"
+  ],
+  "ghostwise": [
+    "Halfling (Ghostwise)"
+  ],
+  "Ghostwise Halfling": [
+    "Halfling (Ghostwise)"
+  ],
+  "Tiefling": [
+    "Tiefling"
+  ],
+  "hig": [
+    "Elf (High)"
+  ],
+  "dragonborne": [
+    "Dragonborn"
+  ],
+  "thifling": [
+    "Tiefling (Mammon)"
+  ],
+  "centuare": [
+    "Centaur"
+  ],
+  "Simic Hybrid": [
+    "Simic Hybrid"
+  ],
+  "bias": [
+    "Viashino"
+  ],
+  "ekf]": [
+    "Elf (Sea)"
+  ],
+  "tiefling (asmodeus)": [
+    "Tiefling (Asmodeus)"
+  ],
+  "bear": [
+    "Bugbear"
+  ],
+  "Lizardfolk": [
+    "Lizardfolk"
+  ],
+  "gol": [
+    "Goliath"
+  ],
+  "tiefling avernus": [
+    "Tiefling (Dispater)"
+  ],
+  "viash": [
+    "Viashino"
+  ],
+  "tabax": [
+    "Tabaxi"
+  ],
+  "Kenku": [
+    "Kenku"
+  ],
+  "od": [
+    "Loxodon"
+  ],
+  "ether": [
+    "Aetherborn"
+  ],
+  "halfling ghostwise": [
+    "Halfling (Ghostwise)"
+  ],
+  "making": [
+    "Human (Mark of Making)"
+  ],
+  "revenanf": [
+    "Revenant"
+  ],
+  "bladeling": [
+    "Changeling"
+  ],
+  "Bearkin": [
+    "Bugbear"
+  ],
+  "mind": [
+    "Siren"
+  ],
+  "Tiefling (var": [
+    "Tiefling (Variant)"
+  ],
+  "arrokkra": [
+    "Aarakocra"
+  ],
+  "Aarakocra": [
+    "Aarakocra"
+  ],
+  "arak9kra": [
+    "Aarakocra (DMG)"
+  ],
+  "genasi (earth)": [
+    "Genasi (Earth)"
+  ],
+  "human v": [
+    "Human (Variant)"
+  ],
+  "human mark of handling": [
+    "Human (Mark of Handling)"
+  ],
+  "changering": [
+    "Grung"
+  ],
+  "arak": [
+    "Aarakocra"
+  ],
+  "aasasimar": [
+    "Aasimar (Protector)"
+  ],
+  "cen": [
+    "Centaur"
+  ],
+  "mark of shadows": [
+    "Elf (Mark of Shadow)"
+  ],
+  "mark of sentinel": [
+    "Human (Mark of Sentinel)"
+  ],
+  "Minotaur": [
+    "Minotaur"
+  ],
+  "aether": [
+    "Aetherborn"
+  ],
+  "elf (ava": [
+    "Elf (Avariel)"
+  ],
+  "fire": [
+    "Genasi (Fire)"
+  ],
+  "nymph": [
+    "Human (Amonkhet)"
+  ],
+  "Dwarf (Mountain)": [
+    "Dwarf (Mountain)"
+  ],
+  "ebony warforged": [
+    "Warforged (Envoy)"
+  ],
+  "githyan": [
+    "Gith (Githyanki)"
+  ],
+  "Yuan ti": [
+    "Yuan-ti Pureblood"
+  ],
+  "pureblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "goliath (": [
+    "Goliath"
+  ],
+  "lizardf": [
+    "Lizardfolk"
+  ],
+  "juggernaut": [
+    "Warforged (Juggernaut)"
+  ],
+  "drago": [
+    "Dragonborn"
+  ],
+  "shard": [
+    "Kalashtar"
+  ],
+  "aetherborn": [
+    "Aetherborn"
+  ],
+  "goliatj": [
+    "Goliath"
+  ],
+  "envoy warforged": [
+    "Warforged (Envoy)"
+  ],
+  "yuan ti pureblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "half org": [
+    "Half-Orc (Mark of Finding)"
+  ],
+  "Yuan ti pureblodd": [
+    "Yuan-ti Pureblood"
+  ],
+  "hale": [
+    "Aven"
+  ],
+  "lev": [
+    "Tiefling (Levistus)"
+  ],
+  "valken": [
+    "Vedalken"
+  ],
+  "dragon mark": [
+    "Human (Mark of Making)"
+  ],
+  "hill": [
+    "Dwarf (Hill)"
+  ],
+  "air": [
+    "Genasi (Air)"
+  ],
+  "water": [
+    "Genasi (Water)"
+  ],
+  "Gnoll": [
+    "Gnoll (DMG)"
+  ],
+  "Troglodyte": [
+    "Troglodyte (DMG)"
+  ],
+  "Kuo-toa": [
+    "Kuo-Toa (DMG)"
+  ],
+  "vampire ixalab": [
+    "Vampire (Zendikar)"
+  ],
+  "tiefling balzebub": [
+    "Tiefling (Baalzebul)"
+  ],
+  "Tiefling(Variant)": [
+    "Tiefling (Variant)"
+  ],
+  "loxo": [
+    "Loxodon"
+  ],
+  "human (variant)": [
+    "Human (Variant)"
+  ],
+  "Tiefling abyssal": [
+    "Tiefling (Abyssal)"
+  ],
+  "Tiefling abysmal": [
+    "Tiefling (Asmodeus)"
+  ],
+  "winged Tiefling": [
+    "Tiefling (Mammon)"
+  ],
+  "duergar": [
+    "Dwarf (Duergar)"
+  ],
+  "Zariel": [
+    "Tiefling (Zariel)"
+  ],
+  "mammon": [
+    "Tiefling (Mammon)"
+  ],
+  "Tiefling (Zariel)": [
+    "Tiefling (Zariel)"
+  ],
+  "aasimar scourge": [
+    "Aasimar (Scourge)"
+  ],
+  "grugach": [
+    "Elf (Grugach)"
+  ],
+  "genasi earth": [
+    "Genasi (Earth)"
+  ],
+  "githzerai": [
+    "Gith (Githzerai)"
+  ],
+  "arracocra": [
+    "Aarakocra"
+  ],
+  "minotaurs": [
+    "Minotaur"
+  ],
+  "firebolg": [
+    "Firbolg"
+  ],
+  "half-elf eladrin": [
+    "Elf (Eladrin)"
+  ],
+  "half-elf drow": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "scouge": [
+    "Aasimar (Scourge)"
+  ],
+  "tiefling mephisto": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "feat breath": [
+    "Genasi (Earth)"
+  ],
+  "feat breath weapon": [
+    "Genasi (Earth)"
+  ],
+  "Loxodon": [
+    "Loxodon"
+  ],
+  "shadow": [
+    "Elf (Mark of Shadow)"
+  ],
+  "<Elf>": [
+    "Elf (Drow)"
+  ],
+  "Loxo don": [
+    "Loxodon"
+  ],
+  "kirin minotaur": [
+    "Minotaur (Krynn)"
+  ],
+  "velda": [
+    "Vedalken"
+  ],
+  "krynn minotaur": [
+    "Minotaur (Krynn)"
+  ],
+  "kala": [
+    "Kalashtar"
+  ],
+  "tieflig": [
+    "Tiefling (Fierna)"
+  ],
+  "trog": [
+    "Troglodyte (DMG)"
+  ],
+  "yuant ti": [
+    "Yuan-ti Pureblood"
+  ],
+  "svirf": [
+    "Gnome (Deep/Svirfneblin)"
+  ],
+  "Aasimar (Scourge)": [
+    "Aasimar (Scourge)"
+  ],
+  "Bullywug": [
+    "Bullywug (DMG)"
+  ],
+  "swarf": [
+    "Dwarf (Hill)"
+  ],
+  "dwarf hill": [
+    "Dwarf (Hill)"
+  ],
+  "Siren": [
+    "Siren"
+  ],
+  "Veda": [
+    "Vedalken"
+  ],
+  "feral Teifling": [
+    "Tiefling"
+  ],
+  "mountain dward": [
+    "Genasi (Water)"
+  ],
+  "high": [
+    "Elf (High)"
+  ],
+  "mark of the storm": [
+    "Half-Elf (Mark of Storm)"
+  ],
+  "Elf (Drow)": [
+    "Elf (Drow)"
+  ],
+  "fierna tiefling": [
+    "Tiefling (Fierna)"
+  ],
+  "Centuar": [
+    "Centaur"
+  ],
+  "centaut": [
+    "Centaur"
+  ],
+  "glasya": [
+    "Tiefling (Glasya)"
+  ],
+  "halfling second chance": [
+    "Halfling (Lightfoot)"
+  ],
+  "Vistani": [
+    "Tabaxi"
+  ],
+  "vari": [
+    "Human (Variant)"
+  ],
+  "sphinx": [
+    "Hobgoblin"
+  ],
+  "Khenra": [
+    "Khenra"
+  ],
+  "Vendalken": [
+    "Vedalken (PSK)"
+  ],
+  "firebolt": [
+    "Firbolg"
+  ],
+  "Human": [
+    "Human"
+  ],
+  "bullywug": [
+    "Bullywug (DMG)"
+  ],
+  "tobaxi": [
+    "Tabaxi"
+  ],
+  "coor": [
+    "Kor"
+  ],
+  "taxiban": [
+    "Tabaxi"
+  ],
+  "arco": [
+    "Aarakocra"
+  ],
+  "sim": [
+    "Simic Hybrid"
+  ],
+  "bugbera": [
+    "Bugbear"
+  ],
+  "velde": [
+    "Vedalken (PSK)"
+  ],
+  "shifter clifg": [
+    "Shifter (Cliffwalk) (UAEberron)"
+  ],
+  "eld": [
+    "Human (Keldon)"
+  ],
+  "zombie": [
+    "Zombie (DMG)"
+  ],
+  "dwarf mountain": [
+    "Dwarf (Mountain)"
+  ],
+  "tiefling baalzebul": [
+    "Tiefling (Baalzebul)"
+  ],
+  "githzer": [
+    "Gith (Githzerai)"
+  ],
+  "Mul": [
+    "Elf (Zendikar) (Mul Daya Nation)"
+  ],
+  "Sahuagin": [
+    "Siren"
+  ],
+  "warforged jug": [
+    "Warforged (Juggernaut)"
+  ],
+  "yuan to": [
+    "Yuan-ti Pureblood"
+  ],
+  "hospitality": [
+    "Halfling (Mark of Hospitality)"
+  ],
+  "beasthide": [
+    "Shifter (Beasthide)"
+  ],
+  "half el": [
+    "Half-Elf"
+  ],
+  "half-orf": [
+    "Half-Orc"
+  ],
+  "Dragon": [
+    "Dragonborn"
+  ],
+  "chondathan": [
+    "Human (Variant)"
+  ],
+  "avan": [
+    "Aven"
+  ],
+  "tiefling (variant)": [
+    "Tiefling (Variant)"
+  ],
+  "tiefling mephist": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "tiefling baal": [
+    "Tiefling (Baalzebul)"
+  ],
+  "aasimar prot": [
+    "Aasimar (Protector)"
+  ],
+  "Aa": [
+    "Aasimar (Protector)"
+  ],
+  "centur": [
+    "Centaur"
+  ],
+  "aacrockra": [
+    "Aarakocra"
+  ],
+  "fnoll": [
+    "Gnoll (DMG)"
+  ],
+  "genasi (fire)": [
+    "Genasi (Fire)"
+  ],
+  "shardmind": [
+    "Kalashtar"
+  ],
+  "earth": [
+    "Genasi (Earth)"
+  ],
+  "elf(high)": [
+    "Elf (High)"
+  ],
+  "vampire Ixalan": [
+    "Vampire (Ixalan)"
+  ],
+  "SimiC": [
+    "Simic Hybrid"
+  ],
+  "aasamir": [
+    "Aasimar (DMG)"
+  ],
+  "abyss": [
+    "Tiefling (Abyssal)"
+  ],
+  "perceptive": [
+    "Shifter (Beasthide)"
+  ],
+  "passage": [
+    "Human (Mark of Passage)"
+  ],
+  "Kor": [
+    "Kor"
+  ],
+  "KOBOLD": [
+    "Kobold"
+  ],
+  "halfling ghost": [
+    "Halfling (Ghostwise)"
+  ],
+  "elf sea": [
+    "Elf (Sea)"
+  ],
+  "vedalkin": [
+    "Vedalken"
+  ],
+  "hogboglin": [
+    "Hobgoblin"
+  ],
+  "draconian": [
+    "Dragonborn"
+  ],
+  "Aarocakra": [
+    "Aarakocra"
+  ],
+  "Yuan-Ti Abomination": [
+    "Yuan-ti Pureblood"
+  ],
+  "khalashtar": [
+    "Kalashtar"
+  ],
+  "Shadar": [
+    "Elf (Shadar-kai)"
+  ],
+  "kalash": [
+    "Kalashtar"
+  ],
+  "cobolt": [
+    "Kobold"
+  ],
+  "human (variant?": [
+    "Human (Variant)"
+  ],
+  "Vamp": [
+    "Vampire (Ixalan)"
+  ],
+  "Wood elf": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "Human (Variant)": [
+    "Human (Variant)"
+  ],
+  "drauger": [
+    "Dwarf (Duergar)"
+  ],
+  "grey": [
+    "Tortle"
+  ],
+  "trit": [
+    "Triton"
+  ],
+  "Warforged Jugg": [
+    "Warforged (Juggernaut)"
+  ],
+  "aaracokra": [
+    "Aarakocra"
+  ],
+  "lalashtar": [
+    "Kalashtar"
+  ],
+  "cor": [
+    "Kor"
+  ],
+  "vam": [
+    "Vampire (Ixalan)"
+  ],
+  "elf wood elf": [
+    "Elf (Wood)"
+  ],
+  "elf dark elf": [
+    "Elf (Avariel)"
+  ],
+  "feature mark of the describing gnome": [
+    "Gnome (Mark of Scribing)"
+  ],
+  "cyborg": [
+    "Simic Hybrid"
+  ],
+  "Fir": [
+    "Firbolg"
+  ],
+  "imp": [
+    "Zombie (DMG)"
+  ],
+  "troglodyte": [
+    "Troglodyte (DMG)"
+  ],
+  "veldakun": [
+    "Vedalken (PSK)"
+  ],
+  "Simic": [
+    "Simic Hybrid"
+  ],
+  "lighfoot": [
+    "Halfling (Lightfoot)"
+  ],
+  "dwark": [
+    "Dwarf (Hill)"
+  ],
+  "tabazi": [
+    "Tabaxi"
+  ],
+  "wild elf": [
+    "Elf (Avariel)"
+  ],
+  "deep gnomes": [
+    "Gnome (Deep)"
+  ],
+  "fiern": [
+    "Tiefling (Fierna)"
+  ],
+  "Half elf Aquatic": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "yuan-ti pureblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "Vedalken": [
+    "Vedalken"
+  ],
+  "Veadlken": [
+    "Vedalken (PSK)"
+  ],
+  "halflign": [
+    "Halfling (Lightfoot)"
+  ],
+  "gaffling": [
+    "Changeling"
+  ],
+  "bork": [
+    "Gnome (Rock)"
+  ],
+  "Kalishtar": [
+    "Kalashtar"
+  ],
+  "Kalahtar": [
+    "Kalashtar"
+  ],
+  "kenko": [
+    "Kenku"
+  ],
+  "gene": [
+    "Genasi (Fire)"
+  ],
+  "ocean strider": [
+    "Genasi (Water)"
+  ],
+  "aquatic kobold": [
+    "Kobold"
+  ],
+  "cecaelias": [
+    "Changeling"
+  ],
+  "Warforged (Skirmisher)": [
+    "Warforged (Skirmisher)"
+  ],
+  "warforged skirmisher": [
+    "Warforged (Skirmisher)"
+  ],
+  "Revenant": [
+    "Revenant"
+  ],
+  "luxodon": [
+    "Loxodon"
+  ],
+  "tiefling(variant)": [
+    "Tiefling (Levistus)"
+  ],
+  "mark of shadow": [
+    "Elf (Mark of Shadow)"
+  ],
+  "centaurs": [
+    "Centaur"
+  ],
+  "mark of healing": [
+    "Halfling (Mark of Healing)"
+  ],
+  "aarakoc": [
+    "Aarakocra"
+  ],
+  "Aladrin": [
+    "Elf (Eladrin)"
+  ],
+  "ar": [
+    "Aarakocra"
+  ],
+  "Tuan": [
+    "Triton"
+  ],
+  "assimar fallen": [
+    "Aasimar (Fallen)"
+  ],
+  "human var": [
+    "Human (Variant)"
+  ],
+  "half-elf variant": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "vel": [
+    "Vedalken"
+  ],
+  "glas": [
+    "Tiefling (Glasya)"
+  ],
+  "disp": [
+    "Tiefling (Dispater)"
+  ],
+  "lizardfold": [
+    "Lizardfolk"
+  ],
+  "halfling(Mark of Hospi": [
+    "Halfling (Mark of Hospitality)"
+  ],
+  "cgangeling": [
+    "Changeling"
+  ],
+  "prot": [
+    "Aasimar (Protector)"
+  ],
+  "prote": [
+    "Aasimar (Protector)"
+  ],
+  "githerzai": [
+    "Gith (Githzerai)"
+  ],
+  "asamir": [
+    "Genasi (Fire)"
+  ],
+  "Tabasco": [
+    "Tabaxi"
+  ],
+  "half-elf (drow)": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "feyblood": [
+    "Loxodon"
+  ],
+  "Ar": [
+    "Warforged (Skirmisher)"
+  ],
+  "Avariel": [
+    "Elf (Avariel)"
+  ],
+  "bacterium": [
+    "Tabaxi"
+  ],
+  "halfing lightfoot": [
+    "Halfling (Lightfoot)"
+  ],
+  "half-elf(drow)": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "Wood Elf": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "tortl": [
+    "Tortle"
+  ],
+  "aisimar": [
+    "Aasimar (DMG)"
+  ],
+  "grob": [
+    "Grung"
+  ],
+  "girh": [
+    "Genasi (Air)"
+  ],
+  "earth genasi": [
+    "Genasi (Earth)"
+  ],
+  "Shadar-Kai": [
+    "Elf (Shadar-kai)"
+  ],
+  "handling": [
+    "Human (Mark of Handling)"
+  ],
+  "ghastly halfling": [
+    "Halfling (Stout)"
+  ],
+  "halfling (ghastly)": [
+    "Halfling (Ghostwise)"
+  ],
+  "shadarkai": [
+    "Elf (Shadar-kai)"
+  ],
+  "vhuman": [
+    "Human (Variant)"
+  ],
+  "human name": [
+    "Human"
+  ],
+  "dragonborn revenant": [
+    "Revenant"
+  ],
+  "damphir": [
+    "Vampire (Zendikar)"
+  ],
+  "humanv": [
+    "Human (Variant)"
+  ],
+  "Aasmiar": [
+    "Aasimar (DMG)"
+  ],
+  "kobolds": [
+    "Kobold"
+  ],
+  "fir": [
+    "Firbolg"
+  ],
+  "Gensai": [
+    "Genasi (Air)"
+  ],
+  "LOXDON BOYY": [
+    "Loxodon"
+  ],
+  "aasimar (scourge)": [
+    "Aasimar (Scourge)"
+  ],
+  "void": [
+    "Goliath"
+  ],
+  "half-dwarf": [
+    "Dwarf (Duergar)"
+  ],
+  "hobgobllin": [
+    "Hobgoblin"
+  ],
+  "human (variant": [
+    "Human (Variant)"
+  ],
+  "gno,e(deep)": [
+    "Gnome (Deep/Svirfneblin)"
+  ],
+  "gnome(deep)": [
+    "Gnome (Deep)"
+  ],
+  "changelinging": [
+    "Changeling"
+  ],
+  "Jenkins": [
+    "Kenku"
+  ],
+  "foresaken": [
+    "Revenant"
+  ],
+  "gobkun": [
+    "Goblin"
+  ],
+  "elf avar": [
+    "Elf (Avariel)"
+  ],
+  "yuan-ti pure": [
+    "Yuan-ti Pureblood"
+  ],
+  "sentinel": [
+    "Human (Mark of Sentinel)"
+  ],
+  "Durager": [
+    "Dwarf (Duergar)"
+  ],
+  "mount": [
+    "Dwarf (Mountain)"
+  ],
+  "cantuar": [
+    "Centaur"
+  ],
+  "jackal": [
+    "Kalashtar"
+  ],
+  "cobald": [
+    "Kobold"
+  ],
+  "revanant": [
+    "Revenant"
+  ],
+  "Gilth": [
+    "Gith (Githyanki)"
+  ],
+  "Simic hybrid": [
+    "Simic Hybrid"
+  ],
+  "mark of making": [
+    "Human (Mark of Making)"
+  ],
+  "half-half": [
+    "Half-Elf"
+  ],
+  "madlad": [
+    "Naga"
+  ],
+  "aereni": [
+    "Elf (Aereni)"
+  ],
+  "ass": [
+    "Human (Mark of Passage)"
+  ],
+  "protec": [
+    "Aasimar (Protector)"
+  ],
+  "half elf drow": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "kalade": [
+    "Dwarf (Kaladesh)"
+  ],
+  "mul d": [
+    "Elf (Zendikar) (Mul Daya Nation)"
+  ],
+  "tie fling": [
+    "Tiefling"
+  ],
+  "cat folk": [
+    "Firbolg"
+  ],
+  "dwarf (mountain)": [
+    "Dwarf (Mountain)"
+  ],
+  "elf (wood)": [
+    "Elf (Wood)"
+  ],
+  "halfling, stout": [
+    "Halfling (Stout)"
+  ],
+  "hil dwarf": [
+    "Dwarf (Hill)"
+  ],
+  "half elf (high elf descent)": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "human(": [
+    "Human (Variant)"
+  ],
+  "zariel": [
+    "Tiefling (Zariel)"
+  ],
+  "duer": [
+    "Dwarf (Duergar)"
+  ],
+  "loxodom": [
+    "Loxodon"
+  ],
+  "symic hybrid": [
+    "Simic Hybrid"
+  ],
+  "chn": [
+    "Centaur"
+  ],
+  "jedi": [
+    "Vedalken"
+  ],
+  "Yuan-ti": [
+    "Yuan-ti Pureblood"
+  ],
+  "go llama": [
+    "Gnoll (DMG)"
+  ],
+  "Winged": [
+    "Tiefling"
+  ],
+  "protection aasimir": [
+    "Aasimar (Protector)"
+  ],
+  "Half elf": [
+    "Half-Elf"
+  ],
+  "Human Revenant": [
+    "Revenant"
+  ],
+  "Scottish": [
+    "Shifter (Longtooth)"
+  ],
+  "Half-elf": [
+    "Half-Elf"
+  ],
+  "kaladesh dwarf": [
+    "Dwarf (Kaladesh)"
+  ],
+  "changling eberon": [
+    "Changeling (UAEberron)"
+  ],
+  "Half-Orc": [
+    "Half-Orc"
+  ],
+  "aasimar fallen": [
+    "Aasimar (Fallen)"
+  ],
+  "skelton": [
+    "Skeleton (DMG)"
+  ],
+  "Centar": [
+    "Centaur"
+  ],
+  "tiefling as": [
+    "Tiefling (Glasya)"
+  ],
+  "tielfing minauros": [
+    "Tiefling (Mammon)"
+  ],
+  "Githyanki": [
+    "Gith (Githyanki)"
+  ],
+  "hobogoblin": [
+    "Hobgoblin"
+  ],
+  "minotaur ggs": [
+    "Goblin (GGR)"
+  ],
+  "Minotaur GGR": [
+    "Minotaur"
+  ],
+  "ggr centaur": [
+    "Centaur"
+  ],
+  "shad": [
+    "Elf (Shadar-kai)"
+  ],
+  "Forest gnome": [
+    "Gnome (Forest)"
+  ],
+  "tiefling (dispater)": [
+    "Tiefling (Dispater)"
+  ],
+  "tiefling (mestopholese)": [
+    "Tiefling (Asmodeus)"
+  ],
+  "tiefling (mezzy)": [
+    "Tiefling (Fierna)"
+  ],
+  "con": [
+    "Loxodon"
+  ],
+  "fun": [
+    "Grung"
+  ],
+  "easy": [
+    "Khenra"
+  ],
+  "Devil's": [
+    "Elf (High)"
+  ],
+  "genasi air": [
+    "Genasi (Air)"
+  ],
+  "winged tieflinf": [
+    "Tiefling (Fierna)"
+  ],
+  "nep": [
+    "Human (Innistrad) (Nephalia)"
+  ],
+  "Aasamiar": [
+    "Aasimar (DMG)"
+  ],
+  "human(variant)": [
+    "Human (Variant)"
+  ],
+  "kenui": [
+    "Kenku"
+  ],
+  "tro": [
+    "Troglodyte (DMG)"
+  ],
+  "mul": [
+    "Elf (Zendikar) (Mul Daya Nation)"
+  ],
+  "dra": [
+    "Dragonborn"
+  ],
+  "drsgonborn": [
+    "Dragonborn"
+  ],
+  "centair": [
+    "Centaur"
+  ],
+  "fall": [
+    "Aasimar (Fallen)"
+  ],
+  "tiefling (zariel)": [
+    "Tiefling (Zariel)"
+  ],
+  "Mark of Sentinel Human": [
+    "Human (Mark of Sentinel)"
+  ],
+  "hal": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "tiefling (Zariel)": [
+    "Tiefling (Zariel)"
+  ],
+  "Loxodan": [
+    "Loxodon"
+  ],
+  "goliaths": [
+    "Goliath"
+  ],
+  "tab": [
+    "Tabaxi"
+  ],
+  "iron dwarf": [
+    "Dwarf (Hill)"
+  ],
+  "sheep": [
+    "Khenra"
+  ],
+  "centaura": [
+    "Minotaur"
+  ],
+  "ghostwing": [
+    "Halfling (Ghostwise)"
+  ],
+  "minotour": [
+    "Minotaur"
+  ],
+  "bullfolk": [
+    "Merfolk (DMG)"
+  ],
+  "bullywugs": [
+    "Bullywug (DMG)"
+  ],
+  "Grung": [
+    "Grung"
+  ],
+  "q": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "grunc": [
+    "Grung"
+  ],
+  "eldarian": [
+    "Elf (Eladrin)"
+  ],
+  "Aven": [
+    "Aven"
+  ],
+  "goblin ixalan": [
+    "Goblin (Ixalan)"
+  ],
+  "genasi (water)": [
+    "Genasi (Water)"
+  ],
+  "dwarf h": [
+    "Dwarf (Hill)"
+  ],
+  "goli": [
+    "Goliath"
+  ],
+  "bearkin": [
+    "Tabaxi"
+  ],
+  "penis": [
+    "Aven"
+  ],
+  "turtle": [
+    "Tortle"
+  ],
+  "krynn": [
+    "Minotaur (Krynn)"
+  ],
+  "arrakocra": [
+    "Aarakocra"
+  ],
+  "fallen angle": [
+    "Aasimar (Fallen)"
+  ],
+  "Yuan": [
+    "Yuan-ti Pureblood"
+  ],
+  "mark of handl": [
+    "Human (Mark of Handling)"
+  ],
+  "razorclaw": [
+    "Shifter (Razorclaw) (UAEberron)"
+  ],
+  "vampire (i": [
+    "Vampire (Ixalan)"
+  ],
+  "half wood": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "giantblood": [
+    "Goliath"
+  ],
+  "warforged  ju": [
+    "Warforged (Juggernaut)"
+  ],
+  "Halfelf": [
+    "Half-Elf"
+  ],
+  "kreen": [
+    "Siren"
+  ],
+  "gyth": [
+    "Gith (Githyanki)"
+  ],
+  "tieflin g": [
+    "Tiefling"
+  ],
+  "minota": [
+    "Minotaur"
+  ],
+  "tabaxi 1": [
+    "Tabaxi"
+  ],
+  "eldrin": [
+    "Elf (Eladrin)"
+  ],
+  "Tiefling (Variant)": [
+    "Tiefling (Variant)"
+  ],
+  "trition": [
+    "Triton"
+  ],
+  "ignasi": [
+    "Genasi (Fire)"
+  ],
+  "duregar": [
+    "Dwarf (Duergar)"
+  ],
+  "loxodn": [
+    "Loxodon"
+  ],
+  "tiefling levistus": [
+    "Tiefling (Levistus)"
+  ],
+  "dargonborn": [
+    "Dragonborn"
+  ],
+  "eldruin": [
+    "Elf (Eladrin)"
+  ],
+  "mastiff": [
+    "Kalashtar"
+  ],
+  "vedalken (P": [
+    "Vedalken (PSK)"
+  ],
+  "aasimar (sco": [
+    "Aasimar (Scourge)"
+  ],
+  "human varant": [
+    "Human (Variant)"
+  ],
+  "arankova": [
+    "Aarakocra"
+  ],
+  "Yuan-Ti Pureblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "elf (drow)": [
+    "Elf (Drow)"
+  ],
+  "deku": [
+    "Kenku"
+  ],
+  "tiefling avestest legacy": [
+    "Tiefling (Levistus)"
+  ],
+  "Yuan-ti abomination": [
+    "Yuan-ti Pureblood"
+  ],
+  "hilldwarf": [
+    "Dwarf (Hill)"
+  ],
+  "tor": [
+    "Tortle"
+  ],
+  "khen": [
+    "Khenra"
+  ],
+  "random": [
+    "Aarakocra"
+  ],
+  "arakokara": [
+    "Aarakocra"
+  ],
+  "kalashar": [
+    "Kalashtar"
+  ],
+  "gobling": [
+    "Goblin"
+  ],
+  "Kalastar": [
+    "Kalashtar"
+  ],
+  "Protec": [
+    "Aasimar (Protector)"
+  ],
+  "varient dragonborn": [
+    "Dragonborn"
+  ],
+  "mantids": [
+    "Yuan-ti Pureblood"
+  ],
+  "JOE": [
+    "Orc"
+  ],
+  "tabaxi'": [
+    "Tabaxi"
+  ],
+  "halfling (stout)": [
+    "Halfling (Stout)"
+  ],
+  "warforged juggernaught": [
+    "Warforged (Juggernaut)"
+  ],
+  "Assimir": [
+    "Aasimar (DMG)"
+  ],
+  "Veldaken": [
+    "Vedalken"
+  ],
+  "valekin": [
+    "Vedalken"
+  ],
+  "Yuan-Ti": [
+    "Yuan-ti Pureblood"
+  ],
+  "vendarken": [
+    "Vedalken"
+  ],
+  "rock": [
+    "Gnome (Rock)"
+  ],
+  "tabaxy": [
+    "Naga"
+  ],
+  "feature fire aura": [
+    "Tiefling (Variant)"
+  ],
+  "ggr": [
+    "Goblin (GGR)"
+  ],
+  "House": [
+    "Human (Keldon)"
+  ],
+  "Elves": [
+    "Elf (Avariel)"
+  ],
+  "Elf (Valenar)": [
+    "Elf (Valenar)"
+  ],
+  "titan": [
+    "Triton"
+  ],
+  "gruch": [
+    "Elf (Grugach)"
+  ],
+  "alu'tel'quessir": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "aquatic elf": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "tort": [
+    "Tortle"
+  ],
+  "aether born!": [
+    "Aetherborn"
+  ],
+  "Dwarf Hill": [
+    "Dwarf (Hill)"
+  ],
+  "scourge Aasimarr": [
+    "Aasimar (Scourge)"
+  ],
+  "meph": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "Mephistopheles Tiefling": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "alien": [
+    "Vedalken"
+  ],
+  "khendra": [
+    "Khenra"
+  ],
+  "fribolg": [
+    "Firbolg"
+  ],
+  "goalith": [
+    "Goliath"
+  ],
+  "didneo": [
+    "Dragonborn"
+  ],
+  "woxenw": [
+    "Kenku"
+  ],
+  "aashimar": [
+    "Aasimar (Fallen)"
+  ],
+  "vedelkan": [
+    "Vedalken (PSK)"
+  ],
+  "Levistus": [
+    "Tiefling (Levistus)"
+  ],
+  "furbolg": [
+    "Firbolg"
+  ],
+  "human vari": [
+    "Human (Variant)"
+  ],
+  "trident": [
+    "Triton"
+  ],
+  "simic hybird": [
+    "Simic Hybrid"
+  ],
+  "mere folk": [
+    "Merfolk (DMG)"
+  ],
+  "changlings": [
+    "Changeling"
+  ],
+  "Arrakocra": [
+    "Aarakocra (DMG)"
+  ],
+  "grim": [
+    "Grimlock (DMG)"
+  ],
+  "deagon": [
+    "Dragonborn"
+  ],
+  "human 1": [
+    "Human"
+  ],
+  "Glasya Tiefling": [
+    "Tiefling (Glasya)"
+  ],
+  "kuo-toa": [
+    "Kuo-Toa (DMG)"
+  ],
+  "calishite": [
+    "Kalashtar"
+  ],
+  "Aaracokra": [
+    "Aarakocra"
+  ],
+  "Air Gensai": [
+    "Genasi (Air)"
+  ],
+  "tiefling mephis": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "tiefling asmodeus": [
+    "Tiefling (Asmodeus)"
+  ],
+  "tiefling abyssal": [
+    "Tiefling (Abyssal)"
+  ],
+  "Gil": [
+    "Goliath"
+  ],
+  "sonic hybrid": [
+    "Simic Hybrid"
+  ],
+  "Kenny": [
+    "Kenku"
+  ],
+  "Half-Fey": [
+    "Elf (Sea)"
+  ],
+  "ava": [
+    "Elf (Avariel)"
+  ],
+  "half-ork": [
+    "Half-Orc"
+  ],
+  "Lightfoot Halfling": [
+    "Halfling (Lightfoot)"
+  ],
+  "gr": [
+    "Grung"
+  ],
+  "tibbit": [
+    "Tabaxi"
+  ],
+  "winged kobold": [
+    "Kobold (DMG)"
+  ],
+  "luco": [
+    "Loxodon"
+  ],
+  "il": [
+    "Dwarf (Hill)"
+  ],
+  "shark": [
+    "Kalashtar"
+  ],
+  "grungs": [
+    "Grung"
+  ],
+  "shadovar": [
+    "Human (Variant)"
+  ],
+  "seer": [
+    "Elf (Eladrin)"
+  ],
+  "creed": [
+    "Merfolk (Zendikar) (Emeria Creed)"
+  ],
+  "mul daya": [
+    "Elf (Zendikar) (Mul Daya Nation)"
+  ],
+  "Zombie": [
+    "Zombie (DMG)"
+  ],
+  "kalastar": [
+    "Kalashtar"
+  ],
+  "shadow sorcerer": [
+    "Dwarf (Duergar)"
+  ],
+  "solar": [
+    "Minotaur"
+  ],
+  "halfling (ghostwise)": [
+    "Halfling (Ghostwise)"
+  ],
+  "owlbear": [
+    "Bugbear"
+  ],
+  "dragonmark": [
+    "Naga"
+  ],
+  "lizardfokk": [
+    "Lizardfolk"
+  ],
+  "mountain dwar": [
+    "Dwarf (Mountain)"
+  ],
+  "genisai": [
+    "Genasi (Earth)"
+  ],
+  "grimlock": [
+    "Grimlock (DMG)"
+  ],
+  "warforged juggernaut": [
+    "Warforged (Juggernaut)"
+  ],
+  "lux": [
+    "Loxodon"
+  ],
+  "wildhunt": [
+    "Shifter (Wildhunt)"
+  ],
+  "githze": [
+    "Gith (Githzerai)"
+  ],
+  "firbolgs": [
+    "Firbolg"
+  ],
+  "genisi": [
+    "Genasi (Water)"
+  ],
+  "de": [
+    "Elf (Kaladesh) (Vadahar)"
+  ],
+  "spryte": [
+    "Genasi (Fire)"
+  ],
+  "loxidon": [
+    "Loxodon"
+  ],
+  "feature danger sense": [
+    "Tiefling (Asmodeus)"
+  ],
+  "lizardfo": [
+    "Lizardfolk"
+  ],
+  "hobgoblins": [
+    "Hobgoblin"
+  ],
+  "grovel cower and beg": [
+    "Troglodyte (DMG)"
+  ],
+  "kin": [
+    "Human (Mark of Making)"
+  ],
+  "sonic": [
+    "Simic Hybrid"
+  ],
+  "GGR": [
+    "Goblin (GGR)"
+  ],
+  "Sara": [
+    "Aarakocra"
+  ],
+  "human planeshift": [
+    "Human (Ixalan)"
+  ],
+  "Aarakockra": [
+    "Aarakocra"
+  ],
+  "gron": [
+    "Grung"
+  ],
+  "aasimar protector": [
+    "Aasimar (Protector)"
+  ],
+  "half elft": [
+    "Half-Elf"
+  ],
+  "minotaue": [
+    "Minotaur (Krynn)"
+  ],
+  "yaun ti pureblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "smiac": [
+    "Simic Hybrid"
+  ],
+  "razerclaw": [
+    "Shifter (Razorclaw) (UAEberron)"
+  ],
+  "aarakoca": [
+    "Aarakocra (DMG)"
+  ],
+  "fallen aas": [
+    "Aasimar (Fallen)"
+  ],
+  "protector aas": [
+    "Aasimar (Protector)"
+  ],
+  "vedelak": [
+    "Vedalken"
+  ],
+  "feat tief": [
+    "Tiefling"
+  ],
+  "hellfire tiefling": [
+    "Tiefling"
+  ],
+  "feat tiefling winged": [
+    "Tiefling (Variant)"
+  ],
+  "mhw raw": [
+    "Khenra"
+  ],
+  "changelind": [
+    "Changeling"
+  ],
+  "bugbeae": [
+    "Bugbear"
+  ],
+  "Lightfoot halfling": [
+    "Halfling (Lightfoot)"
+  ],
+  "assiamr": [
+    "Aasimar (DMG)"
+  ],
+  "elfint": [
+    "Changeling"
+  ],
+  "elf drow": [
+    "Elf (Drow)"
+  ],
+  "kash": [
+    "Kalashtar"
+  ],
+  "arricockra": [
+    "Aarakocra"
+  ],
+  "Yuan Ti Pureblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "Half Elf Wood": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "kaldashar": [
+    "Kalashtar"
+  ],
+  "warforged envoy": [
+    "Warforged (Envoy)"
+  ],
+  "dis": [
+    "Tiefling (Dispater)"
+  ],
+  "aarakocra.": [
+    "Aarakocra"
+  ],
+  "vampire (ixalan)": [
+    "Vampire (Ixalan)"
+  ],
+  "tirfling": [
+    "Tiefling"
+  ],
+  "fe": [
+    "Genasi (Fire)"
+  ],
+  "ge": [
+    "Genasi (Air)"
+  ],
+  "fielding": [
+    "Tiefling"
+  ],
+  "<aarakocra>": [
+    "Aarakocra"
+  ],
+  "tiefling e": [
+    "Tiefling (Dispater)"
+  ],
+  "Warforged(Juggernaut)": [
+    "Warforged (Juggernaut)"
+  ],
+  "feat elf 2": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "feat 3": [
+    "Genasi (Air)"
+  ],
+  "revanat": [
+    "Revenant"
+  ],
+  "vedloken": [
+    "Vedalken"
+  ],
+  "yuan tu": [
+    "Yuan-ti Pureblood"
+  ],
+  "animal hybrid": [
+    "Simic Hybrid"
+  ],
+  "Loxdon": [
+    "Hobgoblin"
+  ],
+  "Variant h": [
+    "Human (Variant)"
+  ],
+  "feat halfling luck": [
+    "Halfling (Lightfoot)"
+  ],
+  "reven": [
+    "Revenant"
+  ],
+  "gnome (": [
+    "Gnome (Mark of Scribing)"
+  ],
+  "elf (mark": [
+    "Elf (Mark of Shadow)"
+  ],
+  "Aasimar protector": [
+    "Aasimar (Protector)"
+  ],
+  "elve 1": [
+    "Elf (Avariel)"
+  ],
+  "githz": [
+    "Gith (Githzerai)"
+  ],
+  "firbol": [
+    "Firbolg"
+  ],
+  "hobgoblin\\": [
+    "Hobgoblin"
+  ],
+  "kolbot": [
+    "Kobold"
+  ],
+  "simic hybrids": [
+    "Simic Hybrid"
+  ],
+  "Human variant": [
+    "Human (Variant)"
+  ],
+  "elf shadar": [
+    "Elf (Shadar-kai)"
+  ],
+  "feat healing hands": [
+    "Tiefling (Variant)"
+  ],
+  "dwarf(mountain)": [
+    "Dwarf (Mountain)"
+  ],
+  "tritons": [
+    "Triton"
+  ],
+  "Mephistopheles": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "Air genasi": [
+    "Genasi (Air)"
+  ],
+  "half or": [
+    "Half-Orc"
+  ],
+  "aarok": [
+    "Aarakocra"
+  ],
+  "half-": [
+    "Half-Orc"
+  ],
+  "gnome (forest)": [
+    "Gnome (Forest)"
+  ],
+  "aarocockra": [
+    "Aarakocra"
+  ],
+  "dragornborn": [
+    "Dragonborn"
+  ],
+  "warforged <@!273161541417959425>": [
+    "Warforged (Juggernaut)"
+  ],
+  "fallen asumar": [
+    "Elf (Valenar)"
+  ],
+  "asumar fallan": [
+    "Aasimar (Fallen)"
+  ],
+  "woof eld": [
+    "Elf (Wood)"
+  ],
+  "cell": [
+    "Elf (Avariel)"
+  ],
+  "ravancia": [
+    "Revenant"
+  ],
+  "ve": [
+    "Vedalken"
+  ],
+  "Half-El": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "sprit": [
+    "Shifter (Wildhunt)"
+  ],
+  "Baalzebul Tiefling": [
+    "Tiefling (Baalzebul)"
+  ],
+  "git": [
+    "Gith (Githzerai)"
+  ],
+  "Tritons": [
+    "Triton"
+  ],
+  "<goliath>": [
+    "Goliath"
+  ],
+  "simic hybrdi": [
+    "Simic Hybrid"
+  ],
+  "hobgoblin (variant)": [
+    "Hobgoblin (DMG)"
+  ],
+  "human al": [
+    "Human (Variant)"
+  ],
+  "dragonbourne": [
+    "Dragonborn"
+  ],
+  "wood eld": [
+    "Elf (Wood)"
+  ],
+  "Aetherborn": [
+    "Aetherborn"
+  ],
+  "Genasi (Fire)": [
+    "Genasi (Fire)"
+  ],
+  "born": [
+    "Dragonborn"
+  ],
+  "medusa": [
+    "Vedalken"
+  ],
+  "aasimar (pro": [
+    "Aasimar (Protector)"
+  ],
+  "yunt": [
+    "Grung"
+  ],
+  "chicken nugget": [
+    "Kenku (DMG)"
+  ],
+  "ka": [
+    "Kalashtar"
+  ],
+  "kao": [
+    "Kor"
+  ],
+  "fear": [
+    "Elf (Eladrin)"
+  ],
+  "Shadar kai": [
+    "Elf (Shadar-kai) (UAElfSubraces)"
+  ],
+  "kai": [
+    "Elf (Shadar-kai)"
+  ],
+  "barbarian": [
+    "Aetherborn"
+  ],
+  "khena": [
+    "Khenra"
+  ],
+  "air ganassi": [
+    "Dwarf (Mountain)"
+  ],
+  "ganasi": [
+    "Genasi (Fire)"
+  ],
+  "haling": [
+    "Human"
+  ],
+  "Dmg": [
+    "Bullywug (DMG)"
+  ],
+  "Loxodon-UA": [
+    "Loxodon"
+  ],
+  "Human (Keldon)": [
+    "Human (Keldon)"
+  ],
+  "Human (Amonkhet)": [
+    "Human (Amonkhet)"
+  ],
+  "Human (Ixalan)": [
+    "Human (Ixalan)"
+  ],
+  "Human (Mark of Finding)": [
+    "Human (Mark of Finding)"
+  ],
+  "Human (Mark of Handling)": [
+    "Human (Mark of Handling)"
+  ],
+  "Human (Mark of Making)": [
+    "Human (Mark of Making)"
+  ],
+  "Human (Mark of Passage)": [
+    "Human (Mark of Passage)"
+  ],
+  "Human (Mark of Sentinel)": [
+    "Human (Mark of Sentinel)"
+  ],
+  "woodlef": [
+    "Elf (Wood)"
+  ],
+  "yuan-Ti Pureblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "razorclaw shifter": [
+    "Shifter (Razorclaw) (UAEberron)"
+  ],
+  "half-Orcish": [
+    "Half-Orc"
+  ],
+  "construct": [
+    "Halfling (Stout)"
+  ],
+  "zarael": [
+    "Tiefling (Zariel)"
+  ],
+  "val": [
+    "Elf (Valenar)"
+  ],
+  "humna": [
+    "Human"
+  ],
+  "tiefling fierna": [
+    "Tiefling (Fierna)"
+  ],
+  "golliath": [
+    "Goliath"
+  ],
+  "human (v": [
+    "Human (Variant)"
+  ],
+  "feat orc": [
+    "Half-Orc"
+  ],
+  "help half-orc": [
+    "Half-Orc"
+  ],
+  "artficer": [
+    "Aetherborn"
+  ],
+  "rock genome": [
+    "Gnome (Rock)"
+  ],
+  "para-genasi": [
+    "Genasi (Water)"
+  ],
+  "wilden": [
+    "Siren"
+  ],
+  "human f": [
+    "Human (Amonkhet)"
+  ],
+  "ahadar": [
+    "Elf (Shadar-kai)"
+  ],
+  "levestus tief": [
+    "Tiefling (Levistus)"
+  ],
+  "revenants": [
+    "Revenant"
+  ],
+  "tritom": [
+    "Triton"
+  ],
+  "golioth": [
+    "Goliath"
+  ],
+  "bug bear": [
+    "Bugbear"
+  ],
+  "lizardborn": [
+    "Lizardfolk (DMG)"
+  ],
+  "torrt": [
+    "Tortle"
+  ],
+  "Ratfolk": [
+    "Merfolk (DMG)"
+  ],
+  "drakyn": [
+    "Aarakocra"
+  ],
+  "stone genasi": [
+    "Genasi (Earth)"
+  ],
+  "chicken": [
+    "Siren"
+  ],
+  "cow": [
+    "Kor"
+  ],
+  "tif": [
+    "Tiefling"
+  ],
+  "kh": [
+    "Khenra"
+  ],
+  "cantaur": [
+    "Centaur"
+  ],
+  "Genasi(water)": [
+    "Genasi (Water)"
+  ],
+  "Githerazi": [
+    "Gith (Githzerai)"
+  ],
+  "aarakokra": [
+    "Aarakocra"
+  ],
+  "vedalken\\": [
+    "Vedalken"
+  ],
+  "taxi": [
+    "Tabaxi"
+  ],
+  "Juggernaught": [
+    "Warforged (Juggernaut)"
+  ],
+  "mi": [
+    "Simic Hybrid"
+  ],
+  "half-o": [
+    "Half-Orc"
+  ],
+  "kahjit": [
+    "Khenra"
+  ],
+  "forge": [
+    "Warforged (UAEberron)"
+  ],
+  "aaroca": [
+    "Aarakocra"
+  ],
+  "stalker": [
+    "Khenra"
+  ],
+  "tortles": [
+    "Tortle"
+  ],
+  "ratfolk": [
+    "Lizardfolk"
+  ],
+  "Mammon": [
+    "Tiefling (Mammon)"
+  ],
+  "Forest Gnome": [
+    "Gnome (Forest)"
+  ],
+  "kalashter": [
+    "Elf (Kaladesh) (Vadahar)"
+  ],
+  "simic hyb": [
+    "Simic Hybrid"
+  ],
+  "zari": [
+    "Tiefling (Zariel)"
+  ],
+  "drove": [
+    "Elf (Drow)"
+  ],
+  "cenutaur": [
+    "Centaur"
+  ],
+  "leopox": [
+    "Loxodon"
+  ],
+  "loxopox": [
+    "Shifter (Longtooth)"
+  ],
+  "kenki": [
+    "Kenku"
+  ],
+  "warforrged": [
+    "Warforged (Skirmisher)"
+  ],
+  "keh": [
+    "Khenra"
+  ],
+  "shadar Kai": [
+    "Elf (Shadar-kai)"
+  ],
+  "vendalken": [
+    "Vedalken"
+  ],
+  "thr": [
+    "Khenra"
+  ],
+  "Yaun-Ti": [
+    "Yuan-ti Pureblood"
+  ],
+  "odonta": [
+    "Loxodon"
+  ],
+  "sun": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "HalfElf": [
+    "Half-Elf"
+  ],
+  "kefling": [
+    "Tiefling"
+  ],
+  "dark": [
+    "Elf (Shadar-kai)"
+  ],
+  "svi": [
+    "Gnome (Deep/Svirfneblin)"
+  ],
+  "tuefljng baalzebub": [
+    "Tiefling (Baalzebul)"
+  ],
+  "lf": [
+    "Elf (Drow)"
+  ],
+  "minter": [
+    "Minotaur"
+  ],
+  "dwrf": [
+    "Dwarf (Hill)"
+  ],
+  "sun elf": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "mark of handling": [
+    "Human (Mark of Handling)"
+  ],
+  "fiera": [
+    "Tiefling (Fierna)"
+  ],
+  "ganassi": [
+    "Genasi (Earth)"
+  ],
+  "skirmisher": [
+    "Warforged (Skirmisher)"
+  ],
+  "hobgobling": [
+    "Hobgoblin"
+  ],
+  "aarkaroka": [
+    "Aarakocra"
+  ],
+  "half ord": [
+    "Half-Orc"
+  ],
+  "rox": [
+    "Loxodon"
+  ],
+  "firblog": [
+    "Firbolg"
+  ],
+  "befallen": [
+    "Vedalken"
+  ],
+  "Tiefling avernus": [
+    "Tiefling (Levistus)"
+  ],
+  "Half Dwarf": [
+    "Dwarf (Duergar)"
+  ],
+  "\u03a9mega#0112": [
+    "Zombie (DMG)"
+  ],
+  "Kelly": [
+    "Kenku"
+  ],
+  "deurgar": [
+    "Dwarf (Duergar)"
+  ],
+  "elf3": [
+    "Elf (Sea)"
+  ],
+  "vampure": [
+    "Vampire (Ixalan)"
+  ],
+  "githy": [
+    "Gith (Githyanki)"
+  ],
+  "devil tounge": [
+    "Skeleton (DMG)"
+  ],
+  "deviltounge": [
+    "Tiefling"
+  ],
+  "obold": [
+    "Kobold (DMG)"
+  ],
+  "kou-toa": [
+    "Kuo-Toa (DMG)"
+  ],
+  "shifting": [
+    "Siren"
+  ],
+  "Human var": [
+    "Human (Variant)"
+  ],
+  "cyclops": [
+    "Vedalken (PSK)"
+  ],
+  "aasimra": [
+    "Aasimar (Scourge)"
+  ],
+  "vedelken": [
+    "Vedalken"
+  ],
+  "grung yellow": [
+    "Grung"
+  ],
+  "vamire": [
+    "Vampire (Zendikar)"
+  ],
+  "skill teifling": [
+    "Tiefling"
+  ],
+  "half-Orc": [
+    "Half-Orc"
+  ],
+  "liazrd": [
+    "Lizardfolk (DMG)"
+  ],
+  "lizaes": [
+    "Lizardfolk"
+  ],
+  "smic": [
+    "Simic Hybrid"
+  ],
+  "aarokoroca": [
+    "Aarakocra (DMG)"
+  ],
+  "aracroka": [
+    "Aarakocra"
+  ],
+  "levist": [
+    "Tiefling (Levistus)"
+  ],
+  "Aasimar (scourge)": [
+    "Aasimar (Scourge)"
+  ],
+  "Aasimar (protector)": [
+    "Aasimar (Protector)"
+  ],
+  "Aasimar Fallen": [
+    "Aasimar (Fallen)"
+  ],
+  "Veld": [
+    "Vedalken"
+  ],
+  "Lizardmen": [
+    "Lizardfolk"
+  ],
+  "kobl": [
+    "Kobold"
+  ],
+  "simi": [
+    "Simic Hybrid"
+  ],
+  "yu": [
+    "Yuan-ti Pureblood"
+  ],
+  "aquatic": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "glaysa": [
+    "Tiefling (Glasya)"
+  ],
+  "var": [
+    "Human (Variant)"
+  ],
+  "Glaysa": [
+    "Tiefling (Glasya)"
+  ],
+  "taba": [
+    "Tabaxi"
+  ],
+  "Fallen aas": [
+    "Aasimar (Fallen)"
+  ],
+  "gno": [
+    "Gnome (Forest)"
+  ],
+  "humabn": [
+    "Human (Variant)"
+  ],
+  "elf(wood)": [
+    "Elf (Wood)"
+  ],
+  "mark of the sentinel": [
+    "Human (Mark of Sentinel)"
+  ],
+  "leonin": [
+    "Loxodon"
+  ],
+  "Asstimar": [
+    "Aasimar (Fallen)"
+  ],
+  "Tiefling of levistus": [
+    "Tiefling (Levistus)"
+  ],
+  "jifyankie": [
+    "Genasi (Fire)"
+  ],
+  "gruga": [
+    "Elf (Grugach)"
+  ],
+  "envony warforged": [
+    "Warforged (Envoy)"
+  ],
+  "abyysal": [
+    "Tiefling (Abyssal)"
+  ],
+  "warding": [
+    "Dwarf (Mark of Warding)"
+  ],
+  "mark of dete": [
+    "Half-Elf (Mark of Detection)"
+  ],
+  "juggernauts": [
+    "Warforged (Juggernaut)"
+  ],
+  "dwarf hil": [
+    "Dwarf (Hill)"
+  ],
+  "Firbilg": [
+    "Firbolg"
+  ],
+  "asmodeus": [
+    "Tiefling (Asmodeus)"
+  ],
+  "Half-Drow elf": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "illithid": [
+    "Gith (Githyanki)"
+  ],
+  "kobald": [
+    "Kobold"
+  ],
+  "dracomalfy": [
+    "Dragonborn"
+  ],
+  "aesimar": [
+    "Aasimar (Fallen)"
+  ],
+  "furbold": [
+    "Firbolg"
+  ],
+  "yant": [
+    "Yuan-ti Pureblood"
+  ],
+  "eladri": [
+    "Elf (Eladrin)"
+  ],
+  "eft sea": [
+    "Elf (Sea)"
+  ],
+  "vampi": [
+    "Vampire (Zendikar)"
+  ],
+  "yeet": [
+    "Revenant"
+  ],
+  "yolo": [
+    "Tortle"
+  ],
+  "not": [
+    "Minotaur"
+  ],
+  "tiefling silver tongue": [
+    "Tiefling (Variant)"
+  ],
+  "Making": [
+    "Human (Mark of Making)"
+  ],
+  "Veldaran": [
+    "Vedalken"
+  ],
+  "claw": [
+    "Shifter (Razorclaw) (UAEberron)"
+  ],
+  "velkeden": [
+    "Vedalken"
+  ],
+  "ZOMBIE": [
+    "Zombie (DMG)"
+  ],
+  "Skeleton": [
+    "Skeleton (DMG)"
+  ],
+  "vendalk": [
+    "Vedalken"
+  ],
+  "dragonbor": [
+    "Dragonborn"
+  ],
+  "half elf (wood)": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "gnolls": [
+    "Gnoll (DMG)"
+  ],
+  "Baalzebul": [
+    "Tiefling (Baalzebul)"
+  ],
+  "house of orion": [
+    "Human (Mark of Making)"
+  ],
+  "house of orien": [
+    "Human (Variant)"
+  ],
+  "slimegirls": [
+    "Simic Hybrid"
+  ],
+  "mountain dwa": [
+    "Dwarf (Mountain)"
+  ],
+  "Khmer\u2019s": [
+    "Khenra"
+  ],
+  "dearg": [
+    "Naga"
+  ],
+  "greyling": [
+    "Goblin (DMG)"
+  ],
+  "juggarnaught warforged": [
+    "Warforged (Juggernaut)"
+  ],
+  "Human(variant)": [
+    "Human (Variant)"
+  ],
+  "FUCK EAH": [
+    "Elf (Grugach)"
+  ],
+  "HUman variant": [
+    "Human (Variant)"
+  ],
+  "Aasimer a": [
+    "Aasimar (DMG)"
+  ],
+  "Witch": [
+    "Genasi (Earth)"
+  ],
+  "aetherborne": [
+    "Aetherborn"
+  ],
+  "troglodite": [
+    "Troglodyte (DMG)"
+  ],
+  "Bugbear": [
+    "Bugbear"
+  ],
+  "Gansai": [
+    "Genasi (Air)"
+  ],
+  "elff": [
+    "Elf (Wood)"
+  ],
+  "Hobgob": [
+    "Hobgoblin"
+  ],
+  "joraga": [
+    "Elf (Zendikar) (Joraga Nation)"
+  ],
+  "vedel kalad": [
+    "Vedalken (PSK)"
+  ],
+  "variant hu": [
+    "Human (Variant)"
+  ],
+  "hobogre": [
+    "Hobgoblin"
+  ],
+  "simic hybrif": [
+    "Simic Hybrid"
+  ],
+  "aasimar (protector)": [
+    "Aasimar (Protector)"
+  ],
+  "kou-tou": [
+    "Kuo-Toa (DMG)"
+  ],
+  "dwaft": [
+    "Dwarf (Hill)"
+  ],
+  "add Half elf": [
+    "Half-Elf"
+  ],
+  "galf elf": [
+    "Half-Elf"
+  ],
+  "baal": [
+    "Tiefling (Baalzebul)"
+  ],
+  "aasimar c": [
+    "Aasimar (Scourge)"
+  ],
+  "tei": [
+    "Tiefling"
+  ],
+  "orc finding": [
+    "Half-Orc (Mark of Finding)"
+  ],
+  "Kalasthar": [
+    "Kalashtar"
+  ],
+  "half drove": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "scimic hybrid": [
+    "Simic Hybrid"
+  ],
+  "ghostwise halfling": [
+    "Halfling (Ghostwise)"
+  ],
+  "aassim": [
+    "Aasimar (DMG)"
+  ],
+  "jugger": [
+    "Warforged (Juggernaut)"
+  ],
+  "Variant human": [
+    "Human (Variant)"
+  ],
+  "firlog": [
+    "Firbolg"
+  ],
+  "elf (avariel)": [
+    "Elf (Avariel)"
+  ],
+  "elemental triton": [
+    "Triton"
+  ],
+  "velkern": [
+    "Elf (Aereni)"
+  ],
+  "veljarn": [
+    "Vedalken"
+  ],
+  "seismic hybrid": [
+    "Simic Hybrid"
+  ],
+  "ashura": [
+    "Khenra"
+  ],
+  "germans": [
+    "Grung"
+  ],
+  "simic mimic": [
+    "Simic Hybrid"
+  ],
+  "thieflin": [
+    "Tiefling"
+  ],
+  "Aasimar (Protector": [
+    "Aasimar (Protector)"
+  ],
+  "unicorn": [
+    "Siren"
+  ],
+  "ghost wise": [
+    "Halfling (Ghostwise)"
+  ],
+  "speak with small beasts": [
+    "Elf (Sea) (UAElfSubraces)"
+  ],
+  "aasimae": [
+    "Aasimar (Protector)"
+  ],
+  "simbic": [
+    "Simic Hybrid"
+  ],
+  "Hybrid": [
+    "Simic Hybrid"
+  ],
+  "ragon": [
+    "Dragonborn"
+  ],
+  "yaun-ti pureblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "Glasya": [
+    "Tiefling (Glasya)"
+  ],
+  "feat draconic": [
+    "Dragonborn"
+  ],
+  "tiel": [
+    "Tiefling (Glasya)"
+  ],
+  "shifter lion": [
+    "Shifter (Longtooth)"
+  ],
+  "hexblade": [
+    "Tiefling"
+  ],
+  "ac": [
+    "Elf (Grugach)"
+  ],
+  "acroaka": [
+    "Aarakocra"
+  ],
+  "gurg": [
+    "Grung"
+  ],
+  "deep gn": [
+    "Gnome (Deep/Svirfneblin)"
+  ],
+  "aak": [
+    "Aarakocra"
+  ],
+  "High": [
+    "Elf (High)"
+  ],
+  "Wood": [
+    "Elf (Wood)"
+  ],
+  "kalasg": [
+    "Kalashtar"
+  ],
+  "Gol": [
+    "Goliath"
+  ],
+  "aasimar  (scourge)": [
+    "Aasimar (Scourge)"
+  ],
+  "tiefling dispater": [
+    "Tiefling (Dispater)"
+  ],
+  "elf (eladrin)": [
+    "Elf (Eladrin)"
+  ],
+  "forest knome": [
+    "Gnome (Forest)"
+  ],
+  "Protector": [
+    "Aasimar (Protector)"
+  ],
+  "Scou": [
+    "Aasimar (Scourge)"
+  ],
+  "Tiefling variant int": [
+    "Tiefling (Variant)"
+  ],
+  "daan": [
+    "Naga"
+  ],
+  "vgm": [
+    "Aven"
+  ],
+  "draconic": [
+    "Dragonborn"
+  ],
+  "Aasima": [
+    "Aasimar (Scourge)"
+  ],
+  "Warding": [
+    "Dwarf (Mark of Warding)"
+  ],
+  "enviy": [
+    "Siren"
+  ],
+  "video": [
+    "Vedalken"
+  ],
+  "air genas": [
+    "Genasi (Air)"
+  ],
+  "revanent": [
+    "Revenant"
+  ],
+  "genie": [
+    "Aven"
+  ],
+  "vampire z": [
+    "Vampire (Zendikar)"
+  ],
+  "trogoldite": [
+    "Troglodyte (DMG)"
+  ],
+  "loxocon": [
+    "Loxodon"
+  ],
+  "tiefling (winged)": [
+    "Tiefling (Variant)"
+  ],
+  "aven (hawk)": [
+    "Aven (Hawk-Headed)"
+  ],
+  "dwarv": [
+    "Dragonborn"
+  ],
+  "draegloth": [
+    "Troglodyte (DMG)"
+  ],
+  "gearforged": [
+    "Genasi (Fire)"
+  ],
+  "human veriant": [
+    "Human (Variant)"
+  ],
+  "Elf(wood)": [
+    "Elf (Wood)"
+  ],
+  "sprite": [
+    "Siren"
+  ],
+  "sad": [
+    "Aasimar (DMG)"
+  ],
+  "aasimar size": [
+    "Aasimar (Scourge)"
+  ],
+  "high elg": [
+    "Elf (High)"
+  ],
+  "elf (mark of shadow)": [
+    "Elf (Mark of Shadow)"
+  ],
+  "Yuan-ti pureblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "elf a": [
+    "Elf (Avariel)"
+  ],
+  "aasmar": [
+    "Aasimar (Scourge)"
+  ],
+  "simic hybid": [
+    "Simic Hybrid"
+  ],
+  "warforged (skirmisher)": [
+    "Warforged (Skirmisher)"
+  ],
+  "Keldon": [
+    "Human (Keldon)"
+  ],
+  "Kessig": [
+    "Human (Innistrad) (Kessig)"
+  ],
+  "Stensia": [
+    "Human (Innistrad) (Stensia)"
+  ],
+  "deagonb": [
+    "Dragonborn"
+  ],
+  "veela": [
+    "Revenant"
+  ],
+  "lizar": [
+    "Lizardfolk"
+  ],
+  "wererat": [
+    "Dwarf (Duergar)"
+  ],
+  "half elf (drow descent)": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "dog": [
+    "Firbolg"
+  ],
+  "Shadder-Kai": [
+    "Elf (Shadar-kai)"
+  ],
+  "shadar-kei": [
+    "Elf (Shadar-kai)"
+  ],
+  "khenran": [
+    "Khenra"
+  ],
+  "worgen": [
+    "Siren"
+  ],
+  "swiftstride": [
+    "Shifter (Swiftstride)"
+  ],
+  "feat claws": [
+    "Genasi (Air)"
+  ],
+  "half elf.": [
+    "Half-Elf (Mark of Storm)"
+  ],
+  "Keldon human": [
+    "Human (Keldon)"
+  ],
+  "hlaf orc": [
+    "Half-Elf"
+  ],
+  "veld": [
+    "Vedalken"
+  ],
+  "troglodytes": [
+    "Troglodyte (DMG)"
+  ],
+  "bugb": [
+    "Bugbear"
+  ],
+  "veldakanen": [
+    "Vedalken"
+  ],
+  "half elf dro varianat": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "shada": [
+    "Elf (Shadar-kai)"
+  ],
+  "Kou-toa": [
+    "Kuo-Toa (DMG)"
+  ],
+  "feature aasimar": [
+    "Aasimar (Fallen)"
+  ],
+  "eleadrin": [
+    "Elf (Eladrin)"
+  ],
+  "symitic hybrid": [
+    "Simic Hybrid"
+  ],
+  "air genesis": [
+    "Genasi (Air)"
+  ],
+  "mark of hospitality": [
+    "Halfling (Mark of Hospitality)"
+  ],
+  "mark of warding": [
+    "Dwarf (Mark of Warding)"
+  ],
+  "yua": [
+    "Yuan-ti Pureblood"
+  ],
+  "aac": [
+    "Aarakocra"
+  ],
+  "half high elf": [
+    "Half-Elf"
+  ],
+  "half-elf (high elf descent)": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "asimar fallen": [
+    "Aasimar (Fallen)"
+  ],
+  "Luxodon": [
+    "Loxodon"
+  ],
+  "aasimar (leg": [
+    "Aasimar (DMG)"
+  ],
+  "tiefling \uf02d    Baalzrbul": [
+    "Tiefling (Baalzebul)"
+  ],
+  "tiefling Dispater": [
+    "Tiefling (Dispater)"
+  ],
+  "tielfing \uf02d    Fierna": [
+    "Tiefling (Fierna)"
+  ],
+  "tiefling glasya": [
+    "Tiefling (Glasya)"
+  ],
+  "tiefling mammo n": [
+    "Tiefling (Mammon)"
+  ],
+  "tiefling Mephistopheles": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "tielfing zariel": [
+    "Tiefling (Zariel)"
+  ],
+  "aven anko": [
+    "Aven (Hawk-Headed)"
+  ],
+  "goblin plane shift": [
+    "Goblin (Ixalan)"
+  ],
+  "goblin plane shft": [
+    "Goblin (GGR)"
+  ],
+  "feat aasimar": [
+    "Aasimar (DMG)"
+  ],
+  "tiefling mestoph": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "warforged jugger": [
+    "Warforged (Juggernaut)"
+  ],
+  "levi": [
+    "Tiefling (Levistus)"
+  ],
+  "violet ken": [
+    "Vedalken"
+  ],
+  "Desert tortle": [
+    "Tortle"
+  ],
+  "aarkocra": [
+    "Aarakocra"
+  ],
+  "drop": [
+    "Elf (Drow)"
+  ],
+  "tiefling (SCAG)": [
+    "Tiefling (Abyssal)"
+  ],
+  "simic Hybrid": [
+    "Simic Hybrid"
+  ],
+  "shifter wildhunt": [
+    "Shifter (Wildhunt)"
+  ],
+  "ferbolg": [
+    "Firbolg"
+  ],
+  "wood elves": [
+    "Elf (Wood)"
+  ],
+  "mintaur kyrnn": [
+    "Minotaur (Krynn)"
+  ],
+  "revenent": [
+    "Revenant"
+  ],
+  "valenar": [
+    "Elf (Valenar)"
+  ],
+  "elf avraile": [
+    "Elf (Avariel)"
+  ],
+  "Dragonborn.": [
+    "Dragonborn"
+  ],
+  "gnome (rock)": [
+    "Gnome (Rock)"
+  ],
+  "yaun ti": [
+    "Yuan-ti Pureblood"
+  ],
+  "aaconkora": [
+    "Aarakocra"
+  ],
+  "gnome (deep)": [
+    "Gnome (Deep)"
+  ],
+  "elvees": [
+    "Elf (Avariel)"
+  ],
+  "dragonb": [
+    "Dragonborn"
+  ],
+  "fur": [
+    "Firbolg"
+  ],
+  "fest teifling": [
+    "Tiefling"
+  ],
+  "torlte": [
+    "Tortle"
+  ],
+  "Abyssal": [
+    "Tiefling (Abyssal)"
+  ],
+  "vairant human": [
+    "Human (Variant)"
+  ],
+  "Aracokra": [
+    "Aarakocra"
+  ],
+  "Befarus": [
+    "Centaur"
+  ],
+  "kaladhtar": [
+    "Kalashtar"
+  ],
+  "tiefling Variant": [
+    "Tiefling (Variant)"
+  ],
+  "aasiamr fallen": [
+    "Aasimar (Fallen)"
+  ],
+  "yuan-ti variant": [
+    "Yuan-ti Pureblood"
+  ],
+  "simic hybrid variant": [
+    "Genasi (Earth)"
+  ],
+  "shifter variant": [
+    "Shifter (Wildhunt)"
+  ],
+  "githyank": [
+    "Gith (Githyanki)"
+  ],
+  "gobline": [
+    "Goblin"
+  ],
+  "tief variant": [
+    "Tiefling"
+  ],
+  "stout halfing": [
+    "Halfling (Stout)"
+  ],
+  "aeth": [
+    "Aetherborn"
+  ],
+  "assignation": [
+    "Genasi (Air)"
+  ],
+  "lycantropes": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "Tiefling var": [
+    "Tiefling (Fierna)"
+  ],
+  "flayer": [
+    "Aven"
+  ],
+  "variant Tiefling": [
+    "Tiefling"
+  ],
+  "Yaun to": [
+    "Yuan-ti Pureblood"
+  ],
+  "reventant": [
+    "Revenant"
+  ],
+  "air genasi]": [
+    "Genasi (Air)"
+  ],
+  "arackocka": [
+    "Aarakocra"
+  ],
+  "lock": [
+    "Grimlock (DMG)"
+  ],
+  "saug": [
+    "Naga"
+  ],
+  "wraith": [
+    "Revenant"
+  ],
+  "silver elf": [
+    "Elf (Avariel)"
+  ],
+  "levis": [
+    "Tiefling (Levistus)"
+  ],
+  "Fibolg": [
+    "Firbolg"
+  ],
+  "half Orc": [
+    "Half-Orc"
+  ],
+  "tieflings": [
+    "Tiefling"
+  ],
+  "hospital": [
+    "Halfling (Mark of Hospitality)"
+  ],
+  "assimer": [
+    "Aasimar (Protector)"
+  ],
+  "tiefling ferrel": [
+    "Tiefling"
+  ],
+  "tielfing vari": [
+    "Tiefling (Levistus)"
+  ],
+  "half elves": [
+    "Half-Elf"
+  ],
+  "Tiefling (xgte)": [
+    "Tiefling"
+  ],
+  "asamair": [
+    "Aasimar (DMG)"
+  ],
+  "halfling-ghostwise": [
+    "Halfling (Ghostwise)"
+  ],
+  "tiefling hellfire": [
+    "Tiefling (Fierna)"
+  ],
+  "dwarf plane shift": [
+    "Dwarf (Kaladesh)"
+  ],
+  "glay": [
+    "Tiefling (Glasya)"
+  ],
+  "cum dumpster": [
+    "Human (Mark of Passage)"
+  ],
+  "vairant tiefling": [
+    "Tiefling (Fierna)"
+  ],
+  "guardian": [
+    "Human (Ixalan)"
+  ],
+  "aasimar guardian": [
+    "Aasimar (DMG)"
+  ],
+  "aasimar guard": [
+    "Aasimar (Protector)"
+  ],
+  "Devil's Tongue Tiefling": [
+    "Tiefling"
+  ],
+  "simis hybrid": [
+    "Simic Hybrid"
+  ],
+  "goblik": [
+    "Goblin"
+  ],
+  "grunt": [
+    "Grung"
+  ],
+  "half elf storm": [
+    "Half-Elf (Mark of Storm)"
+  ],
+  "Halfiing": [
+    "Half-Elf"
+  ],
+  "aarokocra": [
+    "Aarakocra"
+  ],
+  "Kalashtat": [
+    "Kalashtar"
+  ],
+  "warforged juggernaunt": [
+    "Warforged (Juggernaut)"
+  ],
+  "AVEN": [
+    "Aven"
+  ],
+  "arikokara": [
+    "Aarakocra"
+  ],
+  "halfli": [
+    "Halfling (Ghostwise)"
+  ],
+  "dragonborm": [
+    "Dragonborn"
+  ],
+  "kaladesh": [
+    "Dwarf (Kaladesh)"
+  ],
+  "grug": [
+    "Elf (Grugach)"
+  ],
+  "shifte": [
+    "Shifter (Longstride) (UAEberron)"
+  ],
+  "baz": [
+    "Tiefling (Baalzebul)"
+  ],
+  "lwvistus": [
+    "Tiefling (Levistus)"
+  ],
+  "firbpo": [
+    "Firbolg"
+  ],
+  "halflingg": [
+    "Halfling (Ghostwise)"
+  ],
+  "bat": [
+    "Kalashtar"
+  ],
+  "joruga": [
+    "Elf (Grugach)"
+  ],
+  "deagonborn": [
+    "Dragonborn"
+  ],
+  "tiefling feral)": [
+    "Tiefling (Variant)"
+  ],
+  "elastin": [
+    "Elf (Eladrin)"
+  ],
+  "p[rot": [
+    "Aasimar (Protector)"
+  ],
+  "wood-elf": [
+    "Elf (Wood)"
+  ],
+  "was": [
+    "Aven"
+  ],
+  "Aeither born": [
+    "Aetherborn"
+  ],
+  "Kalani": [
+    "Kalashtar"
+  ],
+  "liat": [
+    "Goliath"
+  ],
+  "tebaxi": [
+    "Tabaxi"
+  ],
+  "gnome mountain": [
+    "Gnome (Rock)"
+  ],
+  "bolg": [
+    "Firbolg"
+  ],
+  "feat mask of the wild": [
+    "Half-Elf (Mark of Detection)"
+  ],
+  "veraitn tiefling": [
+    "Tiefling (Glasya)"
+  ],
+  "tiefling lavernus": [
+    "Tiefling (Levistus)"
+  ],
+  "aasmiar": [
+    "Aasimar (DMG)"
+  ],
+  "half-wood": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "rog": [
+    "Goblin (Zendikar) (Grogtag Tribe)"
+  ],
+  "subrace drow": [
+    "Elf (Drow)"
+  ],
+  "Duerger": [
+    "Dwarf (Duergar)"
+  ],
+  "chitine": [
+    "Changeling"
+  ],
+  "fall assimar": [
+    "Aasimar (Fallen)"
+  ],
+  "avian": [
+    "Aven"
+  ],
+  "fier": [
+    "Tiefling (Fierna)"
+  ],
+  "beach dwarf": [
+    "Genasi (Water)"
+  ],
+  "dwarf (duergar)": [
+    "Dwarf (Duergar)"
+  ],
+  "teifling.": [
+    "Tiefling"
+  ],
+  "dwarf kaladesh": [
+    "Dwarf (Kaladesh)"
+  ],
+  "wild hunt": [
+    "Shifter (Wildhunt)"
+  ],
+  "sirens": [
+    "Siren"
+  ],
+  "halfling (mark of healing)": [
+    "Halfling (Mark of Healing)"
+  ],
+  "Warforged Tactician": [
+    "Warforged (UAEberron)"
+  ],
+  "orv": [
+    "Orc"
+  ],
+  "Half-Elf (Drow Descent)": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "feat powerful build": [
+    "Tiefling (Baalzebul)"
+  ],
+  "warforged (juggernaut)": [
+    "Warforged (Juggernaut)"
+  ],
+  "lozardfolk": [
+    "Lizardfolk"
+  ],
+  "jugganuaght": [
+    "Warforged (Juggernaut)"
+  ],
+  "grong": [
+    "Grung"
+  ],
+  "voidborn": [
+    "Aetherborn"
+  ],
+  "sv": [
+    "Gnome (Deep/Svirfneblin)"
+  ],
+  "dure": [
+    "Dwarf (Duergar)"
+  ],
+  "gensai fire": [
+    "Genasi (Fire)"
+  ],
+  "earth gen": [
+    "Genasi (Earth)"
+  ],
+  "Asaimar": [
+    "Aasimar (DMG)"
+  ],
+  "halfork": [
+    "Half-Orc"
+  ],
+  "bug bears": [
+    "Bugbear"
+  ],
+  "changelings other": [
+    "Changeling"
+  ],
+  "tiefling aa": [
+    "Tiefling (Variant)"
+  ],
+  "vampire (ix": [
+    "Vampire (Ixalan)"
+  ],
+  "<High Elf>": [
+    "Elf (High)"
+  ],
+  "forest-gnome": [
+    "Gnome (Forest)"
+  ],
+  "miniotaur": [
+    "Minotaur"
+  ],
+  "lexidon": [
+    "Loxodon"
+  ],
+  "Dothraki": [
+    "Gith (Githyanki)"
+  ],
+  "yuan ti pure": [
+    "Yuan-ti Pureblood"
+  ],
+  "trito": [
+    "Triton"
+  ],
+  "aerini": [
+    "Elf (Aereni)"
+  ],
+  "Protector aasimar": [
+    "Aasimar (Protector)"
+  ],
+  "moon": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "tortal": [
+    "Tortle"
+  ],
+  "kendu": [
+    "Kenku"
+  ],
+  "gold dragonborn": [
+    "Dragonborn"
+  ],
+  "kalish": [
+    "Kalashtar"
+  ],
+  "Drow Elf": [
+    "Elf (Drow)"
+  ],
+  "Mark of Hospitality": [
+    "Halfling (Mark of Hospitality)"
+  ],
+  "Aasimar Protector": [
+    "Aasimar (Protector)"
+  ],
+  "despa": [
+    "Tiefling (Dispater)"
+  ],
+  "elf valenar": [
+    "Elf (Valenar)"
+  ],
+  "wing": [
+    "Tiefling"
+  ],
+  "Elf (sea)": [
+    "Elf (Sea)"
+  ],
+  "set gnome": [
+    "Gnome (Forest)"
+  ],
+  "mantor": [
+    "Minotaur"
+  ],
+  "gboe": [
+    "Gnome (Rock)"
+  ],
+  "eof": [
+    "Elf (Sea)"
+  ],
+  "orc elf": [
+    "Tortle"
+  ],
+  "aarakora": [
+    "Aarakocra"
+  ],
+  "revannt": [
+    "Revenant"
+  ],
+  "loxadon": [
+    "Loxodon"
+  ],
+  "whatever": [
+    "Elf (Valenar)"
+  ],
+  "loxodons": [
+    "Loxodon"
+  ],
+  "vampire (z": [
+    "Vampire (Zendikar)"
+  ],
+  "tiefling asmo": [
+    "Tiefling (Asmodeus)"
+  ],
+  "Skirmisher": [
+    "Warforged (Skirmisher)"
+  ],
+  "Aaracockra": [
+    "Aarakocra"
+  ],
+  "beelzebub": [
+    "Tiefling (Baalzebul)"
+  ],
+  "aasimmar": [
+    "Aasimar (Scourge)"
+  ],
+  "healing": [
+    "Halfling (Mark of Healing)"
+  ],
+  "stout half": [
+    "Halfling (Stout)"
+  ],
+  "(lavastep": [
+    "Goblin (Zendikar) (Lavastep Tribe)"
+  ],
+  "mephistoph": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "feat relentless endurance": [
+    "Elf (Sea) (UAElfSubraces)"
+  ],
+  "feat half-orc": [
+    "Half-Orc"
+  ],
+  "human mark of": [
+    "Human (Mark of Handling)"
+  ],
+  "Variant hum": [
+    "Human (Variant)"
+  ],
+  "halg": [
+    "Half-Elf"
+  ],
+  "mephi": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "eldrian": [
+    "Elf (Eladrin)"
+  ],
+  "half Elf": [
+    "Half-Elf"
+  ],
+  "elf orc": [
+    "Orc"
+  ],
+  "eart": [
+    "Genasi (Earth)"
+  ],
+  "ill": [
+    "Dwarf (Hill)"
+  ],
+  "illuskan": [
+    "Human"
+  ],
+  "/": [
+    "Gnome (Deep/Svirfneblin)"
+  ],
+  "f tiefling": [
+    "Tiefling (Zariel)"
+  ],
+  "half crow": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "aracorcra": [
+    "Aarakocra"
+  ],
+  "luxodom": [
+    "Loxodon"
+  ],
+  "modron": [
+    "Loxodon"
+  ],
+  "ke": [
+    "Human (Innistrad) (Kessig)"
+  ],
+  "plant": [
+    "Aven"
+  ],
+  "torle": [
+    "Tortle"
+  ],
+  "golaith": [
+    "Goliath"
+  ],
+  "half-elf wood elf": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "gobbo": [
+    "Goblin"
+  ],
+  "Fire Genasi": [
+    "Genasi (Fire)"
+  ],
+  "mark of the shadow elf": [
+    "Elf (Mark of Shadow)"
+  ],
+  "firenewt": [
+    "Siren"
+  ],
+  "Sirine": [
+    "Triton"
+  ],
+  "githerazi": [
+    "Gith (Githzerai)"
+  ],
+  "pure elf": [
+    "Yuan-ti Pureblood"
+  ],
+  "gorgon": [
+    "Grung"
+  ],
+  "aqu": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "Protector Aasimar": [
+    "Aasimar (Protector)"
+  ],
+  "velkadin": [
+    "Vedalken"
+  ],
+  "mark of hosp": [
+    "Halfling (Mark of Hospitality)"
+  ],
+  "mark of animal": [
+    "Human (Mark of Handling)"
+  ],
+  "kenra": [
+    "Khenra"
+  ],
+  "Aasimar fallen": [
+    "Aasimar (Fallen)"
+  ],
+  "aasimar (Protector)": [
+    "Aasimar (Protector)"
+  ],
+  "Galang \u201cThe Wander\u201d Kaluluwa": [
+    "Elf (Shadar-kai) (UAElfSubraces)"
+  ],
+  "tiefling gla": [
+    "Tiefling (Glasya)"
+  ],
+  "tiefling fri": [
+    "Tiefling (Fierna)"
+  ],
+  "tiefling meph": [
+    "Tiefling (Asmodeus)"
+  ],
+  "tiefling mehphi": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "Cambrion": [
+    "Aetherborn"
+  ],
+  "velkaden": [
+    "Vedalken"
+  ],
+  "lizarfolk": [
+    "Lizardfolk"
+  ],
+  "Tiefling (levistus)": [
+    "Tiefling (Levistus)"
+  ],
+  "Half-orc": [
+    "Half-Orc"
+  ],
+  "go to general": [
+    "Gnome (Deep)"
+  ],
+  "mini": [
+    "Minotaur"
+  ],
+  "gnome Deep": [
+    "Gnome (Deep)"
+  ],
+  "Half Drow": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "duragar": [
+    "Dwarf (Duergar)"
+  ],
+  "war-forged": [
+    "Warforged (Envoy)"
+  ],
+  "Velkran": [
+    "Vedalken"
+  ],
+  "illythid": [
+    "Bullywug (DMG)"
+  ],
+  "earth gensai": [
+    "Genasi (Air)"
+  ],
+  "have elf": [
+    "Half-Elf"
+  ],
+  "dead": [
+    "Bugbear"
+  ],
+  "midget": [
+    "Siren"
+  ],
+  "aro": [
+    "Aarakocra"
+  ],
+  "potato": [
+    "Aetherborn"
+  ],
+  "Yuanti Pureblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "el": [
+    "Elf (Mark of Shadow)"
+  ],
+  "wherewolf": [
+    "Half-Elf"
+  ],
+  "yuan-ti pure blood": [
+    "Yuan-ti Pureblood"
+  ],
+  "cervitaur": [
+    "Centaur"
+  ],
+  "feat halfing nimbleness": [
+    "Halfling (Ghostwise)"
+  ],
+  "Duragar": [
+    "Dwarf (Duergar)"
+  ],
+  "half-elf wood": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "dueragar": [
+    "Dwarf (Duergar)"
+  ],
+  "Aara": [
+    "Aarakocra"
+  ],
+  "aaradirh": [
+    "Aarakocra"
+  ],
+  "swiftshape": [
+    "Shifter (Swiftstride)"
+  ],
+  "half-goblin": [
+    "Hobgoblin"
+  ],
+  "fest": [
+    "Tiefling (Levistus)"
+  ],
+  "Hill": [
+    "Dwarf (Hill)"
+  ],
+  "Feral Tiefling": [
+    "Tiefling"
+  ],
+  "zariek": [
+    "Tiefling (Zariel)"
+  ],
+  "kenky": [
+    "Kenku"
+  ],
+  "high ef": [
+    "Elf (High)"
+  ],
+  "githzerau": [
+    "Gith (Githzerai)"
+  ],
+  "draginbreath": [
+    "Dragonborn"
+  ],
+  "trogdolyte": [
+    "Tortle"
+  ],
+  "troglodyte (dmg)": [
+    "Troglodyte (DMG)"
+  ],
+  "arrakokara": [
+    "Aarakocra"
+  ],
+  "Stout halfling": [
+    "Halfling (Stout)"
+  ],
+  "Halfling Ghost": [
+    "Halfling (Ghostwise)"
+  ],
+  "cave goblin": [
+    "Goblin"
+  ],
+  "human (varient)": [
+    "Human (Variant)"
+  ],
+  "yuanti pureblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "Orcs": [
+    "Orc"
+  ],
+  "minitor": [
+    "Minotaur"
+  ],
+  "asmir": [
+    "Aasimar (DMG)"
+  ],
+  "Aasimar sc": [
+    "Aasimar (Scourge)"
+  ],
+  "davi": [
+    "Elf (Avariel)"
+  ],
+  "lisar": [
+    "Lizardfolk"
+  ],
+  "jug": [
+    "Warforged (Juggernaut)"
+  ],
+  "hald-elf (mark": [
+    "Half-Elf (Mark of Detection)"
+  ],
+  "skeledon": [
+    "Skeleton (DMG)"
+  ],
+  "vedalken 1": [
+    "Vedalken"
+  ],
+  "grunge": [
+    "Grung"
+  ],
+  "Fey'ri": [
+    "Elf (Aereni)"
+  ],
+  "fey'ri": [
+    "Elf (Drow)"
+  ],
+  "hlafling": [
+    "Halfling (Stout)"
+  ],
+  "forbolg": [
+    "Firbolg"
+  ],
+  "Kahistar": [
+    "Kalashtar"
+  ],
+  "feat unsettlin": [
+    "Changeling"
+  ],
+  "sea elves": [
+    "Elf (Sea) (UAElfSubraces)"
+  ],
+  "hopgoblin": [
+    "Hobgoblin"
+  ],
+  "araakokra": [
+    "Aarakocra"
+  ],
+  "owo": [
+    "Hobgoblin"
+  ],
+  "[centaur]": [
+    "Centaur"
+  ],
+  "Lightfoot": [
+    "Halfling (Lightfoot)"
+  ],
+  "aaracroc": [
+    "Aarakocra"
+  ],
+  "bullywog": [
+    "Bullywug (DMG)"
+  ],
+  "hrung": [
+    "Grung"
+  ],
+  "aarakoka": [
+    "Aarakocra"
+  ],
+  "eladrian": [
+    "Elf (Eladrin)"
+  ],
+  "hafling lightfoot": [
+    "Halfling (Lightfoot)"
+  ],
+  "human ixalan": [
+    "Human (Ixalan)"
+  ],
+  "aracockra": [
+    "Aarakocra"
+  ],
+  "<tiefling>": [
+    "Tiefling"
+  ],
+  "air gen": [
+    "Siren"
+  ],
+  "elf (woo": [
+    "Elf (Wood)"
+  ],
+  "dur": [
+    "Dwarf (Duergar)"
+  ],
+  "aaraockra": [
+    "Aarakocra"
+  ],
+  "half-sea elf": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "air Genasi": [
+    "Genasi (Air)"
+  ],
+  "dragonmarked": [
+    "Dragonborn"
+  ],
+  "arraco": [
+    "Aarakocra"
+  ],
+  "meme": [
+    "Gnome (Deep)"
+  ],
+  "cyka": [
+    "Khenra"
+  ],
+  "ee": [
+    "Revenant"
+  ],
+  "yee": [
+    "Aetherborn"
+  ],
+  "ga": [
+    "Elf (Grugach)"
+  ],
+  "fay dragonborn": [
+    "Dragonborn"
+  ],
+  "bear man": [
+    "Human"
+  ],
+  "quori": [
+    "Kor"
+  ],
+  "zarie": [
+    "Tiefling (Zariel)"
+  ],
+  "duerg": [
+    "Dwarf (Duergar)"
+  ],
+  "zariwl": [
+    "Tiefling (Zariel)"
+  ],
+  "monkey": [
+    "Human (Amonkhet)"
+  ],
+  "bugebar": [
+    "Bugbear"
+  ],
+  "Elf (Wood)": [
+    "Elf (Wood)"
+  ],
+  "gruach": [
+    "Elf (Grugach)"
+  ],
+  "mark of find": [
+    "Human (Mark of Finding)"
+  ],
+  "kehnra": [
+    "Khenra"
+  ],
+  "bullywig": [
+    "Bullywug (DMG)"
+  ],
+  "genasi Fire": [
+    "Genasi (Fire)"
+  ],
+  "smic hybrid": [
+    "Simic Hybrid"
+  ],
+  "asaamir": [
+    "Siren"
+  ],
+  "assamir": [
+    "Kalashtar"
+  ],
+  "ragonborn": [
+    "Dragonborn"
+  ],
+  "Slime": [
+    "Siren"
+  ],
+  "nigger": [
+    "Naga"
+  ],
+  "mephis": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "baalze": [
+    "Tiefling (Baalzebul)"
+  ],
+  "dispa": [
+    "Tiefling (Dispater)"
+  ],
+  "variant half-elf": [
+    "Half-Elf"
+  ],
+  "masto": [
+    "Aetherborn"
+  ],
+  "minatour": [
+    "Minotaur"
+  ],
+  "Eladrins": [
+    "Elf (Eladrin)"
+  ],
+  "lizaedfolk": [
+    "Lizardfolk"
+  ],
+  "dragonborn silver": [
+    "Dragonborn"
+  ],
+  "feta half orc": [
+    "Half-Orc"
+  ],
+  "fallen aasmir": [
+    "Genasi (Air)"
+  ],
+  "vamoire": [
+    "Vampire (Ixalan)"
+  ],
+  "lycanthrope": [
+    "Kalashtar"
+  ],
+  "wereboar": [
+    "Khenra"
+  ],
+  "Siri": [
+    "Simic Hybrid"
+  ],
+  "Vampire (Zendikar)": [
+    "Vampire (Zendikar)"
+  ],
+  "glasya tiefling": [
+    "Tiefling (Glasya)"
+  ],
+  "Variant Huamn": [
+    "Human (Variant)"
+  ],
+  "tiefling z": [
+    "Tiefling (Zariel)"
+  ],
+  "rock gnomes": [
+    "Gnome (Rock)"
+  ],
+  "dragonbrn": [
+    "Dragonborn"
+  ],
+  "fearbolg": [
+    "Firbolg"
+  ],
+  "jugg": [
+    "Warforged (Juggernaut)"
+  ],
+  "mamon tiefling": [
+    "Tiefling (Mammon)"
+  ],
+  "dark tiefling": [
+    "Tiefling (Fierna)"
+  ],
+  "glysa tiefling": [
+    "Tiefling (Glasya)"
+  ],
+  "aaracokroa": [
+    "Aarakocra"
+  ],
+  "elf (gru": [
+    "Elf (Grugach)"
+  ],
+  "elf (high": [
+    "Elf (High)"
+  ],
+  "elf (wood": [
+    "Elf (Wood)"
+  ],
+  "Fierna": [
+    "Tiefling (Fierna)"
+  ],
+  "serpent": [
+    "Siren"
+  ],
+  "assimar 2": [
+    "Aasimar (Fallen)"
+  ],
+  "Yuan-ty": [
+    "Yuan-ti Pureblood"
+  ],
+  "murlock": [
+    "Grimlock (DMG)"
+  ],
+  "grybg": [
+    "Grung"
+  ],
+  "jalf-elf": [
+    "Half-Elf"
+  ],
+  "elf (sea)": [
+    "Elf (Sea)"
+  ],
+  "feat half-elf": [
+    "Half-Elf"
+  ],
+  "elf eladrin": [
+    "Elf (Eladrin)"
+  ],
+  "Tiefling phb": [
+    "Tiefling"
+  ],
+  "Hill Dwarf": [
+    "Dwarf (Hill)"
+  ],
+  "shifter (Longtooth)": [
+    "Shifter (Longtooth)"
+  ],
+  "elf (eld": [
+    "Elf (Eladrin)"
+  ],
+  "aiden": [
+    "Siren"
+  ],
+  "aasimar protection": [
+    "Aasimar (Protector)"
+  ],
+  "warforged (Envoy)": [
+    "Warforged (Envoy)"
+  ],
+  "dwarf(hill)": [
+    "Dwarf (Hill)"
+  ],
+  "halfling lightfoot": [
+    "Halfling (Lightfoot)"
+  ],
+  "Eladrin\\": [
+    "Elf (Eladrin)"
+  ],
+  "halfliing": [
+    "Halfling (Lightfoot)"
+  ],
+  "trton": [
+    "Triton"
+  ],
+  "sexy snek bitches": [
+    "Shifter (Beasthide)"
+  ],
+  "halflings": [
+    "Halfling (Stout)"
+  ],
+  "fet": [
+    "Revenant"
+  ],
+  "Ghostwise": [
+    "Halfling (Ghostwise)"
+  ],
+  "liazrdfolk": [
+    "Lizardfolk"
+  ],
+  "feral tieflings": [
+    "Tiefling (Asmodeus)"
+  ],
+  "Yuanti": [
+    "Yuan-ti Pureblood"
+  ],
+  "deur": [
+    "Dwarf (Duergar)"
+  ],
+  "Svirfneblin": [
+    "Gnome (Deep/Svirfneblin)"
+  ],
+  "halelf": [
+    "Half-Elf"
+  ],
+  "Moon Elf": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "duegar": [
+    "Dwarf (Duergar)"
+  ],
+  "<turtle>": [
+    "Tortle"
+  ],
+  "feat vigilant guardian": [
+    "Human (Variant)"
+  ],
+  "kenkou": [
+    "Kenku"
+  ],
+  "dark kenku": [
+    "Kenku (DMG)"
+  ],
+  "elf \ud83d\udd06": [
+    "Elf (High)"
+  ],
+  "eladrins": [
+    "Elf (Eladrin)"
+  ],
+  "aarak": [
+    "Aarakocra"
+  ],
+  "wdwarf": [
+    "Dwarf (Hill)"
+  ],
+  "birb": [
+    "Firbolg"
+  ],
+  "Sentinel": [
+    "Human (Mark of Sentinel)"
+  ],
+  "changeling 1": [
+    "Changeling"
+  ],
+  "lIzard": [
+    "Lizardfolk"
+  ],
+  "tibaxi": [
+    "Tabaxi"
+  ],
+  "blowjob": [
+    "Loxodon"
+  ],
+  "black": [
+    "Elf (Grugach)"
+  ],
+  "kir": [
+    "Warforged (Skirmisher)"
+  ],
+  "iki": [
+    "Kor"
+  ],
+  "rev": [
+    "Revenant"
+  ],
+  "old": [
+    "Tortle"
+  ],
+  "Fire Genesai": [
+    "Genasi (Air)"
+  ],
+  "light": [
+    "Halfling (Lightfoot)"
+  ],
+  "mephistopheles": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "half elf aqua": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "mountaon": [
+    "Dwarf (Mountain)"
+  ],
+  "mountain dw": [
+    "Dwarf (Mountain)"
+  ],
+  "human vam": [
+    "Human"
+  ],
+  "svirfneblin": [
+    "Gnome (Deep/Svirfneblin)"
+  ],
+  "elf dark": [
+    "Elf (Drow)"
+  ],
+  "Mark of Finding": [
+    "Half-Orc (Mark of Finding)"
+  ],
+  "sunlight": [
+    "Elf (High)"
+  ],
+  "Red Dragonborn": [
+    "Dragonborn"
+  ],
+  "eledrin": [
+    "Elf (Eladrin)"
+  ],
+  "juan tea": [
+    "Yuan-ti Pureblood"
+  ],
+  "demi god": [
+    "Simic Hybrid"
+  ],
+  "ua": [
+    "Naga"
+  ],
+  "human Variant": [
+    "Human (Variant)"
+  ],
+  "forg": [
+    "Warforged (Envoy)"
+  ],
+  "weeb": [
+    "Elf (Sea)"
+  ],
+  "Rock Gnome": [
+    "Gnome (Rock)"
+  ],
+  "goliath1": [
+    "Goliath"
+  ],
+  "lIzardfolk": [
+    "Lizardfolk"
+  ],
+  "envpy": [
+    "Warforged (Envoy)"
+  ],
+  "Halfling Healing": [
+    "Halfling (Mark of Healing)"
+  ],
+  "aarakroka": [
+    "Aarakocra"
+  ],
+  "chageling": [
+    "Changeling"
+  ],
+  "changeling shifter": [
+    "Changeling (UAEberron)"
+  ],
+  "shifter beasthide": [
+    "Shifter (Beasthide) (UAEberron)"
+  ],
+  "aasimar (fallen)": [
+    "Aasimar (Fallen)"
+  ],
+  "hitler": [
+    "Khenra"
+  ],
+  "Devil": [
+    "Firbolg"
+  ],
+  "mintaur": [
+    "Minotaur (Krynn)"
+  ],
+  "Githzerai": [
+    "Gith (Githzerai)"
+  ],
+  "half lf": [
+    "Half-Elf"
+  ],
+  "Tiefling Stygia": [
+    "Tiefling (Variant)"
+  ],
+  "miter": [
+    "Minotaur"
+  ],
+  "elf (shadow)": [
+    "Elf (Shadar-kai)"
+  ],
+  "dwarf makr": [
+    "Dwarf (Mark of Warding)"
+  ],
+  "aakroka": [
+    "Aarakocra"
+  ],
+  "water Genasi": [
+    "Dwarf (Mountain)"
+  ],
+  "half helf": [
+    "Half-Elf"
+  ],
+  "gost wise": [
+    "Halfling (Ghostwise)"
+  ],
+  "xox": [
+    "Loxodon"
+  ],
+  "Trit": [
+    "Triton"
+  ],
+  "Yaun-To": [
+    "Yuan-ti Pureblood"
+  ],
+  "deu": [
+    "Tiefling (Asmodeus)"
+  ],
+  "half of": [
+    "Half-Orc"
+  ],
+  "hellborn": [
+    "Aetherborn"
+  ],
+  "elve": [
+    "Revenant"
+  ],
+  "cube": [
+    "Bugbear"
+  ],
+  "human: variant": [
+    "Human (Variant)"
+  ],
+  "wings": [
+    "Grung"
+  ],
+  "bird person": [
+    "Shifter (Wildhunt) (UAEberron)"
+  ],
+  "hob goblin": [
+    "Hobgoblin"
+  ],
+  "aarakokora": [
+    "Aarakocra"
+  ],
+  "aaracok": [
+    "Aarakocra"
+  ],
+  "yanki": [
+    "Gith (Githyanki)"
+  ],
+  "zerai": [
+    "Gith (Githzerai)"
+  ],
+  "yuan-ti pureblod": [
+    "Yuan-ti Pureblood"
+  ],
+  "hslf-elf": [
+    "Half-Elf"
+  ],
+  "Mammon Tiefling": [
+    "Tiefling (Mammon)"
+  ],
+  "tiefling (mephestopheles)": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "aasimazr": [
+    "Aasimar (Protector)"
+  ],
+  "simk hibe": [
+    "Simic Hybrid"
+  ],
+  "half-elf (sea elf ancestry)": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "shiftstride": [
+    "Shifter (Swiftstride)"
+  ],
+  "dick": [
+    "Grimlock (DMG)"
+  ],
+  "aaraco": [
+    "Aarakocra"
+  ],
+  "<dragonborn>": [
+    "Dragonborn"
+  ],
+  "warfirged": [
+    "Warforged (UAEberron)"
+  ],
+  "simic scientist": [
+    "Simic Hybrid"
+  ],
+  "kinder": [
+    "Tiefling (Dispater)"
+  ],
+  "tem": [
+    "Troglodyte (DMG)"
+  ],
+  "race": [
+    "Aven"
+  ],
+  "Kalashtaur": [
+    "Kalashtar"
+  ],
+  "aasamir fallen": [
+    "Aasimar (Fallen)"
+  ],
+  "irc": [
+    "Orc"
+  ],
+  "xvart": [
+    "Human (Variant)"
+  ],
+  "beast": [
+    "Shifter (Beasthide) (UAEberron)"
+  ],
+  "werewolfs": [
+    "Elf (Avariel)"
+  ],
+  "lycanthrpu": [
+    "Centaur"
+  ],
+  "humann": [
+    "Human (Variant)"
+  ],
+  "elemental": [
+    "Elf (Sea)"
+  ],
+  "abcdefghijklmopqurstuvwxyz": [
+    "Tiefling (Asmodeus)"
+  ],
+  "hybird": [
+    "Simic Hybrid"
+  ],
+  "Varient Human": [
+    "Human (Variant)"
+  ],
+  "elf: drow": [
+    "Elf (Drow)"
+  ],
+  "Aasimar (Fallen)": [
+    "Aasimar (Fallen)"
+  ],
+  "tiefling devil": [
+    "Tiefling (Variant)"
+  ],
+  "half elf (sea)": [
+    "Half-Elf (Mark of Storm)"
+  ],
+  "Turtle": [
+    "Tortle"
+  ],
+  "Half-Elf (Descent)": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "Shadow": [
+    "Elf (Mark of Shadow)"
+  ],
+  "scorch": [
+    "Aasimar (Scourge)"
+  ],
+  "Elf wood": [
+    "Elf (Wood)"
+  ],
+  "goblinoid": [
+    "Goblin (DMG)"
+  ],
+  "goblinoid 1": [
+    "Goblin"
+  ],
+  "giving": [
+    "Goblin"
+  ],
+  "firbolog": [
+    "Firbolg"
+  ],
+  "bully wig": [
+    "Bullywug (DMG)"
+  ],
+  "ghostwise halfling\\": [
+    "Halfling (Ghostwise)"
+  ],
+  "tielfling": [
+    "Tiefling"
+  ],
+  "wpod": [
+    "Elf (Wood)"
+  ],
+  "Gnome (Mark of Scribing)": [
+    "Gnome (Mark of Scribing)"
+  ],
+  "elf marked": [
+    "Elf (Mark of Shadow)"
+  ],
+  "half wlf": [
+    "Half-Elf"
+  ],
+  "hum var": [
+    "Human (Variant)"
+  ],
+  "Aasimer": [
+    "Aasimar (DMG)"
+  ],
+  "genasii": [
+    "Genasi (Water)"
+  ],
+  "tiefl(": [
+    "Tiefling (Fierna)"
+  ],
+  "fae": [
+    "Elf (Valenar)"
+  ],
+  "feat goblin": [
+    "Goblin"
+  ],
+  "Feywild": [
+    "Elf (Eladrin)"
+  ],
+  "halfelf drow": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "mountian": [
+    "Dwarf (Mountain)"
+  ],
+  "merfok": [
+    "Merfolk (Ixalan) (Blue)"
+  ],
+  "feat radiant consumption": [
+    "Elf (Zendikar) (Tajuru Nation)"
+  ],
+  "halfling\\": [
+    "Halfling (Stout)"
+  ],
+  "Dwarf(mountain)": [
+    "Dwarf (Mountain)"
+  ],
+  "goblinggr": [
+    "Goblin (GGR)"
+  ],
+  "merfolk zendikar": [
+    "Merfolk (Zendikar) (Ula Creed)"
+  ],
+  "vedlak": [
+    "Vedalken"
+  ],
+  "drow eld": [
+    "Elf (Drow)"
+  ],
+  "bugear": [
+    "Bugbear"
+  ],
+  "ggg": [
+    "Gnoll (DMG)"
+  ],
+  "BugBear": [
+    "Bugbear"
+  ],
+  "PS": [
+    "Vedalken (PSK)"
+  ],
+  "lizardfolk (blackscale)": [
+    "Dwarf (Kaladesh)"
+  ],
+  "merfolk (ixalan)(blue)": [
+    "Merfolk (Ixalan) (Blue)"
+  ],
+  "lizardfolk (Ixalan)": [
+    "Lizardfolk (DMG)"
+  ],
+  "gnome woofd": [
+    "Gnome (Forest)"
+  ],
+  "lockdown": [
+    "Loxodon"
+  ],
+  "gith 3": [
+    "Gith (Githzerai)"
+  ],
+  "veldeken": [
+    "Vedalken"
+  ],
+  "Earth Genasi": [
+    "Genasi (Earth)"
+  ],
+  "verldak": [
+    "Vedalken"
+  ],
+  "light foot": [
+    "Halfling (Lightfoot)"
+  ],
+  "shadows": [
+    "Elf (Mark of Shadow)"
+  ],
+  "asimir": [
+    "Aasimar (DMG)"
+  ],
+  "fire ganesi": [
+    "Gith (Githyanki)"
+  ],
+  "wug": [
+    "Bullywug (DMG)"
+  ],
+  "averial": [
+    "Elf (Avariel)"
+  ],
+  "yaun-ti": [
+    "Yuan-ti Pureblood"
+  ],
+  "eldain": [
+    "Elf (Eladrin)"
+  ],
+  "merfolf": [
+    "Merfolk (Ixalan) (Blue)"
+  ],
+  "Or": [
+    "Orc"
+  ],
+  "Ogre": [
+    "Grung"
+  ],
+  "Troll": [
+    "Firbolg"
+  ],
+  "Treant": [
+    "Centaur"
+  ],
+  "Giant": [
+    "Minotaur"
+  ],
+  "Kashathar": [
+    "Kalashtar"
+  ],
+  "hiigh": [
+    "Elf (High)"
+  ],
+  "tieffling": [
+    "Tiefling"
+  ],
+  "shifter, razorclaw": [
+    "Shifter (Razorclaw) (UAEberron)"
+  ],
+  "dwarf moutain": [
+    "Dwarf (Mountain)"
+  ],
+  "lizerdfolk": [
+    "Lizardfolk"
+  ],
+  "deep scion": [
+    "Siren"
+  ],
+  "couatl": [
+    "Yuan-ti Pureblood"
+  ],
+  "arakokra": [
+    "Aarakocra"
+  ],
+  "Geneasi": [
+    "Genasi (Earth)"
+  ],
+  "levitus teifling": [
+    "Tiefling (Fierna)"
+  ],
+  "vampire (zend": [
+    "Vampire (Zendikar)"
+  ],
+  "human(Mark of sentinel)": [
+    "Human (Mark of Sentinel)"
+  ],
+  "vampir": [
+    "Vampire (Ixalan)"
+  ],
+  "ok": [
+    "Kor"
+  ],
+  "yay": [
+    "Naga"
+  ],
+  "teifling dis": [
+    "Tiefling (Dispater)"
+  ],
+  "tiefling i": [
+    "Tiefling (Fierna)"
+  ],
+  "tielfling t": [
+    "Tiefling (Levistus)"
+  ],
+  "half-elf (drow descendent)": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "hobboglin": [
+    "Hobgoblin"
+  ],
+  "mark of passage human": [
+    "Human (Mark of Passage)"
+  ],
+  "tree": [
+    "Revenant"
+  ],
+  "Vasharans": [
+    "Aasimar (Fallen)"
+  ],
+  "tritol": [
+    "Triton"
+  ],
+  "M": [
+    "Aasimar (DMG)"
+  ],
+  "Aasim": [
+    "Aasimar (Protector)"
+  ],
+  "Ela": [
+    "Elf (Eladrin)"
+  ],
+  "Kobald": [
+    "Kobold"
+  ],
+  "goblin (ixalan)": [
+    "Goblin (Ixalan)"
+  ],
+  "aasimar 2": [
+    "Aasimar (Fallen)"
+  ],
+  "aasimar 3": [
+    "Aasimar (Scourge)"
+  ],
+  "human (mark of passage)": [
+    "Human (Mark of Passage)"
+  ],
+  "Arakokra": [
+    "Aarakocra"
+  ],
+  "Dispater": [
+    "Tiefling (Dispater)"
+  ],
+  "Kobolds": [
+    "Kobold"
+  ],
+  "Passage": [
+    "Human (Mark of Passage)"
+  ],
+  "baalzebul": [
+    "Tiefling (Baalzebul)"
+  ],
+  "Forbiden one": [
+    "Warforged (Envoy)"
+  ],
+  "winged  tiefling": [
+    "Tiefling"
+  ],
+  "firbokg": [
+    "Firbolg"
+  ],
+  "tiefling (hellfire variant)": [
+    "Tiefling (Variant)"
+  ],
+  "Genasi Air": [
+    "Genasi (Air)"
+  ],
+  "aarokoca": [
+    "Aarakocra"
+  ],
+  "longstrider": [
+    "Shifter (Longstride) (UAEberron)"
+  ],
+  "atrial": [
+    "Orc (Ixalan)"
+  ],
+  "Yuan-ti Pureblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "tofu": [
+    "Tortle"
+  ],
+  "meatboy": [
+    "Revenant"
+  ],
+  "animal hybrids": [
+    "Simic Hybrid"
+  ],
+  "assimar protector": [
+    "Aasimar (Protector)"
+  ],
+  "githya": [
+    "Gith (Githyanki)"
+  ],
+  "Juggernaut": [
+    "Warforged (Juggernaut)"
+  ],
+  "faun": [
+    "Grung"
+  ],
+  "golias": [
+    "Goliath"
+  ],
+  "mino (psa)": [
+    "Minotaur (Amonkhet)"
+  ],
+  "mino (psk)": [
+    "Minotaur (Krynn)"
+  ],
+  "Half-Elf (Drow)": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "sire": [
+    "Siren"
+  ],
+  "merfolk (green)": [
+    "Merfolk (Ixalan) (Green)"
+  ],
+  "elf (k)": [
+    "Elf (Aereni)"
+  ],
+  "elf (winged)": [
+    "Elf (Avariel)"
+  ],
+  "vadahar": [
+    "Elf (Kaladesh) (Vadahar)"
+  ],
+  "bugbeat": [
+    "Bugbear"
+  ],
+  "goblin (ravnica)": [
+    "Goblin (GGR)"
+  ],
+  "golitah": [
+    "Goliath"
+  ],
+  "half-Elf": [
+    "Half-Elf"
+  ],
+  "long tooth": [
+    "Shifter (Longtooth)"
+  ],
+  "spiked tief": [
+    "Tiefling"
+  ],
+  "tiefling wings": [
+    "Tiefling (Variant)"
+  ],
+  "tiefling vari": [
+    "Tiefling (Variant)"
+  ],
+  "ko": [
+    "Kor"
+  ],
+  "air he ask": [
+    "Genasi (Air)"
+  ],
+  "mark of scribing": [
+    "Gnome (Mark of Scribing)"
+  ],
+  "human mark of making": [
+    "Human (Mark of Making)"
+  ],
+  "kat": [
+    "Kalashtar"
+  ],
+  "abisle": [
+    "Aven"
+  ],
+  "yaunti": [
+    "Yuan-ti Pureblood"
+  ],
+  "Kobo": [
+    "Kobold"
+  ],
+  "Protector Assimar": [
+    "Aasimar (Protector)"
+  ],
+  "mark of storm": [
+    "Half-Elf (Mark of Storm)"
+  ],
+  "Highelf": [
+    "Half-Elf"
+  ],
+  "healing hands": [
+    "Halfling (Stout)"
+  ],
+  "subclass": [
+    "Elf (Sea) (UAElfSubraces)"
+  ],
+  "Anismar Scourge": [
+    "Aasimar (Scourge)"
+  ],
+  "elf eldarin": [
+    "Elf (Eladrin) (DMG)"
+  ],
+  "gobilin": [
+    "Goblin"
+  ],
+  "bugbears": [
+    "Bugbear"
+  ],
+  "tiefling (levi": [
+    "Tiefling (Levistus)"
+  ],
+  "GOblin": [
+    "Goblin"
+  ],
+  "due": [
+    "Dwarf (Duergar)"
+  ],
+  "cenaur": [
+    "Centaur"
+  ],
+  "Angle": [
+    "Half-Elf"
+  ],
+  "teefling": [
+    "Tiefling"
+  ],
+  "Yaun-Ti Pureblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "cars": [
+    "Centaur"
+  ],
+  "tefling hellfire": [
+    "Tiefling (Fierna)"
+  ],
+  "liza": [
+    "Lizardfolk"
+  ],
+  "Alu-fiend": [
+    "Tiefling (Fierna)"
+  ],
+  "genasi (Earth)": [
+    "Genasi (Earth)"
+  ],
+  "green": [
+    "Merfolk (Ixalan) (Green)"
+  ],
+  "green dragon": [
+    "Dragonborn"
+  ],
+  "winged elf": [
+    "Halfling (Lightfoot)"
+  ],
+  "high elf\\": [
+    "Elf (High)"
+  ],
+  "human (variant0": [
+    "Human (Variant)"
+  ],
+  "feat drow magic": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "catgirl": [
+    "Yuan-ti Pureblood"
+  ],
+  "human\\\\": [
+    "Human (Variant)"
+  ],
+  "Tiefling Averiel": [
+    "Tiefling (Zariel)"
+  ],
+  "Dwarf: Mountain": [
+    "Dwarf (Mountain)"
+  ],
+  "yuan-to": [
+    "Yuan-ti Pureblood"
+  ],
+  "tinker": [
+    "Triton"
+  ],
+  "gmome": [
+    "Gnome (Rock)"
+  ],
+  "Spirit": [
+    "Shifter (Wildhunt)"
+  ],
+  "feat rock gnome": [
+    "Gnome (Rock)"
+  ],
+  "feat hidden step": [
+    "Tiefling (Dispater)"
+  ],
+  "feat firbolg": [
+    "Firbolg"
+  ],
+  "Eladrin 1": [
+    "Elf (Eladrin)"
+  ],
+  "eladrin mtf": [
+    "Elf (Eladrin)"
+  ],
+  "dwafr": [
+    "Dwarf (Mountain)"
+  ],
+  "Variant Tielfing": [
+    "Tiefling"
+  ],
+  "Tieflings variant": [
+    "Tiefling (Variant)"
+  ],
+  "droki": [
+    "Elf (Shadar-kai)"
+  ],
+  "half-Goliath": [
+    "Goliath"
+  ],
+  "go": [
+    "Goblin"
+  ],
+  "Aasimar (fallen)": [
+    "Aasimar (Fallen)"
+  ],
+  "storn": [
+    "Siren"
+  ],
+  "feat dragonborn": [
+    "Dragonborn"
+  ],
+  "tierfling": [
+    "Tiefling"
+  ],
+  "araokra": [
+    "Aarakocra"
+  ],
+  "dwarf duergar": [
+    "Dwarf (Duergar)"
+  ],
+  "blue": [
+    "Merfolk (Ixalan) (Blue)"
+  ],
+  "blue dragon": [
+    "Dragonborn"
+  ],
+  "dragon blue": [
+    "Dragonborn"
+  ],
+  "hobhoblin": [
+    "Hobgoblin"
+  ],
+  "hobogobo": [
+    "Hobgoblin"
+  ],
+  "<lizardfolk>": [
+    "Lizardfolk"
+  ],
+  "changgling": [
+    "Changeling"
+  ],
+  "orge": [
+    "Kor"
+  ],
+  "mintur": [
+    "Minotaur"
+  ],
+  "half goblin": [
+    "Goblin"
+  ],
+  "shiger 3": [
+    "Shifter (Beasthide)"
+  ],
+  "shifter 3 4": [
+    "Shifter (Longtooth)"
+  ],
+  "Shifter 1": [
+    "Shifter (Wildhunt)"
+  ],
+  "elf eladrin ToF": [
+    "Elf (Eladrin)"
+  ],
+  "elf eladrin dmg": [
+    "Elf (Eladrin) (DMG)"
+  ],
+  "gets": [
+    "Goliath"
+  ],
+  "mephisto": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "Elad": [
+    "Elf (Eladrin)"
+  ],
+  "command": [
+    "Aven"
+  ],
+  "telepathy": [
+    "Tiefling (Dispater)"
+  ],
+  "aquatic half elf": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "aassimar": [
+    "Aasimar (Fallen)"
+  ],
+  "halfling (lightfoot)": [
+    "Halfling (Lightfoot)"
+  ],
+  "kobok": [
+    "Kobold"
+  ],
+  "selkie": [
+    "Siren"
+  ],
+  "halflinf": [
+    "Halfling (Stout)"
+  ],
+  "aasimar(fallen)": [
+    "Aasimar (Fallen)"
+  ],
+  "svif": [
+    "Gnome (Deep/Svirfneblin)"
+  ],
+  "elf (Sea)": [
+    "Elf (Sea)"
+  ],
+  "tiefling (levistus)": [
+    "Tiefling (Levistus)"
+  ],
+  "luxidon": [
+    "Loxodon"
+  ],
+  "xhange": [
+    "Changeling"
+  ],
+  "elder dragonborn": [
+    "Dragonborn"
+  ],
+  "bard": [
+    "Bugbear"
+  ],
+  "quuer": [
+    "Khenra"
+  ],
+  "mountain giant": [
+    "Dwarf (Mountain)"
+  ],
+  "goliarh": [
+    "Goliath"
+  ],
+  "whatever-a-mivom-is": [
+    "Dwarf (Mountain)"
+  ],
+  "vampire ixilan": [
+    "Vampire (Ixalan)"
+  ],
+  "vaiant": [
+    "Human (Variant)"
+  ],
+  "furbulg": [
+    "Firbolg"
+  ],
+  "ward": [
+    "Dwarf (Mark of Warding)"
+  ],
+  "elf shadow": [
+    "Elf (Mark of Shadow)"
+  ],
+  "HobGob": [
+    "Hobgoblin"
+  ],
+  "elf w": [
+    "Elf (Wood)"
+  ],
+  "mammon tiefling": [
+    "Tiefling (Mammon)"
+  ],
+  "loxofon": [
+    "Loxodon"
+  ],
+  "earth-Gaint": [
+    "Gith (Githyanki)"
+  ],
+  "option": [
+    "Loxodon"
+  ],
+  "da": [
+    "Naga"
+  ],
+  "gor": [
+    "Goblin"
+  ],
+  "far": [
+    "Bugbear"
+  ],
+  "fo": [
+    "Gnome (Forest)"
+  ],
+  "va": [
+    "Vampire (Ixalan)"
+  ],
+  "herb": [
+    "Aetherborn"
+  ],
+  "shar ki": [
+    "Elf (Shadar-kai)"
+  ],
+  "Liz": [
+    "Lizardfolk"
+  ],
+  "dwarf(": [
+    "Dwarf (Mountain)"
+  ],
+  "Elf half": [
+    "Half-Elf"
+  ],
+  "minit": [
+    "Minotaur"
+  ],
+  "bed": [
+    "Vedalken"
+  ],
+  "Yauti": [
+    "Yuan-ti Pureblood"
+  ],
+  "glaya tiefling": [
+    "Tiefling (Glasya)"
+  ],
+  "aaracock": [
+    "Aarakocra"
+  ],
+  "pass": [
+    "Human (Mark of Passage)"
+  ],
+  "weretiger": [
+    "Shifter (Beasthide)"
+  ],
+  "teifling abysall": [
+    "Tiefling (Abyssal)"
+  ],
+  "minotaru": [
+    "Minotaur"
+  ],
+  "lizardfolj": [
+    "Lizardfolk"
+  ],
+  "tiefling azmodias": [
+    "Tiefling (Dispater)"
+  ],
+  "Veldalken": [
+    "Vedalken"
+  ],
+  "hobgol": [
+    "Hobgoblin"
+  ],
+  "deuregar": [
+    "Dwarf (Duergar)"
+  ],
+  "wwarforge": [
+    "Warforged (Envoy)"
+  ],
+  "aasiimiar": [
+    "Aasimar (DMG)"
+  ],
+  "aasimaiar": [
+    "Aasimar (Scourge)"
+  ],
+  "gensai air": [
+    "Genasi (Air)"
+  ],
+  "scribing": [
+    "Gnome (Mark of Scribing)"
+  ],
+  "scourge aasimir": [
+    "Aasimar (Scourge)"
+  ],
+  "fallen aasimat": [
+    "Genasi (Earth)"
+  ],
+  "ather": [
+    "Aetherborn"
+  ],
+  "ghostw": [
+    "Halfling (Ghostwise)"
+  ],
+  "shifter razorclaw": [
+    "Shifter (Razorclaw) (UAEberron)"
+  ],
+  "Aereni High Elf": [
+    "Elf (Aereni)"
+  ],
+  "mark of hospi": [
+    "Halfling (Mark of Hospitality)"
+  ],
+  "aereni high elf": [
+    "Elf (Aereni)"
+  ],
+  "duergat": [
+    "Dwarf (Duergar)"
+  ],
+  "mark of Handling": [
+    "Human (Mark of Handling)"
+  ],
+  "Fulbrand": [
+    "Elf (Eladrin) (DMG)"
+  ],
+  "alvareil": [
+    "Elf (Avariel)"
+  ],
+  "aarokockra": [
+    "Aarakocra"
+  ],
+  "grugarch": [
+    "Elf (Grugach)"
+  ],
+  "dwarf mark": [
+    "Dwarf (Mark of Warding)"
+  ],
+  "mountain dorf": [
+    "Dwarf (Mountain)"
+  ],
+  "Aaracrokra": [
+    "Aarakocra"
+  ],
+  "minataur": [
+    "Minotaur"
+  ],
+  "strong": [
+    "Triton"
+  ],
+  "kill": [
+    "Firbolg"
+  ],
+  "dopple ganger": [
+    "Warforged (Juggernaut)"
+  ],
+  "bearfolk": [
+    "Vedalken"
+  ],
+  "shifter (swifthide)": [
+    "Shifter (Swiftstride)"
+  ],
+  "tiefling levi": [
+    "Tiefling (Levistus)"
+  ],
+  "reveannts": [
+    "Revenant"
+  ],
+  "sonic hybrids": [
+    "Simic Hybrid"
+  ],
+  "feat Firbolg": [
+    "Firbolg"
+  ],
+  "hal-orc": [
+    "Half-Orc"
+  ],
+  "lizardflk": [
+    "Lizardfolk"
+  ],
+  "mouatian": [
+    "Dwarf (Mountain)"
+  ],
+  "Orc (ix": [
+    "Orc (Ixalan)"
+  ],
+  "woof half elf": [
+    "Half-Elf (Mark of Storm)"
+  ],
+  "db": [
+    "Dragonborn"
+  ],
+  "warforged e": [
+    "Warforged (Envoy)"
+  ],
+  "horc": [
+    "Half-Orc"
+  ],
+  "AASIMAR": [
+    "Aasimar (Fallen)"
+  ],
+  "abyssa;": [
+    "Tiefling (Abyssal)"
+  ],
+  "sun-elf": [
+    "Half-Elf"
+  ],
+  "shaderkai": [
+    "Elf (Shadar-kai)"
+  ],
+  "araacockra": [
+    "Aarakocra"
+  ],
+  "aarocokra": [
+    "Aarakocra"
+  ],
+  "dwarf, hill": [
+    "Dwarf (Hill)"
+  ],
+  "emeria": [
+    "Merfolk (Zendikar) (Emeria Creed)"
+  ],
+  "Hengeyokai": [
+    "Naga"
+  ],
+  "duragare": [
+    "Dwarf (Duergar)"
+  ],
+  "phb": [
+    "Simic Hybrid"
+  ],
+  "Teif": [
+    "Tiefling (Fierna)"
+  ],
+  "Tieflin": [
+    "Tiefling (Levistus)"
+  ],
+  "Genasi (air)": [
+    "Genasi (Air)"
+  ],
+  "minitoar": [
+    "Minotaur"
+  ],
+  "d-born": [
+    "Dragonborn"
+  ],
+  "gobblin": [
+    "Goblin"
+  ],
+  "kuo": [
+    "Kuo-Toa (DMG)"
+  ],
+  "ske": [
+    "Skeleton (DMG)"
+  ],
+  "zomb": [
+    "Zombie (DMG)"
+  ],
+  "bronze dragonborn": [
+    "Dragonborn"
+  ],
+  "yan": [
+    "Gith (Githyanki)"
+  ],
+  "eladrin dmg": [
+    "Elf (Eladrin) (DMG)"
+  ],
+  "s Hadar": [
+    "Kalashtar"
+  ],
+  "shar": [
+    "Elf (Shadar-kai)"
+  ],
+  "Vampire Ixalan": [
+    "Vampire (Ixalan)"
+  ],
+  "tieflign": [
+    "Tiefling"
+  ],
+  "assimir": [
+    "Aasimar (DMG)"
+  ],
+  "Genasi Water": [
+    "Genasi (Water)"
+  ],
+  "human keissag": [
+    "Human (Innistrad) (Kessig)"
+  ],
+  "atherborn": [
+    "Aetherborn"
+  ],
+  "axi": [
+    "Tabaxi"
+  ],
+  "Chimeranii": [
+    "Human (Ixalan)"
+  ],
+  "half wood elf": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "half-elf (high)": [
+    "Half-Elf"
+  ],
+  "half-elf moon elf descent": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "half giant": [
+    "Half-Orc"
+  ],
+  "Elf (Sea(": [
+    "Elf (Sea)"
+  ],
+  "got zeraora": [
+    "Gith (Githzerai)"
+  ],
+  "longt": [
+    "Shifter (Longtooth)"
+  ],
+  "firefolg": [
+    "Firbolg"
+  ],
+  "mark of Protection": [
+    "Human (Mark of Sentinel)"
+  ],
+  "way of the shadow elf": [
+    "Elf (Mark of Shadow)"
+  ],
+  "mark of shadow elf": [
+    "Elf (Mark of Shadow)"
+  ],
+  "Tiefling (Feral)": [
+    "Tiefling (Variant)"
+  ],
+  "tabaxi ?": [
+    "Tabaxi"
+  ],
+  "tieg": [
+    "Tiefling (Glasya)"
+  ],
+  "aakocra": [
+    "Aarakocra"
+  ],
+  "firborg": [
+    "Firbolg"
+  ],
+  "elf Avariel": [
+    "Elf (Avariel)"
+  ],
+  "Gnome (Forest)": [
+    "Gnome (Forest)"
+  ],
+  "under": [
+    "Grung"
+  ],
+  "Hill dwarf": [
+    "Dwarf (Hill)"
+  ],
+  "elf aerenal": [
+    "Elf (Avariel)"
+  ],
+  "Genasi (Water)": [
+    "Genasi (Water)"
+  ],
+  "keldon": [
+    "Human (Keldon)"
+  ],
+  "Halfling stout": [
+    "Halfling (Stout)"
+  ],
+  "gnoll\\": [
+    "Gnoll (DMG)"
+  ],
+  "half-elf (mark of storm)": [
+    "Half-Elf (Mark of Storm)"
+  ],
+  "liazardfolk": [
+    "Lizardfolk"
+  ],
+  "ixlan": [
+    "Orc (Ixalan)"
+  ],
+  "Orc ix": [
+    "Orc (Ixalan)"
+  ],
+  "grizzly bear": [
+    "Bugbear"
+  ],
+  "elephantine": [
+    "Changeling"
+  ],
+  "ahlf elf": [
+    "Half-Elf"
+  ],
+  "Elf (Sea)": [
+    "Elf (Sea)"
+  ],
+  "snake": [
+    "Naga"
+  ],
+  "drake": [
+    "Aarakocra"
+  ],
+  "goblib": [
+    "Goblin"
+  ],
+  "Stout Halfling": [
+    "Halfling (Stout)"
+  ],
+  "as": [
+    "Aasimar (Protector)"
+  ],
+  "dopple": [
+    "Tortle"
+  ],
+  "were rat": [
+    "Revenant"
+  ],
+  "hum,": [
+    "Human (Variant)"
+  ],
+  "Tonkinese tabaxi": [
+    "Tabaxi"
+  ],
+  "azer": [
+    "Elf (Aereni)"
+  ],
+  "dreamfolk": [
+    "Vedalken"
+  ],
+  "waeforged": [
+    "Warforged (Juggernaut)"
+  ],
+  "halffling": [
+    "Halfling (Stout)"
+  ],
+  "spring eladrin": [
+    "Elf (Eladrin)"
+  ],
+  "teifling varient": [
+    "Tiefling (Variant)"
+  ],
+  "aansmir": [
+    "Aasimar (Fallen)"
+  ],
+  "varient hu": [
+    "Human (Variant)"
+  ],
+  "Centair": [
+    "Centaur"
+  ],
+  "arac": [
+    "Aarakocra"
+  ],
+  "Gen": [
+    "Genasi (Fire)"
+  ],
+  "Dragonborm": [
+    "Dragonborn"
+  ],
+  "rand": [
+    "Grung"
+  ],
+  "disparate": [
+    "Tiefling (Dispater)"
+  ],
+  "healin": [
+    "Halfling (Mark of Healing)"
+  ],
+  "Valenar high elf": [
+    "Elf (Valenar)"
+  ],
+  "abys": [
+    "Tiefling (Abyssal)"
+  ],
+  "dragonbo": [
+    "Dragonborn"
+  ],
+  "vio": [
+    "Triton"
+  ],
+  "fox": [
+    "Firbolg"
+  ],
+  "ahs": [
+    "Aetherborn"
+  ],
+  "wildfang": [
+    "Tiefling"
+  ],
+  "tiefling dis": [
+    "Tiefling (Dispater)"
+  ],
+  "Hag": [
+    "Khenra"
+  ],
+  "tortke": [
+    "Tortle"
+  ],
+  "hhuman": [
+    "Human"
+  ],
+  "aadimar": [
+    "Aasimar (Fallen)"
+  ],
+  "aarakorcra": [
+    "Aarakocra"
+  ],
+  "papaya": [
+    "Tabaxi"
+  ],
+  "luxo": [
+    "Loxodon"
+  ],
+  "feat lucky": [
+    "Elf (Sea) (UAElfSubraces)"
+  ],
+  "totrtle": [
+    "Tortle"
+  ],
+  "simic hybri": [
+    "Simic Hybrid"
+  ],
+  "class": [
+    "Tiefling (Abyssal)"
+  ],
+  "valdalken": [
+    "Vedalken"
+  ],
+  "slimic": [
+    "Simic Hybrid"
+  ],
+  "skdjfh": [
+    "Skeleton (DMG)"
+  ],
+  "shifter beast": [
+    "Shifter (Beasthide)"
+  ],
+  "aarakroca": [
+    "Aarakocra"
+  ],
+  "aarakroc": [
+    "Aarakocra"
+  ],
+  "aaracockr": [
+    "Aarakocra"
+  ],
+  "gensai (wind)": [
+    "Genasi (Air)"
+  ],
+  "abyssal tiefling": [
+    "Tiefling (Glasya)"
+  ],
+  "minotar": [
+    "Minotaur"
+  ],
+  "ling": [
+    "Tiefling"
+  ],
+  "tiefling us": [
+    "Tiefling (Abyssal)"
+  ],
+  "pan": [
+    "Aven"
+  ],
+  "blue muffy muff bluff": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "weow": [
+    "Kor"
+  ],
+  "amon": [
+    "Human (Amonkhet)"
+  ],
+  "sirniphnebin": [
+    "Gnome (Deep/Svirfneblin)"
+  ],
+  "ralashtar": [
+    "Kalashtar"
+  ],
+  "Change": [
+    "Changeling"
+  ],
+  "half  elf": [
+    "Half-Elf"
+  ],
+  "Yuan-ti Prueblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "youn ti": [
+    "Yuan-ti Pureblood"
+  ],
+  "human vaiant": [
+    "Human (Variant)"
+  ],
+  "elf-wood": [
+    "Elf (Wood)"
+  ],
+  "githyenki": [
+    "Gith (Githyanki)"
+  ],
+  "Orc (Ixalan)": [
+    "Orc (Ixalan)"
+  ],
+  "golithat": [
+    "Goliath"
+  ],
+  "half log": [
+    "Halfling (Stout)"
+  ],
+  "bobold": [
+    "Kobold"
+  ],
+  "aasimar (prot": [
+    "Aasimar (Protector)"
+  ],
+  "mar (sco": [
+    "Aasimar (Scourge)"
+  ],
+  "Duregar": [
+    "Dwarf (Duergar)"
+  ],
+  "job": [
+    "Hobgoblin"
+  ],
+  "Dueregar": [
+    "Dwarf (Duergar)"
+  ],
+  "high epf": [
+    "Elf (High)"
+  ],
+  "wood epf": [
+    "Elf (Wood)"
+  ],
+  "grubg": [
+    "Grung"
+  ],
+  "Drider": [
+    "Warforged (Skirmisher)"
+  ],
+  "centar": [
+    "Centaur"
+  ],
+  "Lox": [
+    "Loxodon"
+  ],
+  "firebolgs": [
+    "Firbolg"
+  ],
+  "keku": [
+    "Kenku"
+  ],
+  "kenku dmg": [
+    "Kenku (DMG)"
+  ],
+  "aissimar": [
+    "Aasimar (Fallen)"
+  ],
+  "genesai": [
+    "Genasi (Air)"
+  ],
+  "human varia": [
+    "Human (Variant)"
+  ],
+  "aisa": [
+    "Aasimar (DMG)"
+  ],
+  "minotaur amon": [
+    "Minotaur (Amonkhet)"
+  ],
+  "Human(Variant)": [
+    "Human (Variant)"
+  ],
+  "asssimar": [
+    "Aasimar (Fallen)"
+  ],
+  "dwarf psk": [
+    "Dwarf (Kaladesh)"
+  ],
+  "hilld dwarf": [
+    "Dwarf (Hill)"
+  ],
+  "helf": [
+    "Elf (High)"
+  ],
+  "dwarf (deep)": [
+    "Dwarf (Duergar)"
+  ],
+  "aarokara": [
+    "Aarakocra"
+  ],
+  "wolfborn": [
+    "Aetherborn"
+  ],
+  "ty": [
+    "Halfling (Mark of Hospitality)"
+  ],
+  "necromancer": [
+    "Dragonborn"
+  ],
+  "swiftstr": [
+    "Shifter (Swiftstride)"
+  ],
+  "skirmish": [
+    "Warforged (Skirmisher)"
+  ],
+  "eood": [
+    "Elf (Wood)"
+  ],
+  "amonkey": [
+    "Human (Amonkhet)"
+  ],
+  "gang": [
+    "Grung"
+  ],
+  "lizaredfolk": [
+    "Lizardfolk"
+  ],
+  "aarajockra": [
+    "Aarakocra"
+  ],
+  "set human": [
+    "Human"
+  ],
+  "doppelg\u00e4nger": [
+    "Tiefling (Fierna)"
+  ],
+  "ekf": [
+    "Elf (Sea)"
+  ],
+  "toa": [
+    "Kuo-Toa (DMG)"
+  ],
+  "raksha": [
+    "Elf (Mark of Shadow)"
+  ],
+  "Human, Variant": [
+    "Human (Variant)"
+  ],
+  "dire": [
+    "Genasi (Fire)"
+  ],
+  "arra": [
+    "Aarakocra"
+  ],
+  "Aarakorcra": [
+    "Aarakocra"
+  ],
+  "druegar": [
+    "Dwarf (Duergar)"
+  ],
+  "duergra": [
+    "Dwarf (Duergar)"
+  ],
+  "mothfolk": [
+    "Merfolk (DMG)"
+  ],
+  "Ara": [
+    "Aarakocra"
+  ],
+  "Aarakocra VMG": [
+    "Aarakocra (DMG)"
+  ],
+  "Aarakocra vmg": [
+    "Aarakocra"
+  ],
+  "avish": [
+    "Aven"
+  ],
+  "human Varient": [
+    "Human (Variant)"
+  ],
+  "holf-orc (": [
+    "Half-Orc"
+  ],
+  "tiefling (mephis": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "Aasimar scourge": [
+    "Aasimar (Scourge)"
+  ],
+  "dwarf moun": [
+    "Dwarf (Mountain)"
+  ],
+  "path of": [
+    "Aetherborn"
+  ],
+  "aarakocra dmg": [
+    "Aarakocra (DMG)"
+  ],
+  "vampire 2": [
+    "Vampire (Zendikar)"
+  ],
+  "geansi": [
+    "Genasi (Earth)"
+  ],
+  "Tiefling of Mammon": [
+    "Tiefling (Mammon)"
+  ],
+  "yun": [
+    "Yuan-ti Pureblood"
+  ],
+  "skirm": [
+    "Warforged (Skirmisher)"
+  ],
+  "arracroka": [
+    "Aarakocra"
+  ],
+  "ixa": [
+    "Vampire (Ixalan)"
+  ],
+  "human (var": [
+    "Human (Variant)"
+  ],
+  "quater elf": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "Golaith": [
+    "Goliath"
+  ],
+  "half-orc (mark": [
+    "Half-Orc (Mark of Finding)"
+  ],
+  "half-elf (moon": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "half-elf (wood": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "half-elf (drow": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "half-elf (mark of d": [
+    "Half-Elf (Mark of Detection)"
+  ],
+  "half-elf (aquatic": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "tiefling (glasya)": [
+    "Tiefling (Glasya)"
+  ],
+  "vl": [
+    "Vedalken"
+  ],
+  "totle": [
+    "Troglodyte (DMG)"
+  ],
+  "merfolk emeria": [
+    "Merfolk (Zendikar) (Emeria Creed)"
+  ],
+  "merfolk ula": [
+    "Merfolk (Zendikar) (Ula Creed)"
+  ],
+  "merfolk green": [
+    "Merfolk (Ixalan) (Green)"
+  ],
+  "merfolk blue": [
+    "Merfolk (Ixalan) (Blue)"
+  ],
+  "dridar": [
+    "Dwarf (Duergar)"
+  ],
+  "aaracoka": [
+    "Aarakocra"
+  ],
+  "kpbald": [
+    "Kobold"
+  ],
+  "warlock": [
+    "Half-Orc"
+  ],
+  "eldran elf": [
+    "Elf (Eladrin)"
+  ],
+  "aasimr": [
+    "Aasimar (DMG)"
+  ],
+  "Tiefling ab": [
+    "Tiefling (Abyssal)"
+  ],
+  "aararocka": [
+    "Aarakocra"
+  ],
+  "aaracroka": [
+    "Aarakocra"
+  ],
+  "Dwarf hill": [
+    "Dwarf (Hill)"
+  ],
+  "awakened": [
+    "Aven (Hawk-Headed)"
+  ],
+  "lightf": [
+    "Halfling (Lightfoot)"
+  ],
+  "velken": [
+    "Vedalken"
+  ],
+  "dwaf": [
+    "Dwarf (Mountain)"
+  ],
+  "procter": [
+    "Aasimar (Protector)"
+  ],
+  "wis": [
+    "Halfling (Ghostwise)"
+  ],
+  "sa": [
+    "Kalashtar"
+  ],
+  "hr": [
+    "Khenra"
+  ],
+  "tk": [
+    "Kor"
+  ],
+  "gho": [
+    "Halfling (Ghostwise)"
+  ],
+  "halfling ghastly": [
+    "Halfling (Ghostwise)"
+  ],
+  "feral winged": [
+    "Tiefling"
+  ],
+  "half elf varian": [
+    "Half-Elf"
+  ],
+  "Half-Elf (Sea Descent)": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "aquatic half-elf": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "Fallen aasimar": [
+    "Elf (Valenar)"
+  ],
+  "yogsoloth": [
+    "Goliath"
+  ],
+  "aerenal": [
+    "Elf (Aereni)"
+  ],
+  "half elf moon": [
+    "Half-Elf (Mark of Detection)"
+  ],
+  "Half elf moon elf": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "Revnant": [
+    "Revenant"
+  ],
+  "simic hyrbid": [
+    "Simic Hybrid"
+  ],
+  "fallen a": [
+    "Aasimar (Fallen)"
+  ],
+  "hooman": [
+    "Human"
+  ],
+  "Benny": [
+    "Revenant"
+  ],
+  "feature dragonborn": [
+    "Dragonborn"
+  ],
+  "aqua": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "Faye": [
+    "Aven"
+  ],
+  "Neko": [
+    "Kor"
+  ],
+  "shadow aasimar": [
+    "Aasimar (Fallen)"
+  ],
+  "elf (shadar kai)": [
+    "Elf (Shadar-kai)"
+  ],
+  "orch": [
+    "Orc"
+  ],
+  "tiefoing": [
+    "Tiefling"
+  ],
+  "killoren": [
+    "Kor"
+  ],
+  "Droe": [
+    "Elf (Drow)"
+  ],
+  "channeling": [
+    "Changeling"
+  ],
+  "aasamiar": [
+    "Aasimar (DMG)"
+  ],
+  "taxabi": [
+    "Tabaxi"
+  ],
+  "kalshatar": [
+    "Kalashtar"
+  ],
+  "stone dwarf": [
+    "Genasi (Water)"
+  ],
+  "vieshanu": [
+    "Vedalken"
+  ],
+  "Quickling": [
+    "Grung"
+  ],
+  "variant tief": [
+    "Tiefling (Variant)"
+  ],
+  "knight": [
+    "Elf (High)"
+  ],
+  "dawrf": [
+    "Dwarf (Mountain)"
+  ],
+  "Naphalia Human": [
+    "Human"
+  ],
+  "Nephlia Human": [
+    "Changeling (UAEberron)"
+  ],
+  "half elf varient wood elf": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "haffling": [
+    "Halfling (Ghostwise)"
+  ],
+  "variant humab": [
+    "Human (Variant)"
+  ],
+  "dueregar": [
+    "Dwarf (Duergar)"
+  ],
+  "variant Human": [
+    "Human (Variant)"
+  ],
+  "Genasi (earth)": [
+    "Genasi (Earth)"
+  ],
+  "goliath?": [
+    "Goliath"
+  ],
+  "Aarocokra": [
+    "Aarakocra"
+  ],
+  "C": [
+    "Centaur"
+  ],
+  "elg": [
+    "Elf (High)"
+  ],
+  "H": [
+    "Aetherborn"
+  ],
+  "Half-Elf (Variant)": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "Half-Elf (Wood": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "vampire ixa": [
+    "Vampire (Ixalan)"
+  ],
+  "lectour": [
+    "Tortle"
+  ],
+  "A": [
+    "Goliath"
+  ],
+  "vampire zendikar": [
+    "Vampire (Zendikar)"
+  ],
+  "aasimat": [
+    "Aasimar (Fallen)"
+  ],
+  "desce": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "sharkai": [
+    "Elf (Shadar-kai)"
+  ],
+  "jugganaught": [
+    "Warforged (Juggernaut)"
+  ],
+  "aereni elf": [
+    "Elf (Aereni)"
+  ],
+  "Gemasi": [
+    "Genasi (Fire)"
+  ],
+  "Kentucky": [
+    "Kenku"
+  ],
+  "Pureblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "Hafling": [
+    "Halfling (Lightfoot)"
+  ],
+  "halflng": [
+    "Halfling (Stout)"
+  ],
+  "drow(elf)": [
+    "Elf (Drow)"
+  ],
+  "cnetaur": [
+    "Centaur"
+  ],
+  "eldrazi": [
+    "Khenra"
+  ],
+  "symbio": [
+    "Simic Hybrid"
+  ],
+  "half e": [
+    "Half-Elf"
+  ],
+  "Kaltash": [
+    "Kalashtar"
+  ],
+  "Warforge": [
+    "Warforged (Envoy)"
+  ],
+  "firbog": [
+    "Firbolg"
+  ],
+  "halfelf1": [
+    "Half-Elf"
+  ],
+  "changl": [
+    "Changeling"
+  ],
+  "synad": [
+    "Khenra"
+  ],
+  "doppelganger": [
+    "Elf (Valenar)"
+  ],
+  "frost giant": [
+    "Gith (Githyanki)"
+  ],
+  "Mark of Shadow Elf": [
+    "Elf (Mark of Shadow)"
+  ],
+  "feat dragon breath": [
+    "Dragonborn"
+  ],
+  "halfping": [
+    "Halfling (Lightfoot)"
+  ],
+  "th": [
+    "Aetherborn"
+  ],
+  "juggernaut by": [
+    "Warforged (Juggernaut)"
+  ],
+  "elf drk": [
+    "Elf (Drow)"
+  ],
+  "rouge": [
+    "Grung"
+  ],
+  "kua": [
+    "Kuo-Toa (DMG)"
+  ],
+  "scrib": [
+    "Gnome (Mark of Scribing)"
+  ],
+  "long strider": [
+    "Shifter (Longstride) (UAEberron)"
+  ],
+  "long stride": [
+    "Halfling (Ghostwise)"
+  ],
+  "darkling": [
+    "Grung"
+  ],
+  "hill dwaf": [
+    "Dwarf (Hill)"
+  ],
+  "Ed": [
+    "Vedalken"
+  ],
+  "magic person": [
+    "Aetherborn"
+  ],
+  "aarcocra": [
+    "Aetherborn"
+  ],
+  "vendalkin": [
+    "Vedalken"
+  ],
+  "Veddalken": [
+    "Vedalken"
+  ],
+  "variant elf": [
+    "Elf (Avariel)"
+  ],
+  "half-ef": [
+    "Half-Elf"
+  ],
+  "Gobl": [
+    "Goblin"
+  ],
+  "orcs": [
+    "Orc"
+  ],
+  "intelligence": [
+    "Changeling"
+  ],
+  "avriel": [
+    "Elf (Avariel)"
+  ],
+  "dragon-kin": [
+    "Dragonborn"
+  ],
+  "halflg": [
+    "Halfling (Stout)"
+  ],
+  "Eldrin elf": [
+    "Elf (Eladrin)"
+  ],
+  "tabasky": [
+    "Tabaxi"
+  ],
+  "rogue": [
+    "Grung"
+  ],
+  "feat protector": [
+    "Aasimar (Protector)"
+  ],
+  "charm": [
+    "Kalashtar"
+  ],
+  "feraltiefling": [
+    "Tiefling (Fierna)"
+  ],
+  "hobgo": [
+    "Hobgoblin"
+  ],
+  "'elf (sea)'": [
+    "Elf (Sea)"
+  ],
+  "weird": [
+    "Lizardfolk"
+  ],
+  "firgbolg": [
+    "Firbolg"
+  ],
+  "halfelf var": [
+    "Half-Elf (Mark of Storm)"
+  ],
+  "dwarf shield": [
+    "Dwarf (Mountain)"
+  ],
+  "halfling (ghost": [
+    "Halfling (Ghostwise)"
+  ],
+  "halfling (gh": [
+    "Halfling (Ghostwise)"
+  ],
+  "devil tongue": [
+    "Skeleton (DMG)"
+  ],
+  "tiefling devil tongue": [
+    "Tiefling (Levistus)"
+  ],
+  "piggby": [
+    "Grung"
+  ],
+  "Crocodile": [
+    "Tortle"
+  ],
+  "drider": [
+    "Dwarf (Kaladesh)"
+  ],
+  "lavistas": [
+    "Tiefling (Levistus)"
+  ],
+  "luxonian": [
+    "Loxodon"
+  ],
+  "ousider": [
+    "Siren"
+  ],
+  "fire Genasi": [
+    "Genasi (Fire)"
+  ],
+  "Gay": [
+    "Naga"
+  ],
+  "joke": [
+    "Kenku"
+  ],
+  "aaracoaka": [
+    "Aarakocra"
+  ],
+  "half-or": [
+    "Half-Orc"
+  ],
+  "gre": [
+    "Merfolk (Ixalan) (Green)"
+  ],
+  "aarcarakoa": [
+    "Aarakocra"
+  ],
+  "moun": [
+    "Dwarf (Mountain)"
+  ],
+  "gensie": [
+    "Genasi (Fire)"
+  ],
+  "aarackock": [
+    "Aarakocra"
+  ],
+  "dwarf m": [
+    "Dwarf (Mountain)"
+  ],
+  "pure": [
+    "Yuan-ti Pureblood"
+  ],
+  "vuman": [
+    "Human"
+  ],
+  "feature Fey step": [
+    "Elf (Sea)"
+  ],
+  "dwarf mountaint": [
+    "Dwarf (Mountain)"
+  ],
+  "Gnomw": [
+    "Gnome (Rock)"
+  ],
+  "Geth": [
+    "Genasi (Earth)"
+  ],
+  "Yaun-ti": [
+    "Yuan-ti Pureblood"
+  ],
+  "Water Gensai": [
+    "Elf (Aereni)"
+  ],
+  "Kal": [
+    "Kalashtar"
+  ],
+  "taxibi": [
+    "Tabaxi"
+  ],
+  "Big Chungus": [
+    "Grung"
+  ],
+  "furblog": [
+    "Firbolg"
+  ],
+  "liZard": [
+    "Lizardfolk"
+  ],
+  "Warforged (Envoy)": [
+    "Warforged (Envoy)"
+  ],
+  "udnead": [
+    "Human (Keldon)"
+  ],
+  "flumph": [
+    "Merfolk (DMG)"
+  ],
+  "Mind Flayer": [
+    "Minotaur"
+  ],
+  "Dog": [
+    "Orc (DMG)"
+  ],
+  "Motorcycle": [
+    "Tortle"
+  ],
+  "Perfect": [
+    "Elf (Sea)"
+  ],
+  "sky gnome": [
+    "Gnome (Rock)"
+  ],
+  "tiefling (a": [
+    "Tiefling (Abyssal)"
+  ],
+  "elf zendikar": [
+    "Elf (Zendikar) (Joraga Nation)"
+  ],
+  "halfing stout": [
+    "Halfling (Stout)"
+  ],
+  "boop": [
+    "Kobold"
+  ],
+  "type": [
+    "Yuan-ti Pureblood"
+  ],
+  "Yeet": [
+    "Revenant"
+  ],
+  "warforgwd": [
+    "Warforged (Skirmisher)"
+  ],
+  "darkvision": [
+    "Elf (Shadar-kai)"
+  ],
+  "Elf Subrace": [
+    "Elf (Shadar-kai)"
+  ],
+  "deep gnom": [
+    "Gnome (Deep)"
+  ],
+  "tortole": [
+    "Tortle"
+  ],
+  "halfing (gh": [
+    "Halfling (Ghostwise)"
+  ],
+  "wood elve": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "elves aereni": [
+    "Elf (Aereni)"
+  ],
+  "variant kobold": [
+    "Kobold (DMG)"
+  ],
+  "elf (Drow)": [
+    "Elf (Drow)"
+  ],
+  "Naha": [
+    "Naga"
+  ],
+  "-": [
+    "Kuo-Toa (DMG)"
+  ],
+  "aerenu": [
+    "Elf (Aereni)"
+  ],
+  "aerani": [
+    "Elf (Aereni)"
+  ],
+  "gnole": [
+    "Gnoll (DMG)"
+  ],
+  "hobo": [
+    "Hobgoblin"
+  ],
+  "minator": [
+    "Minotaur"
+  ],
+  "changeling (ua)": [
+    "Changeling (UAEberron)"
+  ],
+  "Minotaur Amon": [
+    "Minotaur (Amonkhet)"
+  ],
+  "Minotaur Ravnica": [
+    "Minotaur (Krynn)"
+  ],
+  "Khalashtar": [
+    "Kalashtar"
+  ],
+  "healing halfling": [
+    "Halfling (Mark of Healing)"
+  ],
+  "tiefling scag": [
+    "Tiefling"
+  ],
+  "tiwf": [
+    "Tiefling"
+  ],
+  "kalashatr": [
+    "Kalashtar"
+  ],
+  "tabaxu": [
+    "Tabaxi"
+  ],
+  "valenar wood elf": [
+    "Elf (Valenar)"
+  ],
+  "changlinf": [
+    "Changeling"
+  ],
+  "bob": [
+    "Kobold"
+  ],
+  "big": [
+    "Tabaxi"
+  ],
+  "Elf (High)": [
+    "Elf (High)"
+  ],
+  "Tiefling Dis": [
+    "Tiefling (Dispater)"
+  ],
+  "aasimar feat": [
+    "Aasimar (Protector)"
+  ],
+  "human va": [
+    "Human (Variant)"
+  ],
+  "Dispacter": [
+    "Tiefling (Dispater)"
+  ],
+  "feykin": [
+    "Vedalken"
+  ],
+  "V": [
+    "Vedalken"
+  ],
+  "tied": [
+    "Tiefling"
+  ],
+  "araaroaika": [
+    "Aarakocra (DMG)"
+  ],
+  "simic hybric": [
+    "Simic Hybrid"
+  ],
+  "varian": [
+    "Human (Variant)"
+  ],
+  "Elf (Eladrin)": [
+    "Elf (Eladrin)"
+  ],
+  "ghostwide": [
+    "Halfling (Ghostwise)"
+  ],
+  "shado": [
+    "Elf (Mark of Shadow)"
+  ],
+  "canta": [
+    "Centaur"
+  ],
+  "elf(wood": [
+    "Elf (Wood)"
+  ],
+  "tieling": [
+    "Tiefling"
+  ],
+  "Taxabi": [
+    "Tabaxi"
+  ],
+  "full wood elf": [
+    "Elf (Wood)"
+  ],
+  "simic hybr": [
+    "Simic Hybrid"
+  ],
+  "genasi wind": [
+    "Genasi (Air)"
+  ],
+  "moon half-elf": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "god": [
+    "Kobold"
+  ],
+  "goddess": [
+    "Troglodyte (DMG)"
+  ],
+  "evil tiefing": [
+    "Tiefling (Fierna)"
+  ],
+  "better human": [
+    "Shifter (Wildhunt)"
+  ],
+  "eladrin variant": [
+    "Elf (Eladrin)"
+  ],
+  "Loredrake Kolbold": [
+    "Kobold"
+  ],
+  "tiefling of fierna": [
+    "Tiefling (Fierna)"
+  ],
+  "mobile": [
+    "Kobold"
+  ],
+  "aaocokra": [
+    "Aarakocra"
+  ],
+  "kalasht": [
+    "Kalashtar"
+  ],
+  "aven ibis": [
+    "Aven (Ibis-Headed)"
+  ],
+  "elf eladrin high": [
+    "Elf (Eladrin) (DMG)"
+  ],
+  "lizardolk": [
+    "Lizardfolk"
+  ],
+  "aasimar sourge": [
+    "Aasimar (Scourge)"
+  ],
+  "mountain drawf": [
+    "Dwarf (Mountain)"
+  ],
+  "tyyu": [
+    "Bullywug (DMG)"
+  ],
+  "bulklywug": [
+    "Bullywug (DMG)"
+  ],
+  "x": [
+    "Orc (Ixalan)"
+  ],
+  "fallen angel": [
+    "Elf (Valenar)"
+  ],
+  "Variant tiefling": [
+    "Changeling"
+  ],
+  "mycanoid": [
+    "Yuan-ti Pureblood"
+  ],
+  "snifneblin": [
+    "Gnome (Deep/Svirfneblin)"
+  ],
+  "Cen": [
+    "Centaur"
+  ],
+  "guild": [
+    "Grimlock (DMG)"
+  ],
+  "ggv": [
+    "Aven"
+  ],
+  "korred": [
+    "Kor"
+  ],
+  "Sea Elf": [
+    "Elf (Sea) (UAElfSubraces)"
+  ],
+  "enai": [
+    "Centaur"
+  ],
+  "elf(drow)": [
+    "Elf (Drow)"
+  ],
+  "London": [
+    "Loxodon"
+  ],
+  "feat savage": [
+    "Elf (Avariel)"
+  ],
+  "full-blood": [
+    "Yuan-ti Pureblood"
+  ],
+  "guamg": [
+    "Grung"
+  ],
+  "weeaboo": [
+    "Revenant"
+  ],
+  "feat human": [
+    "Human (Variant)"
+  ],
+  "simic hy": [
+    "Simic Hybrid"
+  ],
+  "Aas": [
+    "Aasimar (Fallen)"
+  ],
+  "verda": [
+    "Vedalken"
+  ],
+  "assminar": [
+    "Genasi (Air)"
+  ],
+  "minotaur krynn": [
+    "Minotaur (Krynn)"
+  ],
+  "haflling": [
+    "Halfling (Stout)"
+  ],
+  "swift": [
+    "Shifter (Swiftstride)"
+  ],
+  "simic-hybrid": [
+    "Simic Hybrid"
+  ],
+  "protection aasimar": [
+    "Aasimar (Protector)"
+  ],
+  "Wild Elf": [
+    "Elf (Eladrin)"
+  ],
+  "hobgobv": [
+    "Hobgoblin"
+  ],
+  "Elf Sha": [
+    "Elf (Shadar-kai)"
+  ],
+  "Elf Elastin": [
+    "Elf (Eladrin) (DMG)"
+  ],
+  "Yaun ti": [
+    "Yuan-ti Pureblood"
+  ],
+  "changelinsd": [
+    "Changeling (UAEberron)"
+  ],
+  "changelinsf": [
+    "Changeling"
+  ],
+  "boogbar": [
+    "Bugbear"
+  ],
+  "Homogoblin": [
+    "Hobgoblin"
+  ],
+  "vaestar": [
+    "Kalashtar"
+  ],
+  "Feral": [
+    "Vedalken"
+  ],
+  "Feral Teifling": [
+    "Elf (Eladrin)"
+  ],
+  "ixal": [
+    "Orc (Ixalan)"
+  ],
+  "me": [
+    "Aven"
+  ],
+  "set Triton": [
+    "Triton"
+  ],
+  "elf (grugach)": [
+    "Elf (Grugach)"
+  ],
+  "gu": [
+    "Grung"
+  ],
+  "driad": [
+    "Lizardfolk"
+  ],
+  "earth gena": [
+    "Elf (Aereni)"
+  ],
+  "wod": [
+    "Elf (Wood)"
+  ],
+  "Kolbold": [
+    "Kobold"
+  ],
+  "gb": [
+    "Bugbear"
+  ],
+  "Madellor": [
+    "Aetherborn"
+  ],
+  "gnome(forest": [
+    "Gnome (Forest)"
+  ],
+  "dragomborn": [
+    "Dragonborn"
+  ],
+  "Gensai (Air)": [
+    "Genasi (Earth)"
+  ],
+  "aankora": [
+    "Aarakocra"
+  ],
+  "gmone": [
+    "Gnome (Forest)"
+  ],
+  "tabaxie": [
+    "Tabaxi"
+  ],
+  "mousefolk": [
+    "Kobold"
+  ],
+  "aarakoara": [
+    "Aarakocra"
+  ],
+  "decent": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "Centaurs": [
+    "Centaur"
+  ],
+  "half elf (mark of storm)": [
+    "Half-Elf (Mark of Storm)"
+  ],
+  "minotau": [
+    "Minotaur"
+  ],
+  "Chang": [
+    "Changeling (UAEberron)"
+  ],
+  "droe": [
+    "Elf (Drow)"
+  ],
+  "Lashen": [
+    "Kalashtar"
+  ],
+  "dragonbonr": [
+    "Dragonborn"
+  ],
+  "jew": [
+    "Elf (Drow)"
+  ],
+  "dwarf (moun": [
+    "Dwarf (Mountain)"
+  ],
+  "gnome (for": [
+    "Gnome (Forest)"
+  ],
+  "wood  elf": [
+    "Elf (Wood)"
+  ],
+  "UA": [
+    "Aven"
+  ],
+  "\"elf (high)\"": [
+    "Elf (High)"
+  ],
+  "centruar": [
+    "Centaur"
+  ],
+  "skelleton": [
+    "Skeleton (DMG)"
+  ],
+  "sea ef": [
+    "Half-Elf"
+  ],
+  "Gnome (rock)": [
+    "Gnome (Rock)"
+  ],
+  "tiefling legacy of dispater": [
+    "Tiefling (Dispater)"
+  ],
+  "rock Gnome": [
+    "Gnome (Rock)"
+  ],
+  "tqbax": [
+    "Tabaxi"
+  ],
+  "Aar": [
+    "Aarakocra"
+  ],
+  "fire genesis": [
+    "Halfling (Ghostwise)"
+  ],
+  "VARIANT HUMAN": [
+    "Human"
+  ],
+  "Gith (Githyanki)": [
+    "Gith (Githyanki)"
+  ],
+  "shape changer": [
+    "Changeling"
+  ],
+  "changer": [
+    "Changeling (UAEberron)"
+  ],
+  "wood el": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "elvish": [
+    "Elf (High)"
+  ],
+  "aimic": [
+    "Simic Hybrid"
+  ],
+  "rakdos": [
+    "Kor"
+  ],
+  "Fish": [
+    "Elf (Sea)"
+  ],
+  "watcher": [
+    "Aetherborn"
+  ],
+  "tefling (Mephistopheles)": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "warforged jugg": [
+    "Warforged (Juggernaut)"
+  ],
+  "ef": [
+    "Elf (Sea)"
+  ],
+  "tabal": [
+    "Tabaxi"
+  ],
+  "centaur UA": [
+    "Centaur"
+  ],
+  "Mino": [
+    "Minotaur"
+  ],
+  "human (mark of finding)": [
+    "Human (Mark of Finding)"
+  ],
+  "human path of": [
+    "Human (Mark of Passage)"
+  ],
+  "dreugar": [
+    "Dwarf (Duergar)"
+  ],
+  "ikwiikwii": [
+    "Kenku"
+  ],
+  "orog": [
+    "Orc"
+  ],
+  "warforged -h": [
+    "Warforged (Envoy)"
+  ],
+  "Billy Bob": [
+    "Elf (Drow)"
+  ],
+  "tanaxi": [
+    "Tabaxi"
+  ],
+  "aazimar": [
+    "Aarakocra"
+  ],
+  "yuh": [
+    "Elf (Grugach)"
+  ],
+  "Firboolg": [
+    "Firbolg"
+  ],
+  "half-elf mark of the storm": [
+    "Half-Elf (Mark of Storm)"
+  ],
+  "forrest gnome": [
+    "Gnome (Forest)"
+  ],
+  "assimar scourge": [
+    "Aasimar (Scourge)"
+  ],
+  "kenhra": [
+    "Khenra"
+  ],
+  "serpentblood": [
+    "Yuan-ti Pureblood"
+  ],
+  "dmg aasimar": [
+    "Aasimar (DMG)"
+  ],
+  "skir": [
+    "Warforged (Skirmisher)"
+  ],
+  "Aether": [
+    "Aetherborn"
+  ],
+  "Igrew": [
+    "Siren"
+  ],
+  "tiefling (meph": [
+    "Tiefling (Mephistopheles)"
+  ],
+  "teifling (fier": [
+    "Tiefling (Fierna)"
+  ],
+  "elf avarial": [
+    "Elf (Avariel)"
+  ],
+  "avarial Elf": [
+    "Elf (Avariel)"
+  ],
+  "<centaur>": [
+    "Centaur"
+  ],
+  "gamp": [
+    "Vampire (Ixalan)"
+  ],
+  "merfo": [
+    "Merfolk (Zendikar) (Ula Creed)"
+  ],
+  "genase": [
+    "Genasi (Water)"
+  ],
+  "half-elf dark": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "assumes": [
+    "Aasimar (Scourge)"
+  ],
+  "dragonborn (black)": [
+    "Dragonborn"
+  ],
+  "tabaxo": [
+    "Tabaxi"
+  ],
+  "<duergar>": [
+    "Dwarf (Duergar)"
+  ],
+  "Warforged envoy": [
+    "Warforged (Envoy)"
+  ],
+  "bugbe": [
+    "Bugbear"
+  ],
+  "kobal": [
+    "Kobold (DMG)"
+  ],
+  "Dwarf mountain": [
+    "Dwarf (Mountain)"
+  ],
+  "PSA Minotaur": [
+    "Minotaur (Amonkhet)"
+  ],
+  "shader": [
+    "Elf (Shadar-kai)"
+  ],
+  "firbg": [
+    "Firbolg"
+  ],
+  "gruun": [
+    "Grung"
+  ],
+  "skimisher": [
+    "Warforged (Skirmisher)"
+  ],
+  "aacro": [
+    "Aarakocra"
+  ],
+  "sem": [
+    "Siren"
+  ],
+  "pec": [
+    "Orc"
+  ],
+  "half orx": [
+    "Half-Orc"
+  ],
+  "tiefling veir": [
+    "Tiefling (Fierna)"
+  ],
+  "ghostwi": [
+    "Halfling (Ghostwise)"
+  ],
+  "lol": [
+    "Tortle"
+  ],
+  "CEntaur": [
+    "Centaur"
+  ],
+  "dragonborn rev": [
+    "Goblin (GGR)"
+  ],
+  "\"dragonborn revenant\"": [
+    "Revenant"
+  ],
+  "\u00e6therborn": [
+    "Dragonborn"
+  ],
+  "falleb": [
+    "Aasimar (Fallen)"
+  ],
+  "half elf dark": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "cock": [
+    "Orc"
+  ],
+  "Deuregar": [
+    "Dwarf (Duergar)"
+  ],
+  "rockgnome": [
+    "Gnome (Rock)"
+  ],
+  "gitz": [
+    "Gith (Githzerai)"
+  ],
+  "aarikocra": [
+    "Aarakocra"
+  ],
+  "Lizard Folk": [
+    "Lizardfolk"
+  ],
+  "tiefling (abyssal)": [
+    "Tiefling (Abyssal)"
+  ],
+  "Genasi (fire)": [
+    "Genasi (Fire)"
+  ],
+  "Halforc": [
+    "Half-Orc"
+  ],
+  "aasimar outcast": [
+    "Aasimar (DMG)"
+  ],
+  "albani": [
+    "Tabaxi"
+  ],
+  "mark of tracking": [
+    "Gnome (Mark of Scribing)"
+  ],
+  "wimic": [
+    "Simic Hybrid"
+  ],
+  "Dwarf (Hill)": [
+    "Dwarf (Hill)"
+  ],
+  "teifling 1": [
+    "Tiefling"
+  ],
+  "sentient": [
+    "Aetherborn"
+  ],
+  "vampirw": [
+    "Vampire (Ixalan)"
+  ],
+  "govlin": [
+    "Goblin"
+  ],
+  "protection": [
+    "Aasimar (Protector)"
+  ],
+  "aarockokra": [
+    "Aarakocra"
+  ],
+  "ibis-headed": [
+    "Aven (Ibis-Headed)"
+  ],
+  "Teifling (Feral)": [
+    "Tiefling (Fierna)"
+  ],
+  "Winged Teifling": [
+    "Tiefling"
+  ],
+  "feral tifling": [
+    "Tiefling (Fierna)"
+  ],
+  "arakkoa": [
+    "Aarakocra"
+  ],
+  "grovel": [
+    "Revenant"
+  ],
+  "aaismar": [
+    "Aasimar (Scourge)"
+  ],
+  "tiefli": [
+    "Tiefling (Dispater)"
+  ],
+  "human (vari": [
+    "Human (Variant)"
+  ],
+  "suse": [
+    "Siren"
+  ],
+  "jux": [
+    "Grung"
+  ],
+  "Aaracokroa": [
+    "Aarakocra"
+  ],
+  "half elf descent": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "half elf descend": [
+    "Half-Elf (Wood Elf Descent)"
+  ],
+  "varia": [
+    "Human (Variant)"
+  ],
+  "elf(": [
+    "Elf (Sea)"
+  ],
+  "ivar": [
+    "Elf (Avariel)"
+  ],
+  "yu]": [
+    "Human"
+  ],
+  "gnome 2": [
+    "Gnome (Deep)"
+  ],
+  "firlbog": [
+    "Firbolg"
+  ],
+  "Dhakaani goblin": [
+    "Hobgoblin"
+  ],
+  "hum car": [
+    "Human (Variant)"
+  ],
+  "tibaxay": [
+    "Tabaxi"
+  ],
+  "half higt elf": [
+    "Halfling (Stout)"
+  ],
+  "worforged": [
+    "Warforged (Juggernaut)"
+  ],
+  "v tiefling": [
+    "Tiefling (Mammon)"
+  ],
+  "Half-elf Drow": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "ghostwise halfing": [
+    "Halfling (Ghostwise)"
+  ],
+  "saur": [
+    "Siren"
+  ],
+  "warforced": [
+    "Warforged (Envoy)"
+  ],
+  "bitch": [
+    "Simic Hybrid"
+  ],
+  "eldrain": [
+    "Elf (Eladrin)"
+  ],
+  "sans": [
+    "Aven"
+  ],
+  "goat": [
+    "Naga"
+  ],
+  "insect": [
+    "Siren"
+  ],
+  "spooky": [
+    "Loxodon"
+  ],
+  "dragonborn varient": [
+    "Tiefling (Variant)"
+  ],
+  "half elf mark of storm": [
+    "Half-Elf (Mark of Storm)"
+  ],
+  "gansie": [
+    "Genasi (Water)"
+  ],
+  "tortlw": [
+    "Tortle"
+  ],
+  "Dwarf (mountain)": [
+    "Dwarf (Mountain)"
+  ],
+  "shadar'kai": [
+    "Elf (Shadar-kai)"
+  ],
+  "sgadar": [
+    "Elf (Shadar-kai)"
+  ],
+  "aaroka": [
+    "Aarakocra"
+  ],
+  "thy": [
+    "Gith (Githyanki)"
+  ],
+  "Swiftstride Shifter": [
+    "Shifter (Swiftstride)"
+  ],
+  "gl": [
+    "Tiefling (Glasya)"
+  ],
+  "Leviticus": [
+    "Tiefling (Levistus)"
+  ],
+  "aarra": [
+    "Aarakocra"
+  ],
+  "dwarf gray": [
+    "Dwarf (Duergar)"
+  ],
+  "elf bishtahar": [
+    "Elf (Kaladesh) (Vadahar)"
+  ],
+  "elf fey": [
+    "Elf (Eladrin)"
+  ],
+  "elf vadahar": [
+    "Elf (Kaladesh) (Vadahar)"
+  ],
+  "elf tira": [
+    "Elf (Grugach)"
+  ],
+  "elf trance": [
+    "Elf (Grugach)"
+  ],
+  "disregard": [
+    "Dwarf (Duergar)"
+  ],
+  "Mark of Detection Half-Elf": [
+    "Half-Elf (Mark of Detection)"
+  ],
+  "juggernut": [
+    "Warforged (Juggernaut)"
+  ],
+  "loxudon": [
+    "Loxodon"
+  ],
+  "asemarr": [
+    "Aasimar (DMG)"
+  ],
+  "faery": [
+    "Elf (Valenar)"
+  ],
+  "feat halfling": [
+    "Halfling (Stout)"
+  ],
+  "trol": [
+    "Aetherborn"
+  ],
+  "humab": [
+    "Human"
+  ],
+  "tiefling adf": [
+    "Tiefling (Asmodeus)"
+  ],
+  "ifreet": [
+    "Genasi (Fire)"
+  ],
+  "taabaxi": [
+    "Tabaxi"
+  ],
+  "warforgrd": [
+    "Warforged (Envoy)"
+  ],
+  "half elf sea elf": [
+    "Half-Elf (Aquatic Elf Descent)"
+  ],
+  "arracok": [
+    "Aarakocra"
+  ],
+  "warforged scout": [
+    "Warforged (Envoy)"
+  ],
+  "mounlnt": [
+    "Dwarf (Mountain)"
+  ],
+  "<goblin>": [
+    "Goblin"
+  ],
+  "zendikar": [
+    "Vampire (Zendikar)"
+  ],
+  "aasmiar varient": [
+    "Aasimar (Protector)"
+  ],
+  "aasimar varient": [
+    "Aasimar (Fallen)"
+  ],
+  "Rak": [
+    "Aarakocra (DMG)"
+  ],
+  "demielf": [
+    "Half-Elf"
+  ],
+  "Bilbon": [
+    "Tiefling"
+  ],
+  "Tieffling": [
+    "Tiefling (Zariel)"
+  ],
+  "bilbon 5": [
+    "Firbolg"
+  ],
+  "Simichybrid": [
+    "Simic Hybrid"
+  ],
+  "githzerei": [
+    "Gith (Githzerai)"
+  ],
+  "tiefling gley": [
+    "Tiefling (Levistus)"
+  ],
+  "half dragon": [
+    "Dragonborn"
+  ],
+  "shifter swiftstride": [
+    "Shifter (Swiftstride)"
+  ],
+  "elf varient": [
+    "Elf (Eladrin)"
+  ],
+  "eladein (dmg)": [
+    "Elf (Eladrin) (DMG)"
+  ],
+  "kr": [
+    "Minotaur (Krynn)"
+  ],
+  "asim": [
+    "Aasimar (Fallen)"
+  ],
+  "humanitis": [
+    "Human (Innistrad) (Gavony)"
+  ],
+  "knife ears": [
+    "Elf (Eladrin)"
+  ],
+  "elf avian": [
+    "Elf (Aereni)"
+  ],
+  "elf grugach": [
+    "Elf (Grugach)"
+  ],
+  "elf(sea)": [
+    "Elf (Sea)"
+  ],
+  "Elf (Grugach)": [
+    "Elf (Grugach)"
+  ],
+  "Elf (high)": [
+    "Elf (High)"
+  ],
+  "hi": [
+    "Elf (High)"
+  ],
+  "w": [
+    "Warforged (Envoy)"
+  ],
+  "yuant": [
+    "Yuan-ti Pureblood"
+  ],
+  "Chaik": [
+    "Changeling"
+  ],
+  "halfelf varient": [
+    "Half-Elf (Drow Descent)"
+  ],
+  "cookold": [
+    "Kor"
+  ],
+  "shifter (cliff": [
+    "Shifter (Cliffwalk) (UAEberron)"
+  ],
+  "elderian": [
+    "Elf (Eladrin)"
+  ],
+  "halfling 5": [
+    "Half-Elf"
+  ],
+  "aasimar 5": [
+    "Kalashtar"
+  ],
+  "feral-tiefling": [
+    "Tiefling (Fierna)"
+  ],
+  "avien": [
+    "Aven"
+  ],
+  "araco": [
+    "Aarakocra"
+  ],
+  "aasimar vgm": [
+    "Aasimar (Scourge)"
+  ],
+  "Bullywog": [
+    "Bullywug (DMG)"
+  ],
+  "Dwarf (Mark of Warding)": [
+    "Dwarf (Mark of Warding)"
+  ],
+  "Elf (Aereni)": [
+    "Elf (Aereni)"
+  ],
+  "detect": [
+    "Half-Elf (Mark of Detection)"
+  ],
+  "human(mark of mak)": [
+    "Human (Mark of Making)"
+  ],
+  "fire newt": [
+    "Vampire (Ixalan)"
+  ],
+  "shifter bea": [
+    "Shifter (Beasthide)"
+  ],
+  "Meazel": [
+    "Tiefling (Baalzebul)"
+  ],
+  "sagugain": [
+    "Grung"
+  ],
+  "werebat": [
+    "Revenant"
+  ],
+  "feral tielfing": [
+    "Tiefling"
+  ],
+  "shino": [
+    "Human"
+  ],
+  "ino": [
+    "Minotaur (Krynn)"
+  ],
+  "shaldar-kai": [
+    "Elf (Shadar-kai)"
+  ],
+  "dwardf": [
+    "Dwarf (Mountain)"
+  ],
+  "Elf (wood)": [
+    "Elf (Wood)"
+  ],
+  "acockra": [
+    "Aarakocra"
+  ],
+  "aasimar (Scourge)": [
+    "Aasimar (Scourge)"
+  ],
+  "v-human": [
+    "Human (Variant)"
+  ],
+  "large": [
+    "Kalashtar"
+  ],
+  "ogrillion": [
+    "Orc (Ixalan)"
+  ],
+  "halfiling": [
+    "Halfling (Stout)"
+  ],
+  "human(Variant)": [
+    "Human (Variant)"
+  ],
+  "human, variant": [
+    "Human (Variant)"
+  ],
+  "Merrill": [
+    "Merfolk (Ixalan) (Blue)"
+  ],
+  "eledrin elf": [
+    "Elf (Eladrin)"
+  ],
+  "half moon elf": [
+    "Half-Elf (Moon Elf or Sun Elf Descent)"
+  ],
+  "arrakockra": [
+    "Aarakocra"
+  ],
+  "half gnome": [
+    "Halfling (Ghostwise)"
+  ],
+  "genesi": [
+    "Genasi (Air)"
+  ],
+  "eladrin motf": [
+    "Elf (Eladrin)"
+  ],
+  "tall": [
+    "Dwarf (Hill)"
+  ],
+  "boggle": [
+    "Kobold"
+  ],
+  "Drahonborn": [
+    "Dragonborn"
+  ],
+  "raccoon": [
+    "Loxodon"
+  ],
+  "Sea": [
+    "Elf (Sea)"
+  ],
+  "quickling": [
+    "Changeling"
+  ],
+  "Tiefling levistus": [
+    "Tiefling (Levistus)"
+  ],
+  "teifling s": [
+    "Tiefling (Glasya)"
+  ],
+  "don": [
+    "Loxodon"
+  ],
+  "lizardfolx": [
+    "Lizardfolk"
+  ],
+  "elf (dark)": [
+    "Elf (Drow)"
+  ],
+  "arachne": [
+    "Aarakocra"
+  ]
+}

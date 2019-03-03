@@ -1,0 +1,1920 @@
+{
+  "fear": [
+    "Paralyzed",
+    "Deafened",
+    "Charmed",
+    "Frightened",
+    "Petrified"
+  ],
+  "dead": [
+    "Stunned",
+    "Deafened",
+    "Restrained",
+    "Charmed",
+    "Exhausted"
+  ],
+  "exhaustion": [
+    "Stunned",
+    "Unconscious",
+    "Deafened",
+    "Restrained",
+    "Exhausted"
+  ],
+  "exhausted": [
+    "Deafened",
+    "Restrained",
+    "Charmed",
+    "Exhausted",
+    "Petrified"
+  ],
+  "p": [
+    "Poisoned",
+    "Prone",
+    "Petrified",
+    "Paralyzed"
+  ],
+  "fatigue": [
+    "Incapacitated",
+    "Frightened",
+    "Stunned",
+    "Exhausted"
+  ],
+  "dazed": [
+    "Blinded",
+    "Deafened",
+    "Grappled",
+    "Charmed"
+  ],
+  "list": [
+    "Poisoned",
+    "Blinded",
+    "Stunned",
+    "Exhausted"
+  ],
+  "obscured": [
+    "Charmed",
+    "Poisoned",
+    "Stunned"
+  ],
+  "sleep": [
+    "Grappled",
+    "Stunned",
+    "Invisible"
+  ],
+  "unconcious": [
+    "Incapacitated",
+    "Unconscious",
+    "Invisible"
+  ],
+  "cursed": [
+    "Charmed",
+    "Poisoned",
+    "Restrained"
+  ],
+  "surprised": [
+    "Restrained",
+    "Poisoned",
+    "Stunned"
+  ],
+  "death": [
+    "Incapacitated",
+    "Blinded",
+    "Deafened"
+  ],
+  "exhaust": [
+    "Petrified",
+    "Restrained",
+    "Exhausted"
+  ],
+  "a": [
+    "Incapacitated",
+    "Charmed",
+    "Deafened"
+  ],
+  "drowning": [
+    "Unconscious",
+    "Poisoned",
+    "Prone"
+  ],
+  "confused": [
+    "Unconscious",
+    "Charmed",
+    "Prone"
+  ],
+  "sick": [
+    "Incapacitated",
+    "Blinded",
+    "Restrained"
+  ],
+  "madness": [
+    "Unconscious",
+    "Deafened",
+    "Restrained"
+  ],
+  "insanity": [
+    "Incapacitated",
+    "Restrained",
+    "Invisible"
+  ],
+  "proned": [
+    "Frightened",
+    "Prone"
+  ],
+  "in": [
+    "Incapacitated",
+    "Invisible"
+  ],
+  "radiant": [
+    "Deafened",
+    "Paralyzed"
+  ],
+  "frightend": [
+    "Frightened",
+    "Petrified"
+  ],
+  "Fear": [
+    "Charmed",
+    "Frightened"
+  ],
+  "u": [
+    "Unconscious",
+    "Stunned"
+  ],
+  "panicked": [
+    "Incapacitated",
+    "Petrified"
+  ],
+  "e": [
+    "Incapacitated",
+    "Stunned"
+  ],
+  "porn": [
+    "Prone",
+    "Paralyzed"
+  ],
+  "nausea": [
+    "Blinded",
+    "Unconscious"
+  ],
+  "shaken": [
+    "Charmed",
+    "Frightened"
+  ],
+  "rage": [
+    "Grappled",
+    "Frightened"
+  ],
+  "nauseated": [
+    "Stunned",
+    "Petrified"
+  ],
+  "gay": [
+    "Charmed",
+    "Exhausted"
+  ],
+  "helpless": [
+    "Grappled",
+    "Prone"
+  ],
+  "f": [
+    "Frightened",
+    "Petrified"
+  ],
+  "blindsight": [
+    "Blinded",
+    "Invisible"
+  ],
+  "asleep": [
+    "Paralyzed",
+    "Exhausted"
+  ],
+  "buried": [
+    "Blinded",
+    "Restrained"
+  ],
+  "help": [
+    "Blinded",
+    "Frightened"
+  ],
+  "mute": [
+    "Stunned",
+    "Restrained"
+  ],
+  "c": [
+    "Incapacitated",
+    "Charmed"
+  ],
+  "weakened": [
+    "Frightened",
+    "Exhausted"
+  ],
+  "dying": [
+    "Blinded",
+    "Poisoned"
+  ],
+  "exha": [
+    "Charmed",
+    "Exhausted"
+  ],
+  "diseased": [
+    "Poisoned",
+    "Exhausted"
+  ],
+  "Madness": [
+    "Blinded",
+    "Restrained"
+  ],
+  "Test": [
+    "Stunned",
+    "Restrained"
+  ],
+  "Exhaustion": [
+    "Unconscious",
+    "Exhausted"
+  ],
+  "scared": [
+    "Stunned",
+    "Restrained"
+  ],
+  "asd": [
+    "Charmed",
+    "Exhausted"
+  ],
+  "unconscious": [
+    "Unconscious"
+  ],
+  "grappled": [
+    "Grappled"
+  ],
+  "restrained": [
+    "Restrained"
+  ],
+  "prone": [
+    "Prone"
+  ],
+  "poisoned": [
+    "Poisoned"
+  ],
+  "stunned": [
+    "Stunned"
+  ],
+  "incapacitated": [
+    "Incapacitated"
+  ],
+  "grapple": [
+    "Grappled"
+  ],
+  "frightened": [
+    "Frightened"
+  ],
+  "blinded": [
+    "Blinded"
+  ],
+  "restrain": [
+    "Restrained"
+  ],
+  "charmed": [
+    "Charmed"
+  ],
+  "fright": [
+    "Frightened"
+  ],
+  "paralysis": [
+    "Paralyzed"
+  ],
+  "stun": [
+    "Stunned"
+  ],
+  "paralyzd": [
+    "Paralyzed"
+  ],
+  "Grapple": [
+    "Grappled"
+  ],
+  "Doge": [
+    "Deafened"
+  ],
+  "frighten": [
+    "Frightened"
+  ],
+  "blind": [
+    "Blinded"
+  ],
+  "para": [
+    "Paralyzed"
+  ],
+  "invis": [
+    "Invisible"
+  ],
+  "fri": [
+    "Frightened"
+  ],
+  "Stunned": [
+    "Stunned"
+  ],
+  "paralyzed": [
+    "Paralyzed"
+  ],
+  "paral": [
+    "Paralyzed"
+  ],
+  "poison": [
+    "Poisoned"
+  ],
+  "incap": [
+    "Incapacitated"
+  ],
+  "paralyze": [
+    "Paralyzed"
+  ],
+  "keepa": [
+    "Deafened"
+  ],
+  "Charmed": [
+    "Charmed"
+  ],
+  "poiso": [
+    "Poisoned"
+  ],
+  "uncons": [
+    "Unconscious"
+  ],
+  "unconsi": [
+    "Unconscious"
+  ],
+  "uncon": [
+    "Unconscious"
+  ],
+  "incapacitaded": [
+    "Incapacitated"
+  ],
+  "blin": [
+    "Blinded"
+  ],
+  "rest": [
+    "Restrained"
+  ],
+  "restr": [
+    "Restrained"
+  ],
+  "incapacitted": [
+    "Incapacitated"
+  ],
+  "petrified": [
+    "Petrified"
+  ],
+  "invisible": [
+    "Invisible"
+  ],
+  "inca": [
+    "Incapacitated"
+  ],
+  "frieghtened": [
+    "Frightened"
+  ],
+  "paralysed": [
+    "Paralyzed"
+  ],
+  "grapplede": [
+    "Grappled"
+  ],
+  "charm": [
+    "Charmed"
+  ],
+  "incapa": [
+    "Incapacitated"
+  ],
+  "deafended": [
+    "Deafened"
+  ],
+  "firghtened": [
+    "Frightened"
+  ],
+  "deafened": [
+    "Deafened"
+  ],
+  "frightended": [
+    "Frightened"
+  ],
+  "grap": [
+    "Grappled"
+  ],
+  "res": [
+    "Restrained"
+  ],
+  "Grappled": [
+    "Grappled"
+  ],
+  "Paralyzed": [
+    "Paralyzed"
+  ],
+  "Unconcious": [
+    "Unconscious"
+  ],
+  "Restrain": [
+    "Restrained"
+  ],
+  "paralyz": [
+    "Paralyzed"
+  ],
+  "Prone": [
+    "Prone"
+  ],
+  "Para": [
+    "Paralyzed"
+  ],
+  "charned": [
+    "Charmed"
+  ],
+  "pos": [
+    "Poisoned"
+  ],
+  "incapac": [
+    "Incapacitated"
+  ],
+  "Restrained": [
+    "Restrained"
+  ],
+  "inc": [
+    "Incapacitated"
+  ],
+  "grappeled": [
+    "Grappled"
+  ],
+  "reatr": [
+    "Prone"
+  ],
+  "unc": [
+    "Unconscious"
+  ],
+  "grapp": [
+    "Grappled"
+  ],
+  "incapcitated": [
+    "Incapacitated"
+  ],
+  "posioned": [
+    "Poisoned"
+  ],
+  "deaf": [
+    "Deafened"
+  ],
+  "constri": [
+    "Unconscious"
+  ],
+  "Aelar Nailo 2": [
+    "Grappled"
+  ],
+  "pet": [
+    "Petrified"
+  ],
+  "harmed": [
+    "Charmed"
+  ],
+  "Incapacitated": [
+    "Incapacitated"
+  ],
+  "unconsious": [
+    "Unconscious"
+  ],
+  "incapacitaed": [
+    "Incapacitated"
+  ],
+  "paralized": [
+    "Paralyzed"
+  ],
+  "entangled": [
+    "Restrained"
+  ],
+  "graplle": [
+    "Grappled"
+  ],
+  "frigh": [
+    "Frightened"
+  ],
+  "poisonedf": [
+    "Poisoned"
+  ],
+  "incapacitate": [
+    "Incapacitated"
+  ],
+  "restrai": [
+    "Restrained"
+  ],
+  "re": [
+    "Restrained"
+  ],
+  "frig": [
+    "Frightened"
+  ],
+  "frieght": [
+    "Frightened"
+  ],
+  "restraine": [
+    "Restrained"
+  ],
+  "Frightened": [
+    "Frightened"
+  ],
+  "paraly": [
+    "Paralyzed"
+  ],
+  "par": [
+    "Paralyzed"
+  ],
+  "incapitated": [
+    "Incapacitated"
+  ],
+  "incapc": [
+    "Incapacitated"
+  ],
+  "turned": [
+    "Frightened"
+  ],
+  "Fright": [
+    "Frightened"
+  ],
+  "grappl": [
+    "Grappled"
+  ],
+  "fea": [
+    "Frightened"
+  ],
+  "stunn": [
+    "Stunned"
+  ],
+  "deafen": [
+    "Deafened"
+  ],
+  "poisioned": [
+    "Poisoned"
+  ],
+  "restra": [
+    "Restrained"
+  ],
+  "Prometheus": [
+    "Charmed"
+  ],
+  "Invisible": [
+    "Invisible"
+  ],
+  "blindness": [
+    "Blinded"
+  ],
+  "paralyzedc": [
+    "Paralyzed"
+  ],
+  "prine": [
+    "Prone"
+  ],
+  "unconc": [
+    "Unconscious"
+  ],
+  "stunner": [
+    "Stunned"
+  ],
+  "Ember": [
+    "Blinded"
+  ],
+  "grapples": [
+    "Grappled"
+  ],
+  "condition": [
+    "Unconscious"
+  ],
+  "prime": [
+    "Prone"
+  ],
+  "Grap": [
+    "Grappled"
+  ],
+  "Blind": [
+    "Blinded"
+  ],
+  "inco": [
+    "Incapacitated"
+  ],
+  "incapacitated.": [
+    "Incapacitated"
+  ],
+  "Rest": [
+    "Restrained"
+  ],
+  "incapacited": [
+    "Incapacitated"
+  ],
+  "Alex": [
+    "Grappled"
+  ],
+  "feared": [
+    "Frightened"
+  ],
+  "cure": [
+    "Charmed"
+  ],
+  "poi": [
+    "Poisoned"
+  ],
+  "poinson": [
+    "Poisoned"
+  ],
+  "pois": [
+    "Poisoned"
+  ],
+  "frieghte": [
+    "Frightened"
+  ],
+  "probe": [
+    "Prone"
+  ],
+  "Incap": [
+    "Incapacitated"
+  ],
+  "conscious": [
+    "Unconscious"
+  ],
+  "incapacit": [
+    "Incapacitated"
+  ],
+  "Blinded": [
+    "Blinded"
+  ],
+  "freighten": [
+    "Frightened"
+  ],
+  "charmer": [
+    "Charmed"
+  ],
+  "tired": [
+    "Blinded"
+  ],
+  "exhuasted": [
+    "Charmed"
+  ],
+  "parylzation": [
+    "Paralyzed"
+  ],
+  "exavier": [
+    "Restrained"
+  ],
+  "unconsciou": [
+    "Unconscious"
+  ],
+  "defeaned": [
+    "Deafened"
+  ],
+  "swallowed": [
+    "Restrained"
+  ],
+  "restraiend": [
+    "Restrained"
+  ],
+  "Paralysed": [
+    "Paralyzed"
+  ],
+  "Prettified": [
+    "Petrified"
+  ],
+  "pron": [
+    "Prone"
+  ],
+  "Frighten": [
+    "Frightened"
+  ],
+  "Incapicitated": [
+    "Incapacitated"
+  ],
+  "o": [
+    "Poisoned"
+  ],
+  "tentacled": [
+    "Frightened"
+  ],
+  "pr": [
+    "Prone"
+  ],
+  "incapaci": [
+    "Incapacitated"
+  ],
+  "\"unconscious\"": [
+    "Unconscious"
+  ],
+  "status restrained": [
+    "Restrained"
+  ],
+  "status restrain": [
+    "Restrained"
+  ],
+  "posion": [
+    "Poisoned"
+  ],
+  "resta": [
+    "Restrained"
+  ],
+  "incomp": [
+    "Incapacitated"
+  ],
+  "restrainecd": [
+    "Restrained"
+  ],
+  "paralize": [
+    "Paralyzed"
+  ],
+  "Poisoned": [
+    "Poisoned"
+  ],
+  "frightned": [
+    "Frightened"
+  ],
+  "incompacitated": [
+    "Incapacitated"
+  ],
+  "Incapacitation": [
+    "Incapacitated"
+  ],
+  "cold": [
+    "Grappled"
+  ],
+  "Asleep": [
+    "Blinded"
+  ],
+  "hex": [
+    "Blinded"
+  ],
+  "Frigthened": [
+    "Frightened"
+  ],
+  "misty spell": [
+    "Stunned"
+  ],
+  "entagled": [
+    "Restrained"
+  ],
+  "dea": [
+    "Deafened"
+  ],
+  "petri": [
+    "Petrified"
+  ],
+  "incapas": [
+    "Incapacitated"
+  ],
+  "sk1": [
+    "Invisible"
+  ],
+  "stn": [
+    "Stunned"
+  ],
+  "restraibed": [
+    "Restrained"
+  ],
+  "Charm": [
+    "Charmed"
+  ],
+  "praarlahz": [
+    "Paralyzed"
+  ],
+  "frightnened": [
+    "Frightened"
+  ],
+  "fr": [
+    "Frightened"
+  ],
+  "Petrified": [
+    "Petrified"
+  ],
+  "drunk": [
+    "Prone"
+  ],
+  "hungover": [
+    "Unconscious"
+  ],
+  "hp-15": [
+    "Prone"
+  ],
+  "chharmed": [
+    "Charmed"
+  ],
+  "sun": [
+    "Stunned"
+  ],
+  "petr": [
+    "Petrified"
+  ],
+  "b": [
+    "Invisible"
+  ],
+  "frieghten": [
+    "Frightened"
+  ],
+  "graplled": [
+    "Grappled"
+  ],
+  "incapacita": [
+    "Incapacitated"
+  ],
+  "char": [
+    "Charmed"
+  ],
+  "unconsciosu": [
+    "Unconscious"
+  ],
+  "frightinened": [
+    "Frightened"
+  ],
+  "frighted": [
+    "Frightened"
+  ],
+  "incapicatied": [
+    "Incapacitated"
+  ],
+  "st": [
+    "Stunned"
+  ],
+  "incaspacitated": [
+    "Incapacitated"
+  ],
+  "total defense": [
+    "Frightened"
+  ],
+  "invisibility": [
+    "Invisible"
+  ],
+  "incapicitated": [
+    "Incapacitated"
+  ],
+  "ter": [
+    "Frightened"
+  ],
+  "Verglas": [
+    "Deafened"
+  ],
+  "incapacti": [
+    "Incapacitated"
+  ],
+  "Morgar": [
+    "Charmed"
+  ],
+  "belval": [
+    "Blinded"
+  ],
+  "afraid": [
+    "Frightened"
+  ],
+  "Poison": [
+    "Poisoned"
+  ],
+  "frightene": [
+    "Frightened"
+  ],
+  "grpple": [
+    "Grappled"
+  ],
+  "prone.": [
+    "Prone"
+  ],
+  "restrianed": [
+    "Restrained"
+  ],
+  "incompasitated": [
+    "Incapacitated"
+  ],
+  "aturis": [
+    "Charmed"
+  ],
+  "Unconscious": [
+    "Unconscious"
+  ],
+  "paralised": [
+    "Paralyzed"
+  ],
+  "constrained": [
+    "Restrained"
+  ],
+  "restraied": [
+    "Restrained"
+  ],
+  "stub": [
+    "Stunned"
+  ],
+  "Paralised": [
+    "Paralyzed"
+  ],
+  "rrestrained": [
+    "Restrained"
+  ],
+  "atunned": [
+    "Stunned"
+  ],
+  "freig": [
+    "Frightened"
+  ],
+  "In": [
+    "Incapacitated"
+  ],
+  "petrifi": [
+    "Petrified"
+  ],
+  "Christiana": [
+    "Charmed"
+  ],
+  "Stun": [
+    "Stunned"
+  ],
+  "paralyed": [
+    "Paralyzed"
+  ],
+  "!rule partially obscured": [
+    "Grappled"
+  ],
+  "partially obscured": [
+    "Grappled"
+  ],
+  "intoxicated": [
+    "Poisoned"
+  ],
+  "restrainted": [
+    "Restrained"
+  ],
+  "incapicatitatd": [
+    "Incapacitated"
+  ],
+  "stinned": [
+    "Stunned"
+  ],
+  "parlyzed": [
+    "Paralyzed"
+  ],
+  "ded": [
+    "Blinded"
+  ],
+  "incapicated": [
+    "Incapacitated"
+  ],
+  "invisibe": [
+    "Invisible"
+  ],
+  "grappled*": [
+    "Grappled"
+  ],
+  "charmeed": [
+    "Charmed"
+  ],
+  "gra": [
+    "Grappled"
+  ],
+  "parali": [
+    "Petrified"
+  ],
+  "blinded.": [
+    "Blinded"
+  ],
+  "Unconsious": [
+    "Unconscious"
+  ],
+  "incapictated": [
+    "Incapacitated"
+  ],
+  "insivible": [
+    "Invisible"
+  ],
+  "paralasis": [
+    "Paralyzed"
+  ],
+  "Fightened": [
+    "Frightened"
+  ],
+  "grapp;ed": [
+    "Grappled"
+  ],
+  "restained": [
+    "Restrained"
+  ],
+  "freightened": [
+    "Frightened"
+  ],
+  "restraint": [
+    "Restrained"
+  ],
+  "incapacitat": [
+    "Incapacitated"
+  ],
+  "incapped": [
+    "Incapacitated"
+  ],
+  "teri": [
+    "Frightened"
+  ],
+  "unconsc": [
+    "Unconscious"
+  ],
+  "incapacitation": [
+    "Incapacitated"
+  ],
+  "deafness": [
+    "Deafened"
+  ],
+  "frightened <@405913349264506891>": [
+    "Frightened"
+  ],
+  "petrification": [
+    "Petrified"
+  ],
+  "inconpacitated": [
+    "Incapacitated"
+  ],
+  "good": [
+    "Frightened"
+  ],
+  "aqua": [
+    "Stunned"
+  ],
+  "silenced": [
+    "Deafened"
+  ],
+  "stuned": [
+    "Stunned"
+  ],
+  "incapasitated": [
+    "Incapacitated"
+  ],
+  "Deaf": [
+    "Deafened"
+  ],
+  "dex": [
+    "Prone"
+  ],
+  "incapaca": [
+    "Incapacitated"
+  ],
+  "patalyzed": [
+    "Paralyzed"
+  ],
+  "insane": [
+    "Invisible"
+  ],
+  "hasten": [
+    "Charmed"
+  ],
+  "underwater": [
+    "Stunned"
+  ],
+  "exhaustion.": [
+    "Deafened"
+  ],
+  "Incipacitated": [
+    "Incapacitated"
+  ],
+  "Fri": [
+    "Frightened"
+  ],
+  "deafend": [
+    "Deafened"
+  ],
+  "osello": [
+    "Invisible"
+  ],
+  "beaucephalis": [
+    "Blinded"
+  ],
+  "grabbled": [
+    "Grappled"
+  ],
+  "charme": [
+    "Charmed"
+  ],
+  "semiconcious": [
+    "Unconscious"
+  ],
+  "R\u00efs": [
+    "Stunned"
+  ],
+  "desert hobo": [
+    "Deafened"
+  ],
+  "deafened desert hobo": [
+    "Petrified"
+  ],
+  "incapatitated": [
+    "Incapacitated"
+  ],
+  "invisi": [
+    "Invisible"
+  ],
+  "sunned": [
+    "Stunned"
+  ],
+  "Leto": [
+    "Petrified"
+  ],
+  "Poisoined": [
+    "Poisoned"
+  ],
+  "poisone": [
+    "Poisoned"
+  ],
+  "stunne": [
+    "Stunned"
+  ],
+  "deftness": [
+    "Deafened"
+  ],
+  "paralzyed": [
+    "Paralyzed"
+  ],
+  "blissard": [
+    "Blinded"
+  ],
+  "stunnwd": [
+    "Stunned"
+  ],
+  "restraines": [
+    "Restrained"
+  ],
+  "peone": [
+    "Prone"
+  ],
+  "feart": [
+    "Petrified"
+  ],
+  "restrainerd": [
+    "Restrained"
+  ],
+  "petrify": [
+    "Petrified"
+  ],
+  "fireball": [
+    "Paralyzed"
+  ],
+  "retrained": [
+    "Restrained"
+  ],
+  "vlinded": [
+    "Blinded"
+  ],
+  "stunded": [
+    "Stunned"
+  ],
+  "bkind": [
+    "Blinded"
+  ],
+  "fight": [
+    "Frightened"
+  ],
+  "loosened": [
+    "Poisoned"
+  ],
+  "fatigued": [
+    "Frightened"
+  ],
+  "stablised": [
+    "Restrained"
+  ],
+  "prome": [
+    "Prone"
+  ],
+  "Surprised": [
+    "Stunned"
+  ],
+  "burn": [
+    "Prone"
+  ],
+  "frozen": [
+    "Deafened"
+  ],
+  "parlaye": [
+    "Paralyzed"
+  ],
+  "dest": [
+    "Deafened"
+  ],
+  "petrif": [
+    "Petrified"
+  ],
+  "invi": [
+    "Invisible"
+  ],
+  "crit": [
+    "Restrained"
+  ],
+  "Deafened": [
+    "Deafened"
+  ],
+  "frie": [
+    "Frightened"
+  ],
+  "alert": [
+    "Grappled"
+  ],
+  "paraliz": [
+    "Paralyzed"
+  ],
+  "blinde": [
+    "Blinded"
+  ],
+  "bind": [
+    "Restrained"
+  ],
+  "stagger": [
+    "Stunned"
+  ],
+  "grappler": [
+    "Grappled"
+  ],
+  "unconsciour": [
+    "Unconscious"
+  ],
+  "paralyzsed": [
+    "Paralyzed"
+  ],
+  "incopasitated": [
+    "Incapacitated"
+  ],
+  "knocked": [
+    "Incapacitated"
+  ],
+  "frighte": [
+    "Frightened"
+  ],
+  "poision": [
+    "Poisoned"
+  ],
+  "invisibile": [
+    "Invisible"
+  ],
+  "Julie D'Aubigny": [
+    "Grappled"
+  ],
+  "shivering": [
+    "Frightened"
+  ],
+  "Blindness": [
+    "Blinded"
+  ],
+  "snared": [
+    "Restrained"
+  ],
+  "retrain": [
+    "Restrained"
+  ],
+  "paralyzes": [
+    "Paralyzed"
+  ],
+  "joe": [
+    "Prone"
+  ],
+  "friegthed": [
+    "Frightened"
+  ],
+  "petrifed": [
+    "Petrified"
+  ],
+  "Paralyze": [
+    "Paralyzed"
+  ],
+  "ibcap": [
+    "Incapacitated"
+  ],
+  "paralisis": [
+    "Paralyzed"
+  ],
+  "incapo": [
+    "Incapacitated"
+  ],
+  "concentration": [
+    "Poisoned"
+  ],
+  "paraylzed": [
+    "Paralyzed"
+  ],
+  "prone?": [
+    "Prone"
+  ],
+  "surprused": [
+    "Stunned"
+  ],
+  "grappelled": [
+    "Grappled"
+  ],
+  "grapplled": [
+    "Grappled"
+  ],
+  "pinned": [
+    "Prone"
+  ],
+  "deadened": [
+    "Deafened"
+  ],
+  "incapi": [
+    "Incapacitated"
+  ],
+  "incapacitatyed": [
+    "Incapacitated"
+  ],
+  "graple": [
+    "Grappled"
+  ],
+  "Deafend": [
+    "Deafened"
+  ],
+  "unco": [
+    "Unconscious"
+  ],
+  "petrofied": [
+    "Petrified"
+  ],
+  "stunnded": [
+    "Stunned"
+  ],
+  "grapppled": [
+    "Grappled"
+  ],
+  "unconscio": [
+    "Unconscious"
+  ],
+  "stune": [
+    "Stunned"
+  ],
+  "down": [
+    "Unconscious"
+  ],
+  "in cap": [
+    "Incapacitated"
+  ],
+  "g": [
+    "Grappled"
+  ],
+  "Frightend": [
+    "Frightened"
+  ],
+  "osion": [
+    "Poisoned"
+  ],
+  "chafm": [
+    "Charmed"
+  ],
+  "<restrained>": [
+    "Restrained"
+  ],
+  "terror": [
+    "Frightened"
+  ],
+  "restre": [
+    "Restrained"
+  ],
+  "heavily obscured": [
+    "Paralyzed"
+  ],
+  "waterboarding": [
+    "Restrained"
+  ],
+  "sight": [
+    "Frightened"
+  ],
+  "restranted": [
+    "Restrained"
+  ],
+  "incapacitatied": [
+    "Incapacitated"
+  ],
+  "suprised": [
+    "Stunned"
+  ],
+  "stu": [
+    "Stunned"
+  ],
+  "uncoscious": [
+    "Unconscious"
+  ],
+  "Frightening": [
+    "Frightened"
+  ],
+  "Drenna Dulaad": [
+    "Deafened"
+  ],
+  "sentis": [
+    "Invisible"
+  ],
+  "deafe": [
+    "Deafened"
+  ],
+  "exhau": [
+    "Exhausted"
+  ],
+  "incapactitated": [
+    "Incapacitated"
+  ],
+  "ti": [
+    "Petrified"
+  ],
+  "lightly obscured": [
+    "Blinded"
+  ],
+  "poisonec": [
+    "Poisoned"
+  ],
+  "exaushtion": [
+    "Exhausted"
+  ],
+  "AC": [
+    "Incapacitated"
+  ],
+  "incapacitatede": [
+    "Incapacitated"
+  ],
+  "d": [
+    "Charmed"
+  ],
+  "terrain": [
+    "Restrained"
+  ],
+  "restrainrd": [
+    "Restrained"
+  ],
+  "lethargy": [
+    "Exhausted"
+  ],
+  "encumbered": [
+    "Exhausted"
+  ],
+  "Deafaned": [
+    "Deafened"
+  ],
+  "fc": [
+    "Frightened"
+  ],
+  "frigthened": [
+    "Frightened"
+  ],
+  "stunmed": [
+    "Stunned"
+  ],
+  "frightne": [
+    "Frightened"
+  ],
+  "frighteneed": [
+    "Frightened"
+  ],
+  "firght": [
+    "Frightened"
+  ],
+  "Paral": [
+    "Paralyzed"
+  ],
+  "restraned": [
+    "Restrained"
+  ],
+  "ross": [
+    "Charmed"
+  ],
+  "poisn": [
+    "Poisoned"
+  ],
+  "unconciouus": [
+    "Unconscious"
+  ],
+  "Afraid": [
+    "Frightened"
+  ],
+  "ex": [
+    "Exhausted"
+  ],
+  "ristrained": [
+    "Restrained"
+  ],
+  "grapaled": [
+    "Grappled"
+  ],
+  "talec": [
+    "Grappled"
+  ],
+  "how to poison nick": [
+    "Poisoned"
+  ],
+  "<restrain>": [
+    "Restrained"
+  ],
+  "freight": [
+    "Frightened"
+  ],
+  "paralys": [
+    "Paralyzed"
+  ],
+  "incorporeal": [
+    "Prone"
+  ],
+  "poisined": [
+    "Poisoned"
+  ],
+  "Constricted": [
+    "Restrained"
+  ],
+  "exaustion": [
+    "Exhausted"
+  ],
+  "frightful presence": [
+    "Frightened"
+  ],
+  "strngthMod": [
+    "Restrained"
+  ],
+  "immobalize": [
+    "Incapacitated"
+  ],
+  "orone": [
+    "Prone"
+  ],
+  "Rythm": [
+    "Paralyzed"
+  ],
+  "ranged": [
+    "Restrained"
+  ],
+  "invisile": [
+    "Invisible"
+  ],
+  "cover": [
+    "Prone"
+  ],
+  "incqpa": [
+    "Incapacitated"
+  ],
+  "frightenend": [
+    "Frightened"
+  ],
+  "parallyzed": [
+    "Paralyzed"
+  ],
+  "exhaus": [
+    "Exhausted"
+  ],
+  "exhuastion": [
+    "Exhausted"
+  ],
+  "truesight": [
+    "Frightened"
+  ],
+  "hiden": [
+    "Poisoned"
+  ],
+  "frigtened": [
+    "Frightened"
+  ],
+  "Posion": [
+    "Poisoned"
+  ],
+  "terrified": [
+    "Frightened"
+  ],
+  "fightened": [
+    "Frightened"
+  ],
+  "downed": [
+    "Deafened"
+  ],
+  "ed": [
+    "Exhausted"
+  ],
+  "Exhausted": [
+    "Exhausted"
+  ],
+  "blind\\": [
+    "Blinded"
+  ],
+  "incapaitated": [
+    "Incapacitated"
+  ],
+  "s": [
+    "Restrained"
+  ],
+  "injury": [
+    "Paralyzed"
+  ],
+  "pronw": [
+    "Prone"
+  ],
+  "restreined": [
+    "Frightened"
+  ],
+  "fraigh": [
+    "Frightened"
+  ],
+  "exh": [
+    "Exhausted"
+  ],
+  "fea4": [
+    "Frightened"
+  ],
+  "unconcsoius": [
+    "Unconscious"
+  ],
+  "paraltyzed": [
+    "Paralyzed"
+  ],
+  "exa": [
+    "Exhausted"
+  ],
+  "prown": [
+    "Prone"
+  ],
+  "incapactiatted": [
+    "Incapacitated"
+  ],
+  "poioned": [
+    "Poisoned"
+  ],
+  "hunger": [
+    "Prone"
+  ],
+  "stunnd": [
+    "Stunned"
+  ],
+  "def": [
+    "Deafened"
+  ],
+  "pin": [
+    "Prone"
+  ],
+  "trusight": [
+    "Unconscious"
+  ],
+  "incapacitaied": [
+    "Incapacitated"
+  ],
+  "hide": [
+    "Invisible"
+  ],
+  "Freight": [
+    "Frightened"
+  ],
+  "monster": [
+    "Invisible"
+  ],
+  "<Hellrim>": [
+    "Exhausted"
+  ],
+  "Charmer": [
+    "Charmed"
+  ],
+  "Restained": [
+    "Restrained"
+  ],
+  "crawl": [
+    "Grappled"
+  ],
+  "exhastion": [
+    "Exhausted"
+  ],
+  "ensnare": [
+    "Restrained"
+  ],
+  "Down syndrome": [
+    "Prone"
+  ],
+  "jericho prone": [
+    "Prone"
+  ],
+  "feng": [
+    "Prone"
+  ],
+  "grappling": [
+    "Grappled"
+  ],
+  "Paralysis": [
+    "Paralyzed"
+  ],
+  "check": [
+    "Exhausted"
+  ],
+  "un": [
+    "Unconscious"
+  ],
+  "fat": [
+    "Exhausted"
+  ],
+  "po": [
+    "Poisoned"
+  ],
+  "exhast": [
+    "Exhausted"
+  ],
+  "blunded": [
+    "Blinded"
+  ],
+  "exauhstion": [
+    "Exhausted"
+  ],
+  "grapplr": [
+    "Grappled"
+  ],
+  "suffocating": [
+    "Unconscious"
+  ],
+  "incapati": [
+    "Incapacitated"
+  ],
+  "fighting": [
+    "Frightened"
+  ],
+  "poisojed": [
+    "Poisoned"
+  ],
+  "pala": [
+    "Paralyzed"
+  ],
+  "keratoconus": [
+    "Unconscious"
+  ],
+  "government money": [
+    "Prone"
+  ],
+  "exhausion": [
+    "Exhausted"
+  ],
+  "frifhto": [
+    "Frightened"
+  ],
+  "bloodied": [
+    "Grappled"
+  ],
+  "invisable": [
+    "Invisible"
+  ],
+  "sfdg": [
+    "Stunned"
+  ],
+  "put": [
+    "Petrified"
+  ],
+  "crappled": [
+    "Grappled"
+  ],
+  "incapacitatewd": [
+    "Incapacitated"
+  ],
+  "poisonee": [
+    "Poisoned"
+  ],
+  "stunneed": [
+    "Stunned"
+  ],
+  "frenzy": [
+    "Frightened"
+  ],
+  "r": [
+    "Restrained"
+  ],
+  "restarin": [
+    "Restrained"
+  ],
+  "Dodge": [
+    "Prone"
+  ],
+  "goblin held": [
+    "Blinded"
+  ],
+  "goblin paralyzed": [
+    "Paralyzed"
+  ],
+  "exhaustion,": [
+    "Exhausted"
+  ],
+  "resteained": [
+    "Restrained"
+  ],
+  "poisoje": [
+    "Poisoned"
+  ],
+  "gey": [
+    "Prone"
+  ],
+  "nyn underleaf": [
+    "Invisible"
+  ],
+  "Restsrained": [
+    "Restrained"
+  ],
+  "uncapaci": [
+    "Incapacitated"
+  ],
+  "exhausting": [
+    "Exhausted"
+  ],
+  "friegh": [
+    "Frightened"
+  ],
+  "sca": [
+    "Stunned"
+  ],
+  "unconsci": [
+    "Unconscious"
+  ],
+  "parayzed": [
+    "Paralyzed"
+  ],
+  "pal": [
+    "Paralyzed"
+  ],
+  "inv": [
+    "Invisible"
+  ],
+  "Restrai": [
+    "Restrained"
+  ],
+  "exausted": [
+    "Exhausted"
+  ],
+  "Exhaust": [
+    "Exhausted"
+  ],
+  "bound": [
+    "Prone"
+  ],
+  "proje": [
+    "Prone"
+  ],
+  "grapled": [
+    "Grappled"
+  ],
+  "poisonwd": [
+    "Poisoned"
+  ],
+  "constra": [
+    "Restrained"
+  ],
+  "Invisibility": [
+    "Invisible"
+  ],
+  "crippled": [
+    "Paralyzed"
+  ],
+  "DR1 poison": [
+    "Poisoned"
+  ],
+  "bl": [
+    "Blinded"
+  ],
+  "prne": [
+    "Prone"
+  ],
+  "unconsus": [
+    "Unconscious"
+  ],
+  "dizzy": [
+    "Stunned"
+  ],
+  "incacipated": [
+    "Incapacitated"
+  ],
+  "Inca": [
+    "Incapacitated"
+  ],
+  "exhaustion\\": [
+    "Exhausted"
+  ],
+  "poisond": [
+    "Poisoned"
+  ],
+  "frightened.": [
+    "Frightened"
+  ],
+  "sleeping": [
+    "Blinded"
+  ],
+  "restriedt": [
+    "Restrained"
+  ],
+  "in capacities": [
+    "Incapacitated"
+  ],
+  "dimlight": [
+    "Incapacitated"
+  ],
+  "grabbed": [
+    "Grappled"
+  ],
+  "heavily": [
+    "Paralyzed"
+  ],
+  "cha": [
+    "Charmed"
+  ],
+  "incapciatted": [
+    "Incapacitated"
+  ],
+  "deafd": [
+    "Deafened"
+  ],
+  "suffocation": [
+    "Restrained"
+  ],
+  "<blinded>": [
+    "Blinded"
+  ],
+  "blided": [
+    "Blinded"
+  ],
+  "Invis": [
+    "Invisible"
+  ]
+}

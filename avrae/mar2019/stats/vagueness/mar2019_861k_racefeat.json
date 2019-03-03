@@ -1,0 +1,3366 @@
+{
+  "darkvision": [
+    "Kobold: Darkvision",
+    "Tiefling (Levistus): Darkvision",
+    "Orc: Darkvision",
+    "Tiefling: Darkvision",
+    "Bugbear: Darkvision",
+    "Tiefling (Fierna): Darkvision",
+    "Goblin (Zendikar) (Grogtag Tribe): Darkvision",
+    "Tiefling (Zariel): Darkvision",
+    "Tiefling (Dispater): Darkvision",
+    "Half-Elf (Moon Elf or Sun Elf Descent): Darkvision",
+    "Tiefling (Mammon): Darkvision",
+    "Genasi (Fire): Darkvision",
+    "Half-Elf: Darkvision",
+    "Yuan-ti Pureblood: Darkvision",
+    "Goblin (Zendikar) (Tuktuk Tribe): Darkvision",
+    "Vampire (Zendikar): Darkvision",
+    "Half-Orc: Darkvision",
+    "Elf (Drow): Darkvision",
+    "Elf (Eladrin) (DMG): Darkvision",
+    "Elf (Shadar-kai): Darkvision",
+    "Tiefling (Variant): Darkvision",
+    "Tiefling (Mephistopheles): Darkvision",
+    "Aetherborn: Darkvision",
+    "Gnome (Forest): Darkvision",
+    "Elf (Sea): Darkvision",
+    "Gnome (Deep/Svirfneblin): Superior Darkvision",
+    "Elf (High): Darkvision",
+    "Goblin (Zendikar) (Lavastep Tribe): Darkvision",
+    "Kuo-Toa (DMG): Superior Darkvision",
+    "Simic Hybrid: Darkvision",
+    "Tiefling (Glasya): Darkvision",
+    "Tiefling (Asmodeus): Darkvision",
+    "Elf (Wood): Darkvision",
+    "Elf (Drow): Superior Darkvision",
+    "Tabaxi: Darkvision",
+    "Gnome (Deep): Superior Darkvision",
+    "Goblin: Darkvision",
+    "Tiefling (Abyssal): Darkvision",
+    "Dwarf (Hill): Darkvision",
+    "Dwarf (Kaladesh): Darkvision",
+    "Aasimar (Protector): Darkvision",
+    "Tiefling (Baalzebul): Darkvision"
+  ],
+  "age": [
+    "Kobold: Age",
+    "Triton: Age",
+    "Grung: Age",
+    "Goliath: Age",
+    "Orc: Age",
+    "Bugbear: Age",
+    "Aarakocra: Age",
+    "Human: Age",
+    "Elf (Drow): Age",
+    "Gnome (Rock): Age",
+    "Goblin: Age",
+    "Hobgoblin: Age",
+    "Half-Orc: Age",
+    "Tortle: Age",
+    "Lizardfolk: Age",
+    "Firbolg: Age",
+    "Tabaxi: Age",
+    "Dragonborn: Age",
+    "Kor: Age",
+    "Dwarf (Hill): Age",
+    "Kenku: Age",
+    "Elf (Sea): Age",
+    "Half-Elf: Age",
+    "Tiefling: Age",
+    "Genasi (Air): Age"
+  ],
+  "elf": [
+    "Elf (Sea): Trance",
+    "Elf (Drow): Trance",
+    "Elf (Wood): Age",
+    "Half-Elf: Fey Ancestry",
+    "Elf (Wood): Fey Ancestry",
+    "Elf (Sea): Size",
+    "Elf (Avariel): Alignment",
+    "Elf (Drow): Age",
+    "Elf (Grugach): Trance",
+    "Elf (Wood): Fleet of Foot",
+    "Half-Elf: Age"
+  ],
+  "aasimar": [
+    "Aasimar (Protector): Age",
+    "Aasimar (DMG): Celestial Legacy",
+    "Aasimar (Scourge): Healing Hands",
+    "Aasimar (Fallen): Necrotic Shroud",
+    "Aasimar (Fallen): Healing Hands",
+    "Aasimar (Protector): Light Bearer",
+    "Aasimar (DMG): Age",
+    "Aasimar (Protector): Radiant Soul",
+    "Aasimar (Protector): Healing Hands",
+    "Aasimar (Scourge): Radiant Consumption",
+    "Aasimar (Protector): Celestial Resistance"
+  ],
+  "halfling": [
+    "Halfling (Lightfoot): Brave",
+    "Halfling (Stout): Halfling Nimbleness",
+    "Halfling (Ghostwise): Silent Speech",
+    "Halfling (Lightfoot): Naturally Stealthy",
+    "Halfling (Lightfoot): Halfling Nimbleness",
+    "Halfling (Lightfoot): Age",
+    "Halfling (Lightfoot): Size",
+    "Halfling (Mark of Hospitality): Innkeeper's Charms",
+    "Halfling (Stout): Lucky",
+    "Halfling (Lightfoot): Lucky"
+  ],
+  "human": [
+    "Human (Mark of Making): Spellsmith",
+    "Human: Age",
+    "Human (Variant): Feat",
+    "Human (Keldon): Languages",
+    "Human (Keldon): Icehaven Born",
+    "Human: Languages",
+    "Human (Amonkhet): Feat",
+    "Human (Variant): Skills",
+    "Human (Mark of Handling): Expert Handling",
+    "Human (Mark of Sentinel): Languages"
+  ],
+  "fey": [
+    "Elf (High): Fey Ancestry",
+    "Elf (Eladrin): Fey Step",
+    "Half-Elf: Fey Ancestry",
+    "Elf (Wood): Fey Ancestry",
+    "Elf (Drow): Fey Ancestry",
+    "Elf (Eladrin): Fey Ancestry",
+    "Centaur: Fey",
+    "Elf (Sea): Fey Ancestry",
+    "Elf (Eladrin) (DMG): Fey Step"
+  ],
+  "tiefling": [
+    "Tiefling: Infernal Legacy",
+    "Tiefling (Abyssal): Age",
+    "Tiefling (Variant): Variant Feature (Choose 1)",
+    "Tiefling: Alignment",
+    "Tiefling (Variant): Size",
+    "Tiefling: Hellish Resistance",
+    "Tiefling: Age",
+    "Tiefling: Darkvision"
+  ],
+  "trance": [
+    "Elf (Sea): Trance",
+    "Elf (Drow): Trance",
+    "Elf (Eladrin): Trance",
+    "Elf (High): Trance",
+    "Elf (Avariel): Trance",
+    "Elf (Wood): Trance",
+    "Elf (Aereni): Trance"
+  ],
+  "fey ancestry": [
+    "Elf (High): Fey Ancestry",
+    "Half-Elf: Fey Ancestry",
+    "Elf (Wood): Fey Ancestry",
+    "Elf (Drow): Fey Ancestry",
+    "Elf (Eladrin) (DMG): Fey Ancestry",
+    "Elf (Avariel): Fey Ancestry",
+    "Elf (Sea): Fey Ancestry"
+  ],
+  "dragon": [
+    "Orc: Age",
+    "Dragonborn: Age",
+    "Dragonborn: Alignment",
+    "Dragonborn: Damage Resistance",
+    "Dragonborn: Breath Weapon",
+    "Dragonborn: Languages"
+  ],
+  "tabaxi": [
+    "Tabaxi: Darkvision",
+    "Tabaxi: Languages",
+    "Tabaxi: Cat's Talents",
+    "Tabaxi: Feline Agility",
+    "Tabaxi: Size",
+    "Tabaxi: Cat's Claws"
+  ],
+  "nimble": [
+    "Goblin: Nimble Escape",
+    "Halfling (Stout): Halfling Nimbleness",
+    "Firbolg: Age",
+    "Halfling (Lightfoot): Halfling Nimbleness",
+    "Goblin (GGR): Nimble Escape",
+    "Halfling (Ghostwise): Halfling Nimbleness"
+  ],
+  "dark": [
+    "Elf (Zendikar) (Mul Daya Nation): Superior Darkvision",
+    "Dwarf (Hill): Darkvision",
+    "Orc: Darkvision",
+    "Elf (Wood): Darkvision",
+    "Tiefling: Darkvision",
+    "Elf (Drow): Darkvision"
+  ],
+  "flight": [
+    "Aven: Flight",
+    "Elf (Avariel): Flight",
+    "Aven (Ibis-Headed): Flight",
+    "Aarakocra: Flight",
+    "Siren: Flight"
+  ],
+  "shifting": [
+    "Shifter (Beasthide) (UAEberron): Shifting",
+    "Shifter (Longtooth): Shifting",
+    "Shifter (Beasthide) (UAEberron): Shifting Feature",
+    "Shifter (Wildhunt): Shifting",
+    "Shifter (Swiftstride): Shifting"
+  ],
+  "powerful build": [
+    "Goliath: Powerful Build",
+    "Orc: Powerful Build",
+    "Bugbear: Powerful Build",
+    "Warforged (Juggernaut): Powerful Build",
+    "Firbolg: Powerful Build"
+  ],
+  "Fey Ancestry": [
+    "Elf (High): Fey Ancestry",
+    "Half-Elf: Fey Ancestry",
+    "Elf (Wood): Fey Ancestry",
+    "Elf (Drow): Fey Ancestry",
+    "Elf (Eladrin): Fey Ancestry"
+  ],
+  "cunning": [
+    "Lizardfolk: Cunning Artisan",
+    "Gnome (Forest): Gnome Cunning",
+    "Dwarf (Hill): Stonecunning",
+    "Vedalken (PSK): Vedalken Cunning",
+    "Gnome (Rock): Gnome Cunning"
+  ],
+  "dragonborn": [
+    "Dragonborn: Alignment",
+    "Dragonborn: Damage Resistance",
+    "Dragonborn: Breath Weapon",
+    "Dragonborn: Draconic Ancestry",
+    "Dragonborn: Languages"
+  ],
+  "drow": [
+    "Elf (Drow): Superior Darkvision",
+    "Elf (Drow): Drow Magic",
+    "Half-Elf (Drow Descent): Variant Feature (Choose 1)",
+    "Elf (Drow): Keen Senses",
+    "Elf (Drow): Darkvision"
+  ],
+  "firbolg": [
+    "Firbolg: Size",
+    "Firbolg: Firbolg Magic",
+    "Firbolg: Speech of Beast and Leaf",
+    "Firbolg: Hidden Step",
+    "Firbolg: Powerful Build"
+  ],
+  "kobold": [
+    "Kobold: Age",
+    "Kobold: Alignment",
+    "Kobold: Size",
+    "Kobold: Grovel, Cower, and Beg",
+    "Kobold (DMG): Sunlight Sensitivity"
+  ],
+  "minotaur": [
+    "Minotaur: Age",
+    "Minotaur: Goring Rush",
+    "Minotaur (Amonkhet): Age",
+    "Minotaur (Krynn): Age",
+    "Minotaur: Horns"
+  ],
+  "gnome": [
+    "Gnome (Rock): Age",
+    "Gnome (Forest): Darkvision",
+    "Gnome (Rock): Gnome Cunning",
+    "Gnome (Rock): Tinker"
+  ],
+  "orc": [
+    "Orc: Age",
+    "Half-Orc: Alignment",
+    "Half-Orc: Relentless Endurance",
+    "Half-Orc: Savage Attacks"
+  ],
+  "lucky": [
+    "Halfling (Ghostwise): Lucky",
+    "Kor: Lucky",
+    "Halfling (Stout): Lucky",
+    "Halfling (Lightfoot): Lucky"
+  ],
+  "stonecunning": [
+    "Dwarf (Duergar): Stonecunning",
+    "Gnome (Rock): Gnome Cunning",
+    "Dwarf (Mountain): Stonecunning",
+    "Dwarf (Hill): Stonecunning"
+  ],
+  "powerful": [
+    "Goliath: Powerful Build",
+    "Orc: Powerful Build",
+    "Bugbear: Powerful Build",
+    "Firbolg: Powerful Build"
+  ],
+  "stone": [
+    "Goliath: Stone's Endurance",
+    "Dwarf (Mountain): Stonecunning",
+    "Dwarf (Duergar): Stonecunning",
+    "Dwarf (Hill): Stonecunning"
+  ],
+  "integrated": [
+    "Warforged (Envoy): Integrated Protection",
+    "Warforged (Juggernaut): Integrated Protection",
+    "Warforged (Skirmisher): Integrated Protection",
+    "Warforged (Envoy): Integrated Tool"
+  ],
+  "lizardfolk": [
+    "Lizardfolk: Bite",
+    "Lizardfolk: Natural Armor",
+    "Lizardfolk: Hungry Jaws",
+    "Lizardfolk: Cunning Artisan"
+  ],
+  "goliath": [
+    "Goliath: Stone's Endurance",
+    "Goliath: Powerful Build",
+    "Goliath: Mountain Born",
+    "Goliath: Natural Athlete"
+  ],
+  "half-elf": [
+    "Half-Elf: Languages",
+    "Half-Elf: Fey Ancestry",
+    "Half-Elf (Wood Elf Descent): Variant Feature (Choose 1)",
+    "Half-Elf (Drow Descent): Alignment"
+  ],
+  "warforged": [
+    "Warforged (Envoy): Integrated Protection",
+    "Warforged (Skirmisher): Warforged Resilience",
+    "Warforged (Skirmisher): Sentry's Rest",
+    "Warforged (Envoy): Size"
+  ],
+  "natural armor": [
+    "Loxodon: Natural Armor",
+    "Lizardfolk: Natural Armor",
+    "Tortle: Natural Armor",
+    "Troglodyte (DMG): Natural Armor"
+  ],
+  "goblin": [
+    "Goblin: Nimble Escape",
+    "Goblin: Alignment",
+    "Goblin: Age",
+    "Goblin: Languages"
+  ],
+  "genasi": [
+    "Genasi (Earth): Earth Walk",
+    "Genasi (Earth): Age",
+    "Genasi (Earth): Merge with Stone",
+    "Genasi (Air): Mingle with the Wind"
+  ],
+  "Goliath": [
+    "Goliath: Stone's Endurance",
+    "Goliath: Powerful Build",
+    "Goliath: Mountain Born",
+    "Goliath: Natural Athlete"
+  ],
+  "weapon": [
+    "Minotaur (Amonkhet): Natural Weapon",
+    "Elf (High): Elf Weapon Training",
+    "Elf (Wood): Elf Weapon Training",
+    "Naga: Natural Weapons"
+  ],
+  "shifter": [
+    "Shifter (Beasthide): Age",
+    "Shifter (Longtooth): Shifting",
+    "Shifter (Longstride) (UAEberron): Languages",
+    "Shifter (Longtooth): Fierce"
+  ],
+  "friend of the sea": [
+    "Elf (Sea) (UAElfSubraces): Friend of the Sea",
+    "Triton: Emissary of the Sea",
+    "Elf (Sea): Child of the Sea",
+    "Elf (Sea): Friend of the Sea"
+  ],
+  "nimbleness": [
+    "Halfling (Lightfoot): Halfling Nimbleness",
+    "Halfling (Stout): Halfling Nimbleness",
+    "Halfling (Mark of Healing): Halfling Nimbleness"
+  ],
+  "relentless": [
+    "Orc (Ixalan): Relentless Endurance",
+    "Half-Orc: Relentless Endurance",
+    "Revenant: Relentless Nature"
+  ],
+  "healing hands": [
+    "Aasimar (Protector): Healing Hands",
+    "Aasimar (Fallen): Healing Hands",
+    "Aasimar (Scourge): Healing Hands"
+  ],
+  "resilience": [
+    "Dwarf (Hill): Dwarven Resilience",
+    "Warforged (Skirmisher): Warforged Resilience",
+    "Warforged (Juggernaut): Warforged Resilience"
+  ],
+  "darkvis": [
+    "Half-Elf: Darkvision",
+    "Genasi (Fire): Darkvision",
+    "Elf (Drow): Darkvision"
+  ],
+  "hammering horns": [
+    "Minotaur (Krynn): Hammering Horns",
+    "Minotaur: Horns",
+    "Minotaur: Hammering Horns"
+  ],
+  "mask of the wild": [
+    "Elf (Wood): Mask of the Wild",
+    "Elf (Zendikar) (Joraga Nation): Mask of the Wild",
+    "Merfolk (Ixalan) (Green): Mask of the Wild"
+  ],
+  "Trance": [
+    "Elf (High): Trance",
+    "Elf (Drow): Trance",
+    "Elf (Wood): Trance"
+  ],
+  "gnome cunning": [
+    "Gnome (Deep): Gnome Cunning",
+    "Gnome (Rock): Gnome Cunning",
+    "Gnome (Forest): Gnome Cunning"
+  ],
+  "savage": [
+    "Minotaur (Amonkhet): Savage Attacks",
+    "Orc (Ixalan): Savage Attacks",
+    "Half-Orc: Savage Attacks"
+  ],
+  "eladrin": [
+    "Elf (Eladrin): Fey Ancestry",
+    "Elf (Eladrin) (DMG): Size",
+    "Elf (Eladrin): Fey Step"
+  ],
+  "keen senses": [
+    "Elf (Shadar-kai): Keen Senses",
+    "Elf (High): Keen Senses",
+    "Elf (Wood): Keen Senses"
+  ],
+  "light": [
+    "Elf (Drow): Sunlight Sensitivity",
+    "Aasimar (Protector): Light Bearer",
+    "Aasimar (Scourge): Light Bearer"
+  ],
+  "sunlight sensitivity": [
+    "Elf (Drow): Sunlight Sensitivity",
+    "Kobold: Sunlight Sensitivity",
+    "Dwarf (Duergar): Sunlight Sensitivity"
+  ],
+  "brave": [
+    "Halfling (Stout): Brave",
+    "Halfling (Ghostwise): Brave",
+    "Halfling (Lightfoot): Brave"
+  ],
+  "half-orc": [
+    "Half-Orc: Relentless Endurance",
+    "Half-Orc: Menacing",
+    "Half-Orc: Savage Attacks"
+  ],
+  "half orc": [
+    "Half-Orc: Alignment",
+    "Half-Orc: Menacing",
+    "Half-Orc: Languages"
+  ],
+  "tortle": [
+    "Tortle: Shell Defense",
+    "Tortle: Natural Armor",
+    "Tortle: Claws"
+  ],
+  "luck": [
+    "Halfling (Ghostwise): Lucky",
+    "Halfling (Stout): Lucky",
+    "Halfling (Lightfoot): Lucky"
+  ],
+  "halfling luck": [
+    "Halfling (Ghostwise): Lucky",
+    "Halfling (Stout): Lucky",
+    "Halfling (Lightfoot): Lucky"
+  ],
+  "sunlight": [
+    "Elf (Drow): Sunlight Sensitivity",
+    "Kobold: Sunlight Sensitivity",
+    "Dwarf (Duergar): Sunlight Sensitivity"
+  ],
+  "fey anc": [
+    "Elf (High): Fey Ancestry",
+    "Half-Elf: Fey Ancestry",
+    "Elf (Wood): Fey Ancestry"
+  ],
+  "scourge": [
+    "Aasimar (Scourge): Radiant Consumption",
+    "Aasimar (Scourge): Size",
+    "Aasimar (Scourge): Light Bearer"
+  ],
+  "changeling": [
+    "Changeling: Change Appearance",
+    "Changeling: Unsettling Visage",
+    "Changeling (UAEberron): Shapechanger"
+  ],
+  "Lucky": [
+    "Halfling (Mark of Healing): Lucky",
+    "Halfling (Stout): Lucky",
+    "Halfling (Lightfoot): Lucky"
+  ],
+  "centaur": [
+    "Centaur: Charge",
+    "Centaur: Equine Build",
+    "Centaur: Hooves"
+  ],
+  "sentry": [
+    "Warforged (Envoy): Sentry's Rest",
+    "Warforged (Juggernaut): Sentry's Rest",
+    "Warforged (Skirmisher): Sentry's Rest"
+  ],
+  "hobgoblin": [
+    "Hobgoblin (DMG): Languages",
+    "Hobgoblin: Age",
+    "Hobgoblin: Saving Face"
+  ],
+  "triton": [
+    "Triton: Control Air and Water",
+    "Triton: Languages",
+    "Triton: Guardians of the Depths"
+  ],
+  "dwarf": [
+    "Dwarf (Hill): Dwarven Resilience",
+    "Dwarf (Hill): Tool Proficiency",
+    "Dwarf (Hill): Stonecunning"
+  ],
+  "elf weapon training": [
+    "Elf (High): Elf Weapon Training",
+    "Elf (Wood): Elf Weapon Training",
+    "Elf (Eladrin) (DMG): Elf Weapon Training"
+  ],
+  "extra language": [
+    "Centaur: Languages",
+    "Elf (Aereni): Extra Language",
+    "Elf (High): Extra Language"
+  ],
+  "integrated protection": [
+    "Warforged (Envoy): Integrated Protection",
+    "Warforged (Juggernaut): Integrated Protection",
+    "Warforged (Skirmisher): Integrated Protection"
+  ],
+  "Darkvision": [
+    "Half-Elf: Darkvision",
+    "Orc: Darkvision",
+    "Tiefling: Darkvision"
+  ],
+  "weapon training": [
+    "Elf (High): Elf Weapon Training",
+    "Khenra: Khenra Weapon Training",
+    "Kenku: Kenku Training"
+  ],
+  "speed": [
+    "Dwarf (Hill): Speed",
+    "Naga: Speed Burst"
+  ],
+  "healing": [
+    "Aasimar (Protector): Healing Hands",
+    "Aasimar (Fallen): Healing Hands"
+  ],
+  "breath": [
+    "Dragonborn: Breath Weapon",
+    "Tortle: Hold Breath"
+  ],
+  "fey step": [
+    "Elf (Eladrin): Fey Step",
+    "Elf (Eladrin) (DMG): Fey Step"
+  ],
+  "celestial resistance": [
+    "Aasimar (Fallen): Celestial Resistance",
+    "Aasimar (DMG): Celestial Resistance"
+  ],
+  "infernal legacy": [
+    "Tiefling: Infernal Legacy",
+    "Tiefling (Asmodeus): Infernal Legacy"
+  ],
+  "pack tatics": [
+    "Kobold: Pack Tactics",
+    "Kobold (DMG): Pack Tactics"
+  ],
+  "fleet of foot": [
+    "Elf (Wood): Fleet of Foot",
+    "Elf (Valenar): Fleet of Foot"
+  ],
+  "mask": [
+    "Elf (Wood): Mask of the Wild",
+    "Elf (Zendikar) (Joraga Nation): Mask of the Wild"
+  ],
+  "fey ances": [
+    "Half-Elf: Fey Ancestry",
+    "Elf (Drow): Fey Ancestry"
+  ],
+  "dwarven resilience": [
+    "Dwarf (Mountain): Dwarven Resilience",
+    "Dwarf (Hill): Dwarven Resilience"
+  ],
+  "fury": [
+    "Goblin: Fury of the Small",
+    "Goblin (GGR): Fury of the Small"
+  ],
+  "pack": [
+    "Kobold: Pack Tactics",
+    "Kobold (DMG): Pack Tactics"
+  ],
+  "warforged resilience": [
+    "Warforged (Envoy): Warforged Resilience",
+    "Warforged (Juggernaut): Warforged Resilience"
+  ],
+  "Stone": [
+    "Dwarf (Mountain): Stonecunning",
+    "Dwarf (Hill): Stonecunning"
+  ],
+  "fury of the small": [
+    "Goblin: Fury of the Small",
+    "Goblin (GGR): Fury of the Small"
+  ],
+  "naga": [
+    "Naga: Natural Weapons",
+    "Naga: Speed Burst"
+  ],
+  "endurance": [
+    "Goliath: Stone's Endurance",
+    "Half-Orc: Relentless Endurance"
+  ],
+  "bite": [
+    "Gnoll (DMG): Bite",
+    "Lizardfolk: Bite"
+  ],
+  "claw": [
+    "Tabaxi: Cat's Claws",
+    "Tortle: Claws"
+  ],
+  "radiant": [
+    "Aasimar (Scourge): Radiant Consumption",
+    "Aasimar (Protector): Radiant Soul"
+  ],
+  "skill versatility": [
+    "Half-Elf (Aquatic Elf Descent): Skill Versatility",
+    "Half-Elf: Skill Versatility"
+  ],
+  "savage attack": [
+    "Minotaur (Amonkhet): Savage Attacks",
+    "Half-Orc: Savage Attacks"
+  ],
+  "Blessing of the Raven Queen": [
+    "Elf (Shadar-kai) (UAElfSubraces): Blessing of the Raven Queen",
+    "Elf (Shadar-kai): Blessing of the Raven Queen"
+  ],
+  "fey ancestery": [
+    "Elf (High): Fey Ancestry",
+    "Elf (Wood): Fey Ancestry"
+  ],
+  "integ": [
+    "Warforged (Envoy): Integrated Protection",
+    "Warforged (Skirmisher): Integrated Protection"
+  ],
+  "claws": [
+    "Tabaxi: Cat's Claws",
+    "Tortle: Claws"
+  ],
+  "pack tactics": [
+    "Kobold: Pack Tactics",
+    "Kobold (DMG): Pack Tactics"
+  ],
+  "bugbear": [
+    "Bugbear: Surprise Attack",
+    "Bugbear: Powerful Build"
+  ],
+  "Firbolg": [
+    "Firbolg: Firbolg Magic",
+    "Firbolg: Hidden Step"
+  ],
+  "Integrated Protection": [
+    "Warforged (Envoy): Integrated Protection",
+    "Warforged (Skirmisher): Integrated Protection"
+  ],
+  "mimicry": [
+    "Kenku: Mimicry",
+    "Kenku (DMG): Mimicry"
+  ],
+  "vampire": [
+    "Vampire (Ixalan): Feast of Blood",
+    "Vampire (Zendikar): Blood Thirst"
+  ],
+  "innate spellcasting": [
+    "Gnome (Deep) (DMG): Innate Spellcasting",
+    "Yuan-ti Pureblood: Innate Spellcasting"
+  ],
+  "agg": [
+    "Orc (DMG): Aggressive",
+    "Orc: Aggressive"
+  ],
+  "shift": [
+    "Shifter (Beasthide): Shifting",
+    "Shifter (Swiftstride): Shifting Feature"
+  ],
+  "superior darkvision": [
+    "Elf (Drow): Superior Darkvision",
+    "Kuo-Toa (DMG): Superior Darkvision"
+  ],
+  "Fey Step": [
+    "Elf (Eladrin): Fey Step",
+    "Elf (Eladrin) (DMG): Fey Step"
+  ],
+  "Fury of the Small": [
+    "Goblin: Fury of the Small",
+    "Goblin (GGR): Fury of the Small"
+  ],
+  "lizard": [
+    "Lizardfolk: Natural Armor",
+    "Lizardfolk: Cunning Artisan"
+  ],
+  "aarakocra": [
+    "Aarakocra: Flight",
+    "Aarakocra: Talons"
+  ],
+  "fey an": [
+    "Elf (High): Fey Ancestry",
+    "Half-Elf: Fey Ancestry"
+  ],
+  "Healing Hands": [
+    "Aasimar (Protector): Healing Hands",
+    "Aasimar (Fallen): Healing Hands"
+  ],
+  "healing hand": [
+    "Aasimar (Fallen): Healing Hands",
+    "Aasimar (Scourge): Healing Hands"
+  ],
+  "skill": [
+    "Half-Elf: Skill Versatility",
+    "Human (Variant): Skills"
+  ],
+  "halfelf": [
+    "Half-Elf: Darkvision",
+    "Half-Elf: Alignment"
+  ],
+  "stout": [
+    "Halfling (Stout): Stout Resilience",
+    "Halfling (Stout): Lucky"
+  ],
+  "keen": [
+    "Elf (Drow): Keen Senses",
+    "Loxodon: Keen Smell"
+  ],
+  "kenku": [
+    "Kenku: Expert Forgery",
+    "Kenku: Kenku Training"
+  ],
+  "stone cunning": [
+    "Dwarf (Mountain): Stonecunning",
+    "Dwarf (Hill): Stonecunning"
+  ],
+  "specialized design": [
+    "Warforged (Envoy): Specialized Design",
+    "Warforged (Envoy): Envoys: Specialized Design"
+  ],
+  "Shifting": [
+    "Shifter (Wildhunt): Shifting Feature",
+    "Shifter (Wildhunt): Shifting"
+  ],
+  "feystep": [
+    "Elf (Eladrin): Fey Step",
+    "Elf (Eladrin) (DMG): Fey Step"
+  ],
+  "halfling nimbleness": [
+    "Halfling (Lightfoot): Halfling Nimbleness",
+    "Halfling (Ghostwise): Halfling Nimbleness"
+  ],
+  "gnome cun": [
+    "Gnome (Rock): Gnome Cunning",
+    "Gnome (Forest): Gnome Cunning"
+  ],
+  "yuan": [
+    "Yuan-ti Pureblood: Magic Resistance",
+    "Yuan-ti Pureblood: Innate Spellcasting"
+  ],
+  "build": [
+    "Orc: Powerful Build",
+    "Firbolg: Powerful Build"
+  ],
+  "dark vision": [
+    "Orc: Darkvision",
+    "Bugbear: Darkvision"
+  ],
+  "legacy": [
+    "Tiefling: Infernal Legacy",
+    "Tiefling (Baalzebul): Legacy of Maladomini"
+  ],
+  "gnome cunn": [
+    "Gnome (Deep/Svirfneblin): Gnome Cunning",
+    "Gnome (Rock): Gnome Cunning"
+  ],
+  "hellish legacy": [
+    "Tiefling: Infernal Legacy",
+    "Tiefling: Hellish Resistance"
+  ],
+  "Brave": [
+    "Halfling (Stout): Brave",
+    "Halfling (Lightfoot): Brave"
+  ],
+  "high elf": [
+    "Elf (High): Trance",
+    "Half-Elf: Size"
+  ],
+  "high": [
+    "Elf (High): Elf Weapon Training",
+    "Elf (High): Fey Ancestry"
+  ],
+  "dwarven": [
+    "Dwarf (Hill): Dwarven Resilience",
+    "Dwarf (Hill): Dwarven Combat Training"
+  ],
+  "duer": [
+    "Dwarf (Duergar): Duergar Resilience",
+    "Dwarf (Duergar): Duergar Magic"
+  ],
+  "sunlight sens": [
+    "Elf (Drow): Sunlight Sensitivity",
+    "Kobold: Sunlight Sensitivity"
+  ],
+  "language": [
+    "Aarakocra: Language",
+    "Bugbear: Languages"
+  ],
+  "natural": [
+    "Naga: Natural Weapons",
+    "Halfling (Lightfoot): Naturally Stealthy"
+  ],
+  "grit": [
+    "Goblin (Zendikar) (Tuktuk Tribe): Grit",
+    "Goblin (Zendikar) (Lavastep Tribe): Lavastep Grit"
+  ],
+  "simic": [
+    "Simic Hybrid: Animal Enhancement",
+    "Simic Hybrid: Alignment"
+  ],
+  "dragonbreath": [
+    "Dragonborn: Breath Weapon",
+    "Dragonborn: Age"
+  ],
+  "breath attack": [
+    "Bugbear: Surprise Attack",
+    "Orc (Ixalan): Savage Attacks"
+  ],
+  "power": [
+    "Goliath: Powerful Build",
+    "Firbolg: Powerful Build"
+  ],
+  "magic": [
+    "Yuan-ti Pureblood: Magic Resistance",
+    "Elf (Drow): Drow Magic"
+  ],
+  "training": [
+    "Hobgoblin: Martial Training",
+    "Elf (Drow): Drow Weapon Training"
+  ],
+  "protector": [
+    "Aasimar (Protector): Healing Hands",
+    "Aasimar (Protector): Radiant Soul"
+  ],
+  "githzerai": [
+    "Gith (Githzerai): Githzerai Psionics",
+    "Gith (Githzerai): Alignment"
+  ],
+  "stonecunn": [
+    "Dwarf (Mountain): Stonecunning",
+    "Dwarf (Hill): Stonecunning"
+  ],
+  "infernal": [
+    "Tiefling: Infernal Legacy",
+    "Tiefling (Asmodeus): Infernal Legacy"
+  ],
+  "Healing Light": [
+    "Halfling (Lightfoot): Size",
+    "Changeling: Alignment"
+  ],
+  "High Elf": [
+    "Elf (High): Age",
+    "Elf (High): Size"
+  ],
+  "psionics": [
+    "Gith (Githyanki): Githyanki Psionics",
+    "Gith (Githzerai): Githzerai Psionics"
+  ],
+  "versatility": [
+    "Half-Elf (Wood Elf Descent): Skill Versatility",
+    "Half-Elf: Skill Versatility"
+  ],
+  "ancestry": [
+    "Half-Elf: Fey Ancestry",
+    "Elf (Wood): Fey Ancestry"
+  ],
+  "Pack tactics": [
+    "Kobold: Pack Tactics",
+    "Kobold (DMG): Pack Tactics"
+  ],
+  "languages": [
+    "Elf (Wood): Languages",
+    "Kenku: Languages"
+  ],
+  "elven accuracy": [
+    "Revenant: Revenant Subrace",
+    "Elf (Valenar): Fey Ancestry"
+  ],
+  "armor": [
+    "Loxodon: Natural Armor",
+    "Tortle: Natural Armor"
+  ],
+  "Fey ancestry": [
+    "Elf (High): Fey Ancestry",
+    "Half-Elf: Fey Ancestry"
+  ],
+  "+2 dex": [
+    "Elf (Drow): Age",
+    "Kor: Age"
+  ],
+  "fey anchestry": [
+    "Elf (Sea): Fey Ancestry",
+    "Half-Elf: Fey Ancestry"
+  ],
+  "breath weapon": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "reach": [
+    "Genasi (Fire): Reach to the Blaze"
+  ],
+  "Infer": [
+    "Tiefling: Infernal Legacy"
+  ],
+  "brea": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "Elf (Wood): Mask of the Wild": [
+    "Elf (Wood): Mask of the Wild"
+  ],
+  "floght": [
+    "Siren: Flight"
+  ],
+  "Relentless Endurance": [
+    "Half-Orc: Relentless Endurance"
+  ],
+  "stealth": [
+    "Halfling (Lightfoot): Naturally Stealthy"
+  ],
+  "hellish": [
+    "Tiefling: Hellish Resistance"
+  ],
+  "nimble escape": [
+    "Goblin: Nimble Escape"
+  ],
+  "stunning": [
+    "Dwarf (Hill): Stonecunning"
+  ],
+  "feast": [
+    "Vampire (Ixalan): Feast of Blood"
+  ],
+  "Radiant Shroud": [
+    "Aasimar (Protector): Radiant Soul"
+  ],
+  "necrotic shroud": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "gnomish cunning": [
+    "Gnome (Forest): Gnome Cunning"
+  ],
+  "Gnome Cunning": [
+    "Gnome (Forest): Gnome Cunning"
+  ],
+  "dual mind": [
+    "Kalashtar: Dual Mind"
+  ],
+  "grovel": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "dwarf toughness": [
+    "Dwarf (Hill): Dwarven Toughness"
+  ],
+  "seasons": [
+    "Elf (Eladrin) (UAEladrinAndGith): Shifting Seasons"
+  ],
+  "Grovel": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "Speak with Small Beasts": [
+    "Gnome (Forest): Speak with Small Beasts"
+  ],
+  "mark the scent": [
+    "Shifter (Wildhunt): Mark the Scent"
+  ],
+  "Haffling Lightfoot": [
+    "Halfling (Lightfoot): Lucky"
+  ],
+  "halfling lightfoot": [
+    "Halfling (Lightfoot): Brave"
+  ],
+  "hungry": [
+    "Lizardfolk: Hungry Jaws"
+  ],
+  "mountain": [
+    "Goliath: Mountain Born"
+  ],
+  "infernal heritage": [
+    "Tiefling: Infernal Legacy"
+  ],
+  "blessing of the raven queen": [
+    "Elf (Shadar-kai): Blessing of the Raven Queen"
+  ],
+  "necrotic shro": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "stones endurance": [
+    "Goliath: Stone's Endurance"
+  ],
+  "mountain born": [
+    "Goliath: Mountain Born"
+  ],
+  "Shifter shifting": [
+    "Shifter (Swiftstride): Shifting"
+  ],
+  "Shifter (Swiftstride): Shifting": [
+    "Shifter (Swiftstride): Shifting"
+  ],
+  "shifter (Swiftstride): Shifting feature": [
+    "Shifter (Swiftstride): Shifting Feature"
+  ],
+  "radiant soul": [
+    "Aasimar (Protector): Radiant Soul"
+  ],
+  "tinker": [
+    "Gnome (Rock): Tinker"
+  ],
+  "pac": [
+    "Kobold: Pack Tactics"
+  ],
+  "legacy of": [
+    "Tiefling (Zariel): Legacy of Avernus"
+  ],
+  "aasimar darkvision": [
+    "Aasimar (Fallen): Darkvision"
+  ],
+  "Vedalken": [
+    "Vedalken (PSK): Vedalken Cunning"
+  ],
+  "precision": [
+    "Vedalken: Tireless Precision"
+  ],
+  "severed": [
+    "Kalashtar: Severed from Dreams"
+  ],
+  "kenku tra": [
+    "Kenku: Kenku Training"
+  ],
+  "martial training": [
+    "Hobgoblin: Martial Training"
+  ],
+  "hidden step": [
+    "Firbolg: Hidden Step"
+  ],
+  "speech of": [
+    "Firbolg: Speech of Beast and Leaf"
+  ],
+  "guardian of": [
+    "Triton: Guardians of the Depths"
+  ],
+  "aggressive": [
+    "Orc: Aggressive"
+  ],
+  "agression": [
+    "Orc: Aggressive"
+  ],
+  "changeling instincts": [
+    "Changeling: Changeling Instincts"
+  ],
+  "survivor": [
+    "Centaur: Survivor"
+  ],
+  "survival inst": [
+    "Tortle: Survival Instinct"
+  ],
+  "emissary": [
+    "Triton: Emissary of the Sea"
+  ],
+  "tireless": [
+    "Vedalken: Tireless Precision"
+  ],
+  "Hellish": [
+    "Tiefling: Hellish Resistance"
+  ],
+  "stone's": [
+    "Goliath: Stone's Endurance"
+  ],
+  "martian train": [
+    "Hobgoblin: Martial Training"
+  ],
+  "savage attacks": [
+    "Half-Orc: Savage Attacks"
+  ],
+  "hunter's lore": [
+    "Lizardfolk: Hunter's Lore"
+  ],
+  "swim": [
+    "Genasi (Water): Swim"
+  ],
+  "earth walk": [
+    "Genasi (Earth): Earth Walk"
+  ],
+  "extra lang": [
+    "Elf (High): Extra Language"
+  ],
+  "survival": [
+    "Tortle: Survival Instinct"
+  ],
+  "elfish weapon": [
+    "Elf (High): Elf Weapon Training"
+  ],
+  "skill versa": [
+    "Half-Elf: Skill Versatility"
+  ],
+  "guardian": [
+    "Triton: Guardians of the Depths"
+  ],
+  "long-armed": [
+    "Bugbear: Long-Limbed"
+  ],
+  "human darkvision": [
+    "Half-Elf: Darkvision"
+  ],
+  "Divergent Persona": [
+    "Changeling: Divergent Persona"
+  ],
+  "mark": [
+    "Human (Mark of Passage): Shared Passage"
+  ],
+  "drow magic": [
+    "Elf (Drow): Drow Magic"
+  ],
+  "hungry jaws": [
+    "Lizardfolk: Hungry Jaws"
+  ],
+  "shared": [
+    "Human (Mark of Passage): Shared Passage"
+  ],
+  "cour": [
+    "Human (Mark of Passage): Courier's Speed"
+  ],
+  "imprint": [
+    "Human (Mark of Finding): Imprint Prey"
+  ],
+  "Mind Link": [
+    "Kalashtar: Mind Link"
+  ],
+  "long limbed": [
+    "Bugbear: Long-Limbed"
+  ],
+  "owerful build": [
+    "Goliath: Powerful Build"
+  ],
+  "magic resistance": [
+    "Yuan-ti Pureblood: Magic Resistance"
+  ],
+  "Stone's Endurance": [
+    "Goliath: Stone's Endurance"
+  ],
+  "naga: natural": [
+    "Naga: Natural Weapons"
+  ],
+  "Speech of Beast and Leaf": [
+    "Firbolg: Speech of Beast and Leaf"
+  ],
+  "unset": [
+    "Changeling: Unsettling Visage"
+  ],
+  "hellish resistance": [
+    "Tiefling: Hellish Resistance"
+  ],
+  "Feline Agility": [
+    "Tabaxi: Feline Agility"
+  ],
+  "Cat\u2019s Talent": [
+    "Tabaxi: Cat's Talents"
+  ],
+  "merge": [
+    "Genasi (Earth): Merge with Stone"
+  ],
+  "merge with wind": [
+    "Genasi (Air): Mingle with the Wind"
+  ],
+  "githyanki": [
+    "Gith (Githyanki): Githyanki Psionics"
+  ],
+  "beg": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "visage": [
+    "Changeling: Unsettling Visage"
+  ],
+  "stones": [
+    "Tortle: Size"
+  ],
+  "trunk": [
+    "Loxodon: Trunk"
+  ],
+  "Grovel, Cower, and Be.": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "stone camouflage": [
+    "Gnome (Deep/Svirfneblin): Stone Camouflage"
+  ],
+  "grovel, cower": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "stone's endurance": [
+    "Goliath: Stone's Endurance"
+  ],
+  "agility": [
+    "Tabaxi: Feline Agility"
+  ],
+  "blessing": [
+    "Elf (Shadar-kai): Blessing of the Raven Queen"
+  ],
+  "raven queen's blessing": [
+    "Revenant: Relentless Nature"
+  ],
+  "divergent persona": [
+    "Changeling: Divergent Persona"
+  ],
+  "talent": [
+    "Tabaxi: Cat's Talents"
+  ],
+  "Unsettling": [
+    "Changeling: Unsettling Visage"
+  ],
+  "dragon breathe": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "cats talents": [
+    "Tabaxi: Cat's Talents"
+  ],
+  "necro": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "reach to the blaze": [
+    "Genasi (Fire): Reach to the Blaze"
+  ],
+  "radiant consumption": [
+    "Aasimar (Scourge): Radiant Consumption"
+  ],
+  "relentless endurance": [
+    "Half-Orc: Relentless Endurance"
+  ],
+  "restless nature": [
+    "Revenant: Relentless Nature"
+  ],
+  "Cower, Grovel, Beg": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "cat": [
+    "Tabaxi: Cat's Claws"
+  ],
+  "Divergent": [
+    "Changeling: Divergent Persona"
+  ],
+  "magic resis": [
+    "Yuan-ti Pureblood: Magic Resistance"
+  ],
+  "Radiant soul": [
+    "Aasimar (Protector): Radiant Soul"
+  ],
+  "breath weap": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "dragon breath": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "cats claws": [
+    "Tabaxi: Cat's Claws"
+  ],
+  "Elf (Eladrin): Fey Step": [
+    "Elf (Eladrin): Fey Step"
+  ],
+  "styg": [
+    "Tiefling (Levistus): Legacy of Stygia"
+  ],
+  "jaws": [
+    "Lizardfolk: Hungry Jaws"
+  ],
+  "keen seanses": [
+    "Elf (Sea): Keen Senses"
+  ],
+  "fallen": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "Halfling luck": [
+    "Halfling (Lightfoot): Lucky"
+  ],
+  "natural illusionist": [
+    "Gnome (Forest): Natural Illusionist"
+  ],
+  "Halfling": [
+    "Halfling (Ghostwise): Lucky"
+  ],
+  "cat's claws": [
+    "Tabaxi: Cat's Claws"
+  ],
+  "Feline's agility": [
+    "Tabaxi: Feline Agility"
+  ],
+  "halfling lucky": [
+    "Halfling (Stout): Lucky"
+  ],
+  "blindsight": [
+    "Grimlock (DMG): Blindsight"
+  ],
+  "change appearance": [
+    "Changeling: Change Appearance"
+  ],
+  "artif": [
+    "Gnome (Rock): Artificer's Lore"
+  ],
+  "blessing of the raven": [
+    "Elf (Shadar-kai): Blessing of the Raven Queen"
+  ],
+  "tinke": [
+    "Gnome (Rock): Tinker"
+  ],
+  "Speak with animals": [
+    "Gnome (Forest): Speak with Small Beasts"
+  ],
+  "\"change appearance\"": [
+    "Changeling: Change Appearance"
+  ],
+  "powerf": [
+    "Goliath: Powerful Build"
+  ],
+  "necrotic": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "dwarven toughness": [
+    "Dwarf (Hill): Dwarven Toughness"
+  ],
+  "infernal legac": [
+    "Tiefling (Asmodeus): Infernal Legacy"
+  ],
+  "saving face": [
+    "Hobgoblin: Saving Face"
+  ],
+  "Savage attacks": [
+    "Half-Orc: Savage Attacks"
+  ],
+  "\"fey ancestry\"": [
+    "Elf (Wood): Fey Ancestry"
+  ],
+  "light bearer": [
+    "Aasimar (Fallen): Light Bearer"
+  ],
+  "Hellish Resistance": [
+    "Tiefling: Hellish Resistance"
+  ],
+  "Dwarven Combat Training": [
+    "Dwarf (Hill): Dwarven Combat Training"
+  ],
+  "severed from dreams": [
+    "Kalashtar: Severed from Dreams"
+  ],
+  "hidden": [
+    "Firbolg: Hidden Step"
+  ],
+  "fey descendance": [
+    "Half-Elf (Drow Descent): Fey Ancestry"
+  ],
+  "ghostwise": [
+    "Halfling (Ghostwise): Silent Speech"
+  ],
+  "critical": [
+    "Orc: Age"
+  ],
+  "draconic": [
+    "Dragonborn: Draconic Ancestry"
+  ],
+  "mingle with the wind": [
+    "Genasi (Air): Mingle with the Wind"
+  ],
+  "silent": [
+    "Halfling (Ghostwise): Silent Speech"
+  ],
+  "Dwarven Resilience": [
+    "Dwarf (Hill): Dwarven Resilience"
+  ],
+  "feline": [
+    "Tabaxi: Feline Agility"
+  ],
+  "orcish": [
+    "Orc: Menacing"
+  ],
+  "breathweapon": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "strong swimmer": [
+    "Triton: Swim Speed"
+  ],
+  "Dragon Breath": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "elf (high) trance": [
+    "Elf (High): Trance"
+  ],
+  "githyanki psi": [
+    "Gith (Githyanki): Githyanki Psionics"
+  ],
+  "Extra Cantrip": [
+    "Elf (High): Cantrip"
+  ],
+  "pact tactics": [
+    "Kobold: Pack Tactics"
+  ],
+  "changeling change appearance": [
+    "Changeling: Change Appearance"
+  ],
+  "speak": [
+    "Gnome (Forest): Speak with Small Beasts"
+  ],
+  "animal": [
+    "Simic Hybrid: Animal Enhancement"
+  ],
+  "Necrotic Shroud": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "artificers lore": [
+    "Gnome (Rock): Artificer's Lore"
+  ],
+  "shroud": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "charge": [
+    "Centaur: Charge"
+  ],
+  "integrated prot": [
+    "Warforged (Juggernaut): Integrated Protection"
+  ],
+  "unsettling visage": [
+    "Changeling: Unsettling Visage"
+  ],
+  "unsettling": [
+    "Changeling: Unsettling Visage"
+  ],
+  "kobold grovel": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "packtactics": [
+    "Kobold: Pack Tactics"
+  ],
+  "cower grovel and beg": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "Rejenac": [
+    "Elf (Aereni): Trance"
+  ],
+  "sneaky": [
+    "Bugbear: Sneaky"
+  ],
+  "loxo": [
+    "Loxodon: Trunk"
+  ],
+  "control wind and water": [
+    "Triton: Control Air and Water"
+  ],
+  "naturally Stealthy": [
+    "Halfling (Lightfoot): Naturally Stealthy"
+  ],
+  "elf (high)": [
+    "Elf (High): Darkvision"
+  ],
+  "Stone\u2019s Endurance": [
+    "Goliath: Stone's Endurance"
+  ],
+  "stonecun": [
+    "Dwarf (Hill): Stonecunning"
+  ],
+  "gaze of the gorgon": [
+    "Goliath: Mountain Born"
+  ],
+  "cunning artisan": [
+    "Lizardfolk: Cunning Artisan"
+  ],
+  "hawkeyed": [
+    "Aven: Hawkeyed"
+  ],
+  "lightning breath": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "draconic ancestry": [
+    "Dragonborn: Draconic Ancestry"
+  ],
+  "artisan": [
+    "Lizardfolk: Cunning Artisan"
+  ],
+  "superior": [
+    "Elf (Drow): Superior Darkvision"
+  ],
+  "stone'd endurance": [
+    "Goliath: Stone's Endurance"
+  ],
+  "half elf darkvision": [
+    "Half-Elf: Darkvision"
+  ],
+  "firbolg magic": [
+    "Firbolg: Firbolg Magic"
+  ],
+  "cat claws": [
+    "Tabaxi: Cat's Claws"
+  ],
+  "aether": [
+    "Vedalken (PSK): Aether Lore"
+  ],
+  "dragon strength": [
+    "Dragonborn: Alignment"
+  ],
+  "necrotic shrows": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "f": [
+    "Aarakocra: Flight"
+  ],
+  "Stonecunning": [
+    "Dwarf (Hill): Stonecunning"
+  ],
+  "Feline": [
+    "Tabaxi: Feline Agility"
+  ],
+  "cat's claw": [
+    "Tabaxi: Cat's Claws"
+  ],
+  "water": [
+    "Grung: Water Dependency"
+  ],
+  "Drow High Magic": [
+    "Elf (Drow): Drow Magic"
+  ],
+  "goring": [
+    "Minotaur: Goring Rush"
+  ],
+  "speech of beasts and leafs": [
+    "Firbolg: Speech of Beast and Leaf"
+  ],
+  "Fury of the small": [
+    "Goblin: Fury of the Small"
+  ],
+  "Artificer's Lore": [
+    "Gnome (Rock): Artificer's Lore"
+  ],
+  "nimbleescape": [
+    "Goblin: Nimble Escape"
+  ],
+  "shell defense": [
+    "Tortle: Shell Defense"
+  ],
+  "dueregar resistance": [
+    "Dwarf (Duergar): Duergar Resilience"
+  ],
+  "shapechange": [
+    "Changeling (UAEberron): Shapechanger"
+  ],
+  "large build": [
+    "Goliath: Powerful Build"
+  ],
+  "drac": [
+    "Dragonborn: Draconic Ancestry"
+  ],
+  "raven queen": [
+    "Elf (Shadar-kai): Blessing of the Raven Queen"
+  ],
+  "half": [
+    "Half-Elf (Aquatic Elf Descent): Variant Feature (Choose 1)"
+  ],
+  "stealthy": [
+    "Halfling (Lightfoot): Naturally Stealthy"
+  ],
+  "stone endurance": [
+    "Goliath: Stone's Endurance"
+  ],
+  "grovel cower and beg": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "mountainborn": [
+    "Goliath: Mountain Born"
+  ],
+  "goblin size": [
+    "Goblin: Size"
+  ],
+  "firebolg size": [
+    "Firbolg: Size"
+  ],
+  "speech": [
+    "Firbolg: Speech of Beast and Leaf"
+  ],
+  "Radiant": [
+    "Aasimar (Protector): Radiant Soul"
+  ],
+  "anima enhancement": [
+    "Simic Hybrid: Animal Enhancement"
+  ],
+  "dwarven resiliance": [
+    "Dwarf (Hill): Dwarven Resilience"
+  ],
+  "elves": [
+    "Elf (Avariel): Size"
+  ],
+  "saving": [
+    "Hobgoblin: Saving Face"
+  ],
+  "unending": [
+    "Genasi (Air): Unending Breath"
+  ],
+  "Fey ance": [
+    "Elf (Drow): Fey Ancestry"
+  ],
+  "tink": [
+    "Gnome (Rock): Tinker"
+  ],
+  "Mask of the wild": [
+    "Elf (Wood): Mask of the Wild"
+  ],
+  "dwarfen": [
+    "Dwarf (Hill): Age"
+  ],
+  "dwarfen resilience": [
+    "Dwarf (Hill): Dwarven Resilience"
+  ],
+  "tiefling darkvioson": [
+    "Tiefling: Darkvision"
+  ],
+  "courage": [
+    "Minotaur: Age"
+  ],
+  "fey  ancestry": [
+    "Half-Elf: Fey Ancestry"
+  ],
+  "silent speech": [
+    "Halfling (Ghostwise): Silent Speech"
+  ],
+  "halfling nimble": [
+    "Halfling (Ghostwise): Halfling Nimbleness"
+  ],
+  "Feline agility": [
+    "Tabaxi: Feline Agility"
+  ],
+  "pact tactic": [
+    "Kobold: Pack Tactics"
+  ],
+  "forest gnome: speak with small beasts": [
+    "Gnome (Forest): Speak with Small Beasts"
+  ],
+  "star elf": [
+    "Kalashtar: Age"
+  ],
+  "water dependency": [
+    "Grung: Water Dependency"
+  ],
+  "darkv": [
+    "Elf (Drow): Darkvision"
+  ],
+  "feline agility": [
+    "Tabaxi: Feline Agility"
+  ],
+  "abyssal": [
+    "Tiefling (Abyssal): Abyssal Arcana"
+  ],
+  "halfing luck": [
+    "Halfling (Lightfoot): Lucky"
+  ],
+  "speach of tree and leaf": [
+    "Firbolg: Speech of Beast and Leaf"
+  ],
+  "war": [
+    "Warforged (Envoy): Languages"
+  ],
+  "Nimble Escape": [
+    "Goblin: Nimble Escape"
+  ],
+  "speech of beast": [
+    "Firbolg: Speech of Beast and Leaf"
+  ],
+  "mark of making": [
+    "Human (Mark of Making): Spellsmith"
+  ],
+  "legacy of styg": [
+    "Tiefling (Levistus): Legacy of Stygia"
+  ],
+  "legacy of dis": [
+    "Tiefling (Dispater): Legacy of Dis"
+  ],
+  "Fey Ancestroy": [
+    "Elf (Drow): Fey Ancestry"
+  ],
+  "season": [
+    "Elf (Sea): Size"
+  ],
+  "expertise": [
+    "Dwarf (Kaladesh): Artisan's Expertise"
+  ],
+  "kobolds": [
+    "Kobold: Age"
+  ],
+  "Mask of the Wild": [
+    "Elf (Wood): Mask of the Wild"
+  ],
+  "stonecu": [
+    "Dwarf (Hill): Stonecunning"
+  ],
+  "long": [
+    "Bugbear: Long-Limbed"
+  ],
+  "fury of": [
+    "Goblin: Fury of the Small"
+  ],
+  "naturally stealthy": [
+    "Halfling (Lightfoot): Naturally Stealthy"
+  ],
+  "minklink": [
+    "Kalashtar: Mind Link"
+  ],
+  "cower": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "sentry's rest": [
+    "Warforged (Envoy): Sentry's Rest"
+  ],
+  "necrotic shhroud": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "Drow Magic": [
+    "Elf (Drow): Drow Magic"
+  ],
+  "skill vers": [
+    "Half-Elf: Skill Versatility"
+  ],
+  "amphibious": [
+    "Triton: Amphibious"
+  ],
+  "speech of beast and leaf": [
+    "Firbolg: Speech of Beast and Leaf"
+  ],
+  "ghostwise halfling": [
+    "Halfling (Ghostwise): Languages"
+  ],
+  "lizardf": [
+    "Lizardfolk: Natural Armor"
+  ],
+  "equine body": [
+    "Centaur: Equine Build"
+  ],
+  "eledran": [
+    "Elf (Eladrin): Trance"
+  ],
+  "Breath Weapon": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "halforc endurance": [
+    "Half-Orc: Relentless Endurance"
+  ],
+  "mingle": [
+    "Genasi (Air): Mingle with the Wind"
+  ],
+  "menacing": [
+    "Half-Orc: Menacing"
+  ],
+  "savage attacker": [
+    "Half-Orc: Savage Attacks"
+  ],
+  "lizardfolk: natural armor": [
+    "Lizardfolk: Natural Armor"
+  ],
+  "hiddenstep": [
+    "Firbolg: Hidden Step"
+  ],
+  "radiant combust": [
+    "Aasimar (Scourge): Radiant Consumption"
+  ],
+  "cats talent": [
+    "Tabaxi: Cat's Talents"
+  ],
+  "warfor": [
+    "Warforged (Skirmisher): Warforged Resilience"
+  ],
+  "ston": [
+    "Dwarf (Hill): Stonecunning"
+  ],
+  "drag": [
+    "Dragonborn: Draconic Ancestry"
+  ],
+  "Dwarven Stonecunning": [
+    "Dwarf (Mountain): Stonecunning"
+  ],
+  "Unsettling Visage": [
+    "Changeling: Unsettling Visage"
+  ],
+  "dwarven stone": [
+    "Dwarf (Duergar): Stonecunning"
+  ],
+  "toughness": [
+    "Dwarf (Hill): Dwarven Toughness"
+  ],
+  "draconic resistance": [
+    "Dragonborn: Damage Resistance"
+  ],
+  "grudge bearer": [
+    "Grung: Age"
+  ],
+  "sentinels intuition": [
+    "Human (Mark of Sentinel): Sentinel's Intuition"
+  ],
+  "Fey": [
+    "Centaur: Fey"
+  ],
+  "Forest Gnome": [
+    "Gnome (Forest): Gnome Cunning"
+  ],
+  "speak with small beasts": [
+    "Gnome (Forest): Speak with Small Beasts"
+  ],
+  "cantrip": [
+    "Elf (High): Cantrip"
+  ],
+  "Radiant Consumption": [
+    "Aasimar (Scourge): Radiant Consumption"
+  ],
+  "radiant a": [
+    "Goliath: Age"
+  ],
+  "shapechanger": [
+    "Changeling (UAEberron): Shapechanger"
+  ],
+  "helf elf": [
+    "Half-Elf: Darkvision"
+  ],
+  "warforged r": [
+    "Warforged (Skirmisher): Warforged Resilience"
+  ],
+  "naturally": [
+    "Halfling (Lightfoot): Naturally Stealthy"
+  ],
+  "revenant": [
+    "Revenant: Relentless Nature"
+  ],
+  "Mark the Scent": [
+    "Shifter (Wildhunt): Mark the Scent"
+  ],
+  "Stones Endurance": [
+    "Goliath: Stone's Endurance"
+  ],
+  "forgery": [
+    "Kenku: Expert Forgery"
+  ],
+  "drow weapon": [
+    "Elf (Drow): Drow Weapon Training"
+  ],
+  "hooves": [
+    "Centaur: Hooves"
+  ],
+  "mind link": [
+    "Kalashtar: Mind Link"
+  ],
+  "Mimicry": [
+    "Kenku: Mimicry"
+  ],
+  "Eladrin Fey step": [
+    "Elf (Eladrin): Fey Step"
+  ],
+  "long limbs": [
+    "Bugbear: Long-Limbed"
+  ],
+  "gift of the raven": [
+    "Aetherborn: Gift of the Aetherborn"
+  ],
+  "wood elf": [
+    "Half-Elf (Wood Elf Descent): Variant Feature (Choose 1)"
+  ],
+  "relent": [
+    "Half-Orc: Relentless Endurance"
+  ],
+  "divine": [
+    "Aven: Age"
+  ],
+  "call to the wave": [
+    "Genasi (Water): Call to the Wave"
+  ],
+  "radiant resistance": [
+    "Genasi (Water): Acid Resistance"
+  ],
+  "Stone's Endura": [
+    "Goliath: Stone's Endurance"
+  ],
+  "merge with stone": [
+    "Genasi (Earth): Merge with Stone"
+  ],
+  "hammering horn": [
+    "Minotaur: Hammering Horns"
+  ],
+  "sunlight sensitivitiy": [
+    "Elf (Drow): Sunlight Sensitivity"
+  ],
+  "protector Aasimar": [
+    "Aasimar (Protector): Age"
+  ],
+  "Aasimar": [
+    "Aasimar (Protector): Radiant Soul"
+  ],
+  "Radiant Soul": [
+    "Aasimar (Protector): Radiant Soul"
+  ],
+  "warding flare": [
+    "Dwarf (Mark of Warding): Age"
+  ],
+  "Illusion": [
+    "Gnome (Forest): Natural Illusionist"
+  ],
+  "Shared Passage": [
+    "Human (Mark of Passage): Shared Passage"
+  ],
+  "elf age": [
+    "Elf (High): Age"
+  ],
+  "human 1": [
+    "Human: Age"
+  ],
+  "<yavaila>": [
+    "Elf (Avariel): Age"
+  ],
+  "fey ancestrt": [
+    "Elf (Drow): Fey Ancestry"
+  ],
+  "spirit": [
+    "Siren: Alignment"
+  ],
+  "Critical": [
+    "Orc: Age"
+  ],
+  "Long-Limbed": [
+    "Bugbear: Long-Limbed"
+  ],
+  "shifter dark": [
+    "Shifter (Beasthide): Darkvision"
+  ],
+  "aasimar languages": [
+    "Aasimar (Fallen): Languages"
+  ],
+  "dwarf languages": [
+    "Dwarf (Hill): Languages"
+  ],
+  "speak of tree and leag": [
+    "Firbolg: Speech of Beast and Leaf"
+  ],
+  "dispassion": [
+    "Vedalken: Vedalken Dispassion"
+  ],
+  "bloodlust": [
+    "Kobold: Languages"
+  ],
+  "dragon's breath": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "human variant": [
+    "Human (Variant): Skills"
+  ],
+  "Dual Mind": [
+    "Kalashtar: Dual Mind"
+  ],
+  "stonecunnin": [
+    "Dwarf (Hill): Stonecunning"
+  ],
+  "Half-Orc: Relentless Endurance": [
+    "Half-Orc: Relentless Endurance"
+  ],
+  "eladrin darkvision": [
+    "Elf (Eladrin): Darkvision"
+  ],
+  "speach of beast and leaf": [
+    "Firbolg: Speech of Beast and Leaf"
+  ],
+  "legendary resistance": [
+    "Dragonborn: Damage Resistance"
+  ],
+  "Necrotic shroud": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "elf weap": [
+    "Elf (Eladrin) (DMG): Elf Weapon Training"
+  ],
+  "drow weap": [
+    "Elf (Drow): Drow Weapon Training"
+  ],
+  "Khenra twins": [
+    "Khenra: Khenra Twins."
+  ],
+  "khenra twin": [
+    "Khenra: Khenra Twins."
+  ],
+  "furbolg magic": [
+    "Firbolg: Firbolg Magic"
+  ],
+  "aasimar scurge": [
+    "Aasimar (Scourge): Darkvision"
+  ],
+  "psychic": [
+    "Kalashtar: Psychic Glamour"
+  ],
+  "Imprint": [
+    "Human (Mark of Finding): Imprint Prey"
+  ],
+  "aasimar scourge": [
+    "Aasimar (Scourge): Darkvision"
+  ],
+  "dwarven fortitude": [
+    "Siren: Flight"
+  ],
+  "Abyssal Arcana": [
+    "Tiefling (Abyssal): Abyssal Arcana"
+  ],
+  "charm": [
+    "Halfling (Mark of Hospitality): Innkeeper's Charms"
+  ],
+  "mask of the": [
+    "Elf (Wood): Mask of the Wild"
+  ],
+  "fury of the": [
+    "Goblin: Fury of the Small"
+  ],
+  "pact": [
+    "Kobold: Pack Tactics"
+  ],
+  "wood elf height": [
+    "Elf (High): Size"
+  ],
+  "speak with": [
+    "Gnome (Forest): Speak with Small Beasts"
+  ],
+  "resi": [
+    "Dwarf (Hill): Dwarven Resilience"
+  ],
+  "dwarf size": [
+    "Dwarf (Hill): Size"
+  ],
+  "fey Ancestry": [
+    "Elf (High): Fey Ancestry"
+  ],
+  "kenku: languages": [
+    "Kenku: Languages"
+  ],
+  "zariel": [
+    "Tiefling (Zariel): Legacy of Avernus"
+  ],
+  "keen hearing": [
+    "Grimlock (DMG): Keen Hearing and Smell"
+  ],
+  "Call of the wave": [
+    "Genasi (Water): Call to the Wave"
+  ],
+  "speach of beast": [
+    "Firbolg: Speech of Beast and Leaf"
+  ],
+  "stygia": [
+    "Tiefling (Levistus): Legacy of Stygia"
+  ],
+  "Stones of endurance": [
+    "Goliath: Stone's Endurance"
+  ],
+  "agil": [
+    "Tabaxi: Feline Agility"
+  ],
+  "Keldon Resilience": [
+    "Human (Keldon): Keldon Resilience"
+  ],
+  "prodigy": [
+    "Gith (Githyanki): Martial Prodigy"
+  ],
+  "Dwarven": [
+    "Dwarf (Hill): Dwarven Resilience"
+  ],
+  "surprise": [
+    "Bugbear: Surprise Attack"
+  ],
+  "speech of Beast and leaf": [
+    "Firbolg: Speech of Beast and Leaf"
+  ],
+  "fel": [
+    "Tabaxi: Feline Agility"
+  ],
+  "vadahar": [
+    "Elf (Kaladesh) (Vadahar): Cantrip"
+  ],
+  "celestial": [
+    "Aasimar (DMG): Celestial Legacy"
+  ],
+  "celes": [
+    "Aasimar (Protector): Celestial Resistance"
+  ],
+  "kob": [
+    "Kobold: Size"
+  ],
+  "blood thirst": [
+    "Vampire (Zendikar): Blood Thirst"
+  ],
+  "blood": [
+    "Vampire (Ixalan): Bloodthirst"
+  ],
+  "healing ha": [
+    "Aasimar (Scourge): Healing Hands"
+  ],
+  "raven": [
+    "Elf (Shadar-kai): Blessing of the Raven Queen"
+  ],
+  "amphib": [
+    "Genasi (Water): Amphibious"
+  ],
+  "iron fist": [
+    "Warforged (Juggernaut): Iron Fists"
+  ],
+  "lizard bite": [
+    "Lizardfolk: Bite"
+  ],
+  "Aarakocra": [
+    "Aarakocra: Talons"
+  ],
+  "variant": [
+    "Tiefling (Variant): Variant Feature (Choose 1)"
+  ],
+  "Hungry Jaws": [
+    "Lizardfolk: Hungry Jaws"
+  ],
+  "artisan experience": [
+    "Dwarf (Kaladesh): Artisan's Expertise"
+  ],
+  "feli": [
+    "Tabaxi: Feline Agility"
+  ],
+  "Fey Step 1": [
+    "Elf (Eladrin): Fey Step"
+  ],
+  "emassary of the sea": [
+    "Triton: Emissary of the Sea"
+  ],
+  "natural armour loxodon": [
+    "Loxodon: Natural Armor"
+  ],
+  "lizardfolk bite": [
+    "Lizardfolk: Bite"
+  ],
+  "grung limited amphibious": [
+    "Grung: Amphibious"
+  ],
+  "grung water dependant": [
+    "Grung: Water Dependency"
+  ],
+  "standingleap": [
+    "Grung: Standing Leap"
+  ],
+  "natural armour goblin": [
+    "Loxodon: Natural Armor"
+  ],
+  "bite lizardfolk": [
+    "Lizardfolk: Bite"
+  ],
+  "Infernal Legacy": [
+    "Tiefling: Infernal Legacy"
+  ],
+  "Legacy of Stygia": [
+    "Tiefling (Levistus): Legacy of Stygia"
+  ],
+  "Legacy of Malbolge": [
+    "Tiefling (Glasya): Legacy of Malbolge"
+  ],
+  "change": [
+    "Changeling: Change Appearance"
+  ],
+  "sun": [
+    "Kobold: Sunlight Sensitivity"
+  ],
+  "poison immunity": [
+    "Yuan-ti Pureblood: Poison Immunity"
+  ],
+  "bloodthirst": [
+    "Vampire (Ixalan): Bloodthirst"
+  ],
+  "naturally stealth": [
+    "Halfling (Lightfoot): Naturally Stealthy"
+  ],
+  "integrated pr": [
+    "Warforged (Skirmisher): Integrated Protection"
+  ],
+  "legacy of avernus": [
+    "Tiefling (Zariel): Legacy of Avernus"
+  ],
+  "Fey step": [
+    "Elf (Eladrin): Fey Step"
+  ],
+  "dra": [
+    "Dragonborn: Draconic Ancestry"
+  ],
+  "call to": [
+    "Genasi (Water): Call to the Wave"
+  ],
+  "feline ag": [
+    "Tabaxi: Feline Agility"
+  ],
+  "dwarve": [
+    "Aven: Age"
+  ],
+  "hellish rebuke": [
+    "Tiefling: Hellish Resistance"
+  ],
+  "standing leap": [
+    "Grung: Standing Leap"
+  ],
+  "cunning artision": [
+    "Lizardfolk: Cunning Artisan"
+  ],
+  "radiant con": [
+    "Aasimar (Scourge): Radiant Consumption"
+  ],
+  "horns": [
+    "Minotaur: Horns"
+  ],
+  "guardian of the deapths": [
+    "Triton: Guardians of the Depths"
+  ],
+  "resili": [
+    "Warforged (Skirmisher): Warforged Resilience"
+  ],
+  "air": [
+    "Genasi (Air): Mingle with the Wind"
+  ],
+  "aasimar radient": [
+    "Aasimar (Scourge): Alignment"
+  ],
+  "aasimar protector": [
+    "Aasimar (Protector): Alignment"
+  ],
+  "siren": [
+    "Siren: Siren's Song"
+  ],
+  "und": [
+    "Zombie (DMG): Undead Nature"
+  ],
+  "power build": [
+    "Firbolg: Powerful Build"
+  ],
+  "natural weapons tortle": [
+    "Tortle: Natural Armor"
+  ],
+  "tier": [
+    "Triton: Size"
+  ],
+  "feline a": [
+    "Tabaxi: Feline Agility"
+  ],
+  "breathe": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "integrates protection": [
+    "Warforged (Envoy): Integrated Protection"
+  ],
+  "Fae ancestry": [
+    "Half-Elf: Fey Ancestry"
+  ],
+  "poisonous skin": [
+    "Grung: Poisonous Skin"
+  ],
+  "drow: sunlight sensitivity": [
+    "Elf (Drow): Sunlight Sensitivity"
+  ],
+  "necr": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "speak with small": [
+    "Gnome (Forest): Speak with Small Beasts"
+  ],
+  "centaur: fey": [
+    "Centaur: Fey"
+  ],
+  "morbid obesity": [
+    "Orc: Size"
+  ],
+  "half orc size": [
+    "Half-Orc: Size"
+  ],
+  "dragonic": [
+    "Dragonborn: Draconic Ancestry"
+  ],
+  "legacy of stygia": [
+    "Tiefling (Levistus): Legacy of Stygia"
+  ],
+  "Swiftstride": [
+    "Shifter (Swiftstride): Shifting Feature"
+  ],
+  "psychic glamour": [
+    "Kalashtar: Psychic Glamour"
+  ],
+  "poison skin": [
+    "Grung: Poisonous Skin"
+  ],
+  "Hammering Horns": [
+    "Minotaur: Hammering Horns"
+  ],
+  "skin": [
+    "Grung: Poisonous Skin"
+  ],
+  "grung": [
+    "Grung: Poisonous Skin"
+  ],
+  "silent spe": [
+    "Halfling (Ghostwise): Silent Speech"
+  ],
+  "tiefling: infernal legacy": [
+    "Tiefling: Infernal Legacy"
+  ],
+  "triton: control": [
+    "Triton: Control Air and Water"
+  ],
+  "drow sunlight sensitive": [
+    "Elf (Drow): Sunlight Sensitivity"
+  ],
+  "equine build": [
+    "Centaur: Equine Build"
+  ],
+  "Natural Armor": [
+    "Tortle: Natural Armor"
+  ],
+  "halfling (lightfoot)": [
+    "Halfling (Lightfoot): Naturally Stealthy"
+  ],
+  "grovel and beg": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "psycic": [
+    "Kalashtar: Psychic Glamour"
+  ],
+  "rock gnome": [
+    "Gnome (Rock): Gnome Cunning"
+  ],
+  "brav": [
+    "Halfling (Stout): Brave"
+  ],
+  "sentry mode": [
+    "Centaur: Hooves"
+  ],
+  "speak with animals": [
+    "Gnome (Forest): Speak with Small Beasts"
+  ],
+  "Infernal legacy": [
+    "Tiefling: Infernal Legacy"
+  ],
+  "emissary of the sea": [
+    "Triton: Emissary of the Sea"
+  ],
+  "loxodon": [
+    "Loxodon: Trunk"
+  ],
+  "unsetling visage": [
+    "Changeling: Unsettling Visage"
+  ],
+  "\"Stone's Endurance\"": [
+    "Goliath: Stone's Endurance"
+  ],
+  "tiefling appearance": [
+    "Tiefling (Variant): Appearance"
+  ],
+  "Tiefling (Variant): Appearance": [
+    "Tiefling (Variant): Appearance"
+  ],
+  "cat's talent": [
+    "Tabaxi: Cat's Talents"
+  ],
+  "mark of the wild": [
+    "Elf (Wood): Mask of the Wild"
+  ],
+  "gith": [
+    "Gith (Githzerai): Mental Discipline"
+  ],
+  "merfolk": [
+    "Merfolk (DMG): Amphibious"
+  ],
+  "speech of leaf": [
+    "Firbolg: Speech of Beast and Leaf"
+  ],
+  "small": [
+    "Goblin: Fury of the Small"
+  ],
+  "stout resiliance": [
+    "Halfling (Stout): Stout Resilience"
+  ],
+  "Tinker": [
+    "Gnome (Rock): Tinker"
+  ],
+  "laby": [
+    "Minotaur (Krynn): Labyrinthine Recall"
+  ],
+  "stonr": [
+    "Tortle: Size"
+  ],
+  "animal enhance": [
+    "Simic Hybrid: Animal Enhancement"
+  ],
+  "equine": [
+    "Centaur: Equine Build"
+  ],
+  "goliath powerful": [
+    "Goliath: Powerful Build"
+  ],
+  "elf (Shadar-Kai): blessing of the Raven queen": [
+    "Elf (Shadar-kai): Blessing of the Raven Queen"
+  ],
+  "zerai psionics": [
+    "Gith (Githzerai): Githzerai Psionics"
+  ],
+  "Stone's": [
+    "Goliath: Stone's Endurance"
+  ],
+  "orc: size": [
+    "Orc: Size"
+  ],
+  "elf (wood)": [
+    "Elf (Wood): Mask of the Wild"
+  ],
+  "half elf": [
+    "Half-Elf: Darkvision"
+  ],
+  "penis": [
+    "Elf (Aereni): Size"
+  ],
+  "taba": [
+    "Tabaxi: Feline Agility"
+  ],
+  "Aasi": [
+    "Aasimar (Protector): Healing Hands"
+  ],
+  "Elf Weapon Training": [
+    "Elf (Wood): Elf Weapon Training"
+  ],
+  "Fleet of Foot": [
+    "Elf (Wood): Fleet of Foot"
+  ],
+  "arboreal awarness": [
+    "Grung: Arboreal Alertness"
+  ],
+  "draconic nacestry": [
+    "Dragonborn: Draconic Ancestry"
+  ],
+  "shadow elft": [
+    "Elf (Mark of Shadow): Age"
+  ],
+  "fey step dmg": [
+    "Elf (Eladrin): Fey Step"
+  ],
+  "shell": [
+    "Tortle: Shell Defense"
+  ],
+  "dwarv": [
+    "Dwarf (Mark of Warding): Dwarven Resilience"
+  ],
+  "stonecut": [
+    "Dwarf (Hill): Stonecunning"
+  ],
+  "mimic": [
+    "Kenku: Mimicry"
+  ],
+  "githyanki psionics": [
+    "Gith (Githyanki): Githyanki Psionics"
+  ],
+  "mental dis": [
+    "Gith (Githzerai): Mental Discipline"
+  ],
+  "blessing of the": [
+    "Elf (Shadar-kai): Blessing of the Raven Queen"
+  ],
+  "lizardfolk age": [
+    "Lizardfolk: Age"
+  ],
+  "mark the sent": [
+    "Shifter (Wildhunt): Mark the Scent"
+  ],
+  "divine consumption": [
+    "Aasimar (Scourge): Radiant Consumption"
+  ],
+  "shared passage": [
+    "Human (Mark of Passage): Shared Passage"
+  ],
+  "intergrated prot": [
+    "Warforged (Skirmisher): Integrated Protection"
+  ],
+  "razorclaw": [
+    "Shifter (Razorclaw) (UAEberron): Shifting Feature"
+  ],
+  "Cower": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "improved": [
+    "Aasimar (Protector): Size"
+  ],
+  "fortitude": [
+    "Tiefling (Abyssal): Abyssal Fortitude"
+  ],
+  "abyssal arcana": [
+    "Tiefling (Abyssal): Abyssal Arcana"
+  ],
+  "legacy of Phlegethos": [
+    "Tiefling (Fierna): Legacy of Phlegethos"
+  ],
+  "Sunlight Sensitivity": [
+    "Kobold: Sunlight Sensitivity"
+  ],
+  "halfling brace": [
+    "Halfling (Stout): Brave"
+  ],
+  "shift mark": [
+    "Shifter (Wildhunt): Mark the Scent"
+  ],
+  "healing Hands": [
+    "Aasimar (Fallen): Healing Hands"
+  ],
+  "halfling bravery": [
+    "Halfling (Stout): Brave"
+  ],
+  "Tiefling": [
+    "Tiefling (Variant): Variant Feature (Choose 1)"
+  ],
+  "shape Shadows": [
+    "Elf (Mark of Shadow): Shape Shadows"
+  ],
+  "grovel cower beg": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "githzerai psionics": [
+    "Gith (Githzerai): Githzerai Psionics"
+  ],
+  "Fury": [
+    "Goblin: Fury of the Small"
+  ],
+  "Unsettling visage": [
+    "Changeling: Unsettling Visage"
+  ],
+  "githzeri psionics": [
+    "Gith (Githzerai): Githzerai Psionics"
+  ],
+  "drown magic": [
+    "Elf (Drow): Drow Magic"
+  ],
+  "combat": [
+    "Goblin: Alignment"
+  ],
+  "celestial radi": [
+    "Aasimar (Fallen): Celestial Resistance"
+  ],
+  "Dragonborn": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "Avariel": [
+    "Elf (Avariel): Flight"
+  ],
+  "pact of the tome": [
+    "Elf (Sea): Friend of the Sea"
+  ],
+  "persona": [
+    "Changeling: Divergent Persona"
+  ],
+  "heart of darkness": [
+    "Bugbear: Darkvision"
+  ],
+  "fey presence": [
+    "Elf (Sea): Trance"
+  ],
+  "Elf(High) Keen Senses": [
+    "Elf (High): Keen Senses"
+  ],
+  "mask of": [
+    "Elf (Wood): Mask of the Wild"
+  ],
+  "shield": [
+    "Human (Mark of Sentinel): Sentinel's Shield"
+  ],
+  "Lizardfolk": [
+    "Lizardfolk: Cunning Artisan"
+  ],
+  "dwarf (mountain): speed": [
+    "Dwarf (Mountain): Speed"
+  ],
+  "true sight": [
+    "Tortle: Alignment"
+  ],
+  "ragr": [
+    "Orc: Age"
+  ],
+  "rage": [
+    "Orc: Age"
+  ],
+  "expert": [
+    "Kenku: Expert Forgery"
+  ],
+  "e": [
+    "Orc: Age"
+  ],
+  "aasimar consumption": [
+    "Aasimar (Scourge): Radiant Consumption"
+  ],
+  "Dragon breath": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "shifter shift": [
+    "Shifter (Wildhunt): Shifting"
+  ],
+  "the bigger they are": [
+    "Human (Mark of Handling): The Bigger They Are"
+  ],
+  "stout nimbleness": [
+    "Halfling (Stout): Halfling Nimbleness"
+  ],
+  "Mask": [
+    "Elf (Wood): Mask of the Wild"
+  ],
+  "aasim": [
+    "Aasimar (Protector): Age"
+  ],
+  "pounce": [
+    "Orc: Age"
+  ],
+  "consumption": [
+    "Aasimar (Scourge): Radiant Consumption"
+  ],
+  "magic resistancr": [
+    "Yuan-ti Pureblood: Magic Resistance"
+  ],
+  "Artisan": [
+    "Lizardfolk: Cunning Artisan"
+  ],
+  "pack tac": [
+    "Kobold: Pack Tactics"
+  ],
+  "kobold darkvision": [
+    "Kobold: Darkvision"
+  ],
+  "goblin dark": [
+    "Goblin: Darkvision"
+  ],
+  "elf dark": [
+    "Elf (High): Darkvision"
+  ],
+  "divine health": [
+    "Tiefling: Alignment"
+  ],
+  "Vedalkan passion": [
+    "Vedalken: Vedalken Dispassion"
+  ],
+  "changeling appearance": [
+    "Changeling: Change Appearance"
+  ],
+  "elf darkvision": [
+    "Elf (High): Darkvision"
+  ],
+  "equestrian build": [
+    "Centaur: Equine Build"
+  ],
+  "surprise attack": [
+    "Bugbear: Surprise Attack"
+  ],
+  "ramp": [
+    "Gnoll (DMG): Rampage"
+  ],
+  "halfling nimb": [
+    "Halfling (Ghostwise): Halfling Nimbleness"
+  ],
+  "stones endure": [
+    "Goliath: Stone's Endurance"
+  ],
+  "stone's indurence": [
+    "Goliath: Stone's Endurance"
+  ],
+  "winged tiefling": [
+    "Siren: Flight"
+  ],
+  "radiant c": [
+    "Aasimar (Scourge): Radiant Consumption"
+  ],
+  "dragonborn breath attack": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "nimbe": [
+    "Bugbear: Long-Limbed"
+  ],
+  "Bragg": [
+    "Kor: Age"
+  ],
+  "consump": [
+    "Aasimar (Scourge): Radiant Consumption"
+  ],
+  "healin": [
+    "Aasimar (Scourge): Healing Hands"
+  ],
+  "tiefling hellish": [
+    "Tiefling: Hellish Resistance"
+  ],
+  "firbolg msgic": [
+    "Firbolg: Firbolg Magic"
+  ],
+  "elven ancestry": [
+    "Half-Elf: Fey Ancestry"
+  ],
+  "necrot": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "elf (eladrin) fey step": [
+    "Elf (Eladrin): Fey Step"
+  ],
+  "'Elf (Shadar-Kai)' 'Blessing of the Raven Queen'": [
+    "Elf (Shadar-kai): Blessing of the Raven Queen"
+  ],
+  "Shift": [
+    "Shifter (Beasthide): Size"
+  ],
+  "reckless": [
+    "Orc: Aggressive"
+  ],
+  "shadow": [
+    "Elf (Mark of Shadow): Slip Into Shadow"
+  ],
+  "feline agili": [
+    "Tabaxi: Feline Agility"
+  ],
+  "elf (eladrin) fey": [
+    "Elf (Eladrin): Fey Step"
+  ],
+  "stout resilience": [
+    "Halfling (Stout): Stout Resilience"
+  ],
+  "dwarf resilience": [
+    "Dwarf (Hill): Dwarven Resilience"
+  ],
+  "woodelve": [
+    "Elf (Wood): Languages"
+  ],
+  "dwarf, mountain": [
+    "Dwarf (Mountain): Languages"
+  ],
+  "Necrotic": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "divergent": [
+    "Changeling: Divergent Persona"
+  ],
+  "Pack Tackticks": [
+    "Kobold: Pack Tactics"
+  ],
+  "Hooves": [
+    "Centaur: Hooves"
+  ],
+  "Infernal": [
+    "Tiefling: Infernal Legacy"
+  ],
+  "Legacy of Avernus": [
+    "Tiefling (Zariel): Legacy of Avernus"
+  ],
+  "warforged resiliance": [
+    "Warforged (Envoy): Warforged Resilience"
+  ],
+  "Elf (Wood): Trance": [
+    "Elf (Wood): Trance"
+  ],
+  "tool": [
+    "Warforged (Envoy): Integrated Tool"
+  ],
+  "Githzerai": [
+    "Gith (Githzerai): Githzerai Psionics"
+  ],
+  "unending breath": [
+    "Genasi (Air): Unending Breath"
+  ],
+  "Elf (wood)": [
+    "Elf (Wood): Fleet of Foot"
+  ],
+  "aetherborn": [
+    "Aetherborn: Gift of the Aetherborn"
+  ],
+  "githzerai psi": [
+    "Gith (Githzerai): Githzerai Psionics"
+  ],
+  "talon": [
+    "Aarakocra: Talons"
+  ],
+  "monk": [
+    "Half-Elf (Mark of Storm): Sea Monkey"
+  ],
+  "protector assmiar": [
+    "Aasimar (Protector): Radiant Soul"
+  ],
+  "psio": [
+    "Gith (Githzerai): Githzerai Psionics"
+  ],
+  "Elf (Wood): Darkvision": [
+    "Elf (Wood): Darkvision"
+  ],
+  "krynn goring": [
+    "Minotaur (Krynn): Goring Rush"
+  ],
+  "minotaur krynn": [
+    "Minotaur (Krynn): Horns"
+  ],
+  "krynn shove": [
+    "Minotaur (Krynn): Sea Reaver"
+  ],
+  "krynn hammering": [
+    "Minotaur (Krynn): Hammering Horns"
+  ],
+  "size": [
+    "Goblin (Zendikar) (Lavastep Tribe): Size"
+  ],
+  "\"stone's endu\"": [
+    "Goliath: Stone's Endurance"
+  ],
+  "aasimar necrotic shroud": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "unse": [
+    "Changeling: Unsettling Visage"
+  ],
+  "change apperance": [
+    "Changeling: Change Appearance"
+  ],
+  "\"Relentless Endurance\"": [
+    "Half-Orc: Relentless Endurance"
+  ],
+  "grovel cower": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "Draconic Ancestry": [
+    "Dragonborn: Draconic Ancestry"
+  ],
+  "leaf": [
+    "Firbolg: Speech of Beast and Leaf"
+  ],
+  "half elf variant": [
+    "Half-Elf: Fey Ancestry"
+  ],
+  "dwarven resil": [
+    "Dwarf (Hill): Dwarven Resilience"
+  ],
+  "hunter": [
+    "Human (Mark of Finding): Hunter's Intuition"
+  ],
+  "imprint pr": [
+    "Human (Mark of Finding): Imprint Prey"
+  ],
+  "nature": [
+    "Human (Mark of Finding): Nature's Voice"
+  ],
+  "courier": [
+    "Human (Mark of Passage): Courier's Speed"
+  ],
+  "bufbear": [
+    "Bugbear: Sneaky"
+  ],
+  "mark of finding": [
+    "Human (Mark of Finding): Age"
+  ],
+  "tortle hold": [
+    "Tortle: Hold Breath"
+  ],
+  "tortle: hold": [
+    "Tortle: Hold Breath"
+  ],
+  "tortle: shell": [
+    "Tortle: Shell Defense"
+  ],
+  "Savage Attacks": [
+    "Half-Orc: Savage Attacks"
+  ],
+  "reaver": [
+    "Minotaur (Krynn): Sea Reaver"
+  ],
+  "fire genasi: darkvision": [
+    "Genasi (Fire): Darkvision"
+  ],
+  "Saving face": [
+    "Hobgoblin: Saving Face"
+  ],
+  "Scribes insight": [
+    "Gnome (Mark of Scribing): Scribe's Insight"
+  ],
+  "gifted scribe": [
+    "Gnome (Mark of Scribing): Gifted Scribe"
+  ],
+  "whispering wind": [
+    "Gnome (Mark of Scribing): Whispering Wind"
+  ],
+  "breadth weapon": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "Stone Cunnington": [
+    "Dwarf (Hill): Stonecunning"
+  ],
+  "relentles": [
+    "Half-Orc: Relentless Endurance"
+  ],
+  "soul": [
+    "Aasimar (Protector): Radiant Soul"
+  ],
+  "grovel, cower, beg": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "lizardfolk:bite": [
+    "Lizardfolk: Bite"
+  ],
+  "Hungry jaws": [
+    "Lizardfolk: Hungry Jaws"
+  ],
+  "drakvision": [
+    "Elf (Drow): Darkvision"
+  ],
+  "Blindsight": [
+    "Grimlock (DMG): Blindsight"
+  ],
+  "endur": [
+    "Half-Orc: Relentless Endurance"
+  ],
+  "iron fists": [
+    "Warforged (Juggernaut): Iron Fists"
+  ],
+  "Relentless": [
+    "Half-Orc: Relentless Endurance"
+  ],
+  "Pack Tactics": [
+    "Kobold: Pack Tactics"
+  ],
+  "expert forgery": [
+    "Kenku: Expert Forgery"
+  ],
+  "Dark": [
+    "Half-Orc: Darkvision"
+  ],
+  "severed from": [
+    "Kalashtar: Severed from Dreams"
+  ],
+  "dragonborn breath": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "dragonborn draconic ancestry": [
+    "Dragonborn: Draconic Ancestry"
+  ],
+  "Aasimar fallen": [
+    "Aasimar (Fallen): Age"
+  ],
+  "cunning a": [
+    "Lizardfolk: Cunning Artisan"
+  ],
+  "fearless": [
+    "Centaur: Languages"
+  ],
+  "dragonic resilence": [
+    "Dragonborn: Damage Resistance"
+  ],
+  "kobold: grovel, cower and beg": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "kobold: grovel, cower, and beg": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "kobold: Grovel": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "\"Nimble Escape\"": [
+    "Goblin: Nimble Escape"
+  ],
+  "pact tac": [
+    "Kobold: Pack Tactics"
+  ],
+  "Menacing": [
+    "Orc: Menacing"
+  ],
+  "Sneaky": [
+    "Bugbear: Sneaky"
+  ],
+  "necroticshroud": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "halflings": [
+    "Halfling (Stout): Size"
+  ],
+  "infernal con": [
+    "Tiefling: Infernal Legacy"
+  ],
+  "Cat's Claws": [
+    "Tabaxi: Cat's Claws"
+  ],
+  "step": [
+    "Firbolg: Hidden Step"
+  ],
+  "save face": [
+    "Hobgoblin: Saving Face"
+  ],
+  "surv": [
+    "Tortle: Survival Instinct"
+  ],
+  "dyalmind": [
+    "Kalashtar: Dual Mind"
+  ],
+  "allignment": [
+    "Aven: Alignment"
+  ],
+  "dragons breath": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "hungry jaw": [
+    "Lizardfolk: Hungry Jaws"
+  ],
+  "half_kobold": [
+    "Kobold: Age"
+  ],
+  "half-kobold": [
+    "Kobold: Age"
+  ],
+  "trog": [
+    "Aetherborn: Age"
+  ],
+  "labyrinth": [
+    "Minotaur (Krynn): Labyrinthine Recall"
+  ],
+  "sentry rest": [
+    "Warforged (Envoy): Sentry's Rest"
+  ],
+  "legacy of minau": [
+    "Tiefling (Mammon): Legacy of Minauros"
+  ],
+  "fey st": [
+    "Elf (Eladrin): Fey Step"
+  ],
+  "protect": [
+    "Aasimar (Protector): Healing Hands"
+  ],
+  "feline agi": [
+    "Tabaxi: Feline Agility"
+  ],
+  "brutal": [
+    "Kor: Brave"
+  ],
+  "variant human": [
+    "Human (Variant): Feat"
+  ],
+  "Goliath mountain": [
+    "Goliath: Mountain Born"
+  ],
+  "draconic ancestory": [
+    "Dragonborn: Draconic Ancestry"
+  ],
+  "Draconic": [
+    "Dragonborn: Draconic Ancestry"
+  ],
+  "speed boot": [
+    "Naga: Speed Burst"
+  ],
+  "pack mentality": [
+    "Tabaxi: Feline Agility"
+  ],
+  "serpent": [
+    "Siren: Flight"
+  ],
+  "climb": [
+    "Kor: Climbing"
+  ],
+  "undead": [
+    "Zombie (DMG): Undead Nature"
+  ],
+  "undead nature": [
+    "Zombie (DMG): Undead Nature"
+  ],
+  "goliath mountain": [
+    "Goliath: Mountain Born"
+  ],
+  "savin face": [
+    "Hobgoblin: Saving Face"
+  ],
+  "svirfnelbin magic": [
+    "Gnome (Deep/Svirfneblin): Age"
+  ],
+  "cat claw": [
+    "Tabaxi: Cat's Claws"
+  ],
+  "Change Appearance": [
+    "Changeling: Change Appearance"
+  ],
+  "integrated tool": [
+    "Warforged (Envoy): Integrated Tool"
+  ],
+  "jaws of hunger": [
+    "Lizardfolk: Hungry Jaws"
+  ],
+  "shadar": [
+    "Elf (Shadar-kai): Blessing of the Raven Queen"
+  ],
+  "magecraft": [
+    "Human (Mark of Making): Magecraft"
+  ],
+  "Relentless\u00a0Endurance": [
+    "Half-Orc: Relentless Endurance"
+  ],
+  "unarmored defense": [
+    "Tortle: Shell Defense"
+  ],
+  "defense": [
+    "Tortle: Shell Defense"
+  ],
+  "Shell defense": [
+    "Tortle: Shell Defense"
+  ],
+  "pureblood: alignment": [
+    "Yuan-ti Pureblood: Alignment"
+  ],
+  "longlimbed": [
+    "Bugbear: Long-Limbed"
+  ],
+  "shiel": [
+    "Human (Mark of Sentinel): Sentinel's Shield"
+  ],
+  "mind": [
+    "Kalashtar: Mind Link"
+  ],
+  "ghost": [
+    "Halfling (Ghostwise): Silent Speech"
+  ],
+  "hammering": [
+    "Minotaur: Hammering Horns"
+  ],
+  "shell defence": [
+    "Tortle: Shell Defense"
+  ],
+  "Superior Darkvision": [
+    "Elf (Drow): Superior Darkvision"
+  ],
+  "dovergent persona": [
+    "Changeling: Divergent Persona"
+  ],
+  "Stone m": [
+    "Triton: Age"
+  ],
+  "Stone\u2019s endurance": [
+    "Goliath: Stone's Endurance"
+  ],
+  "tran": [
+    "Elf (Drow): Trance"
+  ],
+  "sentry\u2019s rest": [
+    "Warforged (Envoy): Sentry's Rest"
+  ],
+  "Aggressive": [
+    "Orc: Aggressive"
+  ],
+  "longtooth": [
+    "Shifter (Longtooth): Shifting Feature"
+  ],
+  "spellsmith": [
+    "Human (Mark of Making): Spellsmith"
+  ],
+  "Aasimar healinghand": [
+    "Aasimar (Protector): Healing Hands"
+  ],
+  "necrotic shoud": [
+    "Aasimar (Fallen): Necrotic Shroud"
+  ],
+  "all eyes": [
+    "Half-Elf: Age"
+  ],
+  "elf (high): Darkvision": [
+    "Elf (High): Darkvision"
+  ],
+  "Silent speech": [
+    "Halfling (Ghostwise): Silent Speech"
+  ],
+  "dwarven armor training": [
+    "Dwarf (Mountain): Dwarven Armor Training"
+  ],
+  "unsett": [
+    "Changeling: Unsettling Visage"
+  ],
+  "Orc": [
+    "Kor: Lucky"
+  ],
+  "radi": [
+    "Aasimar (Scourge): Radiant Consumption"
+  ],
+  "juggernaut": [
+    "Warforged (Juggernaut): Integrated Protection"
+  ],
+  "celestial legacy": [
+    "Aasimar (DMG): Celestial Legacy"
+  ],
+  "wild": [
+    "Elf (Wood): Mask of the Wild"
+  ],
+  "drow highmagic": [
+    "Elf (Drow): Drow Magic"
+  ],
+  "Feline Ag": [
+    "Tabaxi: Feline Agility"
+  ],
+  "changeling change": [
+    "Changeling: Change Appearance"
+  ],
+  "Cunning Artisan": [
+    "Lizardfolk: Cunning Artisan"
+  ],
+  "elf wrapon training": [
+    "Elf (High): Elf Weapon Training"
+  ],
+  "abyssal fort": [
+    "Tiefling (Abyssal): Abyssal Fortitude"
+  ],
+  "hafling luck": [
+    "Halfling (Stout): Lucky"
+  ],
+  "abyssal fortitude": [
+    "Tiefling (Abyssal): Abyssal Fortitude"
+  ],
+  "abys": [
+    "Tiefling (Abyssal): Abyssal Fortitude"
+  ],
+  "Bloodthirst": [
+    "Vampire (Ixalan): Bloodthirst"
+  ],
+  "dwarf weapon": [
+    "Naga: Natural Weapons"
+  ],
+  "Forgery": [
+    "Kenku: Expert Forgery"
+  ],
+  "elf weapons": [
+    "Elf (Wood): Size"
+  ],
+  "speech of beast and life": [
+    "Firbolg: Speech of Beast and Leaf"
+  ],
+  "unsightly visage": [
+    "Changeling: Unsettling Visage"
+  ],
+  "cunning art": [
+    "Lizardfolk: Cunning Artisan"
+  ],
+  "shape": [
+    "Changeling (UAEberron): Shapechanger"
+  ],
+  "expert forger": [
+    "Kenku: Expert Forgery"
+  ],
+  "Naturally Stealthy": [
+    "Halfling (Lightfoot): Naturally Stealthy"
+  ],
+  "tabaxi's claws": [
+    "Tabaxi: Cat's Claws"
+  ],
+  "aasimar healing": [
+    "Aasimar (Fallen): Healing Hands"
+  ],
+  "living": [
+    "Warforged (UAEberron): Living Construct"
+  ],
+  "Dragon": [
+    "Dragonborn: Breath Weapon"
+  ],
+  "natural a": [
+    "Lizardfolk (DMG): Natural Armor"
+  ],
+  "manta": [
+    "Aven: Age"
+  ],
+  "attack": [
+    "Half-Orc: Savage Attacks"
+  ],
+  "mask of the whild": [
+    "Elf (Wood): Mask of the Wild"
+  ],
+  "friend of the sea 1": [
+    "Elf (Sea) (UAElfSubraces): Friend of the Sea"
+  ],
+  "Surprise Attack": [
+    "Bugbear: Surprise Attack"
+  ],
+  "radiant sould": [
+    "Aasimar (Protector): Radiant Soul"
+  ],
+  "yuan-ti": [
+    "Yuan-ti Pureblood: Magic Resistance"
+  ],
+  "loxodon serenity": [
+    "Loxodon: Loxodon Serenity"
+  ],
+  "stone's end": [
+    "Goliath: Stone's Endurance"
+  ],
+  "angel": [
+    "Changeling: Size"
+  ],
+  "halforc": [
+    "Half-Orc: Menacing"
+  ],
+  "tabaxi darkvision": [
+    "Tabaxi: Darkvision"
+  ],
+  "\"pack tactics\"": [
+    "Kobold: Pack Tactics"
+  ],
+  "fey acenstry": [
+    "Elf (High): Fey Ancestry"
+  ],
+  "tabaxi agility": [
+    "Tabaxi: Feline Agility"
+  ],
+  "drow weapon training": [
+    "Elf (Drow): Drow Weapon Training"
+  ],
+  "leap": [
+    "Tortle: Age"
+  ],
+  "radient soul": [
+    "Aasimar (Protector): Radiant Soul"
+  ],
+  "ork": [
+    "Kor: Lucky"
+  ],
+  "nimble climber": [
+    "Goblin (Ixalan): Agile Climber"
+  ],
+  "changling": [
+    "Changeling: Size"
+  ],
+  "growl cower and beg": [
+    "Kobold: Grovel, Cower, and Beg"
+  ],
+  "natural illusionaist": [
+    "Gnome (Forest): Natural Illusionist"
+  ],
+  "slip into the shadows": [
+    "Elf (Mark of Shadow): Slip Into Shadow"
+  ],
+  "gift of the shadows": [
+    "Elf (Mark of Shadow): Gift of the Shadows"
+  ],
+  "gift of shadows": [
+    "Elf (Mark of Shadow): Gift of the Shadows"
+  ],
+  "shape shadows": [
+    "Elf (Mark of Shadow): Shape Shadows"
+  ],
+  "artificer lore": [
+    "Gnome (Rock): Artificer's Lore"
+  ],
+  "fae": [
+    "Half-Elf: Age"
+  ],
+  "flying speed": [
+    "Naga: Speed Burst"
+  ],
+  "flying": [
+    "Aven: Flight"
+  ],
+  "poisonous": [
+    "Grung: Poisonous Skin"
+  ],
+  "hellish resistace": [
+    "Tiefling: Hellish Resistance"
+  ],
+  "jack of all trades": [
+    "Human (Mark of Handling): Age"
+  ],
+  "rampage": [
+    "Gnoll (DMG): Rampage"
+  ]
+}
