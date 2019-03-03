@@ -3,7 +3,7 @@ Total queries: 861,981
 
 A detailed breakdown of statistics is available in the stats/ directory.
 
-**If you use this data anywhere, please link back here!**
+**If you use this data anywhere, please credit me and link back here!**
 
 ### Backgrounds
 ```
@@ -157,7 +157,7 @@ Most vague searches:
 
 Longest queries:
 <a lot of these were NSFW images>
-<I'm ashamed, internet.>
+<I'm disappointed, internet.>
 ```
 
 ### Races
